@@ -153,5 +153,5 @@ https://cdn2.streamgato.us/policiard/policiard/chunklist_w1489470896.m3u8
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://canalesdominicanos.live/template/images/radios/alegrando-tv.jpg" ,ALEGRANDO TV
 https://cdn2.streamgato.us/alegrandotv/alegrandotv/chunklist_w948369323.m3u8
 
-#EXTINF:-1 tvg-chno="52" tvg-logo="https://canalesdominicanos.live/template/images/radios/alegrando-tv.jpg" ,History 
-https://edge1.prepro.cvattv.com.ar/live/vod/HistoryHD/SA_Live_WebVTT_FTA/HistoryHD-avc1_899968=10007.m3u8
+#EXTINF:-1 tvg-chno="52" tvg-logo="https://canalesdominicanos.live/template/images/radios/alegrando-tv.jpg" ,Discovery
+https://edge1.prepro.cvattv.com.ar/live/vod/DiscoveryHD/SA_Live_WebVTT_FTA/DiscoveryHD-avc1_1972000=10002.m3u8
