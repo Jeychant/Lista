@@ -96,8 +96,8 @@ https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8?nimblesessionid=1
 #EXTINF:-1 tvg-chno="32" tvg-logo="https://canalesdominicanos.live/template/images/radios/platinium_tv_canal_50_la_vega.jpg" ,Platinium TV
 https://video1.getstreamhosting.com:1936/8226/8226/chunklist_w1024626907.m3u8
 
-#EXTINF:-1 tvg-chno="33" tvg-logo="https://canalesdominicanos.live/template/images/radios/acento-tv.png" ,Acento TV
-https://acentotv01.streamprolive.com/hls/live.m3u8
+#EXTINF:-1 tvg-chno="33" tvg-logo="https://canalesdominicanos.live/template/images/radios/delta-tv-canal-50.png" ,Delta TV
+https://cm.hostlagarto.com:4445/deltatv/deltatv50.myStream/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="34" tvg-logo="https://canalesdominicanos.live/template/images/radios/precidential.png" ,Presidential
 https://5790d294af2dc.streamlock.net/8042/8042/chunklist_w736112464.m3u8
