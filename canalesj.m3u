@@ -27,8 +27,8 @@ https://cdn2.streamgato.us/telemax/telemax/chunklist_w262487431.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/color-vision-canal-9-en-vivo-online.png" ,Color Vision
 https://stream-04.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY7DKIcOZmbTlNIAUVPlo__k)/dm/3/x7gy059/d/live-2.m3u8
 
-#EXTINF:-1 tvg-chno="10" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/microvision-en-vivo-canal-10-online.jpg" ,Microvision Canal 10
-https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w1666624853.m3u8
+#EXTINF:-1 tvg-chno="10" tvg-logo="http://www.telesur.com.do/images/telesur_canal_10_logo2.png" ,Telesur Canal 10
+https://ss3.domint.net:3124/tls_str/telesur/chunklist_w798170752.m3u8
 
 #EXTINF:-1 tvg-chno="11" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telesistema-canal-11-en-vivo-online.png" ,Telesistema Canal 11
 https://stream-01.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2qUnzCGLpRFxDbqTf5Z8Zfg)/dm/3/x80ac48/s/live-2.m3u8
@@ -51,14 +51,14 @@ https://rctvhd.net:8081/tvoromanalive/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="17" tvg-logo="https://canalesdominicanos.live/template/images/radios/teleunion_canal_16_santiago.jpg" ,Teleunion
 http://server3.prostudionetwork.com:1945/teleunion/TU/chunklist_w777712053.m3u8
 
-#EXTINF:-1 tvg-chno="18" tvg-logo="https://3.bp.blogspot.com/-9mRYT89f1Ck/WotiQGW1TTI/AAAAAAAAAaM/O9jxCS8ZeEA4dQ11N_NTB4JZOvLAg0aCgCLcBGAs/s1600/history-channel.png" ,History
-https://video-weaver.ymq03.hls.ttvnw.net/v1/playlist/CtEFtFYGbZozu_RKpFpVsBs5f3Xw1F-qTYt_FLaaWyczQ3ZAFsM9gjbme-FvvtPJ0Rup7yI2r7X8TO06ZnykxjpxKo97mn7vWLrUVOzHonlidV8_6Wiv8Mn6Hn3AojJIzKr-pM2egDd2l-Zw2H-PUYd-nv3s_gOWzO3D7l9GS75nJFgD6EaDInmwPiIlvtbl0Yhj610AoszgoBSM_abe_TmgIyvvZEp507JCv8y6xyxVSKROrf85DRePRjWoHZdWUk2iHE424acnoFlVmY8ozBomUrQJ1MZ9bfcVvEMwdLbjaAf9rmYHsDSAKSwV-YThhz2poilGAx9X3kL5lYM8KGi776oHsYcIZ7bBFiNAerqQ3B2zHc4EfqRezYOjYpauFtUIEDybZHtT10lPOrACgcY41XaPY3njzJOlYGK5UdoBW4quSE8UMpb5akI-KeVaiCPSstB0I41iLexRrPkV8JFFYj8Dfd6T73dZtI5aB6OPZHk3yohe-ZPlM1OlITwyo0kr-84TmqOkZ4_5zpLqMBF_NmNuFkS9xxocOTsTvxQC3K8qctpKNXD3Ty3fDwSjriLcqeru38-BwI2K25DOQyWtzp9QkIG6ta5z0uowNHapQFb8oM3mXI9PEMp7d-1Tr8RXcTRUSMA1liKJX5S-RbVU4Ua3SbgYcgUQdDE4fUZ4aBUvLaS5rcn-s0IjMlXegQ0EUmYPx8zlSf4Vc33zpgPq8teXzP9tGwamKp0yWpvHfGAged2dFgrthsravgwhcUk2DNZI_8c8GBdcgYEXsW1NYb2OUZ9N7fryeC_bIvr4ogBOyH6C0deYQ3aG6Yzcxg0-Al_CAmvHb9z3jqio4Q6BXvHgTvBpE6HY1CZuV7zyaFtiDomo3g2tdC4cFYoF7Prtk2g0IRCUubygTD5AEcolPiyau9quAg62tHdg4aMRtcIn5fLt9iIb7N7gpfKJtUEiixoMrz1kjHGUA10AMYy5IAEqCWV1LXdlc3QtMjCgAw.m3u8
+#EXTINF:-1 tvg-chno="18" tvg-logo="https://canalesdominicanos.live/template/images/radios/telenord.jpg" ,Telenord
+http://newyorkstream.ddns.net:5854/telenord8/telenord8/chunklist_w509216998.m3u8
 
 #EXTINF:-1 tvg-chno="19" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/cinevision-canal-19-en-vivo-online.jpg" ,Cinevision
 https://live.teledom.info:3713/live/cinevisionlive.m3u8
 
-#EXTINF:-1 tvg-chno="20" tvg-logo="https://2.bp.blogspot.com/-Z0UFOb-7k7Y/WotiejuNn6I/AAAAAAAAAa8/tABlYFsm6Z87YF8Gdpo_vP0d7q8A6eoAACLcBGAs/s1600/tntla.png" ,TNT
-https://latam4-lh.akamaihd.net/i/TNT_MEX@445586/index_720_av-p.m3u8?sd=10&rebase=on&id=AgCUAJ23QCBYDrZoMWIoRNFlHFw1FSI7TSd0lDeQrdv7ZWCfjQtXft1A8BB4XRnlkflqiGqcihdReA%3d%3d&hdntl=exp=1647491638~acl=%2f*~data=hdntl~hmac=b10719e0241986b0b31b0c6703b1c5c9073737655c04b6dc3a6bb57a8f97280b
+#EXTINF:-1 tvg-chno="20" tvg-logo="https://canalesdominicanos.live/template/images/radios/comunion-tv.png" ,Comunion TV
+http://50.30.37.36:1935/live/stream/chunklist_w199173519.m3u8
 
 #EXTINF:-1 tvg-chno="21" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Antena_21_2017.png/revision/latest?cb=20171109210821" ,Antena 21
 https://do-antena7-canal21-live.ned.media/antena7/smil:canal21.smil/chunklist_b746000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQ3NDYwMDIyLCJzZXNzaW9uIjoiMTQ4LjAuMTU3LjE4MyIsIndoaXRlbGlzdCI6WyIxNDguMC4xNTcuMTgzIl19LCJzaWduYXR1cmUiOiIwMmY4Njg2YjU1OTc1N2M2YjU0ZWI4ZGViNDY5ZGU2Yjk3OGM1ZWVhIn0%3D
