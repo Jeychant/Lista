@@ -69,8 +69,8 @@ https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 #EXTINF:-1 tvg-chno="23" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telefuturo-canal-23-en-vivo-online.jpg" ,Telefuturo 23
 https://ss9.domint.net:3054/tf_str/telefuturo/chunklist_w2121423103.m3u8
 
-#EXTINF:-1 tvg-chno="24" tvg-logo="https://www.tvconexion.com/img/cinemax.png" ,Cinemax
-https://video-weaver.atl01.hls.ttvnw.net/v1/playlist/CtIFfSMoK-Iwft4DOCwB8o8MMs8ClUjBYypjDCkNRj1rmX1T4i6EUI5ZHNjALTa_IRMFzQecPPpWAbgj_Gp-EDFvubUUIh6lIzosAFFVbM6uvi7cmO3NdhNNAJv9iW1mOaWZ7Rs0gDoAj_KKYYSWnB6cXTKf-ssKjk7VSatV7bhOhlrhW451lCIsoHVuaobb7sViBQHP4J1Ybyvz9UVSWZ3kuY9E7FCOnE03bpwBUhDdFsAsoNK8sf1xN2CNQkayisXae_s8U17GcVlB3Od-zXm2JFGU4EP3V8k66KhKb4RK8ntiDGBEv6S-qswNjMYJYa-KFxLV1WeYnI73oe65kuFMutLt3NYgRki7kYws1eIgeQ-kUQ2fBvHR81bks66x5JklFa5fq4Z1U9nlh35iE68wFopu3pUOYg5zgL4UA6G1HlFlg3Km-pooiHyBQMp_51ZYomZEnzqipVJcCZWLVIWNPYKdqdNeDL9uK_j84bCwdnqxBCk8Hfz8SpzKQ-0NwoBo3pXF9NLouLYXgPDli3-vMIF6Y1xywBfVj-Yy1dWTQdn2dqVJLqUpBjTol5HpnbfxfcWFYnstfQNe9o16zuNrF2Gj_Ht8dkChegYQ_0xLjEEMkPzMhNu2Zdrc5GUOW0Gza1zp1nmgpOj6Wbe50k0_X18hy4w7Nqti8hX2Ll3A44_5qbhNwqY-IPpa0fMz8yrZIp-PmS1NmMjcIuKOK9cYTZgZDYUA9ua-41DgBb6GHgtZHqchKm52JhnZRHve92pTFKPrExyB5rfwAqbU7QeBmW88kq2Nmy5uFvDhBKZzuAUFXAb0CTnrStOrRuqPnnjhc94dClriItRmbkJBIFgFBKcT0Z6GjTPgMdLi32pS22QULsuo6MRDsZNhbX6mbHgb-W6GgvlmHfxUCOTG43gYFRRVV_76iOFD8-ImHnWe3GU9ZTLwjYhq_cfSivA6yQhud1oaDM9cp-posh8jzKJqESABKglldS13ZXN0LTIwoAM.m3u8
+#EXTINF:-1 tvg-chno="24" tvg-logo="hhttps://canalesdominicanos.live/template/images/radios/su-mundo-tv.jpg" ,Su Mundo TV
+https://cdn1.streamgato.us/sumundotv/sumundotv.myStream/chunks.m3u8?nimblesessionid=590456
 
 #EXTINF:-1 tvg-chno="25" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/canal-25-en-vivo-santiago-online.jpg" ,Canal 25
 https://ss3.domint.net:3150/c25_str/canal25/chunklist_w962955768.m3u8
