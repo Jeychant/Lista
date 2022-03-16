@@ -207,3 +207,5 @@ https://streamer95.server.aranova.cloud/clsdvr/live/aragontv_canal1/index.m3u8?v
 #EXTINF:-1 tvg-chno="69" tvg-logo="http://tvnov.com/images/span/Onda_Cadiz_TV.jpg" ,Onda Cadiz
 https://adc-hls.flumotion.com/adc/live_source/chunks.m3u8
 
+#EXTINF:-1 tvg-chno="70" tvg-logo="https://telefullenvivo.com/logos/trutv.png" ,Tru TV
+https://edge01-fdo-py.cvattv.com.ar/live/c3eds/TruTV/SA_SAGEMCOM/TruTV-avc1_3000000=10004.m3u8
