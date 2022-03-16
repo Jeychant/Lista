@@ -43,7 +43,7 @@ https://playback.akamaized.net/streams/28126860_9438854_lsigjuetsi38cex0nf6_1/me
 https://cdn4.hostlagarto.com:8081/static/bajotechotv/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="15" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/digital-15-en-vivo-online.jpg" ,Digital 15
-https://playback.akamaized.net/streams/27456795_8268514_lsijscv9foujn6e35o9_1/media/27456795_8268514_lsijscv9foujn6e35o9_1@5256000p.m3u8?dw=14400&ts=1647370800&hdnts=exp=1647546052~acl=/streams/27456795_8268514_lsijscv9foujn6e35o9_1/media*~hmac=e7b23066667e53e25edbe377715e9dc4c0b15df87c6f27ca5e4d9b88d12d26b3
+https://playback.akamaized.net/streams/27456795_8268514_lsifzu5zbzw2m2eket9_1/media/27456795_8268514_lsifzu5zbzw2m2eket9_1@2756000p.m3u8?dw=14400&ts=1647457200&hdnts=exp=1647632517~acl=/streams/27456795_8268514_lsifzu5zbzw2m2eket9_1/media*~hmac=b0745379053790414f00cda253e708390dda24a217beab590ad14d481d1f3ffb
 
 #EXTINF:-1 tvg-chno="16" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/08/tvo-romana-en-vivo-online.jpg" ,TVO Romana
 https://rctvhd.net:8081/tvoromanalive/tracks-v1a1/mono.m3u8
