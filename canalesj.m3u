@@ -157,10 +157,21 @@ https://cdn2.streamgato.us/alegrandotv/alegrandotv/chunklist_w948369323.m3u8
 http://154.62.74.28:1935/live/energy-Stream/chunklist_w1028201034.m3u8
 
 #EXTINF:-1 tvg-chno="53" tvg-logo="http://tvnov.com/images/span/Trecce.jpg" ,Trece
-http://154.62.74.28:1935/live/energy-Stream/chunklist_w1028201034.m3u8
+hhttps://live-edge-lon-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
 
 #EXTINF:-1 tvg-chno="54" tvg-logo="http://tvnov.com/images/span/24h.jpg" ,24H
 https://rtvelivestreamv3.akamaized.net/24h/24h_main_576.m3u8
 
 #EXTINF:-1 tvg-chno="55" tvg-logo="http://tvnov.com/images/span/neoox.jpg" ,Neox
 http://154.62.74.28:1935/live/neox/chunklist_w62475138.m3u8
+
+#EXTINF:-1 tvg-chno="56" tvg-logo="http://tvnov.com/images/span/BeMad-en-directo.png" ,BeMad
+http://154.62.74.28:1935/live/bemad/chunklist_w1594213846.m3u8
+
+#EXTINF:-1 tvg-chno="57" tvg-logo="http://tvnov.com/images/span/divinity-en-directo.png" ,Divinity
+http://154.62.74.28:1935/live/divinity/chunklist_w1536414987.m3u8
+
+#EXTINF:-1 tvg-chno="58" tvg-logo="http://tvnov.com/images/span/boing-en-directo.png" ,Boing
+http://154.62.74.12:1935/live/smil:ten.smil/chunklist_w280450133_b3128000_sleng.m3u8
+
+
