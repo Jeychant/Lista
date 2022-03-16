@@ -63,8 +63,8 @@ http://50.30.37.36:1935/live/stream/chunklist_w199173519.m3u8
 #EXTINF:-1 tvg-chno="21" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Antena_21_2017.png/revision/latest?cb=20171109210821" ,Antena 21
 https://do-antena7-canal21-live.ned.media/antena7/smil:canal21.smil/chunklist_b746000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQ3NDYwMDIyLCJzZXNzaW9uIjoiMTQ4LjAuMTU3LjE4MyIsIndoaXRlbGlzdCI6WyIxNDguMC4xNTcuMTgzIl19LCJzaWduYXR1cmUiOiIwMmY4Njg2YjU1OTc1N2M2YjU0ZWI4ZGViNDY5ZGU2Yjk3OGM1ZWVhIn0%3D
 
-#EXTINF:-1 tvg-chno="22" tvg-logo="https://2.bp.blogspot.com/-pf0it1qoPYM/Wrw9UgH3xZI/AAAAAAAAAb8/I04-5ByYhs8wNs1e9uk3UjkszgdEKhoVACLcBGAs/s1600/space.png" ,Space
-https://video-weaver.atl01.hls.ttvnw.net/v1/playlist/CtQFh7le3VivNjqTqPouiJgSEb-uWwYhQxnmiGaTwmOy5-S2W8d2mOeg-RYdfN4rSTtYGhMaeAospmfIeKM5KM2oeMLOYyigiyYYTOTCkO9AyAMBUJfDUhdAnfSf3sTkzYs7l2mFDZk3chudZ_2bs97e5H58HJ2kkpYFdeILVxgScUlwwjFzwCh3CGBR6NZEwKe5yrLoIteisjO52UCE1qS-JNxx-dOZ1ZXsUPalsjz8jhx9R9e924urh2nUKDzfW0HNEMxKf2XSShLzNZDvV8hqMUanwy2CJVsSnrGlyGPE-HVLGktw31KM4FA5_ltS34yRr1d2e_WWaNJ04wTAKk_N7-yL4kZWDq35f6hQ6NM8RanbVJXgwGVTzUFehJA46BwOp2Y6X9WJJfJQMjPcvOC6UmZRJUAsi8D_ZM2XqNYrjqr3GFRu9Fbwc278Q0-3ftNrhll4WGouy3I1Iz-gjXC8DlXSRhWrNdmK7gQ7datlkkYvczpjg03aewr2z0Amf-gSupbccYYNAzK1SFsXaj_LN4KLHmpv11h-glhW82nfZw-iE7xn9Q7s3pk8D-fqjnInzzuFp6RDphcqGF-5YO_XkfUPTn3Uxu78_-n17xipgeLh0U-w7VkGhHqf_K-ttauU_OO8Zl-PpnrYAA23_YBiIsjW-vicaGAco54zmQPvlf0_LAkbJbHqo7v7eBngGztHU-4mM1WAjoxFWFwxOQmIN6VsMHRUIHtNLdXYcMQidYvoYhtkB-ubRPsSs3dKdKfASO22kGCYsz870OqngvFloZEGxVyx3yufIG3l9yojJDC5Rds4zyogZrTMFk5djX-0m7OTZeLNCZYDa3OjbZ6_d19evqohEVwB7yZIHQ2uX-WSYo7iDI7dJ6NKsIhZwZULrVtF7HiK_YOgd_4WhNdQVkvWzQ4phcI5EzV49nLQXG1cVn5a4--zQb7PEzgqmwYFD3fH8hoMJh-DE6LJ7w8DNN8RIAEqCWV1LXdlc3QtMjCgAw.m3u8
+#EXTINF:-1 tvg-chno="22" tvg-logo="https://canalesdominicanos.live/template/images/radios/nexxo-tv.png" ,Nexxo TV
+https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 
 #EXTINF:-1 tvg-chno="23" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telefuturo-canal-23-en-vivo-online.jpg" ,Telefuturo 23
 https://ss9.domint.net:3054/tf_str/telefuturo/chunklist_w2121423103.m3u8
