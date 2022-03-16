@@ -174,4 +174,36 @@ http://154.62.74.28:1935/live/divinity/chunklist_w1536414987.m3u8
 #EXTINF:-1 tvg-chno="58" tvg-logo="http://tvnov.com/images/span/boing-en-directo.png" ,Boing
 http://154.62.74.12:1935/live/smil:ten.smil/chunklist_w280450133_b3128000_sleng.m3u8
 
+#EXTINF:-1 tvg-chno="59" tvg-logo="http://tvnov.com/images/span/MtMad.jpg" ,Mt Mad
+https://mdssplive-lh.akamaihd.net/i/mtmad_main@744785/index_1_av-p.m3u8
+
+#EXTINF:-1 tvg-chno="60" tvg-logo="http://tvnov.com/images/span/Canal-DKISS-en-directo.png" ,Dkiss
+http://154.62.74.12:1935/live/smil:kiss.smil/chunklist_w650793632_b1928000_sleng.m3u8
+
+#EXTINF:-1 tvg-chno="61" tvg-logo="http://tvnov.com/images/span/Paramunt.jpg" ,Paramount Network ES
+http://154.62.74.11:1935/live/smil:paramount.smil/chunklist_w41832469_b2628000_sleng.m3u8
+
+#EXTINF:-1 tvg-chno="62" tvg-logo="http://tvnov.com/images/span/7nnNoticcia.png" ,7NN
+https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-chno="63" tvg-logo="http://tvnov.com/images/span/Cosmo-tv-en-directo.jpg" ,Cosmo
+http://154.62.74.12:1935/live/smil:cosmoHD.smil/chunklist_w103482874_b1928000_sleng.m3u8
+
+#EXTINF:-1 tvg-chno="64" tvg-logo="http://tvnov.com/images/span/Hola-Play-en-directo.jpg" ,Hola Play
+https://rakuten-hola-2-es.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-chno="65" tvg-logo="http://tvnov.com/images/span/extrmadra.jpg" ,Sat
+https://cdnlive.codev8.net/canalextremaduralive/smil:channel1.smil/chunklist_b1500000.m3u8
+
+#EXTINF:-1 tvg-chno="66" tvg-logo="http://tvnov.com/images/span/Ell-Toroo.jpg" ,El Toro
+https://fake-live-eltorotv.flumotion.com/eltorotv/fake-live_source/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="67" tvg-logo="http://tvnov.com/images/span/canall-324.png" ,3-24
+https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist_b4125499_DVR.m3u8
+
+#EXTINF:-1 tvg-chno="68" tvg-logo="http://tvnov.com/images/span/Aragon_TV.jpg" ,Aragon TV
+https://streamer95.server.aranova.cloud/clsdvr/live/aragontv_canal1/index.m3u8?vv=DO&h=tnE0QWYBcSikj4J9Tyu4uA&e=31363437353630393232&r=4357
+
+#EXTINF:-1 tvg-chno="69" tvg-logo="http://tvnov.com/images/span/Onda_Cadiz_TV.jpg" ,Onda Cadiz
+https://adc-hls.flumotion.com/adc/live_source/chunks.m3u8
 
