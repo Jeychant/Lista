@@ -123,34 +123,34 @@ https://cdn2.streamgato.us/ryetelevision/ryetelevision/chunklist_w1922561914.m3u
 #EXTINF:-1 tvg-chno="41" tvg-logo="https://canalesdominicanos.live/template/images/radios/megavision_canal_43_santiago.jpg" ,Megavision
 http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w171857719.m3u8
 
-#EXTINF:-1 tvg-chno="41" tvg-logo="https://canalesdominicanos.live/template/images/radios/telemilenio-canal-50.jpg" ,Telemilenio
+#EXTINF:-1 tvg-chno="42" tvg-logo="https://canalesdominicanos.live/template/images/radios/telemilenio-canal-50.jpg" ,Telemilenio
 https://cm.hostlagarto.com:4445/Telemilenio/Telemilenio.myStream/chunks.m3u8?nimblesessionid=147009844
 
-#EXTINF:-1 tvg-chno="42" tvg-logo="https://canalesdominicanos.live/template/images/radios/telebendicion.jpg" ,Telebendicion
+#EXTINF:-1 tvg-chno="43" tvg-logo="https://canalesdominicanos.live/template/images/radios/telebendicion.jpg" ,Telebendicion
 https://ss5.domint.net:3180/tbt_str/telebendicion/chunklist_w643301376.m3u8
 
-#EXTINF:-1 tvg-chno="43" tvg-logo="https://canalesdominicanos.live/template/images/radios/tele-oriental-digital.jpg" ,Tele Oriental
+#EXTINF:-1 tvg-chno="44" tvg-logo="https://canalesdominicanos.live/template/images/radios/tele-oriental-digital.jpg" ,Tele Oriental
 https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8?DVR
 
-#EXTINF:-1 tvg-chno="44" tvg-logo="https://canalesdominicanos.live/template/images/radios/clarovision-tv.jpg" ,Clarovision tv
+#EXTINF:-1 tvg-chno="45" tvg-logo="https://canalesdominicanos.live/template/images/radios/clarovision-tv.jpg" ,Clarovision tv
 https://cdn2.streamgato.us/clarovision/clarovision/chunklist_w80283626.m3u8
 
-#EXTINF:-1 tvg-chno="45" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/teleradio-america-canal-45-en-vivo.jpg" ,Teleradio America
+#EXTINF:-1 tvg-chno="46" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/teleradio-america-canal-45-en-vivo.jpg" ,Teleradio America
 https://rctvhd.net:8081/teleradioamerica/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="46" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/12/luna-tv-canal-53-en-vivo.jpg" ,Luna TV
+#EXTINF:-1 tvg-chno="47" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/12/luna-tv-canal-53-en-vivo.jpg" ,Luna TV
 https://ss2.domint.net:3228/luna_str/lunatv/chunklist_w446040124.m3u8
 
-#EXTINF:-1 tvg-chno="47" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/07/super-tv-55-en-vivo.jpg" ,Super tv 55
+#EXTINF:-1 tvg-chno="48" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/07/super-tv-55-en-vivo.jpg" ,Super tv 55
 https://ss2.domint.net:3236/stv_str/supertv55/chunklist_w905335610.m3u8
 
-#EXTINF:-1 tvg-chno="48" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telecontacto-canal-57-en-vivo.jpg" ,Telecontacto
+#EXTINF:-1 tvg-chno="49" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telecontacto-canal-57-en-vivo.jpg" ,Telecontacto
 https://vdo1.streamgato.us:3578/live/telecontactohdlive.m3u8
 
-#EXTINF:-1 tvg-chno="49" tvg-logo="https://canalesdominicanos.live/template/images/radios/policia-tv.jpg" ,POLICIA TV
+#EXTINF:-1 tvg-chno="50" tvg-logo="https://canalesdominicanos.live/template/images/radios/policia-tv.jpg" ,POLICIA TV
 https://cdn2.streamgato.us/policiard/policiard/chunklist_w1489470896.m3u8
 
-#EXTINF:-1 tvg-chno="50" tvg-logo="https://canalesdominicanos.live/template/images/radios/alegrando-tv.jpg" ,ALEGRANDO TV
+#EXTINF:-1 tvg-chno="51" tvg-logo="https://canalesdominicanos.live/template/images/radios/alegrando-tv.jpg" ,ALEGRANDO TV
 https://cdn2.streamgato.us/alegrandotv/alegrandotv/chunklist_w948369323.m3u8
 
 
