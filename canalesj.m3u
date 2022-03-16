@@ -153,5 +153,5 @@ https://cdn2.streamgato.us/policiard/policiard/chunklist_w1489470896.m3u8
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://canalesdominicanos.live/template/images/radios/alegrando-tv.jpg" ,ALEGRANDO TV
 https://cdn2.streamgato.us/alegrandotv/alegrandotv/chunklist_w948369323.m3u8
 
-#EXTINF:-1 tvg-chno="52" tvg-logo="https://canalesdominicanos.live/template/images/radios/alegrando-tv.jpg" ,Azteca 7
-https://cdmx-live-ott.izzigo.tv/out/u/dash/CDMX/AZTECA-7-HD/dash/AZTECA7HD-video=3720000-988483337076.dash?bpkout=default
+#EXTINF:-1 tvg-chno="52" tvg-logo="https://canalesdominicanos.live/template/images/radios/alegrando-tv.jpg" ,Cartoont Network
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/395.m3u8
