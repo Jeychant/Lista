@@ -117,8 +117,8 @@ https://vpss2003.streamprolive.com/hls/live.m3u8
 #EXTINF:-1 tvg-chno="39" tvg-logo="https://canalesdominicanos.live/template/images/radios/uncion-tv.png" ,Unción TV
 https://mediacp.us:8081/unciontv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno="39" tvg-logo="https://canalesdominicanos.live/template/images/radios/uncion-tv.png" ,Unción TV
-https://mediacp.us:8081/unciontv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno="40" tvg-logo="https://canalesdominicanos.live/template/images/radios/r-e-television.png" ,R&E
+https://cdn2.streamgato.us/ryetelevision/ryetelevision/chunklist_w1922561914.m3u8
 
 #EXTINF:-1 tvg-chno="45" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/teleradio-america-canal-45-en-vivo.jpg" ,Teleradio America
 https://rctvhd.net:8081/teleradioamerica/tracks-v1a1/mono.m3u8
