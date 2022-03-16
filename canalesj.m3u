@@ -69,20 +69,44 @@ https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 #EXTINF:-1 tvg-chno="23" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telefuturo-canal-23-en-vivo-online.jpg" ,Telefuturo 23
 https://ss9.domint.net:3054/tf_str/telefuturo/chunklist_w2121423103.m3u8
 
-#EXTINF:-1 tvg-chno="24" tvg-logo="hhttps://canalesdominicanos.live/template/images/radios/su-mundo-tv.jpg" ,Su Mundo TV
-https://cdn1.streamgato.us/sumundotv/sumundotv.myStream/chunks.m3u8?nimblesessionid=590456
+#EXTINF:-1 tvg-chno="24" tvg-logo="https://canalesdominicanos.live/template/images/radios/cana-vision-canal-88-bavaro.png" ,Cana Vision
+https://cdn2.streamgato.us/canatvdigital/canatvdigital/chunklist_w32549708.m3u8
 
 #EXTINF:-1 tvg-chno="25" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/canal-25-en-vivo-santiago-online.jpg" ,Canal 25
 https://ss3.domint.net:3150/c25_str/canal25/chunklist_w962955768.m3u8
 
+#EXTINF:-1 tvg-chno="26" tvg-logo="https://canalesdominicanos.live/template/images/radios/mun2-tv.jpg" ,Mun2 TV
+https://servers.amelbasoluciones.co:19360/mun2tv/mun2tv.m3u8
+
 #EXTINF:-1 tvg-chno="27" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/rnn-canal-27-en-vivo.jpg" ,RNN Canal 27
 https://ss2.domint.net:3202/rnn_str/canal27/chunklist_w424115432.m3u8
+
+#EXTINF:-1 tvg-chno="28" tvg-logo="https://canalesdominicanos.live/template/images/radios/opcion-tv.jpg" ,Opcion TV
+https://5790d294af2dc.streamlock.net/8066/8066/chunklist_w612515886.m3u8
+
+#EXTINF:-1 tvg-chno="29" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/teleuniverso-canal-29-online-en-vivo.jpg" ,Teleuniverso
+https://cloudflare.streamgato.us:3756/live/teleuniversotvlive.m3u8
 
 #EXTINF:-1 tvg-chno="30" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/ctn-tv-en-vivo.jpg" ,CNT TV
 https://59ef525c24caa.streamlock.net/ctn/ctn/chunklist_w1839109183.m3u8
 
-#EXTINF:-1 tvg-chno="41" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/teleuniverso-canal-29-online-en-vivo.jpg" ,Teleuniverso
-https://cloudflare.streamgato.us:3756/live/teleuniversotvlive.m3u8
+#EXTINF:-1 tvg-chno="31" tvg-logo="https://canalesdominicanos.live/template/images/radios/hermanas_mirabal_tv_canal_33_salcedo.jpg" ,Hermanas Mirabal TV
+https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8?nimblesessionid=146991172
+
+#EXTINF:-1 tvg-chno="32" tvg-logo="https://canalesdominicanos.live/template/images/radios/platinium_tv_canal_50_la_vega.jpg" ,Platinium TV
+https://video1.getstreamhosting.com:1936/8226/8226/chunklist_w1024626907.m3u8
+
+#EXTINF:-1 tvg-chno="33" tvg-logo="https://canalesdominicanos.live/template/images/radios/acento-tv.png" ,Acento TV
+https://acentotv01.streamprolive.com/hls/live.m3u8
+
+#EXTINF:-1 tvg-chno="34" tvg-logo="https://canalesdominicanos.live/template/images/radios/precidential.png" ,Presidential
+https://5790d294af2dc.streamlock.net/8042/8042/chunklist_w736112464.m3u8
+
+#EXTINF:-1 tvg-chno="35" tvg-logo="https://canalesdominicanos.live/template/images/radios/vozz-media-network.png" ,Vozz Media
+https://ss5.domint.net:3032/vozz_str/vozzmedia/chunklist_w1896640088.m3u8
+
+#EXTINF:-1 tvg-chno="36" tvg-logo="https://canalesdominicanos.live/template/images/radios/crom-tv-el-canal-del-siglo.png" ,Crom TV
+https://cdn4.hostlagarto.com:8081/static/cromtv/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="45" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/teleradio-america-canal-45-en-vivo.jpg" ,Teleradio America
 https://rctvhd.net:8081/teleradioamerica/tracks-v1a1/mono.m3u8
