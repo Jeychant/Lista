@@ -111,6 +111,15 @@ https://cdn4.hostlagarto.com:8081/static/cromtv/chunks.m3u8
 #EXTINF:-1 tvg-chno="37" tvg-logo="https://canalesdominicanos.live/template/images/radios/carivision-canal-26.png" ,Carivision
 https://ss5.domint.net:3174/car_str/carivision/chunklist_w551659045.m3u8
 
+#EXTINF:-1 tvg-chno="38" tvg-logo="https://canalesdominicanos.live/template/images/radios/teleimpacto-canal-52.png" ,Teleimpacto
+https://vpss2003.streamprolive.com/hls/live.m3u8
+
+#EXTINF:-1 tvg-chno="39" tvg-logo="https://canalesdominicanos.live/template/images/radios/uncion-tv.png" ,Unción TV
+https://mediacp.us:8081/unciontv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-chno="39" tvg-logo="https://canalesdominicanos.live/template/images/radios/uncion-tv.png" ,Unción TV
+https://mediacp.us:8081/unciontv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-chno="45" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/teleradio-america-canal-45-en-vivo.jpg" ,Teleradio America
 https://rctvhd.net:8081/teleradioamerica/tracks-v1a1/mono.m3u8
 
