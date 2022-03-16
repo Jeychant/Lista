@@ -15,8 +15,8 @@ https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w4715
 #EXTINF:-1 tvg-chno="5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png" ,Telemicro Canal 5
 https://playback.akamaized.net/streams/27456795_8825585_lsixy601mfw5h0t39y0_1/media/27456795_8825585_lsixy601mfw5h0t39y0_1@5256000p.m3u8?dw=14400&ts=1647370800&hdnts=exp=1647545554~acl=/streams/27456795_8825585_lsixy601mfw5h0t39y0_1/media*~hmac=826e2d3bf52f6777f943478a1125ebfc0d10c2b5622dbd2ed4268c690b8c58f7
 
-#EXTINF:-1 tvg-chno="6" tvg-logo="https://canalesdominicanos.live/template/images/radios/acento-tv.png" ,Acento TV
-https://acentotv01.streamprolive.com/hls/live.m3u8
+#EXTINF:-1 tvg-chno="6" tvg-logo="https://canalesdominicanos.live/template/images/radios/rumba-985-en-vivo.jpg" ,Rumba 98.5
+https://ss5.domint.net:3038/rum_str/rumba985fm/chunklist_w2101210168.m3u8
 
 #EXTINF:-1 tvg-chno="7" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/antena-canal-7-en-vivo-online.jpg" ,Antena 7
 https://do-antena7-antena7-live.ned.media/antena7/smil:antena7.smil/chunklist_b746000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQ3NDU5OTUwLCJzZXNzaW9uIjoiMTQ4LjAuMTU3LjE4MyIsIndoaXRlbGlzdCI6WyIxNDguMC4xNTcuMTgzIl19LCJzaWduYXR1cmUiOiI1YjkzNGU3ZDdiNDc3MmMyYTJiODU3YjU1Mjc4OWVhZGE3NmY2ZjIzIn0%3D
