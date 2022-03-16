@@ -157,7 +157,7 @@ https://cdn2.streamgato.us/alegrandotv/alegrandotv/chunklist_w948369323.m3u8
 http://154.62.74.28:1935/live/energy-Stream/chunklist_w1028201034.m3u8
 
 #EXTINF:-1 tvg-chno="53" tvg-logo="http://tvnov.com/images/span/Trecce.jpg" ,Trece
-hhttps://live-edge-lon-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
+https://live-edge-lon-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
 
 #EXTINF:-1 tvg-chno="54" tvg-logo="http://tvnov.com/images/span/24h.jpg" ,24H
 https://rtvelivestreamv3.akamaized.net/24h/24h_main_576.m3u8
