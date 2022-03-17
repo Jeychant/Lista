@@ -282,8 +282,8 @@ https://5fc584f3f19c9.streamlock.net/aztecaguate/aztecaguate.smil/chunklist_w939
 #EXTINF:-1 tvg-chno="94" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png" ,Foro TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
 
-#EXTINF:-1 tvg-chno="95" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/XHIJ_TV_Canal_44_2012_Logo.png" ,C44
-https://5e50264bd6766.streamlock.net/canal44/videocanal44/chunklist_w185177835.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDIyIDI6NTA6MjUgUE0maGFzaF92YWx1ZT1uK0ZVekR1U1E4d2E0N1VHbU1Xc0lRPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ%3D%3D
+#EXTINF:-1 tvg-chno="95" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/7/-/t/7-televalencia.jpg" ,Canal 7
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w1630284423_b868352.m3u8
 
 #EXTINF:-1 tvg-chno="96" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png" ,Imagen I
 https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLjFSLMw0v6rffT6kDTys_bI)/dm/3/x82z4if/d/live-2.m3u8#cell=lnyc
