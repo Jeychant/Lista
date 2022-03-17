@@ -207,5 +207,8 @@ https://streamer95.server.aranova.cloud/clsdvr/live/aragontv_canal1/index.m3u8?v
 #EXTINF:-1 tvg-chno="69" tvg-logo="http://tvnov.com/images/span/Onda_Cadiz_TV.jpg" ,Onda Cadiz
 https://adc-hls.flumotion.com/adc/live_source/chunks.m3u8
 
-#EXTINF:-1 tvg-chno="70" tvg-logo="http://tvnov.com/images/span/Onda_Cadiz_TV.jpg" ,Animal Planet
+#EXTINF:-1 tvg-chno="70" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/800px-2018_Animal_Planet_logo.svg.png" ,Animal Planet
 http://cdn04.sportsbay.xyz:2052/live-2/007/chunks.m3u8?nimblesessionid=71035561&wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDIyIDM6MjA6NTIgQU0maGFzaF92YWx1ZT1PdjN1NU84NTgxQ0I0VVVyK05ycGFRPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==
+
+#EXTINF:-1 tvg-chno="71" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/150px-AXN_logo_%282015%29.svg.png" ,AXN
+http://cdn04.sportsbay.xyz:2052/live-2/011/chunks.m3u8?nimblesessionid=71038926&wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDIyIDM6MjY6NTIgQU0maGFzaF92YWx1ZT01ZmtKOHNTK1Q0VkZRS2ttbmw2R0p3PT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==
