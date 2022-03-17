@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://canalesdominicanos.live/template/images/radios/uni_tv.jpg" ,Uni TV
-https://inliveserver.com:1936/11558/11558/chunklist_w1976334442.m3u8
+#EXTINF:-1 tvg-chno="1" tvg-logo="http://www.hilandofinotv.com/wp-content/uploads/2020/07/cropped-Imagen1..png" ,Hilando Fino
+https://primary-out.iptv-global.net/HilandoFinoTV/ngrp:HilandoFinoTV_all/chunklist_w802887008_b2628000.m3u8
 
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/05/teleantillas-en-vivo-canal-2-online.jpg" ,Teleantillas
 https://stream-03.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2nSh8tAcLKpHFO9aL-ab_BM)/dm/3/x809r6i/s/live-1.m3u8
