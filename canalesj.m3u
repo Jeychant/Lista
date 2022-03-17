@@ -300,7 +300,8 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w413357914.m3u8
 #EXTINF:-1 tvg-chno="100" tvg-logo="https://images.squarespace-cdn.com/content/v1/5553563ae4b08689b8eeaf65/1431525670594-U13DGVS6OE3CYZJ5F1Y4/logo+AV.png" ,Aliento Vision
 https://livestreamcdn.net:444/AlientoSD/AlientoSD.smil/chunklist_w396616506_b1300000_slen.m3u8
 
-
+#EXTINF:-1 tvg-chno="101" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" ,Azteca 7
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/1_.m3u8?token=sLVei2Yk2lpUwZB_cSGsEg&expires=1647571379&ip=148.0.157.183
 
 
 
