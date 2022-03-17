@@ -243,4 +243,10 @@ https://linear-192.frequency.stream/192/hls/master/playlist_1280x720.m3u8
 #EXTINF:-1 tvg-chno="81" tvg-logo="https://medias.unifrance.org/medias/49/139/232241/format_hd/prende-tv.jpg" ,Prende Romance
 https://linear-194.frequency.stream/194/hls/master/playlist_1280x720.m3u8
 
+#EXTINF:-1 tvg-chno="82" tvg-logo="https://medias.unifrance.org/medias/49/139/232241/format_hd/prende-tv.jpg" ,Prende Familia
+https://linear-195.frequency.stream/195/hls/master/playlist_1280x720.m3u8
+
+#EXTINF:-1 tvg-chno="83" tvg-logo="https://medias.unifrance.org/medias/49/139/232241/format_hd/prende-tv.jpg" ,Prende Oro
+https://linear-196.frequency.stream/196/hls/master/playlist_1280x720.m3u8
+
 
