@@ -63,8 +63,8 @@ http://50.30.37.36:1935/live/stream/chunklist_w199173519.m3u8
 #EXTINF:-1 tvg-chno="21" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Antena_21_2017.png/revision/latest?cb=20171109210821" ,Antena 21
 https://do-antena7-canal21-live.ned.media/antena7/smil:canal21.smil/chunklist_b1128000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQ3NjA5MTM5LCJzZXNzaW9uIjoiMTQ4LjAuMTU3LjE4MyIsIndoaXRlbGlzdCI6WyIxNDguMC4xNTcuMTgzIl19LCJzaWduYXR1cmUiOiJjZGY0NTQzY2NjMTViNGVkODg4OWJhMTRhMTAzN2MzYjA3MmZiNzEwIn0%3D
 
-#EXTINF:-1 tvg-chno="22" tvg-logo="https://canalesdominicanos.live/template/images/radios/nexxo-tv.png" ,Nexxo TV
-https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
+#EXTINF:-1 tvg-chno="22" tvg-logo="https://canalesdominicanos.live/template/images/radios/musa_vision_canal_10.jpg" ,Musavision
+https://cm.hostlagarto.com:4445/Musavisionhd/Musavisionhd/chunks.m3u8?nimblesessionid=147685674
 
 #EXTINF:-1 tvg-chno="23" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telefuturo-canal-23-en-vivo-online.jpg" ,Telefuturo 23
 https://ss9.domint.net:3054/tf_str/telefuturo/chunklist_w2121423103.m3u8
