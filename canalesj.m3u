@@ -303,7 +303,8 @@ https://livestreamcdn.net:444/AlientoSD/AlientoSD.smil/chunklist_w396616506_b130
 #EXTINF:-1 tvg-chno="101" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" ,Azteca 7
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/1_.m3u8?token=sLVei2Yk2lpUwZB_cSGsEg&expires=1647571379&ip=148.0.157.183
 
-
+#EXTINF:-1 tvg-chno="101" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TNT.svg/1024px-TNT.svg.png" ,TNT
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/41_.m3u8?token=qD9RSXAYwEObVRWyt6BRzQ&expires=1647571683&ip=148.0.157.183
 
 
 
