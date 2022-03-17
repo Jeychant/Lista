@@ -218,3 +218,24 @@ http://streams.x10.bz/u49f/mp.php/https://live.atresmediainternacional.com/ATRES
 
 #EXTINF:-1 tvg-chno="73" tvg-logo="https://image.roku.com/developer_channels/prod/810e3f4e4c2319eff930cdfe03a00ebf2a3eb1e35bd4368f2b858742cc5ce625.png" ,Butaca TV
 https://veranda-butacatv-1-es.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-chno="74" tvg-logo="https://www.cines-verdi.com/logo_verdi.png" ,Verdi Cines
+https://contracorriente-canalcinesverdi-1-es.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-chno="75" tvg-logo="https://www.cines-verdi.com/logo_verdi.png" ,Verdi Feelgood
+https://contracorriente-canalfeelgood-1-es.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-chno="76" tvg-logo="http://pm1.narvii.com/6260/11b60e2952ac153620d5fb8a4c1a9c65de41943c_00.jpg" ,Cinema+
+https://hvtrafico.ddns.net/cinema720/cinema720.stream/chunklist_w1351351815.m3u8
+
+#EXTINF:-1 tvg-chno="77" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" ,CineAR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w649593947.m3u8
+
+#EXTINF:-1 tvg-chno="78" tvg-logo="https://3dl0u21nnqk62nshp111jz32-wpengine.netdna-ssl.com/wp-content/uploads/2019/03/NuestraVision_Logo_Final_Color_Horizontal_20180902_01-opt-e1578594383281.png" ,NuestraVision
+https://siloh-ns1.plutotv.net/lilo/production/Nuestravision/master_1.m3u8
+
+#EXTINF:-1 tvg-chno="79" tvg-logo="https://prende.tv/_next/static/images/logo.7591d27e8928d2ed0caca1b556868250.svg" ,Prende Cine Club
+https://linear-192.frequency.stream/192/hls/master/playlist_1280x720.m3u8
+
+#EXTINF:-1 tvg-chno="80" tvg-logo="https://prende.tv/_next/static/images/logo.7591d27e8928d2ed0caca1b556868250.svg" ,Prende Romance
+https://linear-194.frequency.stream/194/hls/master/playlist_1280x720.m3u8
