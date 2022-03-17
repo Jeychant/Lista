@@ -249,4 +249,67 @@ https://linear-195.frequency.stream/195/hls/master/playlist_1280x720.m3u8
 #EXTINF:-1 tvg-chno="83" tvg-logo="https://medias.unifrance.org/medias/49/139/232241/format_hd/prende-tv.jpg" ,Prende Oro
 https://linear-196.frequency.stream/196/hls/master/playlist_1280x720.m3u8
 
+#EXTINF:-1 tvg-chno="84" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/02/Logo-El-Gourmet.jpg" ,El Gourmet
+https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
+
+#EXTINF:-1 tvg-chno="85" tvg-logo="https://media.tvalacarta.info/canales/256x256/apunt.png" ,Apunt
+https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/profile_0/chunklist_dvr.m3u8
+
+#EXTINF:-1 tvg-chno="86" tvg-logo="https://photos.live-tv-channels.org/tv-logo/tastemade-5397.jpg" ,TasteMade ES
+https://tastemadees16intl-brightcove.amagi.tv/playlist432p.m3u8
+
+#EXTINF:-1 tvg-chno="87" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/125px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png" ,Maschic
+https://amc-maschic-1.plex.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
+
+#EXTINF:-1 tvg-chno="88" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/INTI_Network_TV.png/1200px-INTI_Network_TV.png" ,Inti
+http://piratilla.xyz/9274/inti.php/chunklist_w18285833.m3u8
+
+#EXTINF:-1 tvg-chno="89" tvg-logo="https://image.roku.com/channels/images/9d6a2f942b9c45f3b905834fe3148887-hd.jpg" ,Miami TV
+https://5ee7c2b857b7f.streamlock.net/latino/latino/chunklist_w855917100.m3u8
+
+#EXTINF:-1 tvg-chno="90" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/af/Am%C3%A9rica_Tev%C3%A9_Logo.png/200px-Am%C3%A9rica_Tev%C3%A9_Logo.png" ,AmericaTEVE
+https://uni01rtmp.tulix.tv/americateve1/americateve1/chunklist_w1335349724.m3u8
+
+#EXTINF:-1 tvg-chno="91" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/megatv-2019.png" ,MEGATV
+https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/chunklist_w1145369781_b3036160.m3u8
+
+#EXTINF:-1 tvg-chno="92" tvg-logo="https://wipr.pr/wp-content/uploads/2018/11/logo-big-blue.png" ,WIPR
+https://streamwipr.pr/hls/wipr/1_2/index.m3u8?sessId=184332
+
+#EXTINF:-1 tvg-chno="93" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Azteca_Guate_2017.png" ,Az Guate
+https://5fc584f3f19c9.streamlock.net/aztecaguate/aztecaguate.smil/chunklist_w939961458_b1428000_sleng.m3u8
+
+#EXTINF:-1 tvg-chno="94" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png" ,Foro TV
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
+
+#EXTINF:-1 tvg-chno="95" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/XHIJ_TV_Canal_44_2012_Logo.png" ,C44
+https://5e50264bd6766.streamlock.net/canal44/videocanal44/chunklist_w185177835.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDIyIDI6NTA6MjUgUE0maGFzaF92YWx1ZT1uK0ZVekR1U1E4d2E0N1VHbU1Xc0lRPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ%3D%3D
+
+#EXTINF:-1 tvg-chno="96" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png" ,Imagen I
+https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLjFSLMw0v6rffT6kDTys_bI)/dm/3/x82z4if/d/live-2.m3u8#cell=lnyc
+
+#EXTINF:-1 tvg-chno="97" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Antiguo_logo_de_Canal_Once_%28once_TV%29.png" ,Once
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b1431072.m3u8
+
+#EXTINF:-1 tvg-chno="98" tvg-logo="https://s3.amazonaws.com/rytvmx/wpmedia/2020/07/14141848/logoNew.png" ,Mexiquense
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/chunklist_w580416114.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDIyIDI6NTY6MDcgUE0maGFzaF92YWx1ZT1IU3pzQ2tKcjlXckRoYUxqNFhGM0JnPT0mdmFsaWRtaW51dGVzPTUmaWQ9
+
+#EXTINF:-1 tvg-chno="99" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/TV-Max-en-vivo-Online.png" ,TVMAX MX
+https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w413357914.m3u8
+
+#EXTINF:-1 tvg-chno="100" tvg-logo="https://images.squarespace-cdn.com/content/v1/5553563ae4b08689b8eeaf65/1431525670594-U13DGVS6OE3CYZJ5F1Y4/logo+AV.png" ,Aliento Vision
+https://livestreamcdn.net:444/AlientoSD/AlientoSD.smil/chunklist_w396616506_b1300000_slen.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
 
