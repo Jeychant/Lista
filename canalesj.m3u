@@ -163,7 +163,7 @@ https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/39_.m3u8?token=KOp0PQUgZ6fed
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/40_.m3u8?token=Q_6JytVs35s2BANNDV46_g&expires=1647577095&ip=148.0.169.193
 
 #EXTINF:-1 tvg-chno="55" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TNT.svg/1024px-TNT.svg.png" ,TNT
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/41_.m3u8?token=n48J6xhQqGiDZeezcswG7w&expires=1647577174&ip=148.0.169.193
+https://cdn.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
 
 #EXTINF:-1 tvg-chno="56" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png" ,TNT SERIES
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/76_.m3u8?token=e6938iijFlCCOP7Ie6_F0g&expires=1647577236&ip=148.0.169.193
