@@ -310,7 +310,7 @@ https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/9_.m3u8?token=s_6w6LsalxqmTg
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/10_.m3u8?token=jKkQ8lqMhtbnHR6qJneQhw&expires=1647576830&ip=148.0.169.193
 
 #EXTINF:-1 tvg-chno="103" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" ,TELEMUNDO
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/48_.m3u8?token=TamGUBo3Ahs13fQLCi8VyQ&expires=1647581459&ip=148.0.169.193
+https://h1.ustvgo.la/Telemundo/myStream/chunks.m3u8?nimblesessionid=215515334&wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDIyIDE6MzU6MTIgUE0maGFzaF92YWx1ZT1EbzZvZUZISkhXMU5TNEIzS1M4bjlBPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:-1 tvg-chno="104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/170px-Logo_UniM%C3%A1s.svg.png" ,UNIMAS
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/64_.m3u8?token=hbWGWE7aBTye-Z58xMDisg&expires=1647581529&ip=148.0.169.193
