@@ -473,3 +473,6 @@ https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/1_.m3u8?token=sLVei2Yk2lpUwZ
 
 #EXTINF:-1 tvg-chno="158" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Logotip_beteve_roig.png" ,BETEVE
 https://klive.kaltura.com/s/env/cluster-1-a.live.frp1/live/hls/p/2346171/e/1_n6442jz0/tl/main/st/0/t/2FkeV5cunjuJV2kjRn059g/index-s32.m3u8?__hdnea__=st=1647614560~exp=1647700960~acl=/s/env/cluster-1-a.live.frp1/live/hls/p/2346171/e/1_n6442jz0/tl/main/st/0/t/2FkeV5cunjuJV2kjRn059g/index-s32.m3u8*~hmac=e103ab35c97ece05924ecffb87b7b9ecade5bbce8d3cfbb254fa5c519e375105
+
+#EXTINF:-1 tvg-chno="159" tvg-logo="https://img2.freepng.es/20180721/rio/kisspng-logo-deutsche-welle-dw-tv-dw-espaol-lacrosse-talk-radio-5b532514b7dbf2.0817935215321756367531.jpg" ,DW
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
