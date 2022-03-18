@@ -202,7 +202,7 @@ https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/73_.m3u8?token=JdxYZojHC0QCN
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/81_.m3u8?token=gYBNLPCBcGoKhQPpuM0oDg&expires=1647579089&ip=148.0.169.193
 
 #EXTINF:-1 tvg-chno="67" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" ,AXN
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/78_.m3u8?token=oYhOQ8SA1VmD0--XMHsowQ&expires=1647579240&ip=148.0.169.193
+https://cdn.prepro.cvattv.com.ar/live/vod/AXNHD/SA_Live_WebVTT_FTA/AXNHD.m3u8
 
 #EXTINF:-1 tvg-chno="68" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" ,UNIVERSAL CHANNEL
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/79_.m3u8?token=rpWyChP7FR-5gtB1_gPkFA&expires=1647579302&ip=148.0.169.193
