@@ -241,7 +241,7 @@ https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/103_.m3u8?token=olDdPFyUK6Th
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/106_.m3u8?token=i5lUiwn9KQNDrv5SgPZXGg&expires=1647580165&ip=148.0.169.193
 
 #EXTINF:-1 tvg-chno="80" tvg-logo="https://lapublicidad.net/wp-content/uploads/2017/01/Discovery_Channel_International.jpg" ,DISCOVERY CHANNEL
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/95_.m3u8?token=UdUovI0konyP_zu2jlQaPg&expires=1647580222&ip=148.0.169.193
+https://cdn.prepro.cvattv.com.ar/live/vod/DiscoveryHD/SA_Live_WebVTT_FTA/DiscoveryHD.m3u8
 
 #EXTINF:-1 tvg-chno="81" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" ,DISCOVERY TURBO
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/96_.m3u8?token=Cqo9H3e201bMcD1JS5ySlQ&expires=1647580283&ip=148.0.169.193
