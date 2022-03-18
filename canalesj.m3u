@@ -417,8 +417,8 @@ https://linear-195.frequency.stream/195/hls/master/playlist_1280x720.m3u8
 #EXTINF:-1 tvg-chno="138" tvg-logo="https://medias.unifrance.org/medias/49/139/232241/format_hd/prende-tv.jpg" ,Prende Oro
 https://linear-196.frequency.stream/196/hls/master/playlist_1280x720.m3u8
 
-#EXTINF:-1 tvg-chno="139" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/02/Logo-El-Gourmet.jpg" ,El Gourmet
-https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
+#EXTINF:-1 tvg-chno="139" tvg-logo="http://tvnov.com/images/span/La1_en_directo.jpg" ,LA 1
+https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_dvr_360.m3u8
 
 #EXTINF:-1 tvg-chno="140" tvg-logo="https://media.tvalacarta.info/canales/256x256/apunt.png" ,Apunt
 https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/profile_0/chunklist_dvr.m3u8
