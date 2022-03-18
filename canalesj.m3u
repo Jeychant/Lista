@@ -151,7 +151,7 @@ https://cdn2.streamgato.us/policiard/policiard/chunklist_w1489470896.m3u8
 https://cdn2.streamgato.us/alegrandotv/alegrandotv/chunklist_w948369323.m3u8
 
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png" ,RT NOTICIAS
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/67_.m3u8?token=VFcknL8WRe7JyPGo2Vk2gg&expires=1647575663&ip=148.0.157.183
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="52" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/CNN.svg" ,CNN
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/66_.m3u8?token=4JSTUGZGXYS033is4sjQrQ&expires=1647575771&ip=148.0.157.183
