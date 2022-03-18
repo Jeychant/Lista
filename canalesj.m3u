@@ -342,7 +342,7 @@ http://154.62.74.28:1935/live/bemad/chunklist_w1594213846.m3u8
 #EXTINF:-1 tvg-chno="113" tvg-logo="http://tvnov.com/images/span/divinity-en-directo.png" ,Divinity
 http://154.62.74.28:1935/live/divinity/chunklist_w1536414987.m3u8
 
-#EXTINF:-1 tvg-chno="114" tvg-logo="http://tvnov.com/images/span/boing-en-directo.png" ,Boing
+#EXTINF:-1 tvg-chno="114" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/TenTV.png" ,TEN
 http://154.62.74.12:1935/live/smil:ten.smil/chunklist_w280450133_b3128000_sleng.m3u8
 
 #EXTINF:-1 tvg-chno="115" tvg-logo="http://tvnov.com/images/span/MtMad.jpg" ,Mt Mad
