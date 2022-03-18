@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2488-294x165-FFFFFF.jpg" ,CHINOLA TV
-https://stream-us-east-1.getpublica.com/cl/c819d94d-dcf4-483d-b0f5-52b0b9520b71/720x480_1143600_0_false.m3u8
+https://cdn3.streamgato.us:3434/live/chinolatvlive.m3u8?DVR
 
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/05/teleantillas-en-vivo-canal-2-online.jpg" ,TELEANTILLAS
 https://stream-03.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2nSh8tAcLKpHFO9aL-ab_BM)/dm/3/x809r6i/s/live-1.m3u8
@@ -13,7 +13,7 @@ https://ss9.domint.net:3032/tvp_str/tvp2111/chunklist_w1894196728.m3u8
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w471536589_b2146304.m3u8
 
 #EXTINF:-1 tvg-chno="5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png" ,TELEMICRO 5
-https://playback.akamaized.net/streams/27456795_8825585_lsikm6hj6b9buvq695j_1/media/27456795_8825585_lsikm6hj6b9buvq695j_1@5256000p.m3u8?dw=14400&ts=1647612000&hdnts=exp=1647785199~acl=/streams/27456795_8825585_lsikm6hj6b9buvq695j_1/media*~hmac=f19ec5099f4a473378b9dbb0ce4d412184cfe969caee12e008ac2d971c654f8f
+https://playback.akamaized.net/streams/27456795_8825585_lsid0xryak32ev2o3xm_1/media/27456795_8825585_lsid0xryak32ev2o3xm_1@5256000p.m3u8?dw=14400&ts=1647640800&hdnts=exp=1647813955~acl=/streams/27456795_8825585_lsid0xryak32ev2o3xm_1/media*~hmac=6b46ebdb4c2903ff720c440de27e60f7b609c06aae3be57147d0ee43592a2065
 
 #EXTINF:-1 tvg-chno="6" tvg-logo="https://canalesdominicanos.live/template/images/radios/rumba-985-en-vivo.jpg" ,RUMBA 98.5
 https://ss5.domint.net:3038/rum_str/rumba985fm/chunklist_w2101210168.m3u8
@@ -37,13 +37,13 @@ https://stream-01.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2qUnzCGLpRFxDbqTf5
 https://ss5.domint.net:3026/btv_str/bonao/chunklist_w1023022608.m3u8
 
 #EXTINF:-1 tvg-chno="13" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telecentro-canal-13-en-vivo.png" ,TELECENTRO 13
-https://playback.akamaized.net/streams/28126860_9438854_lsin2kx36tmllfyzmlw_1/media/28126860_9438854_lsin2kx36tmllfyzmlw_1@2128000p.m3u8?dw=14400&ts=1647612000&hdnts=exp=1647785225~acl=/streams/28126860_9438854_lsin2kx36tmllfyzmlw_1/media*~hmac=6172e1537e46c497d1975ccae087cf856e9435f1a08861a95ed9ec2836be2000
+https://playback.akamaized.net/streams/28126860_9438854_lsin2kx36tmllfyzmlw_1/media/28126860_9438854_lsin2kx36tmllfyzmlw_1@2128000p.m3u8?dw=14400&ts=1647640800&hdnts=exp=1647813972~acl=/streams/28126860_9438854_lsin2kx36tmllfyzmlw_1/media*~hmac=e29e236de2076a799a579505b713138c35709b3d4bf4b809bba2b35ef7c018a7
 
 #EXTINF:-1 tvg-chno="14" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/bajo-techo-tv-en-vivo.jpg" ,BAJO TECHO TV
 https://cdn4.hostlagarto.com:8081/static/bajotechotv/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="15" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/digital-15-en-vivo-online.jpg" ,DIGITAL 15
-https://playback.akamaized.net/streams/27456795_8268514_lsigtn8jxmqvij0it4g_1/media/27456795_8268514_lsigtn8jxmqvij0it4g_1@5256000p.m3u8?dw=14400&ts=1647612000&hdnts=exp=1647785152~acl=/streams/27456795_8268514_lsigtn8jxmqvij0it4g_1/media*~hmac=902190557c8e2e16d8f17eedb36e477d85881bc8965c54f124f874cd4b2114e3
+https://playback.akamaized.net/streams/27456795_8268514_lsi5njthy36biu5nyx6_1/media/27456795_8268514_lsi5njthy36biu5nyx6_1@5256000p.m3u8?dw=14400&ts=1647640800&hdnts=exp=1647814035~acl=/streams/27456795_8268514_lsi5njthy36biu5nyx6_1/media*~hmac=cafc166434994fd826a84d8083d6747121e5291d5e9701e2bd08d15ea625f131
 
 #EXTINF:-1 tvg-chno="16" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/08/tvo-romana-en-vivo-online.jpg" ,TVO ROMANA
 https://rctvhd.net:8081/tvoromanalive/tracks-v1a1/mono.m3u8
