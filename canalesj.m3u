@@ -247,7 +247,7 @@ https://cdn.prepro.cvattv.com.ar/live/vod/DiscoveryHD/SA_Live_WebVTT_FTA/Discove
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/96_.m3u8?token=Cqo9H3e201bMcD1JS5ySlQ&expires=1647580283&ip=148.0.169.193
 
 #EXTINF:-1 tvg-chno="82" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png" ,DISCOVERY HYH
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/97_.m3u8?token=I3Ga73ORCeq3GX4_4KZPFg&expires=1647580343&ip=148.0.169.193
+https://cdn.prepro.cvattv.com.ar/live/vod/DiscoveryHomeHealthHD/SA_Live_WebVTT_FTA/DiscoveryHomeHealthHD.m3u8
 
 #EXTINF:-1 tvg-chno="83" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" ,ID INVESTIGATION
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/98_.m3u8?token=9VEkATxdnRJkCGySKTKzuA&expires=1647580400&ip=148.0.169.193
