@@ -153,7 +153,7 @@ https://cdn2.streamgato.us/alegrandotv/alegrandotv/chunklist_w948369323.m3u8
 #EXTINF:-1 tvg-chno="51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png" ,RT NOTICIAS
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="52" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/CNN.svg" ,CNN
+#EXTINF:-1 tvg-chno="52" tvg-logo="https://brandemia.org/contenido/subidas/2014/03/logo_principal_telemundo.jpg" ,CNN
 https://1439734486.rsc.cdn77.org:443/HKTYS6d3U2pnrTLqG5N9YQ==,1647657284/1439734486/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="53" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png" ,SPACE
