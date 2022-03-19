@@ -226,7 +226,7 @@ https://cdn.prepro.cvattv.com.ar/live/vod/HistoryHD/SA_Live_WebVTT_FTA/HistoryHD
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/50_.m3u8?token=baQsPnFwVZzmcM-clpVevg&expires=1647579822&ip=148.0.169.193
 
 #EXTINF:-1 tvg-chno="75" tvg-logo="https://www.nationalgeographicla.com/images/logo.png" ,NATIONAL GEOGRAPHIC
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/92_.m3u8?token=mDGmAsKXfqI1ra10y6VeZA&expires=1647579886&ip=148.0.169.193
+https://cdn.prepro.cvattv.com.ar/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3u8
 
 #EXTINF:-1 tvg-chno="76" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" ,NAT GEO WILD
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/93_.m3u8?token=mL2Gz0yAtTD6H8BOg8LmPw&expires=1647579972&ip=148.0.169.193
@@ -238,7 +238,7 @@ https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/94_.m3u8?token=_nXCVWzlrg8pL
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/103_.m3u8?token=olDdPFyUK6ThVbIA8tuRjQ&expires=1647580081&ip=148.0.169.193
 
 #EXTINF:-1 tvg-chno="79" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/02/Logo-El-Gourmet.jpg" ,EL GOURMET
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/106_.m3u8?token=i5lUiwn9KQNDrv5SgPZXGg&expires=1647580165&ip=148.0.169.193
+https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="80" tvg-logo="https://lapublicidad.net/wp-content/uploads/2017/01/Discovery_Channel_International.jpg" ,DISCOVERY CHANNEL
 https://cdn.prepro.cvattv.com.ar/live/vod/DiscoveryHD/SA_Live_WebVTT_FTA/DiscoveryHD.m3u8
