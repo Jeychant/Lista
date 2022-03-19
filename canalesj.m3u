@@ -13,13 +13,13 @@ https://ss9.domint.net:3032/tvp_str/tvp2111/chunklist_w1894196728.m3u8
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w471536589_b2146304.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png" ,TELEMICRO 5
-https://playback.akamaized.net/streams/27456795_8825585_lsikm6hj6b9buvq695j_1/media/27456795_8825585_lsikm6hj6b9buvq695j_1@5256000p.m3u8?dw=14400&ts=1647540000&hdnts=exp=1647713152~acl=/streams/27456795_8825585_lsikm6hj6b9buvq695j_1/media*~hmac=3a4ab227cb5b5d5ba8245c1dc52ff97d24c103b02de0ed543e697718a7e85dcd
+https://player-api.new.livestream.com/accounts/27456795/events/8825585/broadcasts/230004681.secure.m3u8?dw=14400&hdnea=st%3D1647732367~exp%3D1647734167~acl%3D%2Fi%2F27456795_8825585_lsidc3iq7qrztq0xdn7_1%40190364%2F%2A~hmac%3D2a24caac0feb81d3e6909a254022e253d75f0bb107f2d9f5869adc8767a98f47&token=623667bb_1d61ab31652bde93ecfcb33a6f4a992b0609f9ad
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/rumba-985-en-vivo.jpg" ,RUMBA 98.5
 https://ss5.domint.net:3038/rum_str/rumba985fm/chunklist_w2101210168.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/antena-canal-7-en-vivo-online.jpg" ,ANTENA 7
-https://do-antena7-antena7-live.ned.media/antena7/smil:antena7.smil/chunklist_b1128000.m3u8?https://do-antena7-antena7-live.ned.media/antena7/smil:antena7.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQ3Nzk1MDM1LCJzZXNzaW9uIjoiMTQ4LjAuMTcwLjExNyIsIndoaXRlbGlzdCI6WyIxNDguMC4xNzAuMTE3Il19LCJzaWduYXR1cmUiOiI5ZWRjZTM5MjBjN2NmZmRlYzY3NzI5YjhmZTJhOWQyYjEzNTU3ZDk2In0=
+https://do-antena7-antena7-live.ned.media/antena7/smil:antena7.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQ3ODE4ODg2LCJzZXNzaW9uIjoiMTQ4LjAuMTcwLjExNyIsIndoaXRlbGlzdCI6WyIxNDguMC4xNzAuMTE3Il19LCJzaWduYXR1cmUiOiI3YTJiMzExM2Q1YmUyMzRjNTU0YWRmMjljNWMzNTJiM2RlZTVkYTllIn0=
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/telemax.png" ,TELEMAX
 https://cdn2.streamgato.us/telemax/telemax/chunklist_w262487431.m3u8
@@ -37,13 +37,13 @@ https://stream-01.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2qUnzCGLpRFxDbqTf5
 https://ss5.domint.net:3026/btv_str/bonao/chunklist_w1023022608.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telecentro-canal-13-en-vivo.png" ,TELECENTRO 13
-https://playback.akamaized.net/streams/28126860_9438854_lsi0pgf830tex0aj1cb_1/media/28126860_9438854_lsi0pgf830tex0aj1cb_1@2128000p.m3u8?dw=14400&ts=1647518400&hdnts=exp=1647691950~acl=/streams/28126860_9438854_lsi0pgf830tex0aj1cb_1/media*~hmac=b9462960ddc69c27b1e7fa5965c948a477a4b5379e2103bdb310d4315a9df66f
+https://player-api.new.livestream.com/accounts/28126860/events/9438854/broadcasts/229993889.secure.m3u8?dw=14400&hdnea=st%3D1647732399~exp%3D1647734199~acl%3D%2Fi%2F28126860_9438854_lsiu7yvyv70b5pomyno_1%40688942%2F%2A~hmac%3Da9032cec993df5d9d072572929e6d2a1d98861ac69c2cc4bc07624518cac275a&token=623667db_aea90b30f44811621c75b5789dbe74f8f48d195b
 
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/bajo-techo-tv-en-vivo.jpg" ,BAJO TECHO TV
 https://cdn4.hostlagarto.com:8081/static/bajotechotv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/digital-15-en-vivo-online.jpg" ,DIGITAL 15
-https://playback.akamaized.net/streams/27456795_8268514_lsifzu5zbzw2m2eket9_1/media/27456795_8268514_lsifzu5zbzw2m2eket9_1@2756000p.m3u8?dw=14400&ts=1647457200&hdnts=exp=1647632517~acl=/streams/27456795_8268514_lsifzu5zbzw2m2eket9_1/media*~hmac=b0745379053790414f00cda253e708390dda24a217beab590ad14d481d1f3ffb
+https://player-api.new.livestream.com/accounts/27456795/events/8268514/broadcasts/230007356.secure.m3u8?dw=14400&hdnea=st%3D1647732425~exp%3D1647734225~acl%3D%2Fi%2F27456795_8268514_lsi0ckwuijjqrit29bd_1%40326493%2F%2A~hmac%3D5af4beb7ecbbeb01a81696845a129121d9b459e092cae0187db9015fdafe33af&token=623667f5_687c499f2394696331cf1b50095e9f0e8afbf966
 
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/08/tvo-romana-en-vivo-online.jpg" ,TVO ROMANA
 https://rctvhd.net:8081/tvoromanalive/tracks-v1a1/mono.m3u8
@@ -470,8 +470,7 @@ https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
 https://spt-comedias-1-us.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/1200px-Energy.svg.png" ,ENERGY
-https://live.mitele.es/hls/live/2005337/energy/playlist.m3u8?hdnts=st=1647711441~exp=1647711530~acl=/*~hmac=80aa4ede380ec5d3fffe7589a672c14d6c45fd27696fcf26687fae2aae3334a1
-
+https://live.mitele.es/hls/live/2005337/energy/playlist.m3u8?hdnts=st=1647732228~exp=1647732318~acl=/*~hmac=fb61ede8bc3c0afc895ff108eebbe618c20a821b55334b0a289a46b73368ad00
 #EXTINF:-1 tvg-logo="https://www.elnacional.cat/uploads/s1/39/93/72/tve1.png" ,LA 1
 https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8?hdnts=exp=1647711861~hmac=61829ca5cbe0be37d1a58768d5c1d7f22a054a29e224ac96cb087a70a0d2c3f2
 
