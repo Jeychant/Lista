@@ -183,8 +183,8 @@ https://cdn.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
 #EXTINF:-1 tvg-chno="61" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" ,HBO 2
 https://cdn.prepro.cvattv.com.ar/live/vod/HBO_2/SA_Live_WebVTT_FTA/HBO_2.m3u8
 
-#EXTINF:-1 tvg-chno="62" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/star_life_500x575_c881f5b4.png" ,STAR LIFE
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/72_.m3u8?token=M4sxzDK-4vlbnXEPrCtn9g&expires=1647578231&ip=148.0.169.193
+#EXTINF:-1 tvg-chno="62" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Sony_logo.svg/2560px-Sony_logo.svg.png" ,SONY
+https://cdn.prepro.cvattv.com.ar/live/vod/SonyHD/SA_Live_WebVTT_FTA/SonyHD.m3u8
 
 #EXTINF:-1 tvg-chno="63" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-FX_Movies_logo.svg.png" ,FXM
 https://cdn.prepro.cvattv.com.ar/live/vod/TheFilmZoneHD/SA_Live_WebVTT_FTA/TheFilmZoneHD.m3u8
@@ -195,11 +195,11 @@ https://cdn.prepro.cvattv.com.ar/live/vod/FXHD/SA_Live_WebVTT_FTA/FXHD.m3u8
 #EXTINF:-1 tvg-chno="65" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/800px-Canal_Golden_logo.svg.png" ,GOLDEN
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/202_.m3u8?token=uI8TCqxCKJX-WJowB0F3CA&expires=1647578777&ip=148.0.169.193
 
-#EXTINF:-1 tvg-chno="66" tvg-logo="https://telcammuzquiz.com/wp-content/uploads/2018/03/Golden-Plus.jpg" ,GOLDEN PLUS
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/73_.m3u8?token=JdxYZojHC0QCNKFmmtiA9A&expires=1647578896&ip=148.0.169.193
+#EXTINF:-1 tvg-chno="66" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" ,TRUTV
+https://cdn.prepro.cvattv.com.ar/live/vod/TruTV/SA_Live_WebVTT_FTA/TruTV.m3u8
 
-#EXTINF:-1 tvg-chno="66" tvg-logo="https://w7.pngwing.com/pngs/860/591/png-transparent-multipremier-52mx-television-multicinema-mvs-comunicaciones-cine-miscellaneous-television-angle.png" ,MULTIPREMIER
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/81_.m3u8?token=gYBNLPCBcGoKhQPpuM0oDg&expires=1647579089&ip=148.0.169.193
+#EXTINF:-1 tvg-chno="66" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/640px-TBS_logo_2016.svg.png" ,TBS
+https://cdn.prepro.cvattv.com.ar/live/vod/TBS/SA_Live_WebVTT_FTA/TBS.m3u8
 
 #EXTINF:-1 tvg-chno="67" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" ,AXN
 https://cdn.prepro.cvattv.com.ar/live/vod/AXNHD/SA_Live_WebVTT_FTA/AXNHD.m3u8
@@ -217,10 +217,10 @@ https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/82_.m3u8?token=eAsmhZFOfWhxo
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/85_.m3u8?token=ZzRzoGFdwkV2w95BHVyTSA&expires=1647579574&ip=148.0.169.193
 
 #EXTINF:-1 tvg-chno="72" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" ,TCM
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/152_.m3u8?token=1MDdOYgpyJdmYT1yiCik6w&expires=1647579640&ip=148.0.169.193
+https://cdn.prepro.cvattv.com.ar/live/vod/TCM/SA_Live_WebVTT_FTA/TCM.m3u8
 
 #EXTINF:-1 tvg-chno="73" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" ,HISTORY CHANNEL
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/49_.m3u8?token=ndSTd_syv71npX8gk-7ecA&expires=1647579739&ip=148.0.169.193
+https://cdn.prepro.cvattv.com.ar/live/vod/HistoryHD/SA_Live_WebVTT_FTA/HistoryHD.m3u8
 
 #EXTINF:-1 tvg-chno="74" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" ,HISTORY 2
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/50_.m3u8?token=baQsPnFwVZzmcM-clpVevg&expires=1647579822&ip=148.0.169.193
