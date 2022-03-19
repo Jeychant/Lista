@@ -177,7 +177,7 @@ https://cdn.prepro.cvattv.com.ar/live/vod/CinecanalHD/SA_Live_WebVTT_FTA/Cinecan
 #EXTINF:-1 tvg-chno="59" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" ,SYFY
 https://cdn.prepro.cvattv.com.ar/live/vod/SyFy/SA_Live_WebVTT_FTA/SyFy.m3u8
 
-#EXTINF:-1 tvg-chno="60" tvg-logo="https://www.telcosmedia.com.ar/wp-content/uploads/2021/09/hbo.jpg" ,HBO
+#EXTINF:-1 tvg-chno="60" tvg-logo="https://logos-marcas.com/wp-content/uploads/2020/09/HBO-Logotipo-1975-1981.jpg" ,HBO
 https://cdn.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
 
 #EXTINF:-1 tvg-chno="61" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" ,HBO 2
@@ -253,10 +253,10 @@ https://cdn.prepro.cvattv.com.ar/live/vod/DiscoveryHomeHealthHD/SA_Live_WebVTT_F
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/98_.m3u8?token=9VEkATxdnRJkCGySKTKzuA&expires=1647580400&ip=148.0.169.193
 
 #EXTINF:-1 tvg-chno="84" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/640px-A%26E_Network_logo.svg.png" ,A&E
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/99_.m3u8?token=Wd5pkMXYYu4Thhf9lO2hYw&expires=1647580458&ip=148.0.169.193
+https://cdn.prepro.cvattv.com.ar/live/vod/AEHD/SA_Live_WebVTT_FTA/AEHD.m3u8
 
 #EXTINF:-1 tvg-chno="85" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/800px-TLC_Logo.svg.png" ,DISCOVERY TLC
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/100_.m3u8?token=eqjF7PGYx7D9YWt6EGKc3w&expires=1647580512&ip=148.0.169.193
+https://cdn.prepro.cvattv.com.ar/live/vod/TLC/SA_Live_WebVTT_FTA/TLC.m3u8
 
 #EXTINF:-1 tvg-chno="86" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/2560px-2015_Discovery_theater_HD_logo.svg.png" ,DISCOVERY THEATER
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/101_.m3u8?token=JhZYipQtQ4OydVzBKW7yoQ&expires=1647580570&ip=148.0.169.193
@@ -268,22 +268,22 @@ https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/107_.m3u8?token=Xj8HZTVZ0Yib
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/108_.m3u8?token=dxsdmFzUS2y7kqnS6FwQBQ&expires=1647580709&ip=148.0.169.193
 
 #EXTINF:-1 tvg-chno="89" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Disney_Junior_logo.png" ,DISNEY JUNIOR
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/109_.m3u8?token=w5BCTXqv0AST9kFOrrybeg&expires=1647580823&ip=148.0.169.193
+https://cdn.prepro.cvattv.com.ar/live/vod/DisneyJr/SA_Live_WebVTT_FTA/DisneyJr.m3u8
 
 #EXTINF:-1 tvg-chno="90" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_logo_2009.svg/1280px-TeenNick_logo_2009.svg.png" ,TEEN NICK
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/111_.m3u8?token=ya-nZwgV9cUtygKKsBvSqg&expires=1647580896&ip=148.0.169.193
 
 #EXTINF:-1 tvg-chno="91" tvg-logo="http://nick-intl.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/webplex/site/nick/intl/nickelodeon-600x600.png" ,NICK
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/110_.m3u8?token=WBQNuYHzhsKk44LgO5LpnQ&expires=1647580855&ip=148.0.169.193
+https://cdn.prepro.cvattv.com.ar/live/vod/Nickelodeon/SA_Live_WebVTT_FTA/Nickelodeon.m3u8
 
 #EXTINF:-1 tvg-chno="92" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Nick_Jr._Channel_logo.svg/1200px-Nick_Jr._Channel_logo.svg.png" ,NICK JR
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/112_.m3u8?token=gkfoH0jIfhxMXg5wD3T1Kg&expires=1647580936&ip=148.0.169.193
 
 #EXTINF:-1 tvg-chno="93" tvg-logo="https://versusmedia.mx/wp-content/uploads/2021/09/CartoonNetwork.jpg" ,CARTOON NETWORK
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/114_.m3u8?token=fI6cRaq1tz4nh5qGpMAhiQ&expires=1647581065&ip=148.0.169.193
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="94" tvg-logo="https://cn.i.cdn.ti-platform.com/content/1057/boomerang/showpage/ar/boomerang.9b80d70b.png" ,BOOMERANG
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/115_.m3u8?token=n0elx9dDbOnhQDcCbIuJoA&expires=1647581119&ip=148.0.169.193
+https://cdn.prepro.cvattv.com.ar/live/vod/Boomerang/SA_Live_WebVTT_FTA/Boomerang.m3u8
 
 #EXTINF:-1 tvg-chno="95" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" ,TOONCAST
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/116_.m3u8?token=X0kYIU6yXdYlNZHpPVLQvg&expires=1647581181&ip=148.0.169.193
