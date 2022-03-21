@@ -13,13 +13,13 @@ https://ss9.domint.net:3032/tvp_str/tvp2111/chunklist_w1894196728.m3u8
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w471536589_b2146304.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png" ,TELEMICRO 5
-https://playback.akamaized.net/streams/27456795_8825585_lsiwimri524qoo4a92x_1/media/27456795_8825585_lsiwimri524qoo4a92x_1@2756000p.m3u8?dw=14400&ts=1647824400&hdnts=exp=1648000308~acl=/streams/27456795_8825585_lsiwimri524qoo4a92x_1/media*~hmac=2afdc764c65635049325875236f3f7bbf2d325e608984993e8166b7929a0a2cd
+https://playback.akamaized.net/streams/27456795_8825585_lsizli8m7fbz2jsyllj_1/media/27456795_8825585_lsizli8m7fbz2jsyllj_1@5256000p.m3u8?dw=14400&ts=1647903600&hdnts=exp=1648079166~acl=/streams/27456795_8825585_lsizli8m7fbz2jsyllj_1/media*~hmac=3afca88e0439566328798c2d6ec2ae6efd69df46a907fa0a7f21a019b2041e1c
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/rumba-985-en-vivo.jpg" ,RUMBA 98.5
 https://ss5.domint.net:3038/rum_str/rumba985fm/chunklist_w2101210168.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/antena-canal-7-en-vivo-online.jpg" ,ANTENA 7
-https://do-antena7-antena7-live.ned.media/antena7/smil:antena7.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQ3ODE4ODg2LCJzZXNzaW9uIjoiMTQ4LjAuMTcwLjExNyIsIndoaXRlbGlzdCI6WyIxNDguMC4xNzAuMTE3Il19LCJzaWduYXR1cmUiOiI3YTJiMzExM2Q1YmUyMzRjNTU0YWRmMjljNWMzNTJiM2RlZTVkYTllIn0=
+https://do-antena7-antena7-live.ned.media/antena7/smil:antena7.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQ3OTkyOTcyLCJzZXNzaW9uIjoiMTQ4LjAuMTU0LjQwIiwid2hpdGVsaXN0IjpbIjE0OC4wLjE1NC40MCJdfSwic2lnbmF0dXJlIjoiMDkzYjE2NGJmYzkxMDIzZWQ4ZWJhZWUzMzNiYWVkN2Q2MjA5ODc4YSJ9
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/telemax.png" ,TELEMAX
 https://cdn2.streamgato.us/telemax/telemax/chunklist_w262487431.m3u8
@@ -43,7 +43,7 @@ https://playback.akamaized.net/streams/28126860_9438854_lsit9gzpnrkfcleiui2_1/me
 https://cdn4.hostlagarto.com:8081/static/bajotechotv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/digital-15-en-vivo-online.jpg" ,DIGITAL 15
-https://playback.akamaized.net/streams/27456795_8268514_lsiv0dezs2vryqo4cqa_1/media/27456795_8268514_lsiv0dezs2vryqo4cqa_1@5256000p.m3u8?dw=14400&ts=1647828000&hdnts=exp=1648003409~acl=/streams/27456795_8268514_lsiv0dezs2vryqo4cqa_1/media*~hmac=86fa8e994a7119eaad26d41149185c1d924d1cf6d4e4f6bf63fb8e75d7e680d5
+https://playback.akamaized.net/streams/27456795_8268514_lsi0l7o0o5nxwx74kk2_1/media/27456795_8268514_lsi0l7o0o5nxwx74kk2_1@5256000p.m3u8?dw=14400&ts=1647903600&hdnts=exp=1648079235~acl=/streams/27456795_8268514_lsi0l7o0o5nxwx74kk2_1/media*~hmac=adb252ac9aeb4d01c5632700510c32d0ea2d730b043ef21dad2030cd2a337de0
 
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/08/tvo-romana-en-vivo-online.jpg" ,TVO ROMANA
 https://rctvhd.net:8081/tvoromanalive/tracks-v1a1/mono.m3u8
