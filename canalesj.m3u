@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/d3d309a59e5ba68ab995ca92564f1dc80cbb4393721243b176b0f56f107c41da.png" ,Z101 TV
-https://zdigital.streamprolive.com/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/canela-tv.jpg" ,CANELA TV
+https://cloudflare.streamgato.us:3953/live/canelatvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/05/teleantillas-en-vivo-canal-2-online.jpg" ,TELEANTILLAS
 https://stream-03.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2nSh8tAcLKpHFO9aL-ab_BM)/dm/3/x809r6i/s/live-1.m3u8
@@ -204,6 +204,15 @@ https://edge03-cde-py.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSport
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-uNJcLj_R08s/Yf_LGMRS9gI/AAAAAAAAAXY/_V9xKblQkWMkuCniuSVVEu067qmHq9pzwCNcBGAsYHQ/h1280/ver-fox-sports-3-en-vivo.jpg" ,FOX SPORTS 3
 https://edge03-cde-py.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/c3/a3/6ec3a3727705163c9ea59099c7062695.png" ,ALLSPORTS
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/teletrak.jpg" ,TELETRAK
+https://unlimited1-us.dps.live/teletrak/teletrak.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nomitek.com.mx/wp-content/uploads/2017/04/esr.png" ,ESR
+https://eyeonesports.com/ES2RA-628g.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" ,ESTRELLA TV
 https://estrellatv-plex.amagi.tv/playlist.m3u8
 
@@ -360,14 +369,6 @@ https://uni10rtmp.tulix.tv/bettervida/bettervida.stream/.m3u8
 #EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/us-llbn-latino-tv-9409.jpg" ,LLBN LATINO
 https://brightstar-latino.secure.footprint.net/egress/bhandler/brightstar/brightstarLatino/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/c3/a3/6ec3a3727705163c9ea59099c7062695.png" ,ALLSPORTS
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/teletrak.jpg" ,TELETRAK
-https://unlimited1-us.dps.live/teletrak/teletrak.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.nomitek.com.mx/wp-content/uploads/2017/04/esr.png" ,ESR
-https://eyeonesports.com/ES2RA-628g.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/LOGO_COSMO.png" ,COSMO
 http://154.62.74.12:1935/live/smil:cosmoHD/.m3u8
@@ -430,7 +431,7 @@ https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
 https://edge03-cde-py.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/816962948522508288/u9_NGzrW_400x400.jpg" ,DISCOVERY HOME&HEALH
-https://cdn.prepro.cvattv.com.ar/live/vod/DiscoveryHomeHealthHD/SA_Live_WebVTT_FTA/DiscoveryHomeHealthHD.m3u8
+https://edge03-cde-py.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" ,DISCOVERY SCIENCE EN
 https://h1.ustvgo.la/Science/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOS8yMDIyIDU6MDQ6NDUgUE0maGFzaF92YWx1ZT12ME11UWZXenVvZURvMWNKdVB3ZTdnPT0mdmFsaWRtaW51dGVzPTI0MA==
@@ -455,6 +456,9 @@ https://edge03-cde-py.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhWU7qTkDs3xwDNs8Ma9dfG1R4PEnjNr4tQkQT2VnRCmLimj4dC5VfGeAg__wPr8pzRHzWBfuuqNionC5CJz5ro8ymVHmo1-9LSEEEW1EgC6WEXlvN6Hsxuyso7RjM_4UbPYcSxhS92j6jFMlw-RzUwpTDKfoMxjxvSlfupuoUjMHtcvSF6BHncy1xl" ,LIFETIME
 https://edge03-cde-py.cvattv.com.ar/live/c6eds/Lifetime/SA_SAGEMCOM/Lifetime.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjDU2-NQ_ygyPrpD025WEqRBXaeaoomAOY0xdNvWJ_j-RP3tV5_5rlTvXrd1SrawikXi77-O-4t4cbgLhGzr7yOmb7wn7FTmxCJpzZLePTQR0aWRVAuKzSFnvecrf6f6gSEn_c3eBmvP_yhsuS1fagbMTtYTBi7Tr-dHO0-nQVk92nZRC-bxiCRxwwL" ,FOOD NETWORKS
+https://edge03-cde-py.cvattv.com.ar/live/c6eds/Food_Network/SA_SAGEMCOM/Food_Network.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" ,CINECANAL
 https://edge03-cde-py.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
@@ -498,6 +502,9 @@ https://edge03-cde-py.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extre
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-cOG2wg6K0ek/YaWYxcaJ6OI/AAAAAAAAAT0/32z4us23azA49tFh3B-z3EtrZ5042oQBwCLcBGAsYHQ/h1280/ver-hbo-family-hd-en-vivo-television-libre.png" ,HBO FAMILY
 https://edge03-cde-py.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi_lEwVNLUP41SkYZ7iALWXO71yB7aNdQnI_EsWsY6GvkiqPQ-Ix7_EbvktCXijoQyJOJKgrza89BPI2dbcb7dls8tHsni06Zik3IIYOyiuZbARanEFD5vjONfx-H9Du348CduwG0Je_O-Z9La0I_SeiiWPihzNEcv4vUAogcOn8N58jGTXnF8fDMva" ,STAR CHANNEL
+https://edge03-cde-py.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" ,AXN
 https://edge03-cde-py.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
 
@@ -514,7 +521,7 @@ https://edge03-cde-py.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
 https://cdn.prepro.cvattv.com.ar/live/vod/SyFy/SA_Live_WebVTT_FTA/SyFy.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" ,WARNER BROS
-https://cdn.prepro.cvattv.com.ar/live/vod/WarnerHD/SA_Live_WebVTT_FTA/WarnerHD.m3u8
+https://edge03-cde-py.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/08/Comedy-Central-logo.png" ,COMEDY CENTRAL
 https://cdn.prepro.cvattv.com.ar/live/vod/ComedyCentral/SA_Live_WebVTT_FTA/ComedyCentral.m3u8
@@ -573,17 +580,6 @@ https://edge03-cde-py.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/Cartoo
 EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-jbyXCmO1tD4/YXIvRy8qnpI/AAAAAAAAAR4/Mru1u3gvJ1w4Z574forFRxSDMnFZ6ajhgCLcBGAsYHQ/h120/ver-disney-junior.png" ,DISNEY JR
 https://edge03-cde-py.cvattv.com.ar/live/c7eds/DisneyJr/SA_SAGEMCOM/DisneyJr.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.elnacional.cat/uploads/s1/39/93/72/tve1.png" ,LA 1
-https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8?hdnts=exp=1647711861~hmac=61829ca5cbe0be37d1a58768d5c1d7f22a054a29e224ac96cb087a70a0d2c3f2
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/La_2_HD.png/220px-La_2_HD.png" ,LA 2
-https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main_dvr_1080.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.infovaticana.com/wp-content/uploads/2014/10/cuatro.jpg" ,CUATRO
-https://live.mitele.es/hls/live/2004102/cuatro/playlist.m3u8?hdnts=st=1647711532~exp=1647711621~acl=/*~hmac=01999926ca5e9387711231b0df0f7f93bba066b62add37cb71a211829e5f2360
-
-#EXTINF:-1 tvg-logo="https://static.elcorreo.com/www/multimedia/201804/02/media/cortadas/telecinco-lider-kMyE-U5014877590335KE-624x385@El%20Correo.jpg" ,TELECINCO
-https://live.mitele.es/hls/live/2004101/telecinco/playlist.m3u8?hdnts=st=1647711532~exp=1647711621~acl=/*~hmac=01999926ca5e9387711231b0df0f7f93bba066b62add37cb71a211829e5f2360
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" ,PARAMOUNT CHANNEL
 http://154.62.74.11:1935/live/paramount.smil/.m3u8
@@ -594,7 +590,9 @@ https://edge03-cde-py.cvattv.com.ar/live/c7eds/Pasiones/SA_SAGEMCOM/Pasiones.m3u
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgHN_1EUpmXnvt4YiWOXj3uDp1nLw2JOfjq47Bi8a5667Ln5rvP1C5hfq9lTukCRHrFwinKVmaV0oQ38WQrTJHqU89tzcm0CpkmfaPkh1-_fdMTfv3pe0GUpBvSyeOxooEFNa7r9vz6nVnlb4aBbtro2EqpvNmBuzwHSEYD4x5VLZtNBjOwsmtgAbU4" ,LAS ESTRELLAS
 https://edge03-cde-py.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" ,PARAMOUNT CHANNEL
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhqc0dqlfEiSP1qIqLuvyQKJbTadAOaFk2zMWEp2sURR1OXTK-GAtqu9Vx4cWu5REAwK7_1PwfAqxN5lTW8cHhZwlBMBnwLpD9a1bH96WWybqn5ZYQyTXylqcfbL0EOImo9XJ_UNL36A8xTZaL9s_v9VV6mT-w9-zP8On0Z8c8yBvlHd0I5aCvkqfwk" ,HOLA TV
+https://edge03-cde-py.cvattv.com.ar/live/c7eds/Hola_TV/SA_SAGEMCOM/Hola_TV.m3u8
+
 
 
 
