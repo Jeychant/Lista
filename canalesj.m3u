@@ -13,7 +13,7 @@ https://ss9.domint.net:3032/tvp_str/tvp2111/chunklist_w1894196728.m3u8
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w471536589_b2146304.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png" ,TELEMICRO 5
-https://player-api.new.livestream.com/accounts/27456795/events/8825585/broadcasts/230004681.secure.m3u8?dw=14400&hdnea=st%3D1647732367~exp%3D1647734167~acl%3D%2Fi%2F27456795_8825585_lsidc3iq7qrztq0xdn7_1%40190364%2F%2A~hmac%3D2a24caac0feb81d3e6909a254022e253d75f0bb107f2d9f5869adc8767a98f47&token=623667bb_1d61ab31652bde93ecfcb33a6f4a992b0609f9ad
+https://playback.akamaized.net/streams/27456795_8825585_lsiwimri524qoo4a92x_1/media/27456795_8825585_lsiwimri524qoo4a92x_1@2756000p.m3u8?dw=14400&ts=1647824400&hdnts=exp=1648000308~acl=/streams/27456795_8825585_lsiwimri524qoo4a92x_1/media*~hmac=2afdc764c65635049325875236f3f7bbf2d325e608984993e8166b7929a0a2cd
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/rumba-985-en-vivo.jpg" ,RUMBA 98.5
 https://ss5.domint.net:3038/rum_str/rumba985fm/chunklist_w2101210168.m3u8
