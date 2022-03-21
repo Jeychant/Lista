@@ -470,7 +470,8 @@ https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
 https://spt-comedias-1-us.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/1200px-Energy.svg.png" ,ENERGY
-https://live.mitele.es/hls/live/2005337/energy/playlist.m3u8?hdnts=st=1647732228~exp=1647732318~acl=/*~hmac=fb61ede8bc3c0afc895ff108eebbe618c20a821b55334b0a289a46b73368ad00
+http://154.62.74.28:1935/live/energy-Stream/chunklist_w1028201034.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.elnacional.cat/uploads/s1/39/93/72/tve1.png" ,LA 1
 https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8?hdnts=exp=1647711861~hmac=61829ca5cbe0be37d1a58768d5c1d7f22a054a29e224ac96cb087a70a0d2c3f2
 
