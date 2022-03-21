@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2488-294x165-FFFFFF.jpg" ,CHINOLA TV
-https://stream-us-east-1.getpublica.com/cl/c819d94d-dcf4-483d-b0f5-52b0b9520b71/720x480_1143600_0_false.m3u8
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/d3d309a59e5ba68ab995ca92564f1dc80cbb4393721243b176b0f56f107c41da.png" ,Z101 TV
+https://zdigital.streamprolive.com/hls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/05/teleantillas-en-vivo-canal-2-online.jpg" ,TELEANTILLAS
 https://stream-03.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2nSh8tAcLKpHFO9aL-ab_BM)/dm/3/x809r6i/s/live-1.m3u8
