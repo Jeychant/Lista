@@ -37,13 +37,13 @@ https://stream-01.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2qUnzCGLpRFxDbqTf5
 https://ss5.domint.net:3026/btv_str/bonao/chunklist_w1023022608.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telecentro-canal-13-en-vivo.png" ,TELECENTRO 13
-https://player-api.new.livestream.com/accounts/28126860/events/9438854/broadcasts/229993889.secure.m3u8?dw=14400&hdnea=st%3D1647732399~exp%3D1647734199~acl%3D%2Fi%2F28126860_9438854_lsiu7yvyv70b5pomyno_1%40688942%2F%2A~hmac%3Da9032cec993df5d9d072572929e6d2a1d98861ac69c2cc4bc07624518cac275a&token=623667db_aea90b30f44811621c75b5789dbe74f8f48d195b
+https://playback.akamaized.net/streams/28126860_9438854_lsit9gzpnrkfcleiui2_1/media/28126860_9438854_lsit9gzpnrkfcleiui2_1@2128000p.m3u8?dw=14400&ts=1647828000&hdnts=exp=1648003377~acl=/streams/28126860_9438854_lsit9gzpnrkfcleiui2_1/media*~hmac=89f756adfb466c436257dc22667c2e097e2474c8638481cb276141d7fa501fb2
 
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/bajo-techo-tv-en-vivo.jpg" ,BAJO TECHO TV
 https://cdn4.hostlagarto.com:8081/static/bajotechotv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/digital-15-en-vivo-online.jpg" ,DIGITAL 15
-https://player-api.new.livestream.com/accounts/27456795/events/8268514/broadcasts/230007356.secure.m3u8?dw=14400&hdnea=st%3D1647732425~exp%3D1647734225~acl%3D%2Fi%2F27456795_8268514_lsi0ckwuijjqrit29bd_1%40326493%2F%2A~hmac%3D5af4beb7ecbbeb01a81696845a129121d9b459e092cae0187db9015fdafe33af&token=623667f5_687c499f2394696331cf1b50095e9f0e8afbf966
+https://playback.akamaized.net/streams/27456795_8268514_lsiv0dezs2vryqo4cqa_1/media/27456795_8268514_lsiv0dezs2vryqo4cqa_1@5256000p.m3u8?dw=14400&ts=1647828000&hdnts=exp=1648003409~acl=/streams/27456795_8268514_lsiv0dezs2vryqo4cqa_1/media*~hmac=86fa8e994a7119eaad26d41149185c1d924d1cf6d4e4f6bf63fb8e75d7e680d5
 
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/08/tvo-romana-en-vivo-online.jpg" ,TVO ROMANA
 https://rctvhd.net:8081/tvoromanalive/tracks-v1a1/mono.m3u8
@@ -453,6 +453,9 @@ https://cdn.prepro.cvattv.com.ar/live/vod/NatGeoWildHD/SA_Live_WebVTT_FTA/NatGeo
 #EXTINF:-1 tvg-logo="https://i.natgeofe.com/n/e76f5368-6797-4794-b7f6-8d757c79ea5c/ng-logo-2fl.png" ,NATGEO
 https://cdn.prepro.cvattv.com.ar/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhWU7qTkDs3xwDNs8Ma9dfG1R4PEnjNr4tQkQT2VnRCmLimj4dC5VfGeAg__wPr8pzRHzWBfuuqNionC5CJz5ro8ymVHmo1-9LSEEEW1EgC6WEXlvN6Hsxuyso7RjM_4UbPYcSxhS92j6jFMlw-RzUwpTDKfoMxjxvSlfupuoUjMHtcvSF6BHncy1xl" ,LIFETIME
+https://edge03-cde-py.cvattv.com.ar/live/c6eds/Lifetime/SA_SAGEMCOM/Lifetime.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" ,CINECANAL
 https://cdn.prepro.cvattv.com.ar/live/vod/CinecanalHD/SA_Live_WebVTT_FTA/CinecanalHD.m3u8
 
@@ -555,7 +558,6 @@ https://edge03-cde-py.cvattv.com.ar/live/c7eds/DisneyXD/SA_SAGEMCOM/DisneyXD.m3u
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ArZ2H9gDjgQ/YT4-ZYGfWtI/AAAAAAAAAKw/el9PT_iCX7QRN9SAvK08gUfxS5DjkTsEACLcBGAsYHQ/s320/Tooncast.png" ,TOONCAST
 https://edge03-cde-py.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ZVx8_exFxYQ/YT4_FY_WBAI/AAAAAAAAAK4/wq2VagLcw4kREJMXl58558VA2LzijbrRQCLcBGAsYHQ/h120/Nick_Jr.png" ,NICK JR
 https://edge03-cde-py.cvattv.com.ar/live/c6eds/Nick_Jr/SA_SAGEMCOM/Nick_Jr.m3u8
 
@@ -585,4 +587,14 @@ https://live.mitele.es/hls/live/2004101/telecinco/playlist.m3u8?hdnts=st=1647711
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" ,PARAMOUNT CHANNEL
 http://154.62.74.11:1935/live/paramount.smil/.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhKQGDwKzD3c5JZSM2o8QCOB-xb6p1gN_3WHDqxv_o-zwujoFZTWL5FlW7SeuJBP9vhO6ISvmWLNxmtK6PqHRjY_c83eejP9dBu5uCkUIGswTJvll6mGH2xnaZSomw1c6Lx8Ln5I4qOBD45SobNIGoT4EVzmGHEBvgda4GZlA7g0FW57gfe-mFpDRGX" ,PASIONES
+https://edge03-cde-py.cvattv.com.ar/live/c7eds/Pasiones/SA_SAGEMCOM/Pasiones.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgHN_1EUpmXnvt4YiWOXj3uDp1nLw2JOfjq47Bi8a5667Ln5rvP1C5hfq9lTukCRHrFwinKVmaV0oQ38WQrTJHqU89tzcm0CpkmfaPkh1-_fdMTfv3pe0GUpBvSyeOxooEFNa7r9vz6nVnlb4aBbtro2EqpvNmBuzwHSEYD4x5VLZtNBjOwsmtgAbU4" ,LAS ESTRELLAS
+https://edge03-cde-py.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" ,PARAMOUNT CHANNEL
+
+
 
