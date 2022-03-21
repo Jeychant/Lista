@@ -421,6 +421,10 @@ https://cdn.prepro.cvattv.com.ar/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" ,CINECANAL
 https://cdn.prepro.cvattv.com.ar/live/vod/CinecanalHD/SA_Live_WebVTT_FTA/CinecanalHD.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://img.favpng.com/17/5/17/space-logo-television-channel-esporte-interativo-png-favpng-VVxR657Qh8Nb2bcMZqQ3QEru0.jpg" ,SPACE
+https://edge03-cde-py.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
+
 #EXTINF:-1 tvg-logo="https://miracomosehace.com/wp-content/uploads/2020/03/logo-hbo.jpg" ,HBO
 https://cdn.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
 
