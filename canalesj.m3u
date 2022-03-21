@@ -61,7 +61,7 @@ https://live.teledom.info:3713/live/cinevisionlive.m3u8
 http://50.30.37.36:1935/live/stream/chunklist_w199173519.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Antena_21_2017.png/revision/latest?cb=20171109210821" ,ANTENA 21
-https://do-antena7-canal21-live.ned.media/antena7/smil:canal21.smil/chunklist_b1128000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQ3NjA5MTM5LCJzZXNzaW9uIjoiMTQ4LjAuMTU3LjE4MyIsIndoaXRlbGlzdCI6WyIxNDguMC4xNTcuMTgzIl19LCJzaWduYXR1cmUiOiJjZGY0NTQzY2NjMTViNGVkODg4OWJhMTRhMTAzN2MzYjA3MmZiNzEwIn0%3D
+https://do-antena7-canal21-live.ned.media/antena7/smil:canal21.smil/chunklist_b1128000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQ3OTE3Mjg1LCJzZXNzaW9uIjoiMTQ4LjAuMTUxLjgyIiwid2hpdGVsaXN0IjpbIjE0OC4wLjE1MS44MiJdfSwic2lnbmF0dXJlIjoiOTRjNzdmODdmYzJiYTc0ODIxNmYyOTNmNmJkZTA3ZjJlMjg2M2Y1OSJ9
 
 #EXTINF:-1 tvg-logo="https://senalestv.com/wp-content/themes/senalestv/wp/inc/images/logos/logo-senalestv.png" ,SEÑALES TV
 https://live.teledom.info:4000/live/senalestvlive.m3u8
