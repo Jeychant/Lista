@@ -210,6 +210,9 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/teletrak.jpg" ,TELETRAK
 https://unlimited1-us.dps.live/teletrak/teletrak.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://motoamerica.com/wp-content/uploads/2020/03/mavtvLogo.jpg" ,MAVTV
+https://mavtv-mavtvglobal-1-gb.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.nomitek.com.mx/wp-content/uploads/2017/04/esr.png" ,ESR
 https://eyeonesports.com/ES2RA-628g.m3u8
 
@@ -439,6 +442,12 @@ https://h1.ustvgo.la/Science/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9
 #EXTINF:-1 tvg-logo="https://dcom-prod.imgix.net/files/2020-12/tlc_thumb.png" ,DISCOVERY TLC
 https://cdn.prepro.cvattv.com.ar/live/vod/TLC/SA_Live_WebVTT_FTA/TLC.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" ,DISCOVERY TURBO
+https://edge03-fdo-py.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1067px-2018_Animal_Planet_logo.svg.png" ,ANIMAL PLANET
+https://edge03-fdo-py.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet.m3u8
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-AfuVdq0OWu4/Yfxi0A3wy0I/AAAAAAAAAXA/6z3Wj3CxHHoLnKzpD0e2LcqlAHGK_SxzQCNcBGAsYHQ/h1280/ver-discovery-id-en-vivo.png" ,DISCOVERY ID
 https://edge03-cde-py.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
 
@@ -579,7 +588,6 @@ https://edge03-cde-py.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/Cartoo
 
 EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-jbyXCmO1tD4/YXIvRy8qnpI/AAAAAAAAAR4/Mru1u3gvJ1w4Z574forFRxSDMnFZ6ajhgCLcBGAsYHQ/h120/ver-disney-junior.png" ,DISNEY JR
 https://edge03-cde-py.cvattv.com.ar/live/c7eds/DisneyJr/SA_SAGEMCOM/DisneyJr.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" ,PARAMOUNT CHANNEL
 http://154.62.74.11:1935/live/paramount.smil/.m3u8
