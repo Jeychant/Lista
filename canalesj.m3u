@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 TVG-CHNO="1" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2488-294x165-FFFFFF.jpg" ,CHINOLA TV
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2488-294x165-FFFFFF.jpg" ,CHINOLA TV
 https://stream-us-east-1.getpublica.com/cl/c819d94d-dcf4-483d-b0f5-52b0b9520b71/720x480_1143600_0_false.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/05/teleantillas-en-vivo-canal-2-online.jpg" ,TELEANTILLAS
@@ -153,8 +153,8 @@ https://cdn2.streamgato.us/alegrandotv/alegrandotv/chunklist_w948369323.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png" ,RT NOTICIAS
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2014/03/logo_principal_telemundo.jpg" ,CNN
-https://1439734486.rsc.cdn77.org/Eaf-eiH1e0xSVD_j2ghDSw==,1647707674/1439734486/index.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-akcrmoPPNPY/YT5IhHkjm7I/AAAAAAAAAMg/XUVvIU00AacfChaqRK9kQsCdbzlY3QtWQCLcBGAsYHQ/h120/CNN_ES.png" ,CNN
+https://edge03-cde-py.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_SAGEMCOM/CNN_en_Espanol.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Abc-news-logo.png" ,ABCNEWS
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
@@ -174,6 +174,36 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" ,CGTN ES
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-5GVI6jDtTwg/YaW15LD6VJI/AAAAAAAAAUk/UjYya0ti1Lg2wF3ucaU_29wjHipI2e-fQCLcBGAsYHQ/h1280/ver-fox-sports-premium-hd-en-vivo-television-libre.png" ,FOX SPORT PREMIUM
+https://edge03-cde-py.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg9kusYu-mEJpzIZXMGqfvGuf7cZNQBgoAt8q8qSo0XqnMRFo2KDlCWLuD3LNgXS2n4oAxQWhL3fPiL6iw2EHw-BflGl3JWSHwPGiq5NI_9QJC_t51AHaaPrm9lFOfuxKjWMJP1U-X4uC26eV77oQKty1Y0OOxX61GylFOAgN4DxeaLZe22z9mXEgZm" ,TNT SPORT
+https://edge03-cde-py.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-90LMQCmhDqo/YT5KvolVhyI/AAAAAAAAAMw/XeQETtspZTM8h_nFKLr1v3bSgpwr2hJ_wCLcBGAsYHQ/h120/tycsports.png" ,TYC SPORTS
+https://edge03-cde-py.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-FYVcpfemo4c/YUGnQ9HvSsI/AAAAAAAAAQQ/MMr9AFOuPaQHThJkarFEJQ9OOhdaaMS5wCLcBGAsYHQ/h120/ESPN.png" ,ESPN
+https://edge03-cde-py.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1bXOE3IaH0o/YUGnydIbP2I/AAAAAAAAAQY/yc0MjnBnjHUF2qqnIUnCalxVFBYsmIU7QCLcBGAsYHQ/h120/ESPN_2.png" ,ESPN 2
+https://edge03-cde-py.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Be2ElF9gW0Q/YUGoGu1TDCI/AAAAAAAAAQg/Fb8rsIPZRJA1fLoypsKw9DCZOi9HhQ3awCLcBGAsYHQ/h120/ESPN_3.png" ,ESPN 3
+https://edge03-cde-py.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-pLVNSNUCGEQ/YUH3mErF5PI/AAAAAAAAARQ/cX-Rhn3gV-EbhGgeZ1NVWsCv6QEZ3W5qACLcBGAsYHQ/h120/espnextra.png" ,ESPN EXTRA
+https://edge03-cde-py.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-hHI4-9I3JuE/YT5ManmHKkI/AAAAAAAAANI/yIsahDthZkkpCzHIYuMn4nC7D6QXk9AbgCLcBGAsYHQ/h120/Fox_Sports.png" ,FOX SPORTS
+https://edge03-cde-py.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-qFsYZaIjozo/YT5Mwq2o6FI/AAAAAAAAANQ/rQxMUo7-REozgCIiOzVakG8Ia2C5bCb-wCLcBGAsYHQ/h120/Fox_Sports_2.png" ,FOX SPORTS 2
+https://edge03-cde-py.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-uNJcLj_R08s/Yf_LGMRS9gI/AAAAAAAAAXY/_V9xKblQkWMkuCniuSVVEu067qmHq9pzwCNcBGAsYHQ/h1280/ver-fox-sports-3-en-vivo.jpg" ,FOX SPORTS 3
+https://edge03-cde-py.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" ,ESTRELLA TV
 https://estrellatv-plex.amagi.tv/playlist.m3u8
 
@@ -182,7 +212,6 @@ https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/04/mega-tv-puerto-rico-en-vivo-Online.png" ,MEGATV
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/wipr-puerto-rico-tv-en-vivo-886.png" ,WIPR
 https://streamwipr.pr/hls/wipr/index.m3u8
@@ -409,8 +438,14 @@ https://h1.ustvgo.la/Science/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9
 #EXTINF:-1 tvg-logo="https://dcom-prod.imgix.net/files/2020-12/tlc_thumb.png" ,DISCOVERY TLC
 https://cdn.prepro.cvattv.com.ar/live/vod/TLC/SA_Live_WebVTT_FTA/TLC.m3u8
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-AfuVdq0OWu4/Yfxi0A3wy0I/AAAAAAAAAXA/6z3Wj3CxHHoLnKzpD0e2LcqlAHGK_SxzQCNcBGAsYHQ/h1280/ver-discovery-id-en-vivo.png" ,DISCOVERY ID
+https://edge03-cde-py.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" ,HISTORY
 https://cdn.prepro.cvattv.com.ar/live/vod/HistoryHD/SA_Live_WebVTT_FTA/HistoryHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" ,HISTORY 2
+https://edge03-cde-py.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" ,NATGEO WILD
 https://cdn.prepro.cvattv.com.ar/live/vod/NatGeoWildHD/SA_Live_WebVTT_FTA/NatGeoWildHD.m3u8
@@ -508,6 +543,34 @@ https://spt-comedias-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/1200px-Energy.svg.png" ,ENERGY
 http://154.62.74.28:1935/live/energy-Stream/chunklist_w1028201034.m3u8
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3qEDaRM02L4/YT48fWBTHeI/AAAAAAAAAKg/rXQ-f423gtIFwjryayxVxRETuTqVVB6GwCLcBGAsYHQ/s100/Discovery_Kids.png" ,DISCOVERY KIDS
+https://edge03-cde-py.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-eqMrg8h2rPw/YXLjZ5ewIWI/AAAAAAAAASU/BIBid1FrgQAZGU4Bz7H7Pc6M6WWfGm5OgCLcBGAsYHQ/h120/ver-boomerang-en-vivo.png" ,BOOMERANG
+https://edge03-cde-py.cvattv.com.ar/live/c7eds/Boomerang/SA_SAGEMCOM/Boomerang.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-i06a2RNeq04/YT4_qFK6lvI/AAAAAAAAALA/kHIKmF-huXoV1t_t2i2N8t4ZhvTUDeBJgCLcBGAsYHQ/h120/Disney_XD.png" ,DISNEY XD
+https://edge03-cde-py.cvattv.com.ar/live/c7eds/DisneyXD/SA_SAGEMCOM/DisneyXD.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ArZ2H9gDjgQ/YT4-ZYGfWtI/AAAAAAAAAKw/el9PT_iCX7QRN9SAvK08gUfxS5DjkTsEACLcBGAsYHQ/s320/Tooncast.png" ,TOONCAST
+https://edge03-cde-py.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ZVx8_exFxYQ/YT4_FY_WBAI/AAAAAAAAAK4/wq2VagLcw4kREJMXl58558VA2LzijbrRQCLcBGAsYHQ/h120/Nick_Jr.png" ,NICK JR
+https://edge03-cde-py.cvattv.com.ar/live/c6eds/Nick_Jr/SA_SAGEMCOM/Nick_Jr.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-x7HV6qdJM5A/YXLiX_vAciI/AAAAAAAAASM/hEi9CcwkDxoFb-fsLIR04CslwcAoyt8MwCLcBGAsYHQ/h120/ver-disney-channel.png" ,DISNEY CHANNEL
+https://edge03-cde-py.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-fAD0ogKTE0g/YXIvsp-SuLI/AAAAAAAAASE/0REtoDv6Zv0njbxhJPoffkCIOc6lqf_4gCLcBGAsYHQ/h120/ver-nickelodeon-en-vivo.png" ,NICK
+https://edge03-cde-py.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelodeon.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-yo0y8VMr8jA/YXIvD8SpXkI/AAAAAAAAAR0/rMwi77Tj7lYPeudTHQ8jGSFMwSFJ28zjACLcBGAsYHQ/h120/ver-cartoon-network.png" ,CARTOON NETWORK
+https://edge03-cde-py.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
+
+EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-jbyXCmO1tD4/YXIvRy8qnpI/AAAAAAAAAR4/Mru1u3gvJ1w4Z574forFRxSDMnFZ6ajhgCLcBGAsYHQ/h120/ver-disney-junior.png" ,DISNEY JR
+https://edge03-cde-py.cvattv.com.ar/live/c7eds/DisneyJr/SA_SAGEMCOM/DisneyJr.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.elnacional.cat/uploads/s1/39/93/72/tve1.png" ,LA 1
 https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8?hdnts=exp=1647711861~hmac=61829ca5cbe0be37d1a58768d5c1d7f22a054a29e224ac96cb087a70a0d2c3f2
 
@@ -522,3 +585,4 @@ https://live.mitele.es/hls/live/2004101/telecinco/playlist.m3u8?hdnts=st=1647711
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" ,PARAMOUNT CHANNEL
 http://154.62.74.11:1935/live/paramount.smil/.m3u8
+
