@@ -171,6 +171,12 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" ,CGTN ES
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png" ,TN
+https://edge01-fdo-py.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/C5N.svg/1200px-C5N.svg.png" ,C5N
+https://edge01-fdo-py.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N.m3u8
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-5GVI6jDtTwg/YaW15LD6VJI/AAAAAAAAAUk/UjYya0ti1Lg2wF3ucaU_29wjHipI2e-fQCLcBGAsYHQ/h1280/ver-fox-sports-premium-hd-en-vivo-television-libre.png" ,FOX SPORT PREMIUM
 https://edge03-fdo-py.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
 
@@ -254,6 +260,9 @@ https://edge03-fdo-py.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhWU7qTkDs3xwDNs8Ma9dfG1R4PEnjNr4tQkQT2VnRCmLimj4dC5VfGeAg__wPr8pzRHzWBfuuqNionC5CJz5ro8ymVHmo1-9LSEEEW1EgC6WEXlvN6Hsxuyso7RjM_4UbPYcSxhS92j6jFMlw-RzUwpTDKfoMxjxvSlfupuoUjMHtcvSF6BHncy1xl" ,LIFETIME
 https://edge03-fdo-py.cvattv.com.ar/live/c6eds/Lifetime/SA_SAGEMCOM/Lifetime.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" ,ELGOURMET
+https://edge01-fdo-py.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjDU2-NQ_ygyPrpD025WEqRBXaeaoomAOY0xdNvWJ_j-RP3tV5_5rlTvXrd1SrawikXi77-O-4t4cbgLhGzr7yOmb7wn7FTmxCJpzZLePTQR0aWRVAuKzSFnvecrf6f6gSEn_c3eBmvP_yhsuS1fagbMTtYTBi7Tr-dHO0-nQVk92nZRC-bxiCRxwwL" ,FOOD NETWORKS
 https://edge03-fdo-py.cvattv.com.ar/live/c6eds/Food_Network/SA_SAGEMCOM/Food_Network.m3u8
