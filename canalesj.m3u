@@ -13,7 +13,7 @@ https://ss9.domint.net:3032/tvp_str/tvp2111/chunklist_w1894196728.m3u8
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w471536589_b2146304.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png" ,TELEMICRO 5
-https://playback.akamaized.net/streams/27456795_8825585_lsinkdud1fzdc07aoc0_1/media/27456795_8825585_lsinkdud1fzdc07aoc0_1@2756000p.m3u8?dw=14400&ts=1648080000&hdnts=exp=1648255796~acl=/streams/27456795_8825585_lsinkdud1fzdc07aoc0_1/media*~hmac=21ad53185504e29a6ad3d4d767f5308394692b3840ee912835953aa7dcce14e4
+https://playback.akamaized.net/streams/27456795_8825585_lsiby5hmefwlkf7elzj_1/media/27456795_8825585_lsiby5hmefwlkf7elzj_1@5256000p.m3u8?dw=14400&ts=1648162800&hdnts=exp=1648338386~acl=/streams/27456795_8825585_lsiby5hmefwlkf7elzj_1/media*~hmac=539f7566a0e6f4375ec11c75945923c8551935183c13b48f43a58c2f301cd567
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/rumba-985-en-vivo.jpg" ,RUMBA 98.5
 https://ss5.domint.net:3038/rum_str/rumba985fm/chunklist_w2101210168.m3u8
@@ -22,7 +22,7 @@ https://ss5.domint.net:3038/rum_str/rumba985fm/chunklist_w2101210168.m3u8
 https://do-antena7-antena7-live.ned.media/antena7/smil:antena7.smil/chunklist_b1128000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQ4MDgyNjkxLCJzZXNzaW9uIjoiMTQ4LjAuMTg3LjI2Iiwid2hpdGVsaXN0IjpbIjE0OC4wLjE4Ny4yNiJdfSwic2lnbmF0dXJlIjoiN2VjZDdkYmJlMTg1Y2YwMjA5MTQxOWZlNTU5ODE3ZDhlYjVhMzYyMSJ9
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/telemax.png" ,TELEMAX
-https://cdn2.streamgato.us/telemax/telemax/chunklist_w262487431.m3u8
+https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/color-vision-canal-9-en-vivo-online.png" ,COLOR VISION
 https://stream-02.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY9I54FuP0hCy2D2XSohKGmA)/dm/3/x7gy059/d/live-3.m3u8
