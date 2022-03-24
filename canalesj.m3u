@@ -1,5 +1,21 @@
 #EXTM3U
 
+EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:231219
+#EXT-X-TARGETDURATION:5
+#EXTINF:5.105,
+tmicro-231219.ts
+#EXTINF:5.105,
+tmicro-231220.ts
+#EXTINF:5.105,
+tmicro-231221.ts
+#EXTINF:5.239,
+tmicro-231222.ts
+#EXTINF:5.238,
+tmicro-231223.ts
+#EXTINF:5.039,
+tmicro-231224.ts
+
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/canela-tv.jpg" ,CANELA TV
 https://cloudflare.streamgato.us:3953/live/canelatvlive.m3u8
 
