@@ -13,7 +13,8 @@ https://ss9.domint.net:3032/tvp_str/tvp2111/chunklist_w1894196728.m3u8
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w471536589_b2146304.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png" ,TELEMICRO 5
-https://player-api.new.livestream.com/accounts/27456795/events/8825585/broadcasts/230128474.secure.m3u8?dw=14400&hdnea=st%3D1648256391~exp%3D1648258191~acl%3D%2Fi%2F27456795_8825585_lsiu0daoktt1l7d3t72_1%40407899%2F%2A~hmac%3D0f5240624af463e69345274ad3f18fea5dc82ce2302594dbe289e06aff0d2642&token=623e66b3_6b0bc858d8da7181d80d8d960cb32118982fb1bc
+http://51.81.93.29:8084/hls/tmicro.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/rumba-985-en-vivo.jpg" ,RUMBA 98.5
 https://ss5.domint.net:3038/rum_str/rumba985fm/chunklist_w2101210168.m3u8
