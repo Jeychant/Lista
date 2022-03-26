@@ -270,9 +270,7 @@ https://edge4-hr.cvattv.com.ar/live/c6eds/Food_Network/SA_SAGEMCOM/Food_Network.
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/1280px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png" ,MASCHIC
 https://amc-maschic-1.plex.wurl.com/manifest/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" ,ELGOURMET
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" ,CINECANAL
 https://edge4-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
@@ -640,4 +638,6 @@ https://h4ahsm.cfeucdn.com/silverlight/secip/59510/6400/5MVAlQ9LHXNvAsmlJGnDdw/M
 #EXTINF:-1 tvg-id="LA ESQUINA DEL DIABLO" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjIxZjNiMDQtMGRlYS00NDliLThmNDEtN2EwYzhiZjgxZjUxXkEyXkFqcGdeQXVyMjQ2MDQwNDU@._V1_FMjpg_UX1000_.jpg" group-title="NOVELAS" ,LA ESQUINA DEL DIABLO CAP 28
 https://hy53gd.cfeucdn.com/silverlight/secip/59510/6400/nHJ6aa7AlEJTxosUG_Jlow/MTQ4LjAuMTYwLjE0Mw==/1648286662/hls-vod-s006/flv/api/files/videos/2018/09/10/1536604687bkuum.mp4.m3u8
 
+#EXTINF:-1 tvg-id="EL SEÑOR DE LOS CIELOS TEMPORADA 1" tvg-logo="https://www.ennovelas.com/category/El+Se%C3%B1or+de+los+Cielos+1+Temporada" group-title="NOVELAS" ,EL SEÑOR DE LOS CIELOS 1
+https://01-ukr-sv.ennovelas.com/wlooov6yopz54amjhxtyim4dffeo7fuzxbhs4jygl4fxatnfxuwfo2asw6ga/v.mp4
 
