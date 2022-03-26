@@ -1,4 +1,4 @@
 # EXTM3U url-tvg ="https://raw.githubusercontent.com/Mcarv00/gatotv/master/guide.xml"
 
-#EXTINF:-1 channel id="TNTAmericaLatina.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TNT.svg/1200px-TNT.svg.png" ,TNTAmericaLatina.us
+#EXTINF:-1 tvg-id="19384" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TNT.svg/1200px-TNT.svg.png" ,TNT
 https://edge4-hr.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
