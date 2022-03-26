@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/do/gatotv.com.epg.xml"
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/canela-tv.jpg" group-title="CANALES" ,CANELA TV
 https://cloudflare.streamgato.us:3953/live/canelatvlive.m3u8
