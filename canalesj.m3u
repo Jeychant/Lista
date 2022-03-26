@@ -3,151 +3,151 @@
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/canela-tv.jpg" group-title="CANALES" ,CANELA TV
 https://cloudflare.streamgato.us:3953/live/canelatvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/05/teleantillas-en-vivo-canal-2-online.jpg" ,TELEANTILLAS
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/05/teleantillas-en-vivo-canal-2-online.jpg" group-title="CANALES" ,TELEANTILLAS
 https://stream-02.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2nEXDJ_ZYJ8igxt0dmOQRZw)/dm/3/x809r6i/s/live-1.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/tv_plata_canal_3.jpg" ,TV PLATA 3
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/tv_plata_canal_3.jpg" group-title="CANALES" ,TV PLATA 3
 https://ss9.domint.net:3032/tvp_str/tvp2111/chunklist_w1894196728.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/Canal-4-rd-en-vivo-y-directo.png" ,CANAL 4 RD
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/Canal-4-rd-en-vivo-y-directo.png" group-title="CANALES" ,CANAL 4 RD
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w471536589_b2146304.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png" ,TELEMICRO 5
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png" group-title="CANALES"  ,TELEMICRO 5
 https://player-api.new.livestream.com/accounts/27456795/events/8825585/broadcasts/230128474.secure.m3u8?dw=14400&hdnea=st%3D1648256391~exp%3D1648258191~acl%3D%2Fi%2F27456795_8825585_lsiu0daoktt1l7d3t72_1%40407899%2F%2A~hmac%3D0f5240624af463e69345274ad3f18fea5dc82ce2302594dbe289e06aff0d2642&token=623e66b3_6b0bc858d8da7181d80d8d960cb32118982fb1bc
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/rumba-985-en-vivo.jpg" ,RUMBA 98.5
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/rumba-985-en-vivo.jpg" group-title="CANALES" ,RUMBA 98.5
 https://ss5.domint.net:3038/rum_str/rumba985fm/chunklist_w2101210168.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/antena-canal-7-en-vivo-online.jpg" ,ANTENA 7
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/antena-canal-7-en-vivo-online.jpg" group-title="CANALES" ,ANTENA 7
 https://do-antena7-antena7-live.ned.media/antena7/smil:antena7.smil/chunklist_b1128000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQ4MzA3OTQ3LCJzZXNzaW9uIjoiMTQ4LjAuMTYwLjE0MyIsIndoaXRlbGlzdCI6WyIxNDguMC4xNjAuMTQzIl19LCJzaWduYXR1cmUiOiJiOGIxYzMxZjZmODA5ODQ5YzQyYWU3NGJhODY2YzRhOWE2ZDQ2MTllIn0%3D
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/telemax.png" ,TELEMAX
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/telemax.png" group-title="CANALES" ,TELEMAX
 https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/color-vision-canal-9-en-vivo-online.png" ,COLOR VISION
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/color-vision-canal-9-en-vivo-online.png" group-title="CANALES" ,COLOR VISION
 https://stream-02.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY9I54FuP0hCy2D2XSohKGmA)/dm/3/x7gy059/d/live-3.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.telesur.com.do/images/telesur_canal_10_logo2.png" ,TELESUR CANAL 10
+#EXTINF:-1 tvg-logo="http://www.telesur.com.do/images/telesur_canal_10_logo2.png" group-title="CANALES" ,TELESUR CANAL 10
 https://ss3.domint.net:3124/tls_str/telesur/chunklist_w798170752.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telesistema-canal-11-en-vivo-online.png" ,TELESISTEMA 11
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telesistema-canal-11-en-vivo-online.png" group-title="CANALES" ,TELESISTEMA 11
 https://stream-01.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2nZlq38dSNcQdIqpkeZh2Pg)/dm/3/x80ac48/s/live-3.m3u8#cell=lnyc
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/bonao-tv-en-vivo-online-canal-12.jpg" ,BONAO TV
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/bonao-tv-en-vivo-online-canal-12.jpg" group-title="CANALES" ,BONAO TV
 https://ss5.domint.net:3026/btv_str/bonao/chunklist_w1023022608.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telecentro-canal-13-en-vivo.png" ,TELECENTRO 13
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telecentro-canal-13-en-vivo.png" group-title="CANALES" ,TELECENTRO 13
 https://playback.akamaized.net/streams/28126860_9438854_lsit9gzpnrkfcleiui2_1/media/28126860_9438854_lsit9gzpnrkfcleiui2_1@2128000p.m3u8?dw=14400&ts=1647828000&hdnts=exp=1648003377~acl=/streams/28126860_9438854_lsit9gzpnrkfcleiui2_1/media*~hmac=89f756adfb466c436257dc22667c2e097e2474c8638481cb276141d7fa501fb2
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/bajo-techo-tv-en-vivo.jpg" ,BAJO TECHO TV
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/bajo-techo-tv-en-vivo.jpg" group-title="CANALES" ,BAJO TECHO TV
 https://cdn4.hostlagarto.com:8081/static/bajotechotv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/digital-15-en-vivo-online.jpg" ,DIGITAL 15
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/digital-15-en-vivo-online.jpg" group-title="CANALES" ,DIGITAL 15
 https://playback.akamaized.net/streams/27456795_8268514_lsi0l7o0o5nxwx74kk2_1/media/27456795_8268514_lsi0l7o0o5nxwx74kk2_1@5256000p.m3u8?dw=14400&ts=1647903600&hdnts=exp=1648079235~acl=/streams/27456795_8268514_lsi0l7o0o5nxwx74kk2_1/media*~hmac=adb252ac9aeb4d01c5632700510c32d0ea2d730b043ef21dad2030cd2a337de0
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/08/tvo-romana-en-vivo-online.jpg" ,TVO ROMANA
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/08/tvo-romana-en-vivo-online.jpg" group-title="CANALES" ,TVO ROMANA
 https://rctvhd.net:8081/tvoromanalive/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/teleunion_canal_16_santiago.jpg" ,TELEUNION
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/teleunion_canal_16_santiago.jpg" group-title="CANALES" ,TELEUNION
 http://server3.prostudionetwork.com:1945/teleunion/TU/chunklist_w777712053.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/telenord.jpg" ,TELENORD
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/telenord.jpg" group-title="CANALES" ,TELENORD
 http://newyorkstream.ddns.net:5854/telenord8/telenord8/chunklist_w509216998.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/cinevision-canal-19-en-vivo-online.jpg" ,CINEVISION
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/cinevision-canal-19-en-vivo-online.jpg" group-title="CANALES" ,CINEVISION
 https://live.teledom.info:3713/live/cinevisionlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/comunion-tv.png" ,COMUNION TV
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/comunion-tv.png" group-title="CANALES" ,COMUNION TV
 http://50.30.37.36:1935/live/stream/chunklist_w199173519.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Antena_21_2017.png/revision/latest?cb=20171109210821" ,ANTENA 21
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Antena_21_2017.png/revision/latest?cb=20171109210821" group-title="CANALES" ,ANTENA 21
 https://do-antena7-canal21-live.ned.media/antena7/smil:canal21.smil/chunklist_b1128000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQ3OTE3Mjg1LCJzZXNzaW9uIjoiMTQ4LjAuMTUxLjgyIiwid2hpdGVsaXN0IjpbIjE0OC4wLjE1MS44MiJdfSwic2lnbmF0dXJlIjoiOTRjNzdmODdmYzJiYTc0ODIxNmYyOTNmNmJkZTA3ZjJlMjg2M2Y1OSJ9
 
-#EXTINF:-1 tvg-logo="https://senalestv.com/wp-content/themes/senalestv/wp/inc/images/logos/logo-senalestv.png" ,SEÑALES TV
+#EXTINF:-1 tvg-logo="https://senalestv.com/wp-content/themes/senalestv/wp/inc/images/logos/logo-senalestv.png" group-title="CANALES" ,SEÑALES TV
 https://live.teledom.info:4000/live/senalestvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telefuturo-canal-23-en-vivo-online.jpg" ,TELEFUTURO 23
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telefuturo-canal-23-en-vivo-online.jpg" group-title="CANALES" ,TELEFUTURO 23
 https://ss9.domint.net:3054/tf_str/telefuturo/chunklist_w2121423103.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/cana-vision-canal-88-bavaro.png" ,CANA VISION
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/cana-vision-canal-88-bavaro.png" group-title="CANALES" ,CANA VISION
 https://cdn2.streamgato.us/canatvdigital/canatvdigital/chunklist_w32549708.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/canal-25-en-vivo-santiago-online.jpg" ,CANAL 25
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/canal-25-en-vivo-santiago-online.jpg" group-title="CANALES" ,CANAL 25
 https://ss3.domint.net:3150/c25_str/canal25/chunklist_w962955768.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/mun2-tv.jpg" ,MUN2 TV
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/mun2-tv.jpg" group-title="CANALES" ,MUN2 TV
 https://servers.amelbasoluciones.co:19360/mun2tv/mun2tv.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/rnn-canal-27-en-vivo.jpg" ,RNN CANAL 27
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/rnn-canal-27-en-vivo.jpg" group-title="CANALES" ,RNN CANAL 27
 https://ss2.domint.net:3202/rnn_str/canal27/chunklist_w424115432.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/opcion-tv.jpg" ,OPCION TV
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/opcion-tv.jpg" group-title="CANALES" ,OPCION TV
 https://5790d294af2dc.streamlock.net/8066/8066/chunklist_w612515886.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/teleuniverso-canal-29-online-en-vivo.jpg" ,TELEUNIVERSO
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/teleuniverso-canal-29-online-en-vivo.jpg" group-title="CANALES" ,TELEUNIVERSO
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/ctn-tv-en-vivo.jpg" ,CNT TV
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/ctn-tv-en-vivo.jpg" group-title="CANALES" ,CNT TV
 https://59ef525c24caa.streamlock.net/ctn/ctn/chunklist_w1839109183.m3u8
 
-#EXTINF:-1 tvg-logo="https://telever.com.do/wp-content/uploads/2021/04/cropped-logotelever.png" ,TELEVER
+#EXTINF:-1 tvg-logo="https://telever.com.do/wp-content/uploads/2021/04/cropped-logotelever.png" group-title="CANALES" ,TELEVER
 https://megastreamm.com:3484/live/televerlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://emisoradominicana.net/television/wp-content/uploads/2015/06/farovision.jpg" ,FARO VISION
+#EXTINF:-1 tvg-logo="https://emisoradominicana.net/television/wp-content/uploads/2015/06/farovision.jpg" group-title="CANALES" ,FARO VISION
 https://5790d294af2dc.streamlock.net/8128/8128/chunklist_w247416732.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/delta-tv-canal-50.png" ,DELTA TV
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/delta-tv-canal-50.png" group-title="CANALES" ,DELTA TV
 https://cm.hostlagarto.com:4445/deltatv/deltatv50.myStream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/precidential.png" ,PRESIDENTIAL
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/precidential.png" group-title="CANALES" ,PRESIDENTIAL
 https://5790d294af2dc.streamlock.net/8042/8042/chunklist_w736112464.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/vozz-media-network.png" ,VOZZ MEDIA
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/vozz-media-network.png" group-title="CANALES" ,VOZZ MEDIA
 https://ss5.domint.net:3032/vozz_str/vozzmedia/chunklist_w1896640088.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/crom-tv-el-canal-del-siglo.png" ,CROM TV
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/crom-tv-el-canal-del-siglo.png" group-title="CANALES" ,CROM TV
 https://cdn4.hostlagarto.com:8081/static/cromtv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/carivision-canal-26.png" ,CARIVISION
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/carivision-canal-26.png" group-title="CANALES" ,CARIVISION
 https://ss5.domint.net:3174/car_str/carivision/chunklist_w551659045.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/ready-tv-canal-6.png" ,READY TV
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/ready-tv-canal-6.png" group-title="CANALES" ,READY TV
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/chunklist_w301678104.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/r-e-television.png" ,R&E
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/r-e-television.png" group-title="CANALES" ,R&E
 https://cdn2.streamgato.us/ryetelevision/ryetelevision/chunklist_w1922561914.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/megavision_canal_43_santiago.jpg" ,MEGAVISION
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/megavision_canal_43_santiago.jpg" group-title="CANALES" ,MEGAVISION
 http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w171857719.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/vegavision-canal-18.jpg" ,VEGAVISION
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/vegavision-canal-18.jpg" group-title="CANALES" ,VEGAVISION
 https://cdn4.hostlagarto.com:8081/static/canal18hd/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/telebendicion.jpg" ,TELEBENDICION
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/telebendicion.jpg" group-title="CANALES" ,TELEBENDICION
 https://ss5.domint.net:3180/tbt_str/telebendicion/chunklist_w643301376.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/tele-oriental-digital.jpg" ,TELEORIENTAL
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/tele-oriental-digital.jpg" group-title="CANALES" ,TELEORIENTAL
 https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8?DVR
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/clarovision-tv.jpg" ,CLAROVISION
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/clarovision-tv.jpg" group-title="CANALES" ,CLAROVISION
 https://cdn2.streamgato.us/clarovision/clarovision/chunklist_w80283626.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/teleradio-america-canal-45-en-vivo.jpg" ,TELERADIO AMERICA
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/teleradio-america-canal-45-en-vivo.jpg" group-title="CANALES" ,TELERADIO AMERICA
 https://rctvhd.net:8081/teleradioamerica/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/12/luna-tv-canal-53-en-vivo.jpg" ,LUNA TV
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/12/luna-tv-canal-53-en-vivo.jpg" group-title="CANALES" ,LUNA TV
 https://ss2.domint.net:3228/luna_str/lunatv/chunklist_w446040124.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/07/super-tv-55-en-vivo.jpg" ,SUPER TV 55
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/07/super-tv-55-en-vivo.jpg" group-title="CANALES" ,SUPER TV 55
 https://ss2.domint.net:3236/stv_str/supertv55/chunklist_w905335610.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telecontacto-canal-57-en-vivo.jpg" ,TELECONTACTO
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telecontacto-canal-57-en-vivo.jpg" group-title="CANALES" ,TELECONTACTO
 https://vdo1.streamgato.us:3578/live/telecontactohdlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/policia-tv.jpg" ,POLICIA TV
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/policia-tv.jpg" group-title="CANALES" ,POLICIA TV
 https://cdn2.streamgato.us/policiard/policiard/chunklist_w1489470896.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/alegrando-tv.jpg" ,ALEGRANDO TV
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/alegrando-tv.jpg" group-title="CANALES" ,ALEGRANDO TV
 https://cdn2.streamgato.us/alegrandotv/alegrandotv/chunklist_w948369323.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png" ,RT NOTICIAS
@@ -631,11 +631,13 @@ https://edge03-cde-py.cvattv.com.ar/live/c7eds/Hola_TV/SA_SAGEMCOM/Hola_TV.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/Miami-TV-Mexico-en-vivo-Online.png" ,MIAMI TV 
 https://5ee7c2b857b7f.streamlock.net/latino/latino/.m3u8
 
-#EXTINF:-1 tvg-id="LA ESQUINA DEL DIABLO" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjIxZjNiMDQtMGRlYS00NDliLThmNDEtN2EwYzhiZjgxZjUxXkEyXkFqcGdeQXVyMjQ2MDQwNDU@._V1_FMjpg_UX1000_.jpg" group-title="NOVELAS" ,LA ESQUINA DEL DIABLO CAP 1
-https://01-ukr-sv.ennovelas.com/wlooppg5opz54amjhxtyi6wsoyhrbb4zirpu6xoj4g6elrd5mpv4f6gyapfq/v.mp4
+#EXTINF:-1 tvg-id="LA ESQUINA DEL DIABLO" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjIxZjNiMDQtMGRlYS00NDliLThmNDEtN2EwYzhiZjgxZjUxXkEyXkFqcGdeQXVyMjQ2MDQwNDU@._V1_FMjpg_UX1000_.jpg" group-title="NOVELAS" ,LA ESQUINA DEL DIABLO CAP 26
+https://01-ukr-sv.ennovelas.com/wloopko5opz54amjhxtyi6wjht26kdsiferthglpqejugdhh2za67a2rctha/v.mp4
 
-#EXTINF:-1 tvg-id="LA ESQUINA DEL DIABLO" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjIxZjNiMDQtMGRlYS00NDliLThmNDEtN2EwYzhiZjgxZjUxXkEyXkFqcGdeQXVyMjQ2MDQwNDU@._V1_FMjpg_UX1000_.jpg" group-title="NOVELAS" ,LA ESQUINA DEL DIABLO CAP 2
-https://01-ukr-sv.ennovelas.com/wloopo65opz54amjhxtyijmgfiq7t7xvykfyj3ftqi32t2bmmsom4nq4ye2q/v.mp4
+#EXTINF:-1 tvg-id="LA ESQUINA DEL DIABLO" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjIxZjNiMDQtMGRlYS00NDliLThmNDEtN2EwYzhiZjgxZjUxXkEyXkFqcGdeQXVyMjQ2MDQwNDU@._V1_FMjpg_UX1000_.jpg" group-title="NOVELAS" ,LA ESQUINA DEL DIABLO CAP 27
+https://01-ukr-sv.ennovelas.com/wloopkg5opz54amjhxtyio6lph24l6bqzbqxiusxxk4u22rzpl2o7ep67zia/v.mp4
 
-#EXTINF:-1 tvg-id="EL SEÑOR DE LOS CIELOS TEMPORADA 1" tvg-logo="https://www.ennovelas.com/category/El+Se%C3%B1or+de+los+Cielos+1+Temporada" group-title="NOVELAS" ,EL SEÑOR DE LOS CIELOS 1
-https://01-ukr-sv.ennovelas.com/wlooov6yopz54amjhxtyim4dffeo7fuzxbhs4jygl4fxatnfxuwfo2asw6ga/v.mp4
+#EXTINF:-1 tvg-id="LA ESQUINA DEL DIABLO" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjIxZjNiMDQtMGRlYS00NDliLThmNDEtN2EwYzhiZjgxZjUxXkEyXkFqcGdeQXVyMjQ2MDQwNDU@._V1_FMjpg_UX1000_.jpg" group-title="NOVELAS" ,LA ESQUINA DEL DIABLO CAP 28
+https://01-ukr-sv.ennovelas.com/wloopj65opz54amjhxtyio4hpwfpntxhqdb3fh76o2bjzpcnok34dljus4aa/v.mp4
+
+
