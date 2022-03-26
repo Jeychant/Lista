@@ -631,9 +631,9 @@ https://edge03-cde-py.cvattv.com.ar/live/c7eds/Hola_TV/SA_SAGEMCOM/Hola_TV.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/Miami-TV-Mexico-en-vivo-Online.png" ,MIAMI TV 
 https://5ee7c2b857b7f.streamlock.net/latino/latino/.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjIxZjNiMDQtMGRlYS00NDliLThmNDEtN2EwYzhiZjgxZjUxXkEyXkFqcGdeQXVyMjQ2MDQwNDU@._V1_FMjpg_UX1000_.jpg" group-title="LA ESQUINA DEL DIABLO" group-title="CANALES",LA ESQUINA DEL DIABLO CAP 1
+#EXTINF:-1 tvg-id="LA ESQUINA DEL DIABLO" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjIxZjNiMDQtMGRlYS00NDliLThmNDEtN2EwYzhiZjgxZjUxXkEyXkFqcGdeQXVyMjQ2MDQwNDU@._V1_FMjpg_UX1000_.jpg" group-title="NOVELAS" ,LA ESQUINA DEL DIABLO CAP 1
 https://01-ukr-sv.ennovelas.com/wlooppg5opz54amjhxtyi6wsoyhrbb4zirpu6xoj4g6elrd5mpv4f6gyapfq/v.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjIxZjNiMDQtMGRlYS00NDliLThmNDEtN2EwYzhiZjgxZjUxXkEyXkFqcGdeQXVyMjQ2MDQwNDU@._V1_FMjpg_UX1000_.jpg" group-title="LA ESQUINA DEL DIABLO" group-title="CANALES",LA ESQUINA DEL DIABLO CAP 2
+#EXTINF:-1 tvg-id="LA ESQUINA DEL DIABLO" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjIxZjNiMDQtMGRlYS00NDliLThmNDEtN2EwYzhiZjgxZjUxXkEyXkFqcGdeQXVyMjQ2MDQwNDU@._V1_FMjpg_UX1000_.jpg" group-title="NOVELAS" ,LA ESQUINA DEL DIABLO CAP 2
 https://01-ukr-sv.ennovelas.com/wloopo65opz54amjhxtyijmgfiq7t7xvykfyj3ftqi32t2bmmsom4nq4ye2q/v.mp4
 
