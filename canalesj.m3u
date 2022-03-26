@@ -30,7 +30,7 @@ https://stream-02.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY9I54FuP0hCy2D2XSo
 #EXTINF:-1 tvg-logo="http://www.telesur.com.do/images/telesur_canal_10_logo2.png" group-title="CANALES" ,TELESUR CANAL 10
 https://ss3.domint.net:3124/tls_str/telesur/chunklist_w798170752.m3u8
 
-#EXTINF:-1 tvg-id="Telesistema.do" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telesistema-canal-11-en-vivo-online.png" group-title="CANALES" ,TELESISTEMA 11
+#EXTINF:-1 tvg-id="Telesistema.do" tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telesistema-canal-11-en-vivo-online.png" group-title="CANALES" ,Telesistema.do
 https://stream-01.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2nZlq38dSNcQdIqpkeZh2Pg)/dm/3/x80ac48/s/live-3.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/bonao-tv-en-vivo-online-canal-12.jpg" group-title="CANALES" ,BONAO TV
