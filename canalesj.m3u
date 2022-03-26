@@ -1,4 +1,4 @@
 # EXTM3U url-tvg ="https://raw.githubusercontent.com/awiouy/webgrabplus/master/config/siteini.pack/International/gatotv.com.channels.xml"
 
-#EXTINF:-1 tvg-id="Canal TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TNT.svg/1200px-TNT.svg.png" ,Canal TNT
+#EXTINF:-1 xmltv_id="Canal TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TNT.svg/1200px-TNT.svg.png" ,Canal TNT
 https://edge4-hr.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
