@@ -406,7 +406,7 @@ http://209.126.105.238:20102/live/3af0d818ed954d35869b03631e19ca95/7ab8f2da1e3b4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" ,SYFY
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/1200px-Energy.svg.png" ,ENERGY
-https://live.mitele.es/hls/live/2005337/energy/playlist.m3u8?hdnts=st=1648339774~exp=1648339863~acl=/*~hmac=ea3ea10418f94d15207318c20a8309e416840959b1dd1c697244e442a389993a
+http://154.62.74.28:1935/live/energy-Stream/chunklist_w1028201034.m3u8
 
 #EXTINF:-1 tvg-logo="https://mundo-tips.com/wp-content/uploads/2020/05/Rakuten-TV-logo.png" ,RAKUTEN ACTION
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
