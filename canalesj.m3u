@@ -287,6 +287,12 @@ https://edge4-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/1200px-Logo_Golden_TV.svg.png" ,GOLDEN
 http://209.126.105.238:20102/live/d55e4ef3116c4b6f80daeb14c5146dad/939080268fbc4ed29451fa6277526d49/11.m3u8
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-C_iIRow9qr8/W6lpRYYveMI/AAAAAAAAAI8/X6bBU_V9hQgcWA42vT0USGz6-ky8JyXGgCPcBGAYYCw/s1600/goldenplus.png" ,GOLDEN PLUS
+http://209.126.105.238:20102/live/b5f51e92531441c5b3c397a5bba19474/dcaa27d8f37e4e188bd37f8550fe7414/12.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/1024px-Canal_DHE_logo.svg.png" ,DHE
+http://209.126.105.238:20102/live/8e48f02b64dc4b148a65042dddc893b7/0e023dfbe8e149fb86e6d2497a7f1494/9.m3u8
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-L4urlPJenM4/YUDqsI3xRzI/AAAAAAAAAPo/WxABCNWwctY6HWYhRClIYigkRaMuqu0LwCLcBGAsYHQ/h120/Universal_TV.png" ,UNIVERSAL CHANNEL
 https://edge4-hr.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
 
