@@ -87,6 +87,9 @@ https://5790d294af2dc.streamlock.net/8066/8066/chunklist_w612515886.m3u8
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/teleuniverso-canal-29-online-en-vivo.jpg",TELEUNIVERSO
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/cdnsports.png",CDN SPORT MAX
+http://51.81.93.29:8084/hls/cdnsm.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/ctn-tv-en-vivo.jpg"  ,CNT TV
 https://59ef525c24caa.streamlock.net/ctn/ctn/chunklist_w1839109183.m3u8
 
@@ -104,6 +107,9 @@ https://5790d294af2dc.streamlock.net/8042/8042/chunklist_w736112464.m3u8
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/vozz-media-network.png" ,VOZZ MEDIA
 https://ss5.domint.net:3032/vozz_str/vozzmedia/chunklist_w1896640088.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.cdn.com.do/wp-content/uploads/2019/04/ae9fa439-9aa23ad9-logo-nuevo-cdn.png" ,CDN
+http://51.81.93.239:8084/hls/cdn.m3u8
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/crom-tv-el-canal-del-siglo.png" ,CROM TV
 https://cdn4.hostlagarto.com:8081/static/cromtv/chunks.m3u8
@@ -149,6 +155,9 @@ https://cdn2.streamgato.us/policiard/policiard/chunklist_w1489470896.m3u8
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/alegrando-tv.jpg"  ,ALEGRANDO TV
 https://cdn2.streamgato.us/alegrandotv/alegrandotv/chunklist_w948369323.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-mHM64wTlYZM/YBvad8R2qKI/AAAAAAAAD20/9S_K3wWV5IIA-u4KYFrVEKsMEKv8yl5zACLcBGAsYHQ/s300/microvision-en-vivo-canal-10-online.png"  ,MICROVISION
+https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w495146805.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png" ,RT NOTICIAS
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
@@ -369,7 +378,7 @@ https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
 https://spt-comedias-1-us.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/1200px-Energy.svg.png" ,ENERGY
-http://154.62.74.28:1935/live/energy-Stream/chunklist_w1028201034.m3u8
+https://live.mitele.es/hls/live/2005337/energy/playlist.m3u8?hdnts=st=1648339774~exp=1648339863~acl=/*~hmac=ea3ea10418f94d15207318c20a8309e416840959b1dd1c697244e442a389993a
 
 #EXTINF:-1 tvg-logo="https://mundo-tips.com/wp-content/uploads/2020/05/Rakuten-TV-logo.png" ,RAKUTEN ACTION
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
@@ -426,7 +435,7 @@ https://linear-196.frequency.stream/196/hls/master/playlist.m3u8
 https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" ,PARAMOUNT CHANNEL
-http://154.62.74.11:1935/live/paramount.smil/.m3u8
+https://cdn.prepro.cvattv.com.ar/live/vod/Paramount/SA_Live_WebVTT_FTA/Paramount.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3qEDaRM02L4/YT48fWBTHeI/AAAAAAAAAKg/rXQ-f423gtIFwjryayxVxRETuTqVVB6GwCLcBGAsYHQ/s100/Discovery_Kids.png" ,DISCOVERY KIDS
 https://edge4-hr.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids.m3u8
@@ -628,3 +637,8 @@ https://edge4-hr.cvattv.com.ar/live/c7eds/Hola_TV/SA_SAGEMCOM/Hola_TV.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/Miami-TV-Mexico-en-vivo-Online.png" ,MIAMI TV 
 https://5ee7c2b857b7f.streamlock.net/latino/latino/.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png" ,DIVINITY
+https://live.mitele.es/hls/live/2005335/divinity/playlist.m3u8?hdnts=st=1648340050~exp=1648340140~acl=/*~hmac=8664ffcee5f9e1c8306695b51901befffc566de4ce7cfd762e97da7e196c3559
+
