@@ -504,6 +504,9 @@ https://edge4-hr.cvattv.com.ar/live/c7eds/DisneyJr/SA_SAGEMCOM/DisneyJr.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" ,TELEMUNDO
 https://edge4-hr.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" ,UNIMAS
+http://209.126.105.238:20102/live/a073bd334ee243ee8fdb0752f2068113/150663ffbd8d42dda437c3e281f52d2a/69.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" ,ESTRELLA TV
 https://estrellatv-plex.amagi.tv/playlist.m3u8
 
