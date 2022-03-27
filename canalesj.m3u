@@ -282,7 +282,7 @@ https://amc-maschic-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" ,ELGOURMET
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" ,CINECANAL
-https://edge4-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
+http://209.126.105.238:20102/live/1287d683db814c3e98f1ef0db63137eb/2fce43c462964afab2d37e16e72ee285/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/1200px-Logo_Golden_TV.svg.png" ,GOLDEN
 http://209.126.105.238:20102/live/d55e4ef3116c4b6f80daeb14c5146dad/939080268fbc4ed29451fa6277526d49/11.m3u8
@@ -707,4 +707,4 @@ https://live.mitele.es/hls/live/2005335/divinity/playlist.m3u8?hdnts=st=16483400
 https://chupachichi7.site/live/ST4299e2b1c6a68b1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.google.com/search?q=telecinco&tbm=isch&ved=2ahUKEwjh2oSxoOf2AhWKNt8KHeqFCbIQ2-cCegQIABAC&oq=telecinco&gs_lcp=ChJtb2JpbGUtZ3dzLXdpei1pbWcQAzIHCCMQ7wMQJzIECAAQQzIFCAAQgAQyBQgAEIAEMgUIABCABDoGCAAQBxAeOgoIIxDvAxDqAhAnUJkJWLwfYIciaAFwAHgCgAGbAYgBoxCSAQQyLjE1mAEAoAEBsAEFwAEB&sclient=mobile-gws-wiz-img&ei=dNlAYuHQO4rt_Abqi6aQCw&bih=686&biw=393&client=ms-android-verizon&prmd=imvn#imgrc=UwuAJ_K1yO_odM" ,CINCO ES
-209.126.119.148:20102/live/1ae1e1c377564984bec65ed4de9b8a37/72db539e17f24defbfc8a837902c5a3a/351.m3u8
+http://209.126.119.148:20102/live/1ae1e1c377564984bec65ed4de9b8a37/72db539e17f24defbfc8a837902c5a3a/351.m3u8
