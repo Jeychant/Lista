@@ -389,12 +389,17 @@ https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" ,SONY COMEDIAS
 https://spt-comedias-1-us.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Starz_2008.png" ,STARZ
+http://209.126.105.238:20102/live/7b4b265c8b024aa599b4cdfbd43f9ff9/5946b074d00c48ff8d95159d22647689/52.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Starz_Cinema_logo.svg/1200px-Starz_Cinema_logo.svg.png" ,STARZ CINEMA
 http://209.126.105.238:20102/live/4ebd0abd89134051ab5d68a7c0d9e23e/75c52e0f119f403795719afda83b0e4e/54.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" ,SYFY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Starz_Comedy_logo.svg/1200px-Starz_Comedy_logo.svg.png" ,STARZ COMEDIA 
+http://209.126.105.238:20102/live/3af0d818ed954d35869b03631e19ca95/7ab8f2da1e3b40f4b9ec79f5cfd7bd23/55.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" ,SYFY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" ,STARZ
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" ,SYFY
 
