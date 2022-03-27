@@ -293,8 +293,8 @@ http://209.126.105.238:20102/live/b5f51e92531441c5b3c397a5bba19474/dcaa27d8f37e4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/1024px-Canal_DHE_logo.svg.png" ,DHE
 http://209.126.105.238:20102/live/8e48f02b64dc4b148a65042dddc893b7/0e023dfbe8e149fb86e6d2497a7f1494/9.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-L4urlPJenM4/YUDqsI3xRzI/AAAAAAAAAPo/WxABCNWwctY6HWYhRClIYigkRaMuqu0LwCLcBGAsYHQ/h120/Universal_TV.png" ,UNIVERSAL CHANNEL
-https://edge4-hr.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-L4urlPJenM4/YUDqsI3xRzI/AAAAAAAAAPo/WxABCNWwctY6HWYhRClIYigkRaMuqu0LwCLcBGAsYHQ/h120/Universal_TV.png" ,UNIVERSAL
+http://209.126.124.36:20102/live/35c5f572847c4dc6b06c131ba9df14f6/567647ff1dc64ba28dc7f6424aad0917/7.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" ,STUDIO UNIVERSAL
 https://edge4-hr.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal.m3u8
