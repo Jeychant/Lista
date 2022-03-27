@@ -675,7 +675,8 @@ https://edge4-hr.cvattv.com.ar/live/c7eds/Hola_TV/SA_SAGEMCOM/Hola_TV.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/Miami-TV-Mexico-en-vivo-Online.png" ,MIAMI TV 
 https://5ee7c2b857b7f.streamlock.net/latino/latino/.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png" ,DIVINITY
 https://live.mitele.es/hls/live/2005335/divinity/playlist.m3u8?hdnts=st=1648340050~exp=1648340140~acl=/*~hmac=8664ffcee5f9e1c8306695b51901befffc566de4ce7cfd762e97da7e196c3559
 
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/fdf.png" ,FDF
+https://chupachichi7.site/live/ST4299e2b1c6a68b1.m3u8
