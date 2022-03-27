@@ -365,6 +365,21 @@ https://edge4-hr.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
 #EXTINF:-1 tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/08/Comedy-Central-logo.png" ,COMEDY CENTRAL
 https://cdn.prepro.cvattv.com.ar/live/vod/ComedyCentral/SA_Live_WebVTT_FTA/ComedyCentral.m3u8
 
+#EXTINF:-1 tvg-logo="https://screencraft.org/wp-content/uploads/2020/05/SC-Comedy-2022-Title-Treatment-1080-wide.png" ,PREMIERE COMEDIA
+http://145.239.0.5:20102/live/e9f436532bcc47ec9f223a294ddcb171/c4b4d224fc094d4b946e9ec10577c29a/193.m3u8
+
+#EXTINF:-1 tvg-logo="https://zoombollywoodchile.files.wordpress.com/2013/07/estrenos.png" ,PREMIERE ESTRENO
+http://145.239.0.5:20102/live/e5fb4317889148dfadbe071aba77dae4/9f06a35f2bea465880b0bf7bef44068f/197.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/487-4873970_drama-png-transparent-png.png" ,PREMIERE DRAMA
+http://145.239.0.5:20102/live/eab3ce292f6247b39b88b52746ef49a1/eae4d754801f4529b70522639023e6ca/194.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pngplay.com/wp-content/uploads/5/Plus-Symbol-PNG-Pic-Background.png" ,PREMIERE PLUS
+http://145.239.0.5:20102/live/9ce9de13d106434bb36f3869cab2ab31/d946068efbf747d08e5646a937f54f55/199.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/132/358/png-transparent-wedding-invitation-outdoor-cinema-film-others-label-text-orange.png" ,PREMIERE CINEMA
+http://145.239.0.5:20102/live/7172147a2f444c5fb8baee88363dbec0/1ffa4527c33548638e9e14b726ffdb6f/198.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/800px-A%26E_Network_logo.svg.png" ,AE
 https://cdn.prepro.cvattv.com.ar/live/vod/AEHD/SA_Live_WebVTT_FTA/AEHD.m3u8
 
@@ -381,7 +396,7 @@ https://cdn.prepro.cvattv.com.ar/live/vod/TBS/SA_Live_WebVTT_FTA/TBS.m3u8
 https://edge4-hr.cvattv.com.ar/live/c3eds/TruTV/SA_SAGEMCOM/TruTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" ,SONY
-https://edge4-hr.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
+http://209.126.124.36:20102/live/5945cb322cef4154907bcbb709040b04/6a4188725b614728b96b4091c18d06d9/20.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" ,SONY NOVELAS
 https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
@@ -677,6 +692,13 @@ https://edge4-hr.cvattv.com.ar/live/c7eds/Hola_TV/SA_SAGEMCOM/Hola_TV.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/Miami-TV-Mexico-en-vivo-Online.png" ,MIAMI TV 
 https://5ee7c2b857b7f.streamlock.net/latino/latino/.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/UNIVERSO_LOGO_color_black.png" ,UNIVERSO
+http://209.126.105.238:20102/live/b95339953cf345139b69c75ab7c83ce0/90549a6ed32040f6bc5c23e453cce408/57.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" ,GALAVISION
+http://209.126.105.238:20102/live/abac6c529e1744988ff4c8dbeaccc0f3/d02c0becb44c4008bca82bd9f0b90c2f/70.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png" ,DIVINITY
 https://live.mitele.es/hls/live/2005335/divinity/playlist.m3u8?hdnts=st=1648340050~exp=1648340140~acl=/*~hmac=8664ffcee5f9e1c8306695b51901befffc566de4ce7cfd762e97da7e196c3559
