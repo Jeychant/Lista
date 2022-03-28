@@ -229,7 +229,7 @@ https://mavtv-mavtvglobal-1-gb.samsung.wurl.tv/playlist.m3u8
 https://eyeonesports.com/ES2RA-628g.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/3/35/Discovery_Channel.JPG/1200px-Discovery_Channel.JPG" ,DISCOVERY CHANNEL
-http://209.126.106.30:8081/live/63136a89943b4c78855ecc14c759d770/86832540008141eb8b0d445136002c78/46.m3u8
+https://edge4-hr.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/816962948522508288/u9_NGzrW_400x400.jpg" ,DISCOVERY HOME&HEALH
 https://edge4-hr.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
@@ -250,7 +250,7 @@ https://edge4-hr.cvattv.com.ar/live/c6eds/Theater_HD/SA_SAGEMCOM/Theater_HD.m3u8
 https://edge4-hr.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_SAGEMCOM/Discovery_World_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1067px-2018_Animal_Planet_logo.svg.png" ,ANIMAL PLANET
-http://209.126.106.30:8081/live/aae656b09bc040b2831c51fff3d546d4/fb5c08f9c58149a59d92cbec69c9395a/43.m3u8
+https://edge4-hr.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_SAGEMCOM/AnimalPlanet.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-AfuVdq0OWu4/Yfxi0A3wy0I/AAAAAAAAAXA/6z3Wj3CxHHoLnKzpD0e2LcqlAHGK_SxzQCNcBGAsYHQ/h1280/ver-discovery-id-en-vivo.png" ,DISCOVERY ID
 https://edge4-hr.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
@@ -282,7 +282,7 @@ https://amc-maschic-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" ,ELGOURMET
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" ,CINECANAL
-http://209.126.105.238:20102/live/1287d683db814c3e98f1ef0db63137eb/2fce43c462964afab2d37e16e72ee285/4.m3u8
+https://edge4-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/1200px-Logo_Golden_TV.svg.png" ,GOLDEN
 http://209.126.105.238:20102/live/d55e4ef3116c4b6f80daeb14c5146dad/939080268fbc4ed29451fa6277526d49/11.m3u8
@@ -294,13 +294,13 @@ http://209.126.105.238:20102/live/b5f51e92531441c5b3c397a5bba19474/dcaa27d8f37e4
 http://209.126.105.238:20102/live/8e48f02b64dc4b148a65042dddc893b7/0e023dfbe8e149fb86e6d2497a7f1494/9.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-L4urlPJenM4/YUDqsI3xRzI/AAAAAAAAAPo/WxABCNWwctY6HWYhRClIYigkRaMuqu0LwCLcBGAsYHQ/h120/Universal_TV.png" ,UNIVERSAL
-http://209.126.124.36:20102/live/35c5f572847c4dc6b06c131ba9df14f6/567647ff1dc64ba28dc7f6424aad0917/7.m3u8
+https://edge4-hr.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" ,STUDIO UNIVERSAL
 https://edge4-hr.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-cK4WNqOob_w/YUDpdrZzvEI/AAAAAAAAAPQ/DY9_xUdMjn0yP7ZbOfweOMYBReirkQeUACLcBGAsYHQ/h120/AMC.png" ,AMC
-http://209.126.105.238:20102/live/6fe399db71d044f0acd7580ff7db66bc/faac0b65060a45f59a2820d84fcbe1d9/8.m3u8
+https://edge4-hr.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-fdvJf2MjlgQ/YT5Q_HnjLrI/AAAAAAAAAOI/Wp9FNV3R06cBaDSCDcUD1sTJZwNT0rqgwCLcBGAsYHQ/h120/I.Sat.png" ,ISAT
 https://edge4-hr.cvattv.com.ar/live/c6eds/ISAT/SA_SAGEMCOM/ISAT.m3u8
@@ -351,7 +351,7 @@ http://209.126.105.238:20102/live/bf273700261d4ef3a6bd5d9faf141df6/6231e4a1f0174
 https://edge4-hr.cvattv.com.ar/live/c3eds/TheFilmZoneHD/SA_SAGEMCOM/TheFilmZoneHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" ,FX
-http://209.126.105.238:20102/live/c2741192446949d2bb2b1f46d181c216/8b652bebbc9845a18a27b1b0635b1fe4/7.m3u8
+https://edge4-hr.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" ,SYFY
 https://cdn.prepro.cvattv.com.ar/live/vod/SyFy/SA_Live_WebVTT_FTA/SyFy.m3u8
