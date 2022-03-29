@@ -706,5 +706,5 @@ https://live.mitele.es/hls/live/2005335/divinity/playlist.m3u8?hdnts=st=16483400
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/fdf.png" ,FDF
 https://chupachichi7.site/live/ST4299e2b1c6a68b1.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.google.com/search?q=telecinco&tbm=isch&ved=2ahUKEwjh2oSxoOf2AhWKNt8KHeqFCbIQ2-cCegQIABAC&oq=telecinco&gs_lcp=ChJtb2JpbGUtZ3dzLXdpei1pbWcQAzIHCCMQ7wMQJzIECAAQQzIFCAAQgAQyBQgAEIAEMgUIABCABDoGCAAQBxAeOgoIIxDvAxDqAhAnUJkJWLwfYIciaAFwAHgCgAGbAYgBoxCSAQQyLjE1mAEAoAEBsAEFwAEB&sclient=mobile-gws-wiz-img&ei=dNlAYuHQO4rt_Abqi6aQCw&bih=686&biw=393&client=ms-android-verizon&prmd=imvn#imgrc=UwuAJ_K1yO_odM" ,CINCO ES
-http://209.126.119.148:20102/live/1ae1e1c377564984bec65ed4de9b8a37/72db539e17f24defbfc8a837902c5a3a/351.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/TeleCinco_logo_2008.svg/640px-TeleCinco_logo_2008.svg.png" ,CINCO ES
+http://70.34.201.1:8080/hls/t5.m3u8
