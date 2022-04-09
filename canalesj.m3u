@@ -394,13 +394,7 @@ https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
 https://rakuten-spotlight-2-es.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Acci%C3%B3n/Movistar_Acci%C3%B3n-Logo.wine.png" ,MOVISTAR ACTION
-http://209.126.105.238:20102/live/6d93377cd9c3468eaf1c40b5b9856f0d/19814ec28e15402aa76e356b02efa14a/16.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1280px-Movistar_Drama.svg.png" ,MOVISTAR DRAMA
-http://209.126.105.238:20102/live/298783a393e842c682eb0b9c5db3f3e5/3987db195ce84061ab8bad0097c3ae16/15.m3u8
-
-#EXTINF:-1 tvg-logo="http://meteoalcorcon.es/1_0_1_76C0_40E_1_C00000_0_0_0.png" ,MOVISTAR ESTRENOS
-http://209.126.105.238:20102/live/d5e5bf24c0f6466986cb62fee2bbd755/24049f497ec34d28aec41983b846b5a1/17.m3u8
+https://photocall.tv/k3fp/mt?ch=telecinco
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/1200px-Atrescine_logo.svg.png" ,A3CINE
 http://streams.x10.bz/u49f/mp.php/https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
