@@ -1,0 +1,811 @@
+<tv>
+<channel id="247CanaldeNoticias.ar">
+<display-name>24/7 Canal de Noticias</display-name>
+<icon src="https://i.imgur.com/6miysb8.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="A24.ar">
+<display-name>A24</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_america-24_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="AELatinAmerica.us">
+<display-name>A&E Latinoamérica</display-name>
+<icon src="https://imagenes.gatotv.com/logos/canales/oscuros/a_y_e_latinoamerica-mediano.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="AMCLatinAmerica.us">
+<display-name>AMC Latin America</display-name>
+<icon src="https://imagenes.gatotv.com/logos/canales/oscuros/amc_latinoamerica-mediano.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="AmericaSports.ar">
+<display-name>América Sports</display-name>
+<icon src="https://graph.facebook.com/AmericaSports/picture?width=320&height=320"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="AmericaTV.ar">
+<display-name>América TV</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="AnimalPlanetLatinAmerica.us">
+<display-name>Animal Planet Latinoamérica</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="ArgentinisimaSatelital.ar">
+<display-name>Argentinísima Satelital</display-name>
+<icon src="https://i.imgur.com/Jo7p7yZ.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="Atrecine.es">
+<display-name>Atrecine</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_a3cine_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="Atreseries.es">
+<display-name>Atreseries</display-name>
+<icon src="https://www.directv.com/images/logos/channels/dark/large/249.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="AzCorazon.mx">
+<display-name>Az Corazón</display-name>
+<icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_corazon-mediano.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="BabyTVLatinAmerica.uk">
+<display-name>Baby TV Latin America</display-name>
+<icon src="https://i.imgur.com/z5E8vLR.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="BloombergTVLatinAmerica.us">
+<display-name>Bloomberg TV Latin America</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_bloomberg_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="C5N.ar">
+<display-name>C5N</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_c5n_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="CMElCanaldelaMusica.ar">
+<display-name>CM El Canal de la Música</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_canal-de-la-musica_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="CN23.ar">
+<display-name>CN23</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_cn-23_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="CNNChile.cl">
+<display-name>CNN Chile</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/512px-CNN_Chile_logo_2017.svg.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="CNNInternationalLatinAmerica.us">
+<display-name>CNN International Latin America</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/512px-CNN_International_logo.svg.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="CNNenEspanol.us">
+<display-name>CNN en Español</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="Canal10Cordoba.ar">
+<display-name>Canal 10 Córdoba</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_canal-10-de-cordoba_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="Canal20VillaMaria.ar">
+<display-name>Canal 20 Villa Maria</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_canal-c20-villa-maria_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="Canal26.ar">
+<display-name>Canal 26</display-name>
+<icon src="https://i.imgur.com/RN5wbXm.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="Canal4.uy">
+<display-name>Canal 4</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_canal-4-montecarlo_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="CanalDHE.us">
+<display-name>Canal DHE</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_dhe_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="CanalLuz.ar">
+<display-name>Canal Luz</display-name>
+<icon src="https://www.lyngsat.com/logo/tv/cc/canal-luz-ar.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="CanalOrbe21.ar">
+<display-name>Canal Orbe 21</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_canal-orbe-21_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="CanalRural.ar">
+<display-name>Canal Rural</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_canal-rural_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="CanalU.ar">
+<display-name>Canal U</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_cba-24n_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="Canala.ar">
+<display-name>Canal (á)</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_canal-a_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="CanaldelaCiudad.ar">
+<display-name>Canal de la Ciudad</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_ciudad-abierta_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="CartoonNetworkArgentina.ar">
+<display-name>Cartoon Network Argentina</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="CineLatino.mx">
+<display-name>CineLatino</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_cine-latino_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="Cinear.ar">
+<display-name>Cine.ar</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_incaa-tv_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="CinecanalEast.us">
+<display-name>Cinecanal Este</display-name>
+<icon src="https://comteco.com.bo/img/upload/canales/qvJQXi.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="CinemaxLatinAmerica.us">
+<display-name>Cinemax Latinoamérica</display-name>
+<icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="CiudadMagazine.ar">
+<display-name>Ciudad Magazine</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_magazine_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="ComedyCentralLatinAmericaSouth.us">
+<display-name>Comedy Central Latinoamérica Sur</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="ConexionEducativa.ar">
+<display-name>Conexión Educativa</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_conexion-educativa_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="ConstruirTV.ar">
+<display-name>Construir TV</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_construir_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="CronicaTV.ar">
+<display-name>Crónica TV</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_cronica_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="DePelicula.mx">
+<display-name>De Película</display-name>
+<icon src="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula-mediano.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="DeporTV.ar">
+<display-name>DeporTV</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_dxtv_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="DiscoveryChannelLatinAmerica.us">
+<display-name>Discovery Channel Latinoamérica</display-name>
+<icon src="https://i.imgur.com/SHOCIS6.jpg"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="DiscoveryHDWorldLatinAmerica.us">
+<display-name>Discovery HD World Latinoamérica</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_discovery-world-hd_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="DiscoveryHomeHealthLatinAmerica.us">
+<display-name>Discovery Home & Health Latinoamérica</display-name>
+<icon src="https://i.imgur.com/bp8p4bU.jpg"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="DiscoveryKidsAmericaLatina.us">
+<display-name>Discovery Kids América Latina</display-name>
+<icon src="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="DiscoveryScienceLatinAmerica.us">
+<display-name>Discovery Science Latinoamérica</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_discovery-science_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="DiscoveryTheater.us">
+<display-name>Discovery Theater</display-name>
+<icon src="https://zap2it.tmsimg.com/h5/NowShowing/65940/s65940_h5_aa.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="DiscoveryTurboAmericaLatina.us">
+<display-name>Discovery Turbo América Latina</display-name>
+<icon src="https://zap2it.tmsimg.com/h5/NowShowing/46608/s46608_h5_aa.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="DisneyChannelLatinAmerica.us">
+<display-name>Disney Channel Sur</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="ELatinAmerica.us">
+<display-name>E! Latinoamérica</display-name>
+<icon src="https://imagenes.gatotv.com/logos/canales/oscuros/e_-mediano.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="ESPN2AmericaLatina.us">
+<display-name>ESPN 2 América Latina</display-name>
+<icon src="https://i.imgur.com/JXjwZRc.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="ESPN3AmericaLatina.us">
+<display-name>ESPN 3 América Latina</display-name>
+<icon src="https://i.imgur.com/cOnjsWq.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="ESPNAmericaLatina.us">
+<display-name>ESPN América Latina</display-name>
+<icon src="https://i.imgur.com/A90wNEs.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="ESPNExtraAmericaLatina.us">
+<display-name>ESPN Extra América Latina</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_espn-1_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="EWTNEspanaLatinAmerica.us">
+<display-name>EWTN España - Latinoamérica</display-name>
+<icon src="https://comteco.com.bo/img/upload/canales/YRTcBp.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="ElGourmetSur.ar">
+<display-name>El Gourmet Sur</display-name>
+<icon src="https://comteco.com.bo/img/upload/canales/JD7BU0.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="ElNueve.ar">
+<display-name>El Nueve</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/canal-9-m.jpg"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="ElTrece.ar">
+<display-name>El Trece</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="ElTreceInternacional.ar">
+<display-name>El Trece Internacional</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_el-trece-satelital_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="Encuentro.ar">
+<display-name>Encuentro</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_encuentro_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="EuropaEuropa.uk">
+<display-name>Europa Europa</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_europa-europa_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="FXAndina.us">
+<display-name>FX Andina</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_fx_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="FXMEast.us">
+<display-name>FXM Este</display-name>
+<icon src="https://comteco.com.bo/img/upload/canales/svCJXa.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="FilmArtsAmericaLatina.ar">
+<display-name>Film & Arts América Latina</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_film-arts_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="FoodNetworkLatinAmerica.us">
+<display-name>Food Network Latinoamérica</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_food-network_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="FoxSports2Argentina.ar">
+<display-name>Fox Sports 2 Argentina</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="FoxSports3LatinAmerica.us">
+<display-name>Fox Sports 3 Latin America</display-name>
+<icon src="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_3-mediano.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="FoxSportsArgentina.ar">
+<display-name>Fox Sports Argentina</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_fox-sports-hd_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="FoxSportsPremium.ar">
+<display-name>Fox Sports Premium</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_fox-sports-premium_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="France24Espanol.fr">
+<display-name>France 24 Español</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="GaliciaTVAmerica.es">
+<display-name>Galicia TV América</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_galicia-tv_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="GarageTV.ar">
+<display-name>Garage TV</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_el-garage_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="GlitzLatinAmerica.us">
+<display-name>Glitz Latinoamérica</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_glitz_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="GolTV.us">
+<display-name>Gol TV</display-name>
+<icon src="https://www.directv.com/images/logos/channels/dark/large/603.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="GoldenEdge.mx">
+<display-name>Golden Edge</display-name>
+<icon src="https://imagenes.gatotv.com/logos/canales/oscuros/golden_edge-mediano.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="GoldenLatinAmerica.mx">
+<display-name>Golden Latinoamérica</display-name>
+<icon src="https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="GolfChannelLatinAmerica.us">
+<display-name>Golf Channel Latin America</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_golf-channel_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="HAPSATV.ar">
+<display-name>HAPSATV</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_hapsa_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="HBO2LatinAmerica.us">
+<display-name>HBO 2 Latinoamérica</display-name>
+<icon src="https://zap2it.tmsimg.com/h3/NowShowing/68140/s68140_h3_aa.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="HBOFamilyLatinAmerica.us">
+<display-name>HBO Family Latinoamérica</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_hbo-family_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="HBOMundiLatinAmerica.us">
+<display-name>HBO Mundi Latinoamérica</display-name>
+<icon src="https://zap2it.tmsimg.com/h5/NowShowing/70081/s70081_h5_aa.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="HBOPlusLatinAmerica.us">
+<display-name>HBO Plus Panamericano</display-name>
+<icon src="https://zap2it.tmsimg.com/h5/NowShowing/34725/s34725_h5_ba.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="HBOPopLatinAmerica.us">
+<display-name>HBO Pop Latinoamérica</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_max-up_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="HBOSignatureLatinAmerica.us">
+<display-name>HBO Signature Latinoamérica</display-name>
+<icon src="https://zap2it.tmsimg.com/h4/NowShowing/80120/s80120_h4_ba.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="HBOXtremeLatinAmerica.us">
+<display-name>HBO Xtreme Latinoamérica</display-name>
+<icon src="https://service.canal-overseas.com/image-api/v1/image/f75bca7bc4be9dfefac286bdb06e7ab0"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="HGTVLatinAmerica.us">
+<display-name>HGTV Latinoamérica</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_hgtv_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="HTV.us">
+<display-name>HTV</display-name>
+<icon src="https://cdn.tvpassport.com/image/station/100x100/htv-latam.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="HispanTV.ir">
+<display-name>Hispan TV</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_hispan-tv_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="History2LatinAmerica.us">
+<display-name>History 2 Latinoamérica</display-name>
+<icon src="https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="HistoryLatinAmerica.us">
+<display-name>History Latinoamérica</display-name>
+<icon src="https://i.imgur.com/THOUpbP.jpg"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="HolaTVAmericaLatina.es">
+<display-name>Hola! TV América Latina</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_hola-tv_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="ISat.ar">
+<display-name>I-Sat</display-name>
+<icon src="https://imagenes.gatotv.com/logos/canales/oscuros/i_sat-mediano.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="IVCInternacional.ve">
+<display-name>IVC Internacional</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_ivc_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="InvestigationDiscoverySur.us">
+<display-name>Investigation Discovery Sur</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_investigation-discovery_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="LNPlus.ar">
+<display-name>LN+</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_la-nacion_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="LasEstrellasLatinAmerica.mx">
+<display-name>Las Estrellas Latinoamérica</display-name>
+<icon src="https://i.imgur.com/pXCB4Ev.jpg"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="LifetimeLatinAmerica.us">
+<display-name>Lifetime Latinoamérica</display-name>
+<icon src="https://imagenes.gatotv.com/logos/canales/oscuros/lifetime_latinoamerica-mediano.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="MTVHitsEurope.uk">
+<display-name>MTV Hits Europe</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/512px-MTV_Hits_2021.svg.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="MTVLatinAmericaSouth.ar">
+<display-name>MTV Latino Sud</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="MasChicLatinAmerica.us">
+<display-name>Más Chic Latinoamérica</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_mas-chic_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="Metro.ar">
+<display-name>Metro</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_metro_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="MuchArgentina.ar">
+<display-name>Much Argentina</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_muchmusic_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="MusicTop.ar">
+<display-name>MusicTop</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_musictop_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="NBATVLatinAmerica.us">
+<display-name>NBA TV Latin America</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_nba-tv_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="NatGeoKids.us">
+<display-name>Nat Geo Kids</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_nat-geo-kids_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="NationalGeographicCentro.us">
+<display-name>National Geographic Centro</display-name>
+<icon src="https://imagenes.gatotv.com/logos/canales/oscuros/national_geographic_latinoamerica-mediano.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="NationalGeographicWildLatin.us">
+<display-name>National Geographic Wild Latin</display-name>
+<icon src="https://i.imgur.com/7knqm8O.jpg"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="NetTV.ar">
+<display-name>Net TV</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_net-tv_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="NickJrLatinAmerica.us">
+<display-name>Nick Jr Latin America</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="NickelodeonLatinAmerica.us">
+<display-name>Nickelodeon Sur</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="NicktoonsLatinAmerica.us">
+<display-name>Nicktoons Latin America</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="Pakapaka.ar">
+<display-name>Pakapaka</display-name>
+<icon src="https://yt3.ggpht.com/ytc/AKedOLQbue1WVK5s0ne8sFBVwxf6u7-TbKAdPjK-YCHI8g=s400-c-k-c0x00ffffff-no-rj"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="ParamountNetworkLatinAmerica.us">
+<display-name>Paramount Network Latin America</display-name>
+<icon src="https://i.imgur.com/y9qV1E1.jpg"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="PasionesLatinAmerica.us">
+<display-name>Pasiones Latinoamérica</display-name>
+<icon src="https://i.imgur.com/pqfJEsS.jpg"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="PenthouseGold.us">
+<display-name>Penthouse Gold</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_penthouse_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="PlayboyTVLatinAmerica.us">
+<display-name>Playboy TV Latin America</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_playboy_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="QuieroMusicaenmiIdioma.ar">
+<display-name>Quiero Musica en mi Idioma</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_quiero_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="RTEspanol.ru">
+<display-name>RT Español</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_russia-today-hd_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="RaiItaliaSudAmerica.it">
+<display-name>Rai Italia Sud America</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_rai_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="SmithsonianChannelLatinAmerica.us">
+<display-name>Smithsonian Channel Latin America</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_smithsonian-channel_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="SonyChannelAndes.us">
+<display-name>Sony Channel Andes</display-name>
+<icon src="https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="SpaceSur.ar">
+<display-name>Space Sur</display-name>
+<icon src="https://imagenes.gatotv.com/logos/canales/oscuros/space-mediano.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="StudioUniversalArgentina.ar">
+<display-name>Studio Universal Argentina</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_studio-universal_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="TBSAmericaLatina.us">
+<display-name>TBS América Latina</display-name>
+<icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tbs-mediano.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="TCMArgentina.ar">
+<display-name>TCM Argentina</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_tcm_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="TLCArgentina.ar">
+<display-name>TLC Argentina</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_discovery-tlc_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="TN.ar">
+<display-name>TN</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_tn_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="TNTArgentina.ar">
+<display-name>TNT Argentina</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_tnt_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="TNTSeriesArgentina.ar">
+<display-name>TNT Series Argentina</display-name>
+<icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tnt_series-mediano.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="TNTSportsArgentina.ar">
+<display-name>TNT Sports Argentina</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_tnt-sports_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="TV5MondeAmeriqueLatine.fr">
+<display-name>TV5Monde Amérique Latine</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_tv-5_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="TVCiudad.uy">
+<display-name>TV Ciudad</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_teveciudad_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="TVCortos.uk">
+<display-name>TV Cortos</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_tv-cortos_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="TVEInternacionalAmerica1.es">
+<display-name>TVE Internacional América 1</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_tve_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="TVGloboInternacionalAmericas.br">
+<display-name>TV Globo Internacional Américas</display-name>
+<icon src="https://www.directv.com/images/logos/channels/dark/large/700.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="TVNacionalUruguay.uy">
+<display-name>TV Nacional Uruguay</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_tv-nacional-uruguay_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="TVPublica.ar">
+<display-name>TV Pública</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="TecTV.ar">
+<display-name>Tec TV</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_tecnopolis_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="TeleHit.mx">
+<display-name>TeleHit</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_telehit-lat_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="TelediarioTV.ar">
+<display-name>Telediario TV</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_telediario_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="Telefe.ar">
+<display-name>Telefe</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_telefe_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="TelefeCordoba.ar">
+<display-name>Telefe Córdoba</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_teleocho_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="TelefeRosario.ar">
+<display-name>Telefe Rosario</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_telefe-rosario_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="TelefeSantaFe.ar">
+<display-name>Telefe Santa Fe</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_telefe-santa-fe_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="Telemax.ar">
+<display-name>Telemax</display-name>
+<icon src="https://i.imgur.com/1XgRcmd.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="TelemundoInternacional.us">
+<display-name>Telemundo Internacional</display-name>
+<icon src="https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="Telesur.ve">
+<display-name>Telesur</display-name>
+<icon src="https://i.imgur.com/sefVjqf.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="TlnovelasAmerica.mx">
+<display-name>Tlnovelas América</display-name>
+<icon src="https://i.imgur.com/xABe9M8.jpg"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="Tooncast.us">
+<display-name>Tooncast</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_tooncast_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="TruTVAmericaLatina.us">
+<display-name>Tru TV América Latina</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_tru-tv_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="TurismoVisionArgentina.ar">
+<display-name>Turismo Visión Argentina</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_turismo-vision-argentina_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="TyCSports.ar">
+<display-name>TyC Sports</display-name>
+<icon src="https://cdn.tvpassport.com/image/station/100x100/tycsports.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="TyCSports2.ar">
+<display-name>TyC Sports 2</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_tyc-alternativa_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="UniversalTVAmericaLatina.us">
+<display-name>Universal TV América Latina</display-name>
+<icon src="https://imagenes.gatotv.com/logos/canales/oscuros/universal_tv-mediano.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="UruguayNaturalTV.uy">
+<display-name>Uruguay Natural TV</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_uruguay-natural-uruguay_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="VTV.uy">
+<display-name>VTV</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_vtv_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="Venus.ar">
+<display-name>Venus</display-name>
+<icon src="https://www.meo.pt/PublishingImages/canais/venus.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="Viajar.es">
+<display-name>Viajar</display-name>
+<icon src="https://imagenes.gatotv.com/logos/canales/oscuros/viajar_espana-mediano.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="Volver.ar">
+<display-name>Volver</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_volver_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="WarnerChannelAtlanticoSur.us">
+<display-name>Warner Channel Atlántico Sur</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_warner-channel_m.png"/>
+<url>https://mi.tv</url>
+</channel>
+<channel id="ZooMooLatinAmerica.nz">
+<display-name>ZooMoo Latinoamérica</display-name>
+<icon src="https://cdn.mitvstatic.com/channels/ar_zoomoo_m.png"/>
+<url>https://mi.tv</url>
+</tv>
