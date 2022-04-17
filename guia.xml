@@ -1,3 +1,4 @@
+<tv>
 <channel id="ColorVision9.do">
 <display-name>Color Visión 9</display-name>
 <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/9_republica_dominicana-mediano.png"/>
@@ -46,3 +47,4 @@
 <programme start="20220417180000 +0000" stop="20220417190000 +0000" channel="ColorVision9.do">
 <title lang="es">Noticias SIN: Fin de semana</title>
 </programme>
+</tv>
