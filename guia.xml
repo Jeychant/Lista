@@ -1,129 +1,198 @@
 <tv>
-<channel id="ColorVision9.do">
-<display-name>Color Visión 9</display-name>
-<icon src="https://imagenes.gatotv.com/logos/canales/oscuros/9_republica_dominicana-mediano.png"/>
-<url>https://gatotv.com</url>
-</channel>
-
-  <channel id="AELatinAmerica.us">
-<display-name>A&E Latinoamérica</display-name>
-<icon src="https://imagenes.gatotv.com/logos/canales/oscuros/a_y_e_latinoamerica-mediano.png"/>
+<channel id="AnimalPlanetLatinAmerica.us">
+<display-name>Animal Planet Latinoamérica</display-name>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png"/>
 <url>https://gatotv.com</url>
 </channel>
   
-  <programme start="20220417000000 +0000" stop="20220417040000 +0000" channel="ColorVision9.do">
-<title lang="es">Programación de la madrugada</title>
+  <programme start="20220416225800 +0000" stop="20220417005600 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Pit bulls y convictos</title>
 </programme>
-<programme start="20220417040000 +0000" stop="20220417050000 +0000" channel="ColorVision9.do">
-<title lang="es">Zona norte</title>
+<programme start="20220417005600 +0000" stop="20220417015000 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Guaridas con estilo</title>
 </programme>
-<programme start="20220417050000 +0000" stop="20220417060000 +0000" channel="ColorVision9.do">
-<title lang="es">Buenas nuevas</title>
+<programme start="20220417015000 +0000" stop="20220417024600 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Amanda al Rescate</title>
 </programme>
-<programme start="20220417060000 +0000" stop="20220417070000 +0000" channel="ColorVision9.do">
-<title lang="es">Espejo 360</title>
+<programme start="20220417024600 +0000" stop="20220417034200 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Historias de grandes felinos</title>
 </programme>
-<programme start="20220417070000 +0000" stop="20220417080000 +0000" channel="ColorVision9.do">
-<title lang="es">Punto de vista</title>
+<programme start="20220417034200 +0000" stop="20220417041000 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">La vida en Yellowstone</title>
 </programme>
-<programme start="20220417080000 +0000" stop="20220417090000 +0000" channel="ColorVision9.do">
-<title lang="es">Lideres</title>
+<programme start="20220417041000 +0000" stop="20220417043800 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">La vida en Yellowstone</title>
 </programme>
-<programme start="20220417090000 +0000" stop="20220417100000 +0000" channel="ColorVision9.do">
-<title lang="es">Aeromundo</title>
+<programme start="20220417043800 +0000" stop="20220417050500 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">La vida en Yellowstone</title>
 </programme>
-<programme start="20220417100000 +0000" stop="20220417110000 +0000" channel="ColorVision9.do">
-<title lang="es">Panorama semanal</title>
+<programme start="20220417050500 +0000" stop="20220417053200 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">La vida en Yellowstone</title>
 </programme>
-<programme start="20220417110000 +0000" stop="20220417120000 +0000" channel="ColorVision9.do">
-<title lang="es">Un buen doctor</title>
+<programme start="20220417053200 +0000" stop="20220417060000 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Tierra brasileña</title>
 </programme>
-<programme start="20220417120000 +0000" stop="20220417130000 +0000" channel="ColorVision9.do">
-<title lang="es">Rescue me</title>
+<programme start="20220417060000 +0000" stop="20220417063000 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Vida azul</title>
 </programme>
-<programme start="20220417130000 +0000" stop="20220417150000 +0000" channel="ColorVision9.do">
-<title lang="es">Cine 9</title>
+<programme start="20220417063000 +0000" stop="20220417073000 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Guaridas con estilo</title>
 </programme>
-<programme start="20220417150000 +0000" stop="20220417170000 +0000" channel="ColorVision9.do">
-<title lang="es">Cine 9</title>
+<programme start="20220417073000 +0000" stop="20220417083000 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Animales en riesgo Phoenix</title>
 </programme>
-<programme start="20220417170000 +0000" stop="20220417180000 +0000" channel="ColorVision9.do">
-<title lang="es">Protagonistas</title>
+<programme start="20220417083000 +0000" stop="20220417090000 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Programa Pagado</title>
 </programme>
-<programme start="20220417180000 +0000" stop="20220417190000 +0000" channel="ColorVision9.do">
-<title lang="es">Noticias SIN: Fin de semana</title>
+<programme start="20220417090000 +0000" stop="20220417093000 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Programa Pagado</title>
+</programme>
+<programme start="20220417093000 +0000" stop="20220417100000 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Programa Pagado</title>
+</programme>
+<programme start="20220417100000 +0000" stop="20220417102600 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Vida azul</title>
+</programme>
+<programme start="20220417102600 +0000" stop="20220417112600 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Dra. Dee Veterinaria de Alaska</title>
+</programme>
+<programme start="20220417112600 +0000" stop="20220417115500 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Pequeños gigantes de la naturaleza</title>
+</programme>
+<programme start="20220417115500 +0000" stop="20220417122500 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Pequeños gigantes de la naturaleza</title>
+</programme>
+<programme start="20220417122500 +0000" stop="20220417132300 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">El último de su especie</title>
+</programme>
+<programme start="20220417132300 +0000" stop="20220417142300 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">El último de su especie</title>
+</programme>
+<programme start="20220417142300 +0000" stop="20220417152000 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Wild Frank: Tras la evolución de las especies</title>
+</programme>
+<programme start="20220417152000 +0000" stop="20220417161700 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Wild Frank: Tras la evolución de las especies</title>
+</programme>
+<programme start="20220417161700 +0000" stop="20220417171400 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Wild Frank: Tras la evolución de las especies</title>
+</programme>
+<programme start="20220417171400 +0000" stop="20220417181000 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Ciencia al rescate</title>
+</programme>
+<programme start="20220417181000 +0000" stop="20220417190600 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Mansiones en los Árboles</title>
+</programme>
+<programme start="20220417190600 +0000" stop="20220417200200 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Piscinas increíbles</title>
+</programme>
+<programme start="20220417200200 +0000" stop="20220417203100 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Los reyes de las piscinas</title>
+</programme>
+<programme start="20220417203100 +0000" stop="20220417210000 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Los reyes de las piscinas</title>
+</programme>
+<programme start="20220417210000 +0000" stop="20220417215600 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">México salvaje</title>
+</programme>
+<programme start="20220417215600 +0000" stop="20220417234900 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Australia salvaje</title>
+</programme>
+<programme start="20220417234900 +0000" stop="20220418004900 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Con el agua al cuello</title>
+</programme>
+<programme start="20220417234900 +0000" stop="20220418004900 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Con el agua al cuello</title>
+</programme>
+<programme start="20220418004900 +0000" stop="20220418014700 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Guaridas con estilo</title>
+</programme>
+<programme start="20220418014700 +0000" stop="20220418024400 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Animales en riesgo Phoenix</title>
+</programme>
+<programme start="20220418024400 +0000" stop="20220418034000 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Genios constructores</title>
+</programme>
+<programme start="20220418034000 +0000" stop="20220418043600 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Dra. Dee Veterinaria de Alaska</title>
+</programme>
+<programme start="20220418043600 +0000" stop="20220418053200 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Refugio en el granero</title>
+</programme>
+<programme start="20220418053200 +0000" stop="20220418060000 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Vida azul</title>
+</programme>
+<programme start="20220418060000 +0000" stop="20220418063000 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Naturaleza Salvaje</title>
+</programme>
+<programme start="20220418063000 +0000" stop="20220418073000 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Animales en riesgo Phoenix</title>
+</programme>
+<programme start="20220418073000 +0000" stop="20220418083000 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Guardianes de Texas</title>
+</programme>
+<programme start="20220418083000 +0000" stop="20220418090000 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Programa Pagado</title>
+</programme>
+<programme start="20220418090000 +0000" stop="20220418093000 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Programa Pagado</title>
+</programme>
+<programme start="20220418093000 +0000" stop="20220418100000 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Programa Pagado</title>
+</programme>
+<programme start="20220418100000 +0000" stop="20220418102600 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Naturaleza Salvaje</title>
+</programme>
+<programme start="20220418102600 +0000" stop="20220418105600 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Pequeños gigantes de la naturaleza</title>
+</programme>
+<programme start="20220418105600 +0000" stop="20220418112600 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Pequeños gigantes de la naturaleza</title>
+</programme>
+<programme start="20220418112600 +0000" stop="20220418115600 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Misterios del mundo animal</title>
+</programme>
+<programme start="20220418115600 +0000" stop="20220418122600 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Misterios del mundo animal</title>
+</programme>
+<programme start="20220418122600 +0000" stop="20220418132600 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Operación Tanzania</title>
+</programme>
+<programme start="20220418132600 +0000" stop="20220418142200 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Wild Frank</title>
+</programme>
+<programme start="20220418142200 +0000" stop="20220418151800 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Ciencia al rescate</title>
+</programme>
+<programme start="20220418151800 +0000" stop="20220418161400 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Pescadores al límite</title>
+</programme>
+<programme start="20220418161400 +0000" stop="20220418171100 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Pescadores al límite</title>
+</programme>
+<programme start="20220418171100 +0000" stop="20220418180800 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Pescadores al límite</title>
+</programme>
+<programme start="20220418180800 +0000" stop="20220418190400 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Wild Frank en África</title>
+</programme>
+<programme start="20220418190400 +0000" stop="20220418200100 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Con el agua al cuello</title>
+</programme>
+<programme start="20220418200100 +0000" stop="20220418210000 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Dr. Jeff, veterinario</title>
+</programme>
+<programme start="20220418210000 +0000" stop="20220418215800 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">El zoológico del Bronx</title>
+</programme>
+<programme start="20220418215800 +0000" stop="20220418225700 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Los Irwin</title>
+</programme>
+<programme start="20220418225700 +0000" stop="20220418235600 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Veterinarios de Texas</title>
+</programme>
+<programme start="20220418235600 +0000" stop="20220419005400 +0000" channel="AnimalPlanetLatinAmerica.us">
+<title lang="es">Pit bulls y convictos</title>
 </programme>
   
-  <programme start="20220416220000 +0000" stop="20220417004000 +0000" channel="AELatinAmerica.us">
-<title lang="es">Ángeles y demonios</title>
-</programme>
-<programme start="20220417004000 +0000" stop="20220417022500 +0000" channel="AELatinAmerica.us">
-<title lang="es">El código del miedo</title>
-</programme>
-<programme start="20220417022500 +0000" stop="20220417025500 +0000" channel="AELatinAmerica.us">
-<title lang="es">Metropoli</title>
-</programme>
-<programme start="20220417025500 +0000" stop="20220417032500 +0000" channel="AELatinAmerica.us">
-<title lang="es">Metropoli</title>
-</programme>
-<programme start="20220417032500 +0000" stop="20220417035000 +0000" channel="AELatinAmerica.us">
-<title lang="es">Escuadrón de emergencias</title>
-</programme>
-<programme start="20220417035000 +0000" stop="20220417042000 +0000" channel="AELatinAmerica.us">
-<title lang="es">Escuadrón de emergencias</title>
-</programme>
-<programme start="20220417042000 +0000" stop="20220417044500 +0000" channel="AELatinAmerica.us">
-<title lang="es">Rescate en acción</title>
-</programme>
-<programme start="20220417044500 +0000" stop="20220417051000 +0000" channel="AELatinAmerica.us">
-<title lang="es">Rescate en acción</title>
-</programme>
-<programme start="20220417051000 +0000" stop="20220417060000 +0000" channel="AELatinAmerica.us">
-<title lang="es">Las Primeras 48 Horas</title>
-</programme>
-<programme start="20220417060000 +0000" stop="20220417070000 +0000" channel="AELatinAmerica.us">
-<title lang="es">Último día en libertad</title>
-</programme>
-<programme start="20220417070000 +0000" stop="20220417080000 +0000" channel="AELatinAmerica.us">
-<title lang="es">Infomerciales</title>
-</programme>
-<programme start="20220417080000 +0000" stop="20220417090000 +0000" channel="AELatinAmerica.us">
-<title lang="es">Infomerciales</title>
-</programme>
-<programme start="20220417090000 +0000" stop="20220417100000 +0000" channel="AELatinAmerica.us">
-<title lang="es">Infomerciales</title>
-</programme>
-<programme start="20220417100000 +0000" stop="20220417110000 +0000" channel="AELatinAmerica.us">
-<title lang="es">Infomerciales</title>
-</programme>
-<programme start="20220417110000 +0000" stop="20220417120000 +0000" channel="AELatinAmerica.us">
-<title lang="es">Famosos y fantasmas</title>
-</programme>
-<programme start="20220417120000 +0000" stop="20220417130000 +0000" channel="AELatinAmerica.us">
-<title lang="es">Acumuladores compulsivos</title>
-</programme>
-<programme start="20220417130000 +0000" stop="20220417133000 +0000" channel="AELatinAmerica.us">
-<title lang="es">Super animales</title>
-</programme>
-<programme start="20220417133000 +0000" stop="20220417135500 +0000" channel="AELatinAmerica.us">
-<title lang="es">Super animales</title>
-</programme>
-<programme start="20220417135500 +0000" stop="20220417144500 +0000" channel="AELatinAmerica.us">
-<title lang="es">Top Dog</title>
-</programme>
-<programme start="20220417144500 +0000" stop="20220417153500 +0000" channel="AELatinAmerica.us">
-<title lang="es">Top Dog</title>
-</programme>
-<programme start="20220417153500 +0000" stop="20220417160500 +0000" channel="AELatinAmerica.us">
-<title lang="es">Alto! Frontera</title>
-</programme>
-<programme start="20220417160500 +0000" stop="20220417165500 +0000" channel="AELatinAmerica.us">
-<title lang="es">Acusado ¿Culpable o inocente?</title>
-</programme>
-<programme start="20220417165500 +0000" stop="20220417174500 +0000" channel="AELatinAmerica.us">
-<title lang="es">Crímenes no resueltos</title>
-</programme>
-<programme start="20220417174500 +0000" stop="20220417192500 +0000" channel="AELatinAmerica.us">
-<title lang="es">El código del miedo</title>
-</programme>
 </tv>
