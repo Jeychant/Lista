@@ -1,11 +1,18 @@
 <tv>
-<channel id="ColorVision9.do">
+  
+  <channel id="ColorVision9.do">
 <display-name>Color Visión 9</display-name>
 <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/9_republica_dominicana-mediano.png"/>
 <url>https://gatotv.com</url>
 </channel>
 
-<programme start="20220417000000 +0000" stop="20220417040000 +0000" channel="ColorVision9.do">
+  <channel id="AELatinAmerica.us">
+<display-name>A&E Latinoamérica</display-name>
+<icon src="https://imagenes.gatotv.com/logos/canales/oscuros/a_y_e_latinoamerica-mediano.png"/>
+<url>https://gatotv.com</url>
+</channel>
+  
+  <programme start="20220417000000 +0000" stop="20220417040000 +0000" channel="ColorVision9.do">
 <title lang="es">Programación de la madrugada</title>
 </programme>
 <programme start="20220417040000 +0000" stop="20220417050000 +0000" channel="ColorVision9.do">
@@ -46,5 +53,78 @@
 </programme>
 <programme start="20220417180000 +0000" stop="20220417190000 +0000" channel="ColorVision9.do">
 <title lang="es">Noticias SIN: Fin de semana</title>
+</programme>
+  
+  <programme start="20220416220000 +0000" stop="20220417004000 +0000" channel="AELatinAmerica.us">
+<title lang="es">Ángeles y demonios</title>
+</programme>
+<programme start="20220417004000 +0000" stop="20220417022500 +0000" channel="AELatinAmerica.us">
+<title lang="es">El código del miedo</title>
+</programme>
+<programme start="20220417022500 +0000" stop="20220417025500 +0000" channel="AELatinAmerica.us">
+<title lang="es">Metropoli</title>
+</programme>
+<programme start="20220417025500 +0000" stop="20220417032500 +0000" channel="AELatinAmerica.us">
+<title lang="es">Metropoli</title>
+</programme>
+<programme start="20220417032500 +0000" stop="20220417035000 +0000" channel="AELatinAmerica.us">
+<title lang="es">Escuadrón de emergencias</title>
+</programme>
+<programme start="20220417035000 +0000" stop="20220417042000 +0000" channel="AELatinAmerica.us">
+<title lang="es">Escuadrón de emergencias</title>
+</programme>
+<programme start="20220417042000 +0000" stop="20220417044500 +0000" channel="AELatinAmerica.us">
+<title lang="es">Rescate en acción</title>
+</programme>
+<programme start="20220417044500 +0000" stop="20220417051000 +0000" channel="AELatinAmerica.us">
+<title lang="es">Rescate en acción</title>
+</programme>
+<programme start="20220417051000 +0000" stop="20220417060000 +0000" channel="AELatinAmerica.us">
+<title lang="es">Las Primeras 48 Horas</title>
+</programme>
+<programme start="20220417060000 +0000" stop="20220417070000 +0000" channel="AELatinAmerica.us">
+<title lang="es">Último día en libertad</title>
+</programme>
+<programme start="20220417070000 +0000" stop="20220417080000 +0000" channel="AELatinAmerica.us">
+<title lang="es">Infomerciales</title>
+</programme>
+<programme start="20220417080000 +0000" stop="20220417090000 +0000" channel="AELatinAmerica.us">
+<title lang="es">Infomerciales</title>
+</programme>
+<programme start="20220417090000 +0000" stop="20220417100000 +0000" channel="AELatinAmerica.us">
+<title lang="es">Infomerciales</title>
+</programme>
+<programme start="20220417100000 +0000" stop="20220417110000 +0000" channel="AELatinAmerica.us">
+<title lang="es">Infomerciales</title>
+</programme>
+<programme start="20220417110000 +0000" stop="20220417120000 +0000" channel="AELatinAmerica.us">
+<title lang="es">Famosos y fantasmas</title>
+</programme>
+<programme start="20220417120000 +0000" stop="20220417130000 +0000" channel="AELatinAmerica.us">
+<title lang="es">Acumuladores compulsivos</title>
+</programme>
+<programme start="20220417130000 +0000" stop="20220417133000 +0000" channel="AELatinAmerica.us">
+<title lang="es">Super animales</title>
+</programme>
+<programme start="20220417133000 +0000" stop="20220417135500 +0000" channel="AELatinAmerica.us">
+<title lang="es">Super animales</title>
+</programme>
+<programme start="20220417135500 +0000" stop="20220417144500 +0000" channel="AELatinAmerica.us">
+<title lang="es">Top Dog</title>
+</programme>
+<programme start="20220417144500 +0000" stop="20220417153500 +0000" channel="AELatinAmerica.us">
+<title lang="es">Top Dog</title>
+</programme>
+<programme start="20220417153500 +0000" stop="20220417160500 +0000" channel="AELatinAmerica.us">
+<title lang="es">Alto! Frontera</title>
+</programme>
+<programme start="20220417160500 +0000" stop="20220417165500 +0000" channel="AELatinAmerica.us">
+<title lang="es">Acusado ¿Culpable o inocente?</title>
+</programme>
+<programme start="20220417165500 +0000" stop="20220417174500 +0000" channel="AELatinAmerica.us">
+<title lang="es">Crímenes no resueltos</title>
+</programme>
+<programme start="20220417174500 +0000" stop="20220417192500 +0000" channel="AELatinAmerica.us">
+<title lang="es">El código del miedo</title>
 </programme>
 </tv>
