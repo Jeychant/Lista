@@ -1,1 +1,259 @@
-
+<tv>
+<channel id="AMCLatinAmerica.us">
+<display-name>AMC Latin America</display-name>
+<icon src="https://imagenes.gatotv.com/logos/canales/oscuros/amc_latinoamerica-mediano.png"/>
+<url>https://mi.tv</url>
+</channel>
+<programme start="20220417051000 +0000" stop="20220417071500 +0000" channel="AMCLatinAmerica.us">
+<title lang="es">Comando especial 2</title>
+<desc lang="es">Luego de su exitosa intervención para acabar con el narcotráfico dentro de un instituto, los agentes de policía Jenko y Schmidt tendrán que infiltrarse en un campus universitario para intentar desarticular una nueva red de narcos.</desc>
+<category lang="es">22 Jump StreetComedia / 2014 / 7.1</category>
+<icon src="https://cdn.mitvstatic.com/programs/ar_comando-especial-2-2014_l_m.jpg"/>
+</programme>
+<programme start="20220417071500 +0000" stop="20220417093500 +0000" channel="AMCLatinAmerica.us">
+<title lang="es">Esta chica es un desastre</title>
+<desc lang="es">Desde pequeña, Amy ha oído a su padre decir que la monogamia no es un estado realista. La periodista vive de acuerdo con las creencias de su padre, disfrutando de una vida sin ataduras, libre de aburridas promesas románticas.</desc>
+<category lang="es">TrainwreckComedia / 2015 / 6.3</category>
+<icon src="https://cdn.mitvstatic.com/programs/ar_esta-chica-es-un-desastre-2015_l_m.jpg"/>
+</programme>
+<programme start="20220417093500 +0000" stop="20220417100000 +0000" channel="AMCLatinAmerica.us">
+<title lang="es">Action Zone</title>
+<desc lang="es">"Action Zone" mantiene a sus seguidores al día con las películas más recientes, los efectos especiales más espectaculares, los mejores estrenos, las grandes premieres mundiales y las entrevistas exclusivas.</desc>
+<category lang="es">Entretenimientos</category>
+<icon src="https://cdn.mitvstatic.com/programs/ar_action-zone_l_m.jpg"/>
+</programme>
+<programme start="20220417100000 +0000" stop="20220417103000 +0000" channel="AMCLatinAmerica.us">
+<title lang="es">Programa pagado</title>
+<desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías.</desc>
+<category lang="es">Publicidad</category>
+<icon src="https://cdn.mitvstatic.com/programs/ar_programa-pagado_l_m.jpg"/>
+</programme>
+<programme start="20220417103000 +0000" stop="20220417110000 +0000" channel="AMCLatinAmerica.us">
+<title lang="es">Programa pagado</title>
+<desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías.</desc>
+<category lang="es">Publicidad</category>
+<icon src="https://cdn.mitvstatic.com/programs/ar_programa-pagado_l_m.jpg"/>
+</programme>
+<programme start="20220417110000 +0000" stop="20220417113000 +0000" channel="AMCLatinAmerica.us">
+<title lang="es">Programa pagado</title>
+<desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías.</desc>
+<category lang="es">Publicidad</category>
+<icon src="https://cdn.mitvstatic.com/programs/ar_programa-pagado_l_m.jpg"/>
+</programme>
+<programme start="20220417113000 +0000" stop="20220417120000 +0000" channel="AMCLatinAmerica.us">
+<title lang="es">Programa pagado</title>
+<desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías.</desc>
+<category lang="es">Publicidad</category>
+<icon src="https://cdn.mitvstatic.com/programs/ar_programa-pagado_l_m.jpg"/>
+</programme>
+<programme start="20220417120000 +0000" stop="20220417123000 +0000" channel="AMCLatinAmerica.us">
+<title lang="es">Programa pagado</title>
+<desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías.</desc>
+<category lang="es">Publicidad</category>
+<icon src="https://cdn.mitvstatic.com/programs/ar_programa-pagado_l_m.jpg"/>
+</programme>
+<programme start="20220417123000 +0000" stop="20220417130000 +0000" channel="AMCLatinAmerica.us">
+<title lang="es">Programa pagado</title>
+<desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías.</desc>
+<category lang="es">Publicidad</category>
+<icon src="https://cdn.mitvstatic.com/programs/ar_programa-pagado_l_m.jpg"/>
+</programme>
+<programme start="20220417130000 +0000" stop="20220417133000 +0000" channel="AMCLatinAmerica.us">
+<title lang="es">Action Zone</title>
+<desc lang="es">"Action Zone" mantiene a sus seguidores al día con las películas más recientes, los efectos especiales más espectaculares, los mejores estrenos, las grandes premieres mundiales y las entrevistas exclusivas.</desc>
+<category lang="es">Entretenimientos</category>
+<icon src="https://cdn.mitvstatic.com/programs/ar_action-zone_l_m.jpg"/>
+</programme>
+<programme start="20220417133000 +0000" stop="20220417140000 +0000" channel="AMCLatinAmerica.us">
+<title lang="es">Action Zone</title>
+<desc lang="es">"Action Zone" mantiene a sus seguidores al día con las películas más recientes, los efectos especiales más espectaculares, los mejores estrenos, las grandes premieres mundiales y las entrevistas exclusivas.</desc>
+<category lang="es">Entretenimientos</category>
+<icon src="https://cdn.mitvstatic.com/programs/ar_action-zone_l_m.jpg"/>
+</programme>
+<programme start="20220417140000 +0000" stop="20220417160000 +0000" channel="AMCLatinAmerica.us">
+<title lang="es">Dragon Blade</title>
+<desc lang="es">En consecuencia de una expedición fallida, un "decurión" de una Legión romana se verá solo y abandonado en medio de China. Unirá sus fuerzas con los aliados para combatir al enemigo que amenaza su país.</desc>
+<category lang="es">Acción / 2015 / 6.0</category>
+<icon src="https://cdn.mitvstatic.com/programs/ar_dragon-blade-2015_l_m.jpg"/>
+</programme>
+<programme start="20220417160000 +0000" stop="20220417175000 +0000" channel="AMCLatinAmerica.us">
+<title lang="es">Enemigos de sangre</title>
+<desc lang="es">El detective Max Lewinsky pierde la pista del peligroso criminal Jacob Sternwood, al que le seguía el rastro desde hace tiempo. Cuando el hijo de Sternwood es detenido, el detective sabrá que su presa regresará para rescatarlo.</desc>
+<category lang="es">Welcome to the PunchAcción / 2013 / 6.1</category>
+<icon src="https://cdn.mitvstatic.com/programs/ar_enemigos-de-sangre-2013_l_m.jpg"/>
+</programme>
+<programme start="20220417175000 +0000" stop="20220417194000 +0000" channel="AMCLatinAmerica.us">
+<title lang="es">Como si fuera la primera vez</title>
+<desc lang="es">Henry Roth es un mujeriego veterinario de la fauna marina que se enamora perdidamente de la adorable Lucy Whitmore. El problema es que cada mañana ella olvida todo lo sucedido el día anterior, incluyendo haberlo conocido a él.</desc>
+<category lang="es">50 First DatesComedia / 2004 / 6.8</category>
+<icon src="https://cdn.mitvstatic.com/programs/ar_como-si-fuera-la-primera-vez-2004_l_m.jpg"/>
+</programme>
+<programme start="20220417194000 +0000" stop="20220417212500 +0000" channel="AMCLatinAmerica.us">
+<title lang="es">Un papá genial</title>
+<desc lang="es">Con treinta y dos años, Sonny sigue evitando a toda costa la responsabilidad que implica el mundo de los adultos. Pero en un intento de impresionar a su novia, adopta a un niño de cinco años con la falsa pretensión de ser su padre.</desc>
+<category lang="es">Big DaddyComedia / 1999 / 6.4</category>
+<icon src="https://cdn.mitvstatic.com/programs/ar_un-papa-genial-1999_l_m.jpg"/>
+</programme>
+<programme start="20220417212500 +0000" stop="20220417235500 +0000" channel="AMCLatinAmerica.us">
+<title lang="es">El Hombre Araña 3</title>
+<desc lang="es">Peter parece haber conseguido un equilibrio entre su relación con Mary Jane y sus responsabilidades como súperhéroe. Pero una tormenta amenaza en el horizonte: su traje cambia de repente, volviéndose negro y mejorando sus poderes.</desc>
+<category lang="es">Spider-Man 3Acción / 2007 / 6.2</category>
+<icon src="https://cdn.mitvstatic.com/programs/ar_el-hombre-arana-3-2007-1_l_m.jpg"/>
+</programme>
+<programme start="20220417235500 +0000" stop="20220418010000 +0000" channel="AMCLatinAmerica.us">
+<title lang="es">Leonardo</title>
+<desc lang="es">Reunido con Caterina, Leonardo persevera en su trabajo pero se siente frustrado por el creciente éxito de un artista más joven, Miguel Ángel.</desc>
+<category lang="es">Temporada 1 Episodio 7</category>
+<icon src="https://cdn.mitvstatic.com/programs/ar_leonardo-s01e07_l_m.jpg"/>
+</programme>
+<programme start="20220418010000 +0000" stop="20220418020000 +0000" channel="AMCLatinAmerica.us">
+<title lang="es">Leonardo</title>
+<desc lang="es">El tiempo apremia cuando Stefano corre para salvar a Leonardo y descubre su secreto. A medida que se acerca la ejecución, la vida de Leonardo pende de un hilo.</desc>
+<category lang="es">Temporada 1 Episodio 8</category>
+<icon src="https://cdn.mitvstatic.com/programs/ar_leonardo-s01e08_l_m.jpg"/>
+</programme>
+<programme start="20220418020000 +0000" stop="20220418035500 +0000" channel="AMCLatinAmerica.us">
+<title lang="es">Venganza letal</title>
+<desc lang="es">Tras abandonar la prisión, un ex convicto planea vengar la muerte de su hermano, la cual tiene como responsable a un poderoso líder de la mafia. Sin embargo, el capo mafioso, alertado de la situación, le pondrá precio a su cabeza.</desc>
+<category lang="es">FasterAcción / 2010 / 6.5</category>
+<icon src="https://cdn.mitvstatic.com/programs/ar_venganza-letal-2010_l_m.jpg"/>
+</programme>
+<programme start="20220418035500 +0000" stop="20220418055000 +0000" channel="AMCLatinAmerica.us">
+<title lang="es">Juego de asesinos</title>
+<desc lang="es">Dos asesinos rivales, los mejores del mundo, pero desconocidos el uno al otro, tendrán que unir sus fuerzas para luchar en contra de un cartel de la droga apoyado por la DEA.</desc>
+<category lang="es">Assassination GamesAcción / 2011 / 6.2</category>
+<icon src="https://cdn.mitvstatic.com/programs/ar_juego-de-asesinos-2011_l_m.jpg"/>
+</programme>
+<programme start="20220418055000 +0000" stop="20220418065000 +0000" channel="AMCLatinAmerica.us">
+<title lang="es">Encadenado</title>
+<desc lang="es">Una ex estrella infantil se ve obligado a enfrentarse a sus propios demonios, después de que un criminal conectado a su pasado lo secuestra. Atrapado y torturado, debe tomar acciones con sus propias manos.</desc>
+<category lang="es">Catch HellDrama / 2014 / 5.4</category>
+<icon src="https://cdn.mitvstatic.com/programs/ar_encadenado-2014_l_m.jpg"/>
+</programme>
+<programme start="20220418055000 +0000" stop="20220418074500 +0000" channel="AMCLatinAmerica.us">
+<title lang="es">Encadenado</title>
+<desc lang="es">Una ex estrella infantil se ve obligado a enfrentarse a sus propios demonios, después de que un criminal conectado a su pasado lo secuestra. Atrapado y torturado, debe tomar acciones con sus propias manos.</desc>
+<category lang="es">Catch HellDrama / 2014 / 5.4</category>
+<icon src="https://cdn.mitvstatic.com/programs/ar_encadenado-2014_l_m.jpg"/>
+</programme>
+<programme start="20220418074500 +0000" stop="20220418100000 +0000" channel="AMCLatinAmerica.us">
+<title lang="es">Libertador</title>
+<desc lang="es">Superproducción que relata la figura del militar y político venezolano Simón Bolívar (1783-1830), uno de los principales artífices de la independencia de los países latinoamericanos frente al imperio español en el siglo XIX.</desc>
+<category lang="es">Biográfico / 2013</category>
+<icon src="https://cdn.mitvstatic.com/programs/ar_libertador-2013_l_m.jpg"/>
+</programme>
+<programme start="20220418100000 +0000" stop="20220418103000 +0000" channel="AMCLatinAmerica.us">
+<title lang="es">Programa pagado</title>
+<desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías.</desc>
+<category lang="es">Publicidad</category>
+<icon src="https://cdn.mitvstatic.com/programs/ar_programa-pagado_l_m.jpg"/>
+</programme>
+<programme start="20220418103000 +0000" stop="20220418110000 +0000" channel="AMCLatinAmerica.us">
+<title lang="es">Programa pagado</title>
+<desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías.</desc>
+<category lang="es">Publicidad</category>
+<icon src="https://cdn.mitvstatic.com/programs/ar_programa-pagado_l_m.jpg"/>
+</programme>
+<programme start="20220418110000 +0000" stop="20220418113000 +0000" channel="AMCLatinAmerica.us">
+<title lang="es">Programa pagado</title>
+<desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías.</desc>
+<category lang="es">Publicidad</category>
+<icon src="https://cdn.mitvstatic.com/programs/ar_programa-pagado_l_m.jpg"/>
+</programme>
+<programme start="20220418113000 +0000" stop="20220418120000 +0000" channel="AMCLatinAmerica.us">
+<title lang="es">Programa pagado</title>
+<desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías.</desc>
+<category lang="es">Publicidad</category>
+<icon src="https://cdn.mitvstatic.com/programs/ar_programa-pagado_l_m.jpg"/>
+</programme>
+<programme start="20220418120000 +0000" stop="20220418123000 +0000" channel="AMCLatinAmerica.us">
+<title lang="es">Programa pagado</title>
+<desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías.</desc>
+<category lang="es">Publicidad</category>
+<icon src="https://cdn.mitvstatic.com/programs/ar_programa-pagado_l_m.jpg"/>
+</programme>
+<programme start="20220418123000 +0000" stop="20220418130000 +0000" channel="AMCLatinAmerica.us">
+<title lang="es">Programa pagado</title>
+<desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías.</desc>
+<category lang="es">Publicidad</category>
+<icon src="https://cdn.mitvstatic.com/programs/ar_programa-pagado_l_m.jpg"/>
+</programme>
+<programme start="20220418130000 +0000" stop="20220418133000 +0000" channel="AMCLatinAmerica.us">
+<title lang="es">Programa pagado</title>
+<desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías.</desc>
+<category lang="es">Publicidad</category>
+<icon src="https://cdn.mitvstatic.com/programs/ar_programa-pagado_l_m.jpg"/>
+</programme>
+<programme start="20220418133000 +0000" stop="20220418140000 +0000" channel="AMCLatinAmerica.us">
+<title lang="es">Programa pagado</title>
+<desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías.</desc>
+<category lang="es">Publicidad</category>
+<icon src="https://cdn.mitvstatic.com/programs/ar_programa-pagado_l_m.jpg"/>
+</programme>
+<programme start="20220418140000 +0000" stop="20220418143000 +0000" channel="AMCLatinAmerica.us">
+<title lang="es">Action Zone</title>
+<desc lang="es">"Action Zone" mantiene a sus seguidores al día con las películas más recientes, los efectos especiales más espectaculares, los mejores estrenos, las grandes premieres mundiales y las entrevistas exclusivas.</desc>
+<category lang="es">Entretenimientos</category>
+<icon src="https://cdn.mitvstatic.com/programs/ar_action-zone_l_m.jpg"/>
+</programme>
+<programme start="20220418143000 +0000" stop="20220418150000 +0000" channel="AMCLatinAmerica.us">
+<title lang="es">Action Zone</title>
+<desc lang="es">"Action Zone" mantiene a sus seguidores al día con las películas más recientes, los efectos especiales más espectaculares, los mejores estrenos, las grandes premieres mundiales y las entrevistas exclusivas.</desc>
+<category lang="es">Entretenimientos</category>
+<icon src="https://cdn.mitvstatic.com/programs/ar_action-zone_l_m.jpg"/>
+</programme>
+<programme start="20220418150000 +0000" stop="20220418172000 +0000" channel="AMCLatinAmerica.us">
+<title lang="es">Jobs</title>
+<desc lang="es">Steve Jobs se convierte en el emprendedor más importante de los Estados Unidos, siendo cofundador de Apple. Pero el camino no siempre fue fácil, él superó muchos obstáculos mientras se abría camino en la tecnología.</desc>
+<category lang="es">Biográfico / 2013 / 5.9</category>
+<icon src="https://cdn.mitvstatic.com/programs/ar_jobs-2013_l_m.jpg"/>
+</programme>
+<programme start="20220418172000 +0000" stop="20220418193000 +0000" channel="AMCLatinAmerica.us">
+<title lang="es">Stargate, puerta a las estrellas</title>
+<desc lang="es">Un estricto coronel y un egiptólogo investigan la aparición de un extraño artefacto en unas excavaciones. Junto a un equipo de reconocimiento, ambos atraviesan la Puerta, y todos ellos son transportados a un lejano planeta.</desc>
+<category lang="es">StargateAcción / 1994 / 7.0</category>
+<icon src="https://cdn.mitvstatic.com/programs/ar_stargate-puerta-a-las-estrellas-1994_l_m.jpg"/>
+</programme>
+<programme start="20220418193000 +0000" stop="20220418212000 +0000" channel="AMCLatinAmerica.us">
+<title lang="es">Como si fuera la primera vez</title>
+<desc lang="es">Henry Roth es un mujeriego veterinario de la fauna marina que se enamora perdidamente de la adorable Lucy Whitmore. El problema es que cada mañana ella olvida todo lo sucedido el día anterior, incluyendo haberlo conocido a él.</desc>
+<category lang="es">50 First DatesComedia / 2004 / 6.8</category>
+<icon src="https://cdn.mitvstatic.com/programs/ar_como-si-fuera-la-primera-vez-2004_l_m.jpg"/>
+</programme>
+<programme start="20220418212000 +0000" stop="20220418235000 +0000" channel="AMCLatinAmerica.us">
+<title lang="es">El Hombre Araña 3</title>
+<desc lang="es">Peter parece haber conseguido un equilibrio entre su relación con Mary Jane y sus responsabilidades como súperhéroe. Pero una tormenta amenaza en el horizonte: su traje cambia de repente, volviéndose negro y mejorando sus poderes.</desc>
+<category lang="es">Spider-Man 3Acción / 2007 / 6.2</category>
+<icon src="https://cdn.mitvstatic.com/programs/ar_el-hombre-arana-3-2007-1_l_m.jpg"/>
+</programme>
+<programme start="20220418235000 +0000" stop="20220419010000 +0000" channel="AMCLatinAmerica.us">
+<title lang="es">Leonardo</title>
+<desc lang="es">El tiempo apremia cuando Stefano corre para salvar a Leonardo y descubre su secreto. A medida que se acerca la ejecución, la vida de Leonardo pende de un hilo.</desc>
+<category lang="es">Temporada 1 Episodio 8</category>
+<icon src="https://cdn.mitvstatic.com/programs/ar_leonardo-s01e08_l_m.jpg"/>
+</programme>
+<programme start="20220419010000 +0000" stop="20220419020000 +0000" channel="AMCLatinAmerica.us">
+<title lang="es">Fear the Walking Dead</title>
+<desc lang="es">Alicia solicita la ayuda de Morgan para buscar un nuevo hogar para su gente, pero Morgan pronto descubre que la búsqueda es más complicada de lo que imaginaba.</desc>
+<category lang="es">Temporada 7 Episodio 8 - Padre</category>
+<icon src="https://cdn.mitvstatic.com/programs/ar_fear-the-walking-dead-s07e08-padre_l_m.jpg"/>
+</programme>
+<programme start="20220419020000 +0000" stop="20220419025000 +0000" channel="AMCLatinAmerica.us">
+<title lang="es">Fear the Walking Dead</title>
+<desc lang="es">Los sobrevivientes del "Fin" nuclear descubrirán quiénes son y de qué están hechos realmente en este nuevo "Comienzo", Incluso a costa de aquellos quienes alguna vez consideraron familia.</desc>
+<category lang="es">Temporada 7 Episodio 9 - Follow Me</category>
+<icon src="https://cdn.mitvstatic.com/programs/ar_fear-the-walking-dead-s07e09-follow-me_l_m.jpg"/>
+</programme>
+<programme start="20220419025000 +0000" stop="20220419043000 +0000" channel="AMCLatinAmerica.us">
+<title lang="es">Everly</title>
+<desc lang="es">Atrapada en su apartamento, una mujer debe enfrentarse al acoso de todo tipo de asesinos enviados por su ex-novio, que resulta ser un peligroso y rencoroso jefe de la mafia.</desc>
+<category lang="es">Acción / 2014 / 5.0</category>
+<icon src="https://cdn.mitvstatic.com/programs/ar_everly-2014_l_m.jpg"/>
+</programme>
+<programme start="20220419043000 +0000" stop="20220419053000 +0000" channel="AMCLatinAmerica.us">
+<title lang="es">Encadenado</title>
+<desc lang="es">Una ex estrella infantil se ve obligado a enfrentarse a sus propios demonios, después de que un criminal conectado a su pasado lo secuestra. Atrapado y torturado, debe tomar acciones con sus propias manos.</desc>
+<category lang="es">Catch HellDrama / 2014 / 5.4</category>
+<icon src="https://cdn.mitvstatic.com/programs/ar_encadenado-2014_l_m.jpg"/>
+</programme>
+</tv>
