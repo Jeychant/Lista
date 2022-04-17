@@ -1,0 +1,48 @@
+<channel id="ColorVision9.do">
+<display-name>Color Visión 9</display-name>
+<icon src="https://imagenes.gatotv.com/logos/canales/oscuros/9_republica_dominicana-mediano.png"/>
+<url>https://gatotv.com</url>
+</channel>
+
+<programme start="20220417000000 +0000" stop="20220417040000 +0000" channel="ColorVision9.do">
+<title lang="es">Programación de la madrugada</title>
+</programme>
+<programme start="20220417040000 +0000" stop="20220417050000 +0000" channel="ColorVision9.do">
+<title lang="es">Zona norte</title>
+</programme>
+<programme start="20220417050000 +0000" stop="20220417060000 +0000" channel="ColorVision9.do">
+<title lang="es">Buenas nuevas</title>
+</programme>
+<programme start="20220417060000 +0000" stop="20220417070000 +0000" channel="ColorVision9.do">
+<title lang="es">Espejo 360</title>
+</programme>
+<programme start="20220417070000 +0000" stop="20220417080000 +0000" channel="ColorVision9.do">
+<title lang="es">Punto de vista</title>
+</programme>
+<programme start="20220417080000 +0000" stop="20220417090000 +0000" channel="ColorVision9.do">
+<title lang="es">Lideres</title>
+</programme>
+<programme start="20220417090000 +0000" stop="20220417100000 +0000" channel="ColorVision9.do">
+<title lang="es">Aeromundo</title>
+</programme>
+<programme start="20220417100000 +0000" stop="20220417110000 +0000" channel="ColorVision9.do">
+<title lang="es">Panorama semanal</title>
+</programme>
+<programme start="20220417110000 +0000" stop="20220417120000 +0000" channel="ColorVision9.do">
+<title lang="es">Un buen doctor</title>
+</programme>
+<programme start="20220417120000 +0000" stop="20220417130000 +0000" channel="ColorVision9.do">
+<title lang="es">Rescue me</title>
+</programme>
+<programme start="20220417130000 +0000" stop="20220417150000 +0000" channel="ColorVision9.do">
+<title lang="es">Cine 9</title>
+</programme>
+<programme start="20220417150000 +0000" stop="20220417170000 +0000" channel="ColorVision9.do">
+<title lang="es">Cine 9</title>
+</programme>
+<programme start="20220417170000 +0000" stop="20220417180000 +0000" channel="ColorVision9.do">
+<title lang="es">Protagonistas</title>
+</programme>
+<programme start="20220417180000 +0000" stop="20220417190000 +0000" channel="ColorVision9.do">
+<title lang="es">Noticias SIN: Fin de semana</title>
+</programme>
