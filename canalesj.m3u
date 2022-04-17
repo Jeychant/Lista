@@ -159,7 +159,7 @@ https://cdn2.streamgato.us/alegrandotv/alegrandotv/chunklist_w948369323.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-mHM64wTlYZM/YBvad8R2qKI/AAAAAAAAD20/9S_K3wWV5IIA-u4KYFrVEKsMEKv8yl5zACLcBGAsYHQ/s300/microvision-en-vivo-canal-10-online.png"  ,MICROVISION
 https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w495146805.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png" ,RT NOTICIAS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png" ,RT Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/512px-CNN_International_logo.svg.png" ,CNN International Latin America
@@ -186,10 +186,10 @@ https://edge4-hr.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_c5n_m.png" ,C5N
 https://edge4-hr.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg9kusYu-mEJpzIZXMGqfvGuf7cZNQBgoAt8q8qSo0XqnMRFo2KDlCWLuD3LNgXS2n4oAxQWhL3fPiL6iw2EHw-BflGl3JWSHwPGiq5NI_9QJC_t51AHaaPrm9lFOfuxKjWMJP1U-X4uC26eV77oQKty1Y0OOxX61GylFOAgN4DxeaLZe22z9mXEgZm" ,TNT SPORT
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg9kusYu-mEJpzIZXMGqfvGuf7cZNQBgoAt8q8qSo0XqnMRFo2KDlCWLuD3LNgXS2n4oAxQWhL3fPiL6iw2EHw-BflGl3JWSHwPGiq5NI_9QJC_t51AHaaPrm9lFOfuxKjWMJP1U-X4uC26eV77oQKty1Y0OOxX61GylFOAgN4DxeaLZe22z9mXEgZm" ,TNT Sports Argentina
 https://edge4-hr.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-90LMQCmhDqo/YT5KvolVhyI/AAAAAAAAAMw/XeQETtspZTM8h_nFKLr1v3bSgpwr2hJ_wCLcBGAsYHQ/h120/tycsports.png" ,TYC SPORTS
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-90LMQCmhDqo/YT5KvolVhyI/AAAAAAAAAMw/XeQETtspZTM8h_nFKLr1v3bSgpwr2hJ_wCLcBGAsYHQ/h120/tycsports.png" ,TyC Sports
 https://edge4-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-FYVcpfemo4c/YUGnQ9HvSsI/AAAAAAAAAQQ/MMr9AFOuPaQHThJkarFEJQ9OOhdaaMS5wCLcBGAsYHQ/h120/ESPN.png" ,ESPN América Latina
@@ -237,7 +237,7 @@ https://edge4-hr.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/Disc
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" ,Discovery Science Latinoamérica
 https://edge4-hr.cvattv.com.ar/live/c6eds/Discovery_Science/SA_SAGEMCOM/Discovery_Science.m3u8
 
-#EXTINF:-1 tvg-logo="https://dcom-prod.imgix.net/files/2020-12/tlc_thumb.png" ,DISCOVERY TLC
+#EXTINF:-1 tvg-logo="https://dcom-prod.imgix.net/files/2020-12/tlc_thumb.png" ,TLC Argentina
 https://edge4-hr.cvattv.com.ar/live/c6eds/TLC/SA_SAGEMCOM/TLC.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" ,Discovery Turbo América Latina
@@ -282,10 +282,10 @@ https://amc-maschic-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" ,Cinecanal Este
 https://edge4-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-L4urlPJenM4/YUDqsI3xRzI/AAAAAAAAAPo/WxABCNWwctY6HWYhRClIYigkRaMuqu0LwCLcBGAsYHQ/h120/Universal_TV.png" ,UNIVERSAL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-L4urlPJenM4/YUDqsI3xRzI/AAAAAAAAAPo/WxABCNWwctY6HWYhRClIYigkRaMuqu0LwCLcBGAsYHQ/h120/Universal_TV.png" ,Universal TV América Latina
 https://edge4-hr.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" ,STUDIO UNIVERSAL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" ,Studio Universal Argentina
 https://edge4-hr.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-cK4WNqOob_w/YUDpdrZzvEI/AAAAAAAAAPQ/DY9_xUdMjn0yP7ZbOfweOMYBReirkQeUACLcBGAsYHQ/h120/AMC.png" ,AMC Latin America
@@ -294,7 +294,7 @@ https://edge4-hr.cvattv.com.ar/live/c3eds/AMC/SA_SAGEMCOM/AMC.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-fdvJf2MjlgQ/YT5Q_HnjLrI/AAAAAAAAAOI/Wp9FNV3R06cBaDSCDcUD1sTJZwNT0rqgwCLcBGAsYHQ/h120/I.Sat.png" ,I-Sat
 https://edge4-hr.cvattv.com.ar/live/c6eds/ISAT/SA_SAGEMCOM/ISAT.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png" ,SPACE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png" ,Space Sur
 https://edge4-hr.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-NDwbXJHYJMc/YT5RpJxdtpI/AAAAAAAAAOY/D1VEo88C3jwfky5Oiwww9TZX3ehLWpSfQCLcBGAsYHQ/h120/Cinemax.png" ,Cinemax Latinoamérica
@@ -330,7 +330,7 @@ https://edge4-hr.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" ,AXN
 https://edge4-hr.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgK1PK2Qu-MCU6KnbVf31M1VY5Lh8scfD-ISP7UlAEjcSjdFmiYbW-zs5Lo4e5c3DSrrT0UT3ELvfuyI9qjQNwUl1aN1dxm7vInbcOcfbwZiKJ8dxz2Dv9hQFabTCsEJBC4mRT9IPJLKRi1LeCCuM4JAWBNcpX-ON5P7ORlTFturiu_tMTnvOLid23Z" ,TNT SERIES
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgK1PK2Qu-MCU6KnbVf31M1VY5Lh8scfD-ISP7UlAEjcSjdFmiYbW-zs5Lo4e5c3DSrrT0UT3ELvfuyI9qjQNwUl1aN1dxm7vInbcOcfbwZiKJ8dxz2Dv9hQFabTCsEJBC4mRT9IPJLKRi1LeCCuM4JAWBNcpX-ON5P7ORlTFturiu_tMTnvOLid23Z" ,TNT Series Argentina
 https://edge4-hr.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-FX_Movies_logo.svg.png" ,FXM Este
@@ -345,7 +345,7 @@ https://cdn.prepro.cvattv.com.ar/live/vod/SyFy/SA_Live_WebVTT_FTA/SyFy.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" ,Paramount Network Latin America
 https://edge4-hr.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" ,WARNER BROS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" ,Warner Channel Atlántico Sur
 https://edge4-hr.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/08/Comedy-Central-logo.png" ,Comedy Central Latinoamérica Sur
@@ -354,19 +354,19 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/ComedyCentral/SA_SAGEMCOM/Comedy
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/800px-A%26E_Network_logo.svg.png" ,A&E Latinoamérica
 https://edge1-sl.cvattv.com.ar/live/c7eds/AEHD/SA_SAGEMCOM/AEHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" ,TCM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" ,TCM Argentina
 https://cdn.prepro.cvattv.com.ar/live/vod/TCM/SA_Live_WebVTT_FTA/TCM.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TNT.svg/1200px-TNT.svg.png" ,TNT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TNT.svg/1200px-TNT.svg.png" ,TNT Argentina
 https://edge4-hr.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/640px-TBS_logo_2016.svg.png" ,TBS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/640px-TBS_logo_2016.svg.png" ,TBS América Latina
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/TBS/SA_SAGEMCOM/TBS.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" ,TRUTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" ,Tru TV América Latina
 https://edge4-hr.cvattv.com.ar/live/c3eds/TruTV/SA_SAGEMCOM/TruTV.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" ,SONY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" ,Sony Channel Andes
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" ,SONY NOVELAS
@@ -441,7 +441,7 @@ https://edge4-hr.cvattv.com.ar/live/c7eds/Boomerang/SA_SAGEMCOM/Boomerang.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-i06a2RNeq04/YT4_qFK6lvI/AAAAAAAAALA/kHIKmF-huXoV1t_t2i2N8t4ZhvTUDeBJgCLcBGAsYHQ/h120/Disney_XD.png" ,DISNEY XD
 https://edge4-hr.cvattv.com.ar/live/c7eds/DisneyXD/SA_SAGEMCOM/DisneyXD.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ArZ2H9gDjgQ/YT4-ZYGfWtI/AAAAAAAAAKw/el9PT_iCX7QRN9SAvK08gUfxS5DjkTsEACLcBGAsYHQ/s320/Tooncast.png" ,TOONCAST
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ArZ2H9gDjgQ/YT4-ZYGfWtI/AAAAAAAAAKw/el9PT_iCX7QRN9SAvK08gUfxS5DjkTsEACLcBGAsYHQ/s320/Tooncast.png" ,Tooncast
 https://edge4-hr.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ZVx8_exFxYQ/YT4_FY_WBAI/AAAAAAAAAK4/wq2VagLcw4kREJMXl58558VA2LzijbrRQCLcBGAsYHQ/h120/Nick_Jr.png" ,Nick Jr Latin America
@@ -459,7 +459,7 @@ https://edge4-hr.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetw
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-jbyXCmO1tD4/YXIvRy8qnpI/AAAAAAAAAR4/Mru1u3gvJ1w4Z574forFRxSDMnFZ6ajhgCLcBGAsYHQ/h120/ver-disney-junior.png" ,DISNEY JR
 https://edge4-hr.cvattv.com.ar/live/c7eds/DisneyJr/SA_SAGEMCOM/DisneyJr.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" ,TELEMUNDO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" ,Telemundo Internacional
 https://edge4-hr.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" ,ESTRELLA TV
@@ -564,7 +564,7 @@ https://stream.logicideas.media/telepacifico-live/live.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/1200px-2020_Canal_Capital_logo.svg.png" ,CANAL CAPITAL
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" ,TELESUR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" ,Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/EVTV-%E2%80%93-El-Venezonalo-TV-en-vivo-Online.png" ,EVTV
