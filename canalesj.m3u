@@ -24,7 +24,7 @@ https://do-antena7-antena7-live.ned.media/antena7/smil:antena7.smil/playlist.m3u
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/telemax.png" ,TELEMAX
 https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/color-vision-canal-9-en-vivo-online.png" ,COLOR VISION
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/color-vision-canal-9-en-vivo-online.png" ,Color Visión 9
 http://51.81.93.239:8084/hls/colorABR.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.telesur.com.do/images/telesur_canal_10_logo2.png",TELESUR CANAL 10
