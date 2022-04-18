@@ -376,7 +376,9 @@ https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
 https://spt-comedias-1-us.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/1200px-Energy.svg.png" ,ENERGY
-https://live.mitele.es/hls/live/2005337/energy/master-archive.m3u8?startTime=1&?hdnts=st=1650131623~exp=1650131713~acl=/*~hmac=c94b160f3f5f46e98a217778fb9b0851d53a02b2a4ef89d6469eb8860b6cfa2a
+
+#EXTINF:-1 tvg-logo="http://tvnov.com/images/span/Ver-canal-mega-online.png" ,Mega España
+http://154.62.74.29:1935/live/mega/chunklist_w1555082919.m3u8
 
 #EXTINF:-1 tvg-logo="https://mundo-tips.com/wp-content/uploads/2020/05/Rakuten-TV-logo.png" ,RAKUTEN ACTION
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
