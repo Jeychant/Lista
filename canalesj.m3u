@@ -343,7 +343,7 @@ https://edge4-hr.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
 https://edge4-hr.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-FX_Movies_logo.svg.png" ,FXM Este
-https://edge4-hr.cvattv.com.ar/live/c3eds/TheFilmZoneHD/SA_SAGEMCOM/TheFilmZoneHD.m3u8
+https://h1.ustvgo.la/FXMovie/myStream/chunks.m3u8?nimblesessionid=231168082&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDIyIDI6MDc6MjUgUE0maGFzaF92YWx1ZT1uN05vMzk0cDE3R09hbXN4SGp4V1hnPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" ,FX Andina
 https://edge4-hr.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
