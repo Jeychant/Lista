@@ -186,6 +186,9 @@ https://edge4-hr.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_c5n_m.png" ,C5N
 https://edge4-hr.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N.m3u8
 
+#EXTINF:-1 tvg-logo="http://tvnov.com/images/span/24h.jpg" ,24h España
+https://rtvelivestreamv3.akamaized.net/rtvesec/24h_bkp_2750.m3u8
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg9kusYu-mEJpzIZXMGqfvGuf7cZNQBgoAt8q8qSo0XqnMRFo2KDlCWLuD3LNgXS2n4oAxQWhL3fPiL6iw2EHw-BflGl3JWSHwPGiq5NI_9QJC_t51AHaaPrm9lFOfuxKjWMJP1U-X4uC26eV77oQKty1Y0OOxX61GylFOAgN4DxeaLZe22z9mXEgZm" ,TNT Sports Argentina
 https://edge4-hr.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 
@@ -635,3 +638,13 @@ https://edge4-hr.cvattv.com.ar/live/c7eds/Hola_TV/SA_SAGEMCOM/Hola_TV.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/Miami-TV-Mexico-en-vivo-Online.png" ,MIAMI TV 
 https://5ee7c2b857b7f.streamlock.net/latino/latino/.m3u8
 
+#EXTINF:-1 tvg-logo="http://tvnov.com/images/span/La1_en_directo.jpg" ,La 1 HD 
+https://rtvelivestreamv3.akamaized.net/rtvesec/la1_bkp_1850.m3u8
+
+#EXTINF:-1 tvg-logo="http://tvnov.com/images/span/La2_en_directo.jpg" ,La 2 HD
+https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main_720.m3u8
+
+#EXTINF:-1 tvg-logo="http://tvnov.com/images/span/Antena3_tv.jpg" ,Antena 3 
+http://94.127.187.118:8080/hls/t5.m3u8
+
+http://94.127.187.118:8080/hls/t5.m3u8
