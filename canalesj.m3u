@@ -369,6 +369,18 @@ https://cdn.prepro.cvattv.com.ar/live/vod/TCM/SA_Live_WebVTT_FTA/TCM.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TNT.svg/1200px-TNT.svg.png" ,TNT Argentina
 https://edge4-hr.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
 
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-AkkPySD117w/VuCLEzcc4RI/AAAAAAAAAqI/VeRbS0i1EOU/s1600/Golden_logo.png" ,Golden
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/202_.m3u8?token=4vAv2vg2Hl_jOhTUPhF2wA&expires=1650302538&ip=200.88.74.92
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" ,Golden Premier
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/73_.m3u8?token=YjpSm5EsO5Qawk1D5xZpgQ&expires=1650302623&ip=200.88.74.92
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3a/Multipremier_logo.svg.png" ,MultiPremier
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/81_.m3u8?token=2Kx5vm5rb89c6o3w16tWsQ&expires=1650302804&ip=200.88.74.92
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.rlDl-fu91NWOuhTBdLWddQHaCf?pid=ImgDet&rs=1" ,DPeliculas
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/85_.m3u8?token=Ty7CMyyWZK3bK1sxvlEJqQ&expires=1650303097&ip=200.88.74.92
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/640px-TBS_logo_2016.svg.png" ,TBS América Latina
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/TBS/SA_SAGEMCOM/TBS.m3u8
 
@@ -383,6 +395,9 @@ https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" ,SONY COMEDIAS
 https://spt-comedias-1-us.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2012/04/e_logo-724x1024.jpg" ,Enterteiment e
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/103_.m3u8?token=5SIoaggxiFLqeeRH_vCWTg&expires=1650303001&ip=200.88.74.92
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/1200px-Energy.svg.png" ,ENERGY
 
@@ -469,6 +484,7 @@ https://edge4-hr.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetw
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-jbyXCmO1tD4/YXIvRy8qnpI/AAAAAAAAAR4/Mru1u3gvJ1w4Z574forFRxSDMnFZ6ajhgCLcBGAsYHQ/h120/ver-disney-junior.png" ,DISNEY JR
 https://edge4-hr.cvattv.com.ar/live/c7eds/DisneyJr/SA_SAGEMCOM/DisneyJr.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" ,Telemundo Internacional
 https://edge4-hr.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.m3u8
@@ -653,4 +669,23 @@ https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main_720.m3u8
 #EXTINF:-1 tvg-logo="http://tvnov.com/images/span/Antena3_tv.jpg" ,Antena 3 
 http://94.127.187.118:8080/hls/t5.m3u8
 
-http://94.127.187.118:8080/hls/t5.m3u8
+#EXTINF:-1 tvg-logo="https://w1.pngwing.com/pngs/51/22/png-transparent-tv-logo-tv-azteca-television-azteca-7-television-channel-kazd-wdca.png" ,Azteca 7
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/1_.m3u8?token=rKGyry87NuG04ARvXk2CJw&expires=1650302914&ip=200.88.74.92
+
+#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/azteca-logo-2521x2038-953339619-2521x2038-351781214.png" ,Azteca 1
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/52_.m3u8?token=pOo_Ep39W6Z_0OTei7VJVA&expires=1650303354&ip=200.88.74.92
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_az-mundo-hd_m.png" ,Azmundo
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/53_.m3u8?token=g5QFoVSx5_kZkYLwADV8AA&expires=1650303437&ip=200.88.74.92
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png" ,Azcinema
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/54_.m3u8?token=3p-djrWN-6EYsBWDyRqVHA&expires=1650303572&ip=200.88.74.92
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" ,Galavision
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/55_.m3u8?token=d122CZQ-QpLquhoxsvwAPQ&expires=1650303654&ip=200.88.74.92
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/1200px-Unicable_logo.svg.png" ,Unicable
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/63_.m3u8?token=FlJ_3iHOmj4lyevQrRAYpA&expires=1650303721&ip=200.88.74.92
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" ,Unimas
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/64_.m3u8?token=X7jczPcIM19F56APXlCvoQ&expires=1650303781&ip=200.88.74.92
