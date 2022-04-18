@@ -666,7 +666,7 @@ https://rtvelivestreamv3.akamaized.net/rtvesec/la1_bkp_1850.m3u8
 #EXTINF:-1 tvg-logo="http://tvnov.com/images/span/La2_en_directo.jpg" ,La 2 HD
 https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main_720.m3u8
 
-#EXTINF:-1 tvg-logo="http://tvnov.com/images/span/Antena3_tv.jpg" ,Antena 3 
+#EXTINF:-1 tvg-logo="https://i1.wp.com/2.bp.blogspot.com/-3STBOVu5GZQ/T1thRHmD8pI/AAAAAAAAA4k/5wtjxCGdu_A/s1600/Desi-Telecinco_logo.png" ,Telecinco HD
 http://94.127.187.118:8080/hls/t5.m3u8
 
 #EXTINF:-1 tvg-logo="https://w1.pngwing.com/pngs/51/22/png-transparent-tv-logo-tv-azteca-television-azteca-7-television-channel-kazd-wdca.png" ,Azteca 7
