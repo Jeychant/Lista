@@ -1,7 +1,7 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/canela-tv.jpg" ,CANELA TV
-https://cloudflare.streamgato.us:3953/live/canelatvlive.m3u8
+#EXTINF:-1 tvg-logo="https://allvectorlogo.com/img/2016/07/sitv-logo.png" ,Sitv
+https://51.81.93.29:8084/hls/sitv2.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/05/teleantillas-en-vivo-canal-2-online.jpg" ,TELEANTILLAS
 http://51.81.93.239:8084/hls/tantillas.m3u8
