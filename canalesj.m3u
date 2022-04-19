@@ -3,13 +3,13 @@
 #EXTINF:-1 tvg-logo="https://allvectorlogo.com/img/2016/07/sitv-logo.png" ,Sitv
 http://51.81.93.29:8084/hls/sitv2.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/05/teleantillas-en-vivo-canal-2-online.jpg" ,TELEANTILLAS
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/05/teleantillas-en-vivo-canal-2-online.jpg" ,Canal 2 de Tele Antillas
 http://51.81.93.239:8084/hls/tantillas.m3u8
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/tv_plata_canal_3.jpg"  ,TV PLATA 3
 https://ss9.domint.net:3032/tvp_str/tvp2111/chunklist_w1894196728.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/Canal-4-rd-en-vivo-y-directo.png" ,CANAL 4 RD
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/Canal-4-rd-en-vivo-y-directo.png" ,Canal Televisión Dominicana
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w471536589_b2146304.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png" ,TELEMICRO 5
