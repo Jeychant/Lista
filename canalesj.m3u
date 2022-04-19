@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://allvectorlogo.com/img/2016/07/sitv-logo.png" ,Sitv
 http://51.81.93.29:8084/hls/sitv2.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/05/teleantillas-en-vivo-canal-2-online.jpg" ,Canal 2 de Tele Antillas
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/05/teleantillas-en-vivo-canal-2-online.jpg" ,Canal 2 de Tele Antillas (República Dominicana)
 http://51.81.93.239:8084/hls/tantillas.m3u8
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/tv_plata_canal_3.jpg"  ,TV PLATA 3
@@ -12,7 +12,7 @@ https://ss9.domint.net:3032/tvp_str/tvp2111/chunklist_w1894196728.m3u8
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/Canal-4-rd-en-vivo-y-directo.png" ,Canal Televisión Dominicana
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w471536589_b2146304.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png" ,TELEMICRO 5
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png" ,Canal 5 de Telemicro (República Dominicana)
 http://51.81.93.29:8084/hls/tmicro.m3u8
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/rumba-985-en-vivo.jpg" ,RUMBA 98.5
@@ -30,25 +30,25 @@ http://51.81.93.239:8084/hls/colorABR.m3u8
 #EXTINF:-1 tvg-logo="http://www.telesur.com.do/images/telesur_canal_10_logo2.png",TELESUR CANAL 10
 https://ss3.domint.net:3124/tls_str/telesur/chunklist_w798170752.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telesistema-canal-11-en-vivo-online.png" ,TELESISTEMA
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telesistema-canal-11-en-vivo-online.png" ,Canal Telesistema 11 (República Dominicana)
 http://51.81.93.29:8084/hls/tsistemas.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/bonao-tv-en-vivo-online-canal-12.jpg"  ,BONAO TV
 https://ss5.domint.net:3026/btv_str/bonao/chunklist_w1023022608.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telecentro-canal-13-en-vivo.png"  ,TELECENTRO 13
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telecentro-canal-13-en-vivo.png"  ,Canal Telecentro (13 de República Dominicana)
 http://51.81.93.29:8084/hls/telecentro.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/bajo-techo-tv-en-vivo.jpg"  ,BAJO TECHO TV
 https://cdn4.hostlagarto.com:8081/static/bajotechotv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/digital-15-en-vivo-online.jpg"  ,DIGITAL 15
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/digital-15-en-vivo-online.jpg"  ,Canal 15 (Digital Quince Telemicro)
 http://51.81.93.29:8084/hls/d15.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/08/tvo-romana-en-vivo-online.jpg"  ,TVO ROMANA
 https://rctvhd.net:8081/tvoromanalive/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/teleunion_canal_16_santiago.jpg"  ,TELEUNION
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/teleunion_canal_16_santiago.jpg"  ,Canal Teleunion (República Dominicana)
 http://server3.prostudionetwork.com:1945/teleunion/TU/chunklist_w777712053.m3u8
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/telenord.jpg" ,TELENORD
@@ -84,7 +84,7 @@ https://ss2.domint.net:3202/rnn_str/canal27/chunklist_w424115432.m3u8
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/opcion-tv.jpg"  ,OPCION TV
 https://5790d294af2dc.streamlock.net/8066/8066/chunklist_w612515886.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/teleuniverso-canal-29-online-en-vivo.jpg",TELEUNIVERSO
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/teleuniverso-canal-29-online-en-vivo.jpg",Canal 29 de TeleUniverso (República Dominicana)
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/cdnsports.png",CDN SPORT MAX
@@ -108,7 +108,7 @@ https://5790d294af2dc.streamlock.net/8042/8042/chunklist_w736112464.m3u8
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/vozz-media-network.png" ,VOZZ MEDIA
 https://ss5.domint.net:3032/vozz_str/vozzmedia/chunklist_w1896640088.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.cdn.com.do/wp-content/uploads/2019/04/ae9fa439-9aa23ad9-logo-nuevo-cdn.png" ,CDN
+#EXTINF:-1 tvg-logo="https://m.cdn.com.do/wp-content/uploads/2019/04/ae9fa439-9aa23ad9-logo-nuevo-cdn.png" ,Canal 37 de CDN (República Dominicana)
 http://51.81.93.239:8084/hls/cdn.m3u8
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/crom-tv-el-canal-del-siglo.png" ,CROM TV
