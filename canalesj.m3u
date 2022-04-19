@@ -42,7 +42,7 @@ http://51.81.93.29:8084/hls/telecentro.m3u8
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/bajo-techo-tv-en-vivo.jpg"  ,BAJO TECHO TV
 https://cdn4.hostlagarto.com:8081/static/bajotechotv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/digital-15-en-vivo-online.jpg"  ,Canal 15 (Digital Quince Telemicro)
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/digital-15-en-vivo-online.jpg"  ,Canal 15 (Digital Quince Telemicro) (República Dominicana)
 http://51.81.93.29:8084/hls/d15.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/08/tvo-romana-en-vivo-online.jpg"  ,TVO ROMANA
