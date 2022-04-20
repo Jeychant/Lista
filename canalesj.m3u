@@ -336,14 +336,8 @@ https://edge4-hr.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgK1PK2Qu-MCU6KnbVf31M1VY5Lh8scfD-ISP7UlAEjcSjdFmiYbW-zs5Lo4e5c3DSrrT0UT3ELvfuyI9qjQNwUl1aN1dxm7vInbcOcfbwZiKJ8dxz2Dv9hQFabTCsEJBC4mRT9IPJLKRi1LeCCuM4JAWBNcpX-ON5P7ORlTFturiu_tMTnvOLid23Z" ,TNT Series Argentina
 https://edge4-hr.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-FX_Movies_logo.svg.png" ,FXM Este
-https://h1.ustvgo.la/FXMovie/myStream/chunks.m3u8?nimblesessionid=231168082&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDIyIDI6MDc6MjUgUE0maGFzaF92YWx1ZT1uN05vMzk0cDE3R09hbXN4SGp4V1hnPT0mdmFsaWRtaW51dGVzPTI0MA==
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" ,FX Andina
 https://edge4-hr.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" ,SYFY
-https://cdn.prepro.cvattv.com.ar/live/vod/SyFy/SA_Live_WebVTT_FTA/SyFy.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" ,Paramount Network Latin America
 https://edge4-hr.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
