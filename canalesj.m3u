@@ -553,7 +553,7 @@ https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png" ,C1OC
 https://vcp.myplaytv.com/canal10cba/ngrp:canal10cba_all/.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1382344075232296960/d9GJ3No3_400x400.jpg" ,CARACOLTV
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1382344075232296960/d9GJ3No3_400x400.jpg" ,Canal Caracol HD (Colombia)
 https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TRECE%2B.png" ,Canal 13 de Colombia (Trece)
@@ -565,8 +565,8 @@ https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png" ,SEÑAL COLOMBIA
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Citytv_old_logo.svg/1200px-Citytv_old_logo.svg.png" ,CITY TV
-https://streannlive-lh.akamaihd.net/i/Citytv_1@875433/master.m3u8?customtoken=95805faf-aca9-4601-8d33-06e218435c9b&hdnts=exp=1647707661~acl=*~hmac=5db9309ea78f5206e732b0a37f05d6c4efba4e01daa6cd9d31e010f863d0da6c&AkamaiAnalytics_debug=1&set-segment-duration=smoothest&dw=3600&resellerId=5d5f122d2cdcdc3478f9c924
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Citytv_old_logo.svg/1200px-Citytv_old_logo.svg.png" ,Canal City TV
+https://streannlive-lh.akamaihd.net/i/Citytv_1@875433/master.m3u8?customtoken=5d2cf4a8-b380-4003-9b0f-d522933d7bb4&hdnts=exp=1650468015~acl=*~hmac=57ba2fa00e98cfda5d42dcef0d7147725ec18e38eaed86903b2af805816f386a&AkamaiAnalytics_debug=1&set-segment-duration=smoothest&dw=3600&resellerId=5d5f122d2cdcdc3478f9c924
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/Canal-CNC-Medellin-en-vivo-Online.png" ,CANALCNC
 http://38.75.136.76:1935/cncmedellin720/canalcncmedellin.stream/.m3u8
@@ -577,7 +577,7 @@ https://canalzoom.itex.com.co:3085/live/canalzoombr01live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Telepac%C3%ADfico.png" ,TELEPACIFICO
 https://stream.logicideas.media/telepacifico-live/live.smil/.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/1200px-2020_Canal_Capital_logo.svg.png" ,CANAL CAPITAL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/1200px-2020_Canal_Capital_logo.svg.png" ,Canal Capital (Colombia)
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" ,Telesur
@@ -589,7 +589,7 @@ https://streannlive-lh.akamaihd.net/i/evtvroku_1@595739/master.m3u8?customtoken=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG" ,TVES
 https://edge1o.live.opencaster.com/caster/erCkqDzdGzpj.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ATV_logo.png" ,ATV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ATV_logo.png" ,Canal ATV
 https://d2tr4gdfol9ja.cloudfront.net/atv/atv.smil/.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ATV%2B_%28Peru%29_-_2018_logo.png" ,ATV+
@@ -601,7 +601,7 @@ https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Emblema_de_La_Red.png" ,LARED
 https://d2tr4gdfol9ja.cloudfront.net/lared/lared.smil/.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_de_Canal_13_HD_%282010-2018%29.png" ,CANAL13E
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_de_Canal_13_HD_%282010-2018%29.png" ,Canal 13 de Chile
 https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Canal_9_B%C3%ADo_B%C3%ADo_Televisi%C3%B3n_-_2012_logo.png" ,C9BB
