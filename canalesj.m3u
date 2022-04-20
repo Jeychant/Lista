@@ -87,7 +87,7 @@ https://5790d294af2dc.streamlock.net/8066/8066/chunklist_w612515886.m3u8
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/teleuniverso-canal-29-online-en-vivo.jpg",Canal 29 de TeleUniverso (República Dominicana)
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/cdnsports.png",CDN SPORT MAX
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/cdnsports.png",Canal CDN-SportsMax
 http://51.81.93.29:8084/hls/cdnsm.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/ctn-tv-en-vivo.jpg"  ,CNT TV
