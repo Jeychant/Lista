@@ -546,7 +546,7 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ATV_logo.png" ,Canal ATV
 https://d2tr4gdfol9ja.cloudfront.net/atv/atv.smil/.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Emblema_de_La_Red.png" ,Canal La Red
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Emblema_de_La_Red.png" ,Canal La Red (Chile)
 https://d2tr4gdfol9ja.cloudfront.net/lared/lared.smil/.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_de_Canal_13_HD_%282010-2018%29.png" ,Canal 13 de Chile
