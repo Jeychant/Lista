@@ -597,7 +597,7 @@ https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main_720.m3u8
 #EXTINF:-1 tvg-logo="https://i1.wp.com/2.bp.blogspot.com/-3STBOVu5GZQ/T1thRHmD8pI/AAAAAAAAA4k/5wtjxCGdu_A/s1600/Desi-Telecinco_logo.png" ,Canal Telecinco
 http://94.127.187.118:8080/hls/t5.m3u8
 
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/e2/Atresseries.png/revision/latest?cb=20160120113332" ,Atreseries
+#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/e2/Atresseries.png/revision/latest?cb=20160120113332" ,Canal Atreseries (Internacional)
 https://mdstrm.com/live-stream-playlist/5cae562e0ca2f30815231c0f.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606
 
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/fotos/a/76000/76431/tyfmtr0sbvz6jwegr24cb74a79d80c9_logo-boing.png" ,Canal Boing (España)
