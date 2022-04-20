@@ -573,7 +573,7 @@ https://uni10rtmp.tulix.tv/bettervida/bettervida.stream/.m3u8
 #EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/us-llbn-latino-tv-9409.jpg" ,LLBN LATINO
 https://brightstar-latino.secure.footprint.net/egress/bhandler/brightstar/brightstarLatino/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/LOGO_COSMO.png" ,COSMO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/LOGO_COSMO.png" ,Canal Cosmopolitan (España)
 http://154.62.74.12:1935/live/smil:cosmoHD/.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhKQGDwKzD3c5JZSM2o8QCOB-xb6p1gN_3WHDqxv_o-zwujoFZTWL5FlW7SeuJBP9vhO6ISvmWLNxmtK6PqHRjY_c83eejP9dBu5uCkUIGswTJvll6mGH2xnaZSomw1c6Lx8Ln5I4qOBD45SobNIGoT4EVzmGHEBvgda4GZlA7g0FW57gfe-mFpDRGX" ,Pasiones Latinoamérica
@@ -599,3 +599,9 @@ http://94.127.187.118:8080/hls/t5.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/e2/Atresseries.png/revision/latest?cb=20160120113332" ,Atreseries
 https://mdstrm.com/live-stream-playlist/5cae562e0ca2f30815231c0f.m3u8?access_token=DST4b676d7da5a2a92ee15f8efcbcd00606
+
+#EXTINF:-1 tvg-logo="https://www.formulatv.com/fotos/a/76000/76431/tyfmtr0sbvz6jwegr24cb74a79d80c9_logo-boing.png" ,Canal Boing (España)
+https://live.mitele.es/hls/live/2005334/boing/master.m3u8?hdnts=st=1650479818~exp=1650479907~acl=/*~hmac=e3962c705dfc77936a5769cac5e900f5b912fdaff4795ac724141df65bc02c33
+
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/be_mad_circular_500_-1_8f1a.png" ,Canal Be Mad
+https://live.mitele.es/hls/live/2005333/bemad/master.m3u8?hdnts=st=1650480000~exp=1650480089~acl=/*~hmac=c6c31f0d13c406969d6206a4c3455ef108e1cc17ddd70284ce87d38be3946d6e
