@@ -168,7 +168,7 @@ https://edge4-hr.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_SAGEMCOM/CNN_en_Espa
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Abc-news-logo.png" ,ABCNEWS
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png" ,DW
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png" ,Canal DW (Latinoamérica)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.myface.org/wp-content/uploads/2016/08/1000px-Bloomberg_logo.svg_.png" ,Bloomberg TV Latin America
@@ -180,7 +180,7 @@ https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl5vjr2PBbnYHX9Lojq
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1331719340228538372/bL0dogdb_400x400.jpg" ,IP
 https://octubre-live.cdn.vustreams.com/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" ,MILENIO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" ,Canal Milenio TV
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" ,CGTN ES
@@ -192,7 +192,7 @@ https://edge4-hr.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_c5n_m.png" ,C5N
 https://edge4-hr.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N.m3u8
 
-#EXTINF:-1 tvg-logo="http://tvnov.com/images/span/24h.jpg" ,24h España
+#EXTINF:-1 tvg-logo="http://tvnov.com/images/span/24h.jpg" ,Canal 24 Horas (TVE)
 https://rtvelivestreamv3.akamaized.net/rtvesec/24h_bkp_2750.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg9kusYu-mEJpzIZXMGqfvGuf7cZNQBgoAt8q8qSo0XqnMRFo2KDlCWLuD3LNgXS2n4oAxQWhL3fPiL6iw2EHw-BflGl3JWSHwPGiq5NI_9QJC_t51AHaaPrm9lFOfuxKjWMJP1U-X4uC26eV77oQKty1Y0OOxX61GylFOAgN4DxeaLZe22z9mXEgZm" ,TNT Sports Argentina
@@ -327,10 +327,10 @@ https://edge4-hr.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-cOG2wg6K0ek/YaWYxcaJ6OI/AAAAAAAAAT0/32z4us23azA49tFh3B-z3EtrZ5042oQBwCLcBGAsYHQ/h1280/ver-hbo-family-hd-en-vivo-television-libre.png" ,HBO Family Latinoamérica
 https://edge4-hr.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi_lEwVNLUP41SkYZ7iALWXO71yB7aNdQnI_EsWsY6GvkiqPQ-Ix7_EbvktCXijoQyJOJKgrza89BPI2dbcb7dls8tHsni06Zik3IIYOyiuZbARanEFD5vjONfx-H9Du348CduwG0Je_O-Z9La0I_SeiiWPihzNEcv4vUAogcOn8N58jGTXnF8fDMva" ,STAR CHANNEL
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi_lEwVNLUP41SkYZ7iALWXO71yB7aNdQnI_EsWsY6GvkiqPQ-Ix7_EbvktCXijoQyJOJKgrza89BPI2dbcb7dls8tHsni06Zik3IIYOyiuZbARanEFD5vjONfx-H9Du348CduwG0Je_O-Z9La0I_SeiiWPihzNEcv4vUAogcOn8N58jGTXnF8fDMva" ,Canal Fox
 https://edge4-hr.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" ,Canal AXN (México)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" ,AXN Latinoamérica
 https://edge4-hr.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgK1PK2Qu-MCU6KnbVf31M1VY5Lh8scfD-ISP7UlAEjcSjdFmiYbW-zs5Lo4e5c3DSrrT0UT3ELvfuyI9qjQNwUl1aN1dxm7vInbcOcfbwZiKJ8dxz2Dv9hQFabTCsEJBC4mRT9IPJLKRi1LeCCuM4JAWBNcpX-ON5P7ORlTFturiu_tMTnvOLid23Z" ,TNT Series Argentina
@@ -375,10 +375,10 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2012/04/e_logo-724x1024.jpg" ,E! Latinoamérica
 https://cdn.cvattv.com.ar/live/c6eds/E_Entertainment_Television/SA_SAGEMCOM/E_Entertainment_Television.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/1200px-Energy.svg.png" ,ENERGY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/1200px-Energy.svg.png" ,Canal Energy
 http://154.62.74.28:1935/live/energy-Stream/chunklist_w1028201034.m3u8
 
-#EXTINF:-1 tvg-logo="http://tvnov.com/images/span/Ver-canal-mega-online.png" ,Mega España
+#EXTINF:-1 tvg-logo="http://tvnov.com/images/span/Ver-canal-mega-online.png" ,Canal Mega
 http://154.62.74.29:1935/live/mega/chunklist_w1555082919.m3u8
 
 #EXTINF:-1 tvg-logo="https://mundo-tips.com/wp-content/uploads/2020/05/Rakuten-TV-logo.png" ,RAKUTEN ACTION
@@ -435,10 +435,10 @@ https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3qEDaRM02L4/YT48fWBTHeI/AAAAAAAAAKg/rXQ-f423gtIFwjryayxVxRETuTqVVB6GwCLcBGAsYHQ/s100/Discovery_Kids.png" ,Discovery Kids América Latina
 https://edge4-hr.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-eqMrg8h2rPw/YXLjZ5ewIWI/AAAAAAAAASU/BIBid1FrgQAZGU4Bz7H7Pc6M6WWfGm5OgCLcBGAsYHQ/h120/ver-boomerang-en-vivo.png" ,BOOMERANG
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-eqMrg8h2rPw/YXLjZ5ewIWI/AAAAAAAAASU/BIBid1FrgQAZGU4Bz7H7Pc6M6WWfGm5OgCLcBGAsYHQ/h120/ver-boomerang-en-vivo.png" ,Canal Boomerang (Panregional)
 https://edge4-hr.cvattv.com.ar/live/c7eds/Boomerang/SA_SAGEMCOM/Boomerang.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-i06a2RNeq04/YT4_qFK6lvI/AAAAAAAAALA/kHIKmF-huXoV1t_t2i2N8t4ZhvTUDeBJgCLcBGAsYHQ/h120/Disney_XD.png" ,DISNEY XD
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-i06a2RNeq04/YT4_qFK6lvI/AAAAAAAAALA/kHIKmF-huXoV1t_t2i2N8t4ZhvTUDeBJgCLcBGAsYHQ/h120/Disney_XD.png" ,Canal Disney XD
 https://edge4-hr.cvattv.com.ar/live/c7eds/DisneyXD/SA_SAGEMCOM/DisneyXD.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ArZ2H9gDjgQ/YT4-ZYGfWtI/AAAAAAAAAKw/el9PT_iCX7QRN9SAvK08gUfxS5DjkTsEACLcBGAsYHQ/s320/Tooncast.png" ,Tooncast
@@ -456,13 +456,13 @@ https://edge4-hr.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelodeon.m3
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-yo0y8VMr8jA/YXIvD8SpXkI/AAAAAAAAAR0/rMwi77Tj7lYPeudTHQ8jGSFMwSFJ28zjACLcBGAsYHQ/h120/ver-cartoon-network.png" ,Cartoon Network Argentina
 https://edge4-hr.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-jbyXCmO1tD4/YXIvRy8qnpI/AAAAAAAAAR4/Mru1u3gvJ1w4Z574forFRxSDMnFZ6ajhgCLcBGAsYHQ/h120/ver-disney-junior.png" ,DISNEY JR
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-jbyXCmO1tD4/YXIvRy8qnpI/AAAAAAAAAR4/Mru1u3gvJ1w4Z574forFRxSDMnFZ6ajhgCLcBGAsYHQ/h120/ver-disney-junior.png" ,Canal Disney Junior
 https://edge4-hr.cvattv.com.ar/live/c7eds/DisneyJr/SA_SAGEMCOM/DisneyJr.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" ,Telemundo Internacional
 https://edge4-hr.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_SAGEMCOM/Telemundo_HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" ,ESTRELLA TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" ,Canal Estrella TV 
 https://estrellatv-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/Am%C3%A9rica_Tev%C3%A9_Logo.png" ,América TV
@@ -477,7 +477,7 @@ https://streamwipr.pr/hls/wipr/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/XHTVM_-_ADN40.svg/2560px-XHTVM_-_ADN40.svg.png" ,Canal ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png" ,FORO TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png" ,Canal Foro TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png" ,6 MX
@@ -486,13 +486,13 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Multi8.png" ,8 COSTA RICA
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cinepremiere.com.mx/wp-content/uploads/2020/03/canal_once.jpg" ,Canal Once TV - México
+#EXTINF:-1 tvg-logo="https://www.cinepremiere.com.mx/wp-content/uploads/2020/03/canal_once.jpg" ,Canal Once TV - México (XEIPN-TV)
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/.m3u8
 
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/18/a2/94/18a29477-7286-3cb3-71a7-745613b3856e/source/512x512bb.jpg" ,TURISTIKTV
 https://5fa5de1a545ae.streamlock.net/8030/8030/.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1494034968850444296/fnQ0cLB-_400x400.jpg" ,MEXIQUENSE
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1494034968850444296/fnQ0cLB-_400x400.jpg" ,Canal Mexiquense TV
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOS8yMDIyIDQ6MTM6NTkgUE0maGFzaF92YWx1ZT1McW9URkdhdGhHT0pSSS9jUitLclNRPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-10-Cancun-en-vivo-Online.png" ,Canal 10 Mexico
@@ -501,7 +501,7 @@ https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/05/TVMas-Logo.jpg" ,TVMAS
 https://5ca9af4645e15.streamlock.net/rtv/videortv/.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Canal_Catorce.png/640px-Canal_Catorce.png" ,14MX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Canal_Catorce.png/640px-Canal_Catorce.png" ,Canal 14 de México
 https://63050ee307b58b8f.mediapackage.us-east-1.amazonaws.com/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1482214050452758532/XCqkTI76_400x400.jpg" ,TELEMAX
@@ -546,7 +546,7 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ATV_logo.png" ,Canal ATV
 https://d2tr4gdfol9ja.cloudfront.net/atv/atv.smil/.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Emblema_de_La_Red.png" ,LARED
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Emblema_de_La_Red.png" ,Canal La Red
 https://d2tr4gdfol9ja.cloudfront.net/lared/lared.smil/.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_de_Canal_13_HD_%282010-2018%29.png" ,Canal 13 de Chile
