@@ -543,9 +543,6 @@ https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" ,Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/TVes_logo.PNG" ,TVES
-https://edge1o.live.opencaster.com/caster/erCkqDzdGzpj.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ATV_logo.png" ,Canal ATV
 https://d2tr4gdfol9ja.cloudfront.net/atv/atv.smil/.m3u8
 
@@ -556,7 +553,7 @@ https://d2tr4gdfol9ja.cloudfront.net/lared/lared.smil/.m3u8
 https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Canal_9_Noticias.jpg" ,Canal 9 Noticias (Paraguay)
-https://py-c9n-c9n-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQ3Nzk0ODAxLCJzZXNzaW9uIjoiMTQ4LjAuMTcwLjExNyIsIndoaXRlbGlzdCI6WyIxNDguMC4xNzAuMTE3Il19LCJzaWduYXR1cmUiOiI4YTVjMzcxZGJjOGM5Mzk0NTdiNWNjZWZkYzBkNzE1ZjkzODBmMWQyIn0=
+https://py-c9n-c9n-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjUwNTU1NTE0LCJzZXNzaW9uIjoiMTQ4LjAuMTU3LjUzIiwid2hpdGVsaXN0IjpbIjE0OC4wLjE1Ny41MyJdfSwic2lnbmF0dXJlIjoiMzIxMmI5NmY4MWJhYWRlOTkxNzIzY2I5Yzc3ZDBmNzY1ZDUyYjZlYiJ9
 
 #EXTINF:-1 tvg-logo="https://telefonoparaguay.com/wp-content/uploads/2021/02/abc-py-telefono-300x236.jpg" ,ABC
 https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
