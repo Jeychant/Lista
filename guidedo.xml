@@ -1,0 +1,3074 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal 5 de Telemicro (República Dominicana)">
+    <display-name lang="es">Canal 5 de Telemicro (República Dominicana)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal 7 de Antena Latina (República Dominicana)">
+    <display-name lang="es">Canal 7 de Antena Latina (República Dominicana)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal 9 de Color Visión (República Dominicana)">
+    <display-name lang="es">Canal 9 de Color Visión (República Dominicana)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Telesistema 11 (República Dominicana)">
+    <display-name lang="es">Canal Telesistema 11 (República Dominicana)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Telecentro (13 de República Dominicana)">
+    <display-name lang="es">Canal Telecentro (13 de República Dominicana)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal 15 (Digital Quince Telemicro) (República Dominicana)">
+    <display-name lang="es">Canal 15 (Digital Quince Telemicro) (República Dominicana)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal 29 de TeleUniverso (República Dominicana)">
+    <display-name lang="es">Canal 29 de TeleUniverso (República Dominicana)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal 37 de CDN (República Dominicana)">
+    <display-name lang="es">Canal 37 de CDN (República Dominicana)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Teleunion (República Dominicana)">
+    <display-name lang="es">Canal Teleunion (República Dominicana)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal 2 de Tele Antillas (República Dominicana)">
+    <display-name lang="es">Canal 2 de Tele Antillas (República Dominicana)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal CDN-SportsMax">
+    <display-name lang="es">Canal CDN-SportsMax</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal 6 de Puerto Rico (WIPR-TV)">
+    <display-name lang="es">Canal 6 de Puerto Rico (WIPR-TV)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal 9 Noticias (Paraguay)">
+    <display-name lang="es">Canal 9 Noticias (Paraguay)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal 13 de Colombia (Trece)">
+    <display-name lang="es">Canal 13 de Colombia (Trece)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal 13 de Chile">
+    <display-name lang="es">Canal 13 de Chile</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal ¡HOLA! TV">
+    <display-name lang="es">Canal ¡HOLA! TV</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal ATV ">
+    <display-name lang="es">Canal ATV </display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Capital (Colombia)">
+    <display-name lang="es">Canal Capital (Colombia)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Caracol HD (Colombia)">
+    <display-name lang="es">Canal Caracol HD (Colombia)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal City TV">
+    <display-name lang="es">Canal City TV</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20220420003000 -0500" stop="20220420013000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">Primer impacto</title>
+  </programme>
+  <programme start="20220420013000 -0500" stop="20220420023000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">De Extremo a Extremo</title>
+  </programme>
+  <programme start="20220420023000 -0500" stop="20220420050000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">Telemicro</title>
+  </programme>
+  <programme start="20220420050000 -0500" stop="20220420060000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">La opción de la mañana</title>
+  </programme>
+  <programme start="20220420060000 -0500" stop="20220420080000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">Matinal</title>
+  </programme>
+  <programme start="20220420080000 -0500" stop="20220420110000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">Despierta, América</title>
+  </programme>
+  <programme start="20220420110000 -0500" stop="20220420120000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20220420120000 -0500" stop="20220420130000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">Mi fortuna es amarte</title>
+  </programme>
+  <programme start="20220420130000 -0500" stop="20220420140000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">S.O.S. Me Estoy Enamorando</title>
+  </programme>
+  <programme start="20220420140000 -0500" stop="20220420150000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">Noticias Telemicro</title>
+  </programme>
+  <programme start="20220420150000 -0500" stop="20220420160000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">Contigo Sí</title>
+  </programme>
+  <programme start="20220420160000 -0500" stop="20220420170000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">Papá a toda madre</title>
+  </programme>
+  <programme start="20220420170000 -0500" stop="20220420180000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">El Gordo y la Flaca</title>
+  </programme>
+  <programme start="20220420180000 -0500" stop="20220420190000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">Primer impacto</title>
+  </programme>
+  <programme start="20220420190000 -0500" stop="20220420200000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">Amor Dividido</title>
+  </programme>
+  <programme start="20220420200000 -0500" stop="20220420210000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">Los Ricos También Lloran</title>
+  </programme>
+  <programme start="20220420210000 -0500" stop="20220420220000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">Génesis</title>
+  </programme>
+  <programme start="20220420220000 -0500" stop="20220420230000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">Noticias Telemicro</title>
+  </programme>
+  <programme start="20220420230000 -0500" stop="20220421000000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">El Reperpero</title>
+  </programme>
+  <programme start="20220421110000 -0500" stop="20220421120000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20220422050000 -0500" stop="20220422060000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">Telemicro</title>
+  </programme>
+  <programme start="20220422060000 -0500" stop="20220422070000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">La Escuelita V.I.P</title>
+  </programme>
+  <programme start="20220422070000 -0500" stop="20220422080000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">Una familia de diez</title>
+  </programme>
+  <programme start="20220422080000 -0500" stop="20220422090000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20220422090000 -0500" stop="20220422100000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20220422100000 -0500" stop="20220422110000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20220422110000 -0500" stop="20220422120000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">Q' lo que hay</title>
+  </programme>
+  <programme start="20220422120000 -0500" stop="20220422140000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">Cine tres</title>
+  </programme>
+  <programme start="20220422140000 -0500" stop="20220422160000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">Cine tres</title>
+  </programme>
+  <programme start="20220422160000 -0500" stop="20220422180000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">Cine tres</title>
+  </programme>
+  <programme start="20220422180000 -0500" stop="20220422190000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">Chasing Life</title>
+  </programme>
+  <programme start="20220422190000 -0500" stop="20220422200000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">El show de la comedia</title>
+  </programme>
+  <programme start="20220422200000 -0500" stop="20220422220000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">Boca de piano es un show</title>
+  </programme>
+  <programme start="20220422220000 -0500" stop="20220422230000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">Zona 5</title>
+  </programme>
+  <programme start="20220422230000 -0500" stop="20220423000000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">Objetivo 5</title>
+  </programme>
+  <programme start="20220423000000 -0500" stop="20220423020000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">Largometraje</title>
+  </programme>
+  <programme start="20220423020000 -0500" stop="20220423060000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">Telemicro</title>
+  </programme>
+  <programme start="20220423060000 -0500" stop="20220423070000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">La casa de la risa</title>
+  </programme>
+  <programme start="20220423070000 -0500" stop="20220423080000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20220423080000 -0500" stop="20220423090000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">Dr. Juan</title>
+  </programme>
+  <programme start="20220423090000 -0500" stop="20220423110000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">Despierta América en domingo</title>
+  </programme>
+  <programme start="20220423110000 -0500" stop="20220423120000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">Versión original</title>
+  </programme>
+  <programme start="20220423120000 -0500" stop="20220423140000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">Bloque 3, 1a función</title>
+  </programme>
+  <programme start="20220423140000 -0500" stop="20220423160000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">Bloque 3, 2a función</title>
+  </programme>
+  <programme start="20220423160000 -0500" stop="20220423180000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">Bloque 3, 3a función</title>
+  </programme>
+  <programme start="20220423180000 -0500" stop="20220423190000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">Lo último</title>
+  </programme>
+  <programme start="20220423190000 -0500" stop="20220423210000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">Sala 5</title>
+  </programme>
+  <programme start="20220423210000 -0500" stop="20220423230000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">El Retador</title>
+  </programme>
+  <programme start="20220423230000 -0500" stop="20220424010000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">Sala 5</title>
+  </programme>
+  <programme start="20220424230000 -0500" stop="20220425010000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">Sala 5</title>
+  </programme>
+  <programme start="20220425010000 -0500" stop="20220425020000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">Mortales</title>
+  </programme>
+  <programme start="20220425020000 -0500" stop="20220425030000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">Noticiero Univisión</title>
+  </programme>
+  <programme start="20220425030000 -0500" stop="20220425050000 -0500" channel="Canal 5 de Telemicro (República Dominicana)">
+    <title lang="es">Telemicro</title>
+  </programme>
+  <programme start="20220420010000 -0500" stop="20220420020000 -0500" channel="Canal 7 de Antena Latina (República Dominicana)">
+    <title lang="es">NCIS: Los Ángeles</title>
+  </programme>
+  <programme start="20220420020000 -0500" stop="20220420030000 -0500" channel="Canal 7 de Antena Latina (República Dominicana)">
+    <title lang="es">Ghost Whisperer</title>
+  </programme>
+  <programme start="20220420030000 -0500" stop="20220420040000 -0500" channel="Canal 7 de Antena Latina (República Dominicana)">
+    <title lang="es">NCIS</title>
+  </programme>
+  <programme start="20220420040000 -0500" stop="20220420050000 -0500" channel="Canal 7 de Antena Latina (República Dominicana)">
+    <title lang="es">Infiltrados</title>
+  </programme>
+  <programme start="20220420050000 -0500" stop="20220420060000 -0500" channel="Canal 7 de Antena Latina (República Dominicana)">
+    <title lang="es">AN7 Estelar</title>
+  </programme>
+  <programme start="20220420060000 -0500" stop="20220420070000 -0500" channel="Canal 7 de Antena Latina (República Dominicana)">
+    <title lang="es">AN 7 Amanecer</title>
+  </programme>
+  <programme start="20220420070000 -0500" stop="20220420080000 -0500" channel="Canal 7 de Antena Latina (República Dominicana)">
+    <title lang="es">AN7 Actualidad</title>
+  </programme>
+  <programme start="20220420080000 -0500" stop="20220420090000 -0500" channel="Canal 7 de Antena Latina (República Dominicana)">
+    <title lang="es">AN7 Revista</title>
+  </programme>
+  <programme start="20220420090000 -0500" stop="20220420093000 -0500" channel="Canal 7 de Antena Latina (República Dominicana)">
+    <title lang="es">Miles from Tomorrow</title>
+  </programme>
+  <programme start="20220420093000 -0500" stop="20220420100000 -0500" channel="Canal 7 de Antena Latina (República Dominicana)">
+    <title lang="es">Elena of Avalor</title>
+  </programme>
+  <programme start="20220420100000 -0500" stop="20220420103000 -0500" channel="Canal 7 de Antena Latina (República Dominicana)">
+    <title lang="es">Pink Panther Show</title>
+  </programme>
+  <programme start="20220420103000 -0500" stop="20220420110000 -0500" channel="Canal 7 de Antena Latina (República Dominicana)">
+    <title lang="es">Beyblade Burst</title>
+  </programme>
+  <programme start="20220420110000 -0500" stop="20220420120000 -0500" channel="Canal 7 de Antena Latina (República Dominicana)">
+    <title lang="es">Baywatch</title>
+  </programme>
+  <programme start="20220420120000 -0500" stop="20220420130000 -0500" channel="Canal 7 de Antena Latina (República Dominicana)">
+    <title lang="es">La esposa joven</title>
+  </programme>
+  <programme start="20220420130000 -0500" stop="20220420140000 -0500" channel="Canal 7 de Antena Latina (República Dominicana)">
+    <title lang="es">AN7 Meridiano</title>
+  </programme>
+  <programme start="20220420140000 -0500" stop="20220420150000 -0500" channel="Canal 7 de Antena Latina (República Dominicana)">
+    <title lang="es">La familia</title>
+  </programme>
+  <programme start="20220420150000 -0500" stop="20220420160000 -0500" channel="Canal 7 de Antena Latina (República Dominicana)">
+    <title lang="es">Baywatch</title>
+  </programme>
+  <programme start="20220420160000 -0500" stop="20220420170000 -0500" channel="Canal 7 de Antena Latina (República Dominicana)">
+    <title lang="es">American ninja warrior</title>
+  </programme>
+  <programme start="20220420170000 -0500" stop="20220420180000 -0500" channel="Canal 7 de Antena Latina (República Dominicana)">
+    <title lang="es">Alerta Cobra</title>
+  </programme>
+  <programme start="20220420180000 -0500" stop="20220420190000 -0500" channel="Canal 7 de Antena Latina (República Dominicana)">
+    <title lang="es">Perdoname</title>
+  </programme>
+  <programme start="20220420190000 -0500" stop="20220420200000 -0500" channel="Canal 7 de Antena Latina (República Dominicana)">
+    <title lang="es">Elif</title>
+  </programme>
+  <programme start="20220420200000 -0500" stop="20220420210000 -0500" channel="Canal 7 de Antena Latina (República Dominicana)">
+    <title lang="es">Hercai</title>
+  </programme>
+  <programme start="20220420210000 -0500" stop="20220420220000 -0500" channel="Canal 7 de Antena Latina (República Dominicana)">
+    <title lang="es">AN7 - 2da. emisión</title>
+  </programme>
+  <programme start="20220420220000 -0500" stop="20220420230000 -0500" channel="Canal 7 de Antena Latina (República Dominicana)">
+    <title lang="es">Tierra amarga</title>
+  </programme>
+  <programme start="20220420230000 -0500" stop="20220421000000 -0500" channel="Canal 7 de Antena Latina (República Dominicana)">
+    <title lang="es">Grimm</title>
+  </programme>
+  <programme start="20220421110000 -0500" stop="20220421120000 -0500" channel="Canal 7 de Antena Latina (República Dominicana)">
+    <title lang="es">Baywatch</title>
+  </programme>
+  <programme start="20220421160000 -0500" stop="20220421170000 -0500" channel="Canal 7 de Antena Latina (República Dominicana)">
+    <title lang="es">Hudson &amp; Rex</title>
+  </programme>
+  <programme start="20220420010000 -0500" stop="20220420013000 -0500" channel="Canal 9 de Color Visión (República Dominicana)">
+    <title lang="es">Hablando de fé</title>
+  </programme>
+  <programme start="20220420013000 -0500" stop="20220420050000 -0500" channel="Canal 9 de Color Visión (República Dominicana)">
+    <title lang="es">Programación de la madrugada</title>
+  </programme>
+  <programme start="20220420050000 -0500" stop="20220420080000 -0500" channel="Canal 9 de Color Visión (República Dominicana)">
+    <title lang="es">Hoy Mismo</title>
+  </programme>
+  <programme start="20220420080000 -0500" stop="20220420100000 -0500" channel="Canal 9 de Color Visión (República Dominicana)">
+    <title lang="es">El Despertador</title>
+  </programme>
+  <programme start="20220420100000 -0500" stop="20220420110000 -0500" channel="Canal 9 de Color Visión (República Dominicana)">
+    <title lang="es">Quédate a mi lado</title>
+  </programme>
+  <programme start="20220420110000 -0500" stop="20220420120000 -0500" channel="Canal 9 de Color Visión (República Dominicana)">
+    <title lang="es">La trampa del amor</title>
+  </programme>
+  <programme start="20220420120000 -0500" stop="20220420140000 -0500" channel="Canal 9 de Color Visión (República Dominicana)">
+    <title lang="es">El show del mediodía</title>
+  </programme>
+  <programme start="20220420140000 -0500" stop="20220420150000 -0500" channel="Canal 9 de Color Visión (República Dominicana)">
+    <title lang="es">Noticias Sin</title>
+  </programme>
+  <programme start="20220420150000 -0500" stop="20220420153000 -0500" channel="Canal 9 de Color Visión (República Dominicana)">
+    <title lang="es">Con los famosos</title>
+  </programme>
+  <programme start="20220420153000 -0500" stop="20220420160000 -0500" channel="Canal 9 de Color Visión (República Dominicana)">
+    <title lang="es">Los Picapiedra</title>
+  </programme>
+  <programme start="20220420160000 -0500" stop="20220420170000 -0500" channel="Canal 9 de Color Visión (República Dominicana)">
+    <title lang="es">Hermanas</title>
+  </programme>
+  <programme start="20220420170000 -0500" stop="20220420180000 -0500" channel="Canal 9 de Color Visión (República Dominicana)">
+    <title lang="es">Pedro, el escamoso</title>
+  </programme>
+  <programme start="20220420180000 -0500" stop="20220420190000 -0500" channel="Canal 9 de Color Visión (República Dominicana)">
+    <title lang="es">Llamas del destino</title>
+  </programme>
+  <programme start="20220420190000 -0500" stop="20220420200000 -0500" channel="Canal 9 de Color Visión (República Dominicana)">
+    <title lang="es">Noticias y mucho más</title>
+  </programme>
+  <programme start="20220420200000 -0500" stop="20220420210000 -0500" channel="Canal 9 de Color Visión (República Dominicana)">
+    <title lang="es">Esta Noche Mariasela</title>
+  </programme>
+  <programme start="20220420210000 -0500" stop="20220420220000 -0500" channel="Canal 9 de Color Visión (República Dominicana)">
+    <title lang="es">S.W.A.T</title>
+  </programme>
+  <programme start="20220420220000 -0500" stop="20220420230000 -0500" channel="Canal 9 de Color Visión (República Dominicana)">
+    <title lang="es">Noticias Sin</title>
+  </programme>
+  <programme start="20220420230000 -0500" stop="20220421000000 -0500" channel="Canal 9 de Color Visión (República Dominicana)">
+    <title lang="es">Emperatriz</title>
+  </programme>
+  <programme start="20220421110000 -0500" stop="20220421120000 -0500" channel="Canal 9 de Color Visión (República Dominicana)">
+    <title lang="es">La trampa del amor</title>
+  </programme>
+  <programme start="20220421153000 -0500" stop="20220421160000 -0500" channel="Canal 9 de Color Visión (República Dominicana)">
+    <title lang="es">Scooby doo</title>
+  </programme>
+  <programme start="20220420010000 -0500" stop="20220420020000 -0500" channel="Canal Telesistema 11 (República Dominicana)">
+    <title lang="es">Rock Story</title>
+  </programme>
+  <programme start="20220420020000 -0500" stop="20220420030000 -0500" channel="Canal Telesistema 11 (República Dominicana)">
+    <title lang="es">Tiempo de amar</title>
+  </programme>
+  <programme start="20220420030000 -0500" stop="20220420040000 -0500" channel="Canal Telesistema 11 (República Dominicana)">
+    <title lang="es">Suerte de vivir</title>
+  </programme>
+  <programme start="20220420040000 -0500" stop="20220420050000 -0500" channel="Canal Telesistema 11 (República Dominicana)">
+    <title lang="es">La ley secreta</title>
+  </programme>
+  <programme start="20220420050000 -0500" stop="20220420060000 -0500" channel="Canal Telesistema 11 (República Dominicana)">
+    <title lang="es">Almas Gemelas</title>
+  </programme>
+  <programme start="20220420060000 -0500" stop="20220420080000 -0500" channel="Canal Telesistema 11 (República Dominicana)">
+    <title lang="es">El dia</title>
+  </programme>
+  <programme start="20220420080000 -0500" stop="20220420090000 -0500" channel="Canal Telesistema 11 (República Dominicana)">
+    <title lang="es">Telematutino 11</title>
+  </programme>
+  <programme start="20220420090000 -0500" stop="20220420093000 -0500" channel="Canal Telesistema 11 (República Dominicana)">
+    <title lang="es">Avengers Secret Wars</title>
+  </programme>
+  <programme start="20220420093000 -0500" stop="20220420100000 -0500" channel="Canal Telesistema 11 (República Dominicana)">
+    <title lang="es">Marvel Ultimate Spiderman</title>
+  </programme>
+  <programme start="20220420100000 -0500" stop="20220420103000 -0500" channel="Canal Telesistema 11 (República Dominicana)">
+    <title lang="es">Avengers Assemble</title>
+  </programme>
+  <programme start="20220420103000 -0500" stop="20220420110000 -0500" channel="Canal Telesistema 11 (República Dominicana)">
+    <title lang="es">Timón y Pumba</title>
+  </programme>
+  <programme start="20220420110000 -0500" stop="20220420113000 -0500" channel="Canal Telesistema 11 (República Dominicana)">
+    <title lang="es">Phineas And Ferb</title>
+  </programme>
+  <programme start="20220420113000 -0500" stop="20220420120000 -0500" channel="Canal Telesistema 11 (República Dominicana)">
+    <title lang="es">Austin and Ally</title>
+  </programme>
+  <programme start="20220420120000 -0500" stop="20220420130000 -0500" channel="Canal Telesistema 11 (República Dominicana)">
+    <title lang="es">Enfermeras</title>
+  </programme>
+  <programme start="20220420130000 -0500" stop="20220420140000 -0500" channel="Canal Telesistema 11 (República Dominicana)">
+    <title lang="es">Zeynep, buscando a su padre</title>
+  </programme>
+  <programme start="20220420140000 -0500" stop="20220420143000 -0500" channel="Canal Telesistema 11 (República Dominicana)">
+    <title lang="es">Telenoticias - Emisión vespertina</title>
+  </programme>
+  <programme start="20220420143000 -0500" stop="20220420150000 -0500" channel="Canal Telesistema 11 (República Dominicana)">
+    <title lang="es">Arte y medio</title>
+  </programme>
+  <programme start="20220420150000 -0500" stop="20220420160000 -0500" channel="Canal Telesistema 11 (República Dominicana)">
+    <title lang="es">Almas Gemelas</title>
+  </programme>
+  <programme start="20220420160000 -0500" stop="20220420163000 -0500" channel="Canal Telesistema 11 (República Dominicana)">
+    <title lang="es">Shake it up</title>
+  </programme>
+  <programme start="20220420163000 -0500" stop="20220420170000 -0500" channel="Canal Telesistema 11 (República Dominicana)">
+    <title lang="es">Jessie</title>
+  </programme>
+  <programme start="20220420170000 -0500" stop="20220420180000 -0500" channel="Canal Telesistema 11 (República Dominicana)">
+    <title lang="es">Fear Factor</title>
+  </programme>
+  <programme start="20220420180000 -0500" stop="20220420190000 -0500" channel="Canal Telesistema 11 (República Dominicana)">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20220420190000 -0500" stop="20220420195400 -0500" channel="Canal Telesistema 11 (República Dominicana)">
+    <title lang="es">100 días para enamorarnos</title>
+  </programme>
+  <programme start="20220420195400 -0500" stop="20220420200000 -0500" channel="Canal Telesistema 11 (República Dominicana)">
+    <title lang="es">Sorteo loteka</title>
+  </programme>
+  <programme start="20220420200000 -0500" stop="20220420210000 -0500" channel="Canal Telesistema 11 (República Dominicana)">
+    <title lang="es">Volver a Amar</title>
+  </programme>
+  <programme start="20220420210000 -0500" stop="20220420220000 -0500" channel="Canal Telesistema 11 (República Dominicana)">
+    <title lang="es">La Reina del Sur</title>
+  </programme>
+  <programme start="20220420220000 -0500" stop="20220420230000 -0500" channel="Canal Telesistema 11 (República Dominicana)">
+    <title lang="es">Telenoticias - Emisión estelar</title>
+  </programme>
+  <programme start="20220420230000 -0500" stop="20220421000000 -0500" channel="Canal Telesistema 11 (República Dominicana)">
+    <title lang="es">La ley secreta</title>
+  </programme>
+  <programme start="20220421110000 -0500" stop="20220421113000 -0500" channel="Canal Telesistema 11 (República Dominicana)">
+    <title lang="es">Phineas And Ferb</title>
+  </programme>
+  <programme start="20220420013000 -0500" stop="20220420023000 -0500" channel="Canal Telecentro (13 de República Dominicana)">
+    <title lang="es">Noticiero - 2da. emisión</title>
+  </programme>
+  <programme start="20220420023000 -0500" stop="20220420030000 -0500" channel="Canal Telecentro (13 de República Dominicana)">
+    <title lang="es">Noticiero Univisión - Edición nocturna</title>
+  </programme>
+  <programme start="20220420030000 -0500" stop="20220420050000 -0500" channel="Canal Telecentro (13 de República Dominicana)">
+    <title lang="es">Bloque de repeticiones</title>
+  </programme>
+  <programme start="20220420050000 -0500" stop="20220420060000 -0500" channel="Canal Telecentro (13 de República Dominicana)">
+    <title lang="es">A la misma hora</title>
+  </programme>
+  <programme start="20220420060000 -0500" stop="20220420080000 -0500" channel="Canal Telecentro (13 de República Dominicana)">
+    <title lang="es">Despierta RD</title>
+  </programme>
+  <programme start="20220420080000 -0500" stop="20220420090000 -0500" channel="Canal Telecentro (13 de República Dominicana)">
+    <title lang="es">Activando la mañana</title>
+  </programme>
+  <programme start="20220420090000 -0500" stop="20220420100000 -0500" channel="Canal Telecentro (13 de República Dominicana)">
+    <title lang="es">Hoy</title>
+  </programme>
+  <programme start="20220420100000 -0500" stop="20220420110000 -0500" channel="Canal Telecentro (13 de República Dominicana)">
+    <title lang="es">Laura, sin censura</title>
+  </programme>
+  <programme start="20220420110000 -0500" stop="20220420120000 -0500" channel="Canal Telecentro (13 de República Dominicana)">
+    <title lang="es">Las hijas de la Luna</title>
+  </programme>
+  <programme start="20220420120000 -0500" stop="20220420140000 -0500" channel="Canal Telecentro (13 de República Dominicana)">
+    <title lang="es">La opción</title>
+  </programme>
+  <programme start="20220420140000 -0500" stop="20220420150000 -0500" channel="Canal Telecentro (13 de República Dominicana)">
+    <title lang="es">Noticiero - 1ra emisión</title>
+  </programme>
+  <programme start="20220420150000 -0500" stop="20220420160000 -0500" channel="Canal Telecentro (13 de República Dominicana)">
+    <title lang="es">Zacatillo, un lugar en tu corazón</title>
+  </programme>
+  <programme start="20220420160000 -0500" stop="20220420170000 -0500" channel="Canal Telecentro (13 de República Dominicana)">
+    <title lang="es">Amigas &amp; rivales</title>
+  </programme>
+  <programme start="20220420170000 -0500" stop="20220420180000 -0500" channel="Canal Telecentro (13 de República Dominicana)">
+    <title lang="es">Mujer... Casos de la vida real</title>
+  </programme>
+  <programme start="20220420180000 -0500" stop="20220420190000 -0500" channel="Canal Telecentro (13 de República Dominicana)">
+    <title lang="es">Veredicto Final</title>
+  </programme>
+  <programme start="20220420190000 -0500" stop="20220420200000 -0500" channel="Canal Telecentro (13 de República Dominicana)">
+    <title lang="es">El Chivo</title>
+  </programme>
+  <programme start="20220420200000 -0500" stop="20220420210000 -0500" channel="Canal Telecentro (13 de República Dominicana)">
+    <title lang="es">Noticiero - 2da. emisión</title>
+  </programme>
+  <programme start="20220420210000 -0500" stop="20220420213000 -0500" channel="Canal Telecentro (13 de República Dominicana)">
+    <title lang="es">Noticiero Univisión</title>
+  </programme>
+  <programme start="20220420213000 -0500" stop="20220420233000 -0500" channel="Canal Telecentro (13 de República Dominicana)">
+    <title lang="es">Película</title>
+  </programme>
+  <programme start="20220421110000 -0500" stop="20220421120000 -0500" channel="Canal Telecentro (13 de República Dominicana)">
+    <title lang="es">Las hijas de la Luna</title>
+  </programme>
+  <programme start="20220421160000 -0500" stop="20220421170000 -0500" channel="Canal Telecentro (13 de República Dominicana)">
+    <title lang="es">Like, La Leyenda</title>
+  </programme>
+  <programme start="20220420010000 -0500" stop="20220420050000 -0500" channel="Canal 15 (Digital Quince Telemicro) (República Dominicana)">
+    <title lang="es">Bloque de repeticiones</title>
+  </programme>
+  <programme start="20220420050000 -0500" stop="20220420080000 -0500" channel="Canal 15 (Digital Quince Telemicro) (República Dominicana)">
+    <title lang="es">La opción de la mañana</title>
+  </programme>
+  <programme start="20220420080000 -0500" stop="20220420090000 -0500" channel="Canal 15 (Digital Quince Telemicro) (República Dominicana)">
+    <title lang="es">La revista del 15</title>
+  </programme>
+  <programme start="20220420090000 -0500" stop="20220420100000 -0500" channel="Canal 15 (Digital Quince Telemicro) (República Dominicana)">
+    <title lang="es">Ponte fit</title>
+  </programme>
+  <programme start="20220420100000 -0500" stop="20220420120000 -0500" channel="Canal 15 (Digital Quince Telemicro) (República Dominicana)">
+    <title lang="es">La belleza es mia</title>
+  </programme>
+  <programme start="20220420120000 -0500" stop="20220420160000 -0500" channel="Canal 15 (Digital Quince Telemicro) (República Dominicana)">
+    <title lang="es">De Extremo a Extremo</title>
+  </programme>
+  <programme start="20220420160000 -0500" stop="20220420170000 -0500" channel="Canal 15 (Digital Quince Telemicro) (República Dominicana)">
+    <title lang="es">Los dueños del circo</title>
+  </programme>
+  <programme start="20220420170000 -0500" stop="20220420180000 -0500" channel="Canal 15 (Digital Quince Telemicro) (República Dominicana)">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20220420180000 -0500" stop="20220420190000 -0500" channel="Canal 15 (Digital Quince Telemicro) (República Dominicana)">
+    <title lang="es">Propuesta de la noche</title>
+  </programme>
+  <programme start="20220420190000 -0500" stop="20220420200000 -0500" channel="Canal 15 (Digital Quince Telemicro) (República Dominicana)">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20220420200000 -0500" stop="20220420210000 -0500" channel="Canal 15 (Digital Quince Telemicro) (República Dominicana)">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20220420210000 -0500" stop="20220420220000 -0500" channel="Canal 15 (Digital Quince Telemicro) (República Dominicana)">
+    <title lang="es">Más Noche</title>
+  </programme>
+  <programme start="20220420220000 -0500" stop="20220420230000 -0500" channel="Canal 15 (Digital Quince Telemicro) (República Dominicana)">
+    <title lang="es">El mega show</title>
+  </programme>
+  <programme start="20220420230000 -0500" stop="20220421000000 -0500" channel="Canal 15 (Digital Quince Telemicro) (República Dominicana)">
+    <title lang="es">Noticias Telemicro</title>
+  </programme>
+  <programme start="20220421100000 -0500" stop="20220421120000 -0500" channel="Canal 15 (Digital Quince Telemicro) (República Dominicana)">
+    <title lang="es">La belleza es mia</title>
+  </programme>
+  <programme start="20220420013000 -0500" stop="20220420050000 -0500" channel="Canal 29 de TeleUniverso (República Dominicana)">
+    <title lang="es">Retransmisión Programación regular</title>
+  </programme>
+  <programme start="20220420050000 -0500" stop="20220420080000 -0500" channel="Canal 29 de TeleUniverso (República Dominicana)">
+    <title lang="es">La revista</title>
+  </programme>
+  <programme start="20220420080000 -0500" stop="20220420090000 -0500" channel="Canal 29 de TeleUniverso (República Dominicana)">
+    <title lang="es">El cafecito</title>
+  </programme>
+  <programme start="20220420090000 -0500" stop="20220420110000 -0500" channel="Canal 29 de TeleUniverso (República Dominicana)">
+    <title lang="es">Como en casa</title>
+  </programme>
+  <programme start="20220420110000 -0500" stop="20220420113000 -0500" channel="Canal 29 de TeleUniverso (República Dominicana)">
+    <title lang="es">Opción NY</title>
+  </programme>
+  <programme start="20220420113000 -0500" stop="20220420124700 -0500" channel="Canal 29 de TeleUniverso (República Dominicana)">
+    <title lang="es">Ustedes y nosotros</title>
+  </programme>
+  <programme start="20220420124700 -0500" stop="20220420125500 -0500" channel="Canal 29 de TeleUniverso (República Dominicana)">
+    <title lang="es">El com</title>
+  </programme>
+  <programme start="20220420125500 -0500" stop="20220420130000 -0500" channel="Canal 29 de TeleUniverso (República Dominicana)">
+    <title lang="es">Loto real</title>
+  </programme>
+  <programme start="20220420130000 -0500" stop="20220420143000 -0500" channel="Canal 29 de TeleUniverso (República Dominicana)">
+    <title lang="es">Teleuniverso al día</title>
+  </programme>
+  <programme start="20220420143000 -0500" stop="20220420150000 -0500" channel="Canal 29 de TeleUniverso (República Dominicana)">
+    <title lang="es">La magia de Shabum</title>
+  </programme>
+  <programme start="20220420150000 -0500" stop="20220420153000 -0500" channel="Canal 29 de TeleUniverso (República Dominicana)">
+    <title lang="es">Info-deportivas</title>
+  </programme>
+  <programme start="20220420153000 -0500" stop="20220420170000 -0500" channel="Canal 29 de TeleUniverso (República Dominicana)">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20220420170000 -0500" stop="20220420180000 -0500" channel="Canal 29 de TeleUniverso (República Dominicana)">
+    <title lang="es">Directo al show</title>
+  </programme>
+  <programme start="20220420180000 -0500" stop="20220420190000 -0500" channel="Canal 29 de TeleUniverso (República Dominicana)">
+    <title lang="es">Puntos y enfoques</title>
+  </programme>
+  <programme start="20220420190000 -0500" stop="20220420200000 -0500" channel="Canal 29 de TeleUniverso (República Dominicana)">
+    <title lang="es">Panorámica</title>
+  </programme>
+  <programme start="20220420200000 -0500" stop="20220420220000 -0500" channel="Canal 29 de TeleUniverso (República Dominicana)">
+    <title lang="es">Buena noche</title>
+  </programme>
+  <programme start="20220420220000 -0500" stop="20220420223000 -0500" channel="Canal 29 de TeleUniverso (República Dominicana)">
+    <title lang="es">Noticiero Universal</title>
+  </programme>
+  <programme start="20220420223000 -0500" stop="20220421000000 -0500" channel="Canal 29 de TeleUniverso (República Dominicana)">
+    <title lang="es">Las noches con Bélgica</title>
+  </programme>
+  <programme start="20220421110000 -0500" stop="20220421113000 -0500" channel="Canal 29 de TeleUniverso (República Dominicana)">
+    <title lang="es">Opción NY</title>
+  </programme>
+  <programme start="20220420010000 -0500" stop="20220420020000 -0500" channel="Canal 37 de CDN (República Dominicana)">
+    <title lang="es">Tú opinas Resumen final</title>
+  </programme>
+  <programme start="20220420020000 -0500" stop="20220420030000 -0500" channel="Canal 37 de CDN (República Dominicana)">
+    <title lang="es">Enfoque Final</title>
+  </programme>
+  <programme start="20220420030000 -0500" stop="20220420040000 -0500" channel="Canal 37 de CDN (República Dominicana)">
+    <title lang="es">Tú opinas Resumen final</title>
+  </programme>
+  <programme start="20220420040000 -0500" stop="20220420050000 -0500" channel="Canal 37 de CDN (República Dominicana)">
+    <title lang="es">Más que noticias</title>
+  </programme>
+  <programme start="20220420050000 -0500" stop="20220420060000 -0500" channel="Canal 37 de CDN (República Dominicana)">
+    <title lang="es">Enfoque Final</title>
+  </programme>
+  <programme start="20220420060000 -0500" stop="20220420070000 -0500" channel="Canal 37 de CDN (República Dominicana)">
+    <title lang="es">Noticias 6 AM</title>
+  </programme>
+  <programme start="20220420070000 -0500" stop="20220420090000 -0500" channel="Canal 37 de CDN (República Dominicana)">
+    <title lang="es">Despierta con CDN</title>
+  </programme>
+  <programme start="20220420090000 -0500" stop="20220420110000 -0500" channel="Canal 37 de CDN (República Dominicana)">
+    <title lang="es">Vivalavi</title>
+  </programme>
+  <programme start="20220420110000 -0500" stop="20220420120000 -0500" channel="Canal 37 de CDN (República Dominicana)">
+    <title lang="es">Con saber y sabor</title>
+  </programme>
+  <programme start="20220420120000 -0500" stop="20220420130000 -0500" channel="Canal 37 de CDN (República Dominicana)">
+    <title lang="es">Noticias ahora</title>
+  </programme>
+  <programme start="20220420130000 -0500" stop="20220420143000 -0500" channel="Canal 37 de CDN (República Dominicana)">
+    <title lang="es">Jose Gutierrez en CDN</title>
+  </programme>
+  <programme start="20220420143000 -0500" stop="20220420150000 -0500" channel="Canal 37 de CDN (República Dominicana)">
+    <title lang="es">Ahora Más</title>
+  </programme>
+  <programme start="20220420150000 -0500" stop="20220420160000 -0500" channel="Canal 37 de CDN (República Dominicana)">
+    <title lang="es">Tú Opinas en CDN</title>
+  </programme>
+  <programme start="20220420160000 -0500" stop="20220420163000 -0500" channel="Canal 37 de CDN (República Dominicana)">
+    <title lang="es">Famosos Inside</title>
+  </programme>
+  <programme start="20220420163000 -0500" stop="20220420170000 -0500" channel="Canal 37 de CDN (República Dominicana)">
+    <title lang="es">Agenda Noticiosa</title>
+  </programme>
+  <programme start="20220420170000 -0500" stop="20220420173000 -0500" channel="Canal 37 de CDN (República Dominicana)">
+    <title lang="es">Famosos Inside</title>
+  </programme>
+  <programme start="20220420173000 -0500" stop="20220420180000 -0500" channel="Canal 37 de CDN (República Dominicana)">
+    <title lang="es">El mundo al día VOA</title>
+  </programme>
+  <programme start="20220420180000 -0500" stop="20220420190000 -0500" channel="Canal 37 de CDN (República Dominicana)">
+    <title lang="es">Deportivas CDN</title>
+  </programme>
+  <programme start="20220420190000 -0500" stop="20220420200000 -0500" channel="Canal 37 de CDN (República Dominicana)">
+    <title lang="es">Red de noticias</title>
+  </programme>
+  <programme start="20220420200000 -0500" stop="20220420205500 -0500" channel="Canal 37 de CDN (República Dominicana)">
+    <title lang="es">Más que noticias</title>
+  </programme>
+  <programme start="20220420205500 -0500" stop="20220420210000 -0500" channel="Canal 37 de CDN (República Dominicana)">
+    <title lang="es">Loto de Leidsa</title>
+  </programme>
+  <programme start="20220420210000 -0500" stop="20220420220000 -0500" channel="Canal 37 de CDN (República Dominicana)">
+    <title lang="es">Enfoque Final</title>
+  </programme>
+  <programme start="20220420220000 -0500" stop="20220420230000 -0500" channel="Canal 37 de CDN (República Dominicana)">
+    <title lang="es">55 Minutos</title>
+  </programme>
+  <programme start="20220420230000 -0500" stop="20220421000000 -0500" channel="Canal 37 de CDN (República Dominicana)">
+    <title lang="es">Tú opinas Resumen final</title>
+  </programme>
+  <programme start="20220421110000 -0500" stop="20220421120000 -0500" channel="Canal 37 de CDN (República Dominicana)">
+    <title lang="es">Con saber y sabor</title>
+  </programme>
+  <programme start="20220420010000 -0500" stop="20220420050000 -0500" channel="Canal Teleunion (República Dominicana)">
+    <title lang="es">Bloque de películas</title>
+  </programme>
+  <programme start="20220420050000 -0500" stop="20220420063000 -0500" channel="Canal Teleunion (República Dominicana)">
+    <title lang="es">Noticias Teleunión</title>
+  </programme>
+  <programme start="20220420063000 -0500" stop="20220420080000 -0500" channel="Canal Teleunion (República Dominicana)">
+    <title lang="es">Entre noticias y más</title>
+  </programme>
+  <programme start="20220420080000 -0500" stop="20220420090000 -0500" channel="Canal Teleunion (República Dominicana)">
+    <title lang="es">Encuentro matinal</title>
+  </programme>
+  <programme start="20220420090000 -0500" stop="20220420100000 -0500" channel="Canal Teleunion (República Dominicana)">
+    <title lang="es">Infocomerciales</title>
+  </programme>
+  <programme start="20220420100000 -0500" stop="20220420110000 -0500" channel="Canal Teleunion (República Dominicana)">
+    <title lang="es">Bloque infantil</title>
+  </programme>
+  <programme start="20220420110000 -0500" stop="20220420120000 -0500" channel="Canal Teleunion (República Dominicana)">
+    <title lang="es">Bloque musical</title>
+  </programme>
+  <programme start="20220420120000 -0500" stop="20220420133000 -0500" channel="Canal Teleunion (República Dominicana)">
+    <title lang="es">El show de Nelson</title>
+  </programme>
+  <programme start="20220420133000 -0500" stop="20220420134000 -0500" channel="Canal Teleunion (República Dominicana)">
+    <title lang="es">De economía y política Dr. Leonardo Aguilera</title>
+  </programme>
+  <programme start="20220420134000 -0500" stop="20220420142000 -0500" channel="Canal Teleunion (República Dominicana)">
+    <title lang="es">Concavo y convexo</title>
+  </programme>
+  <programme start="20220420142000 -0500" stop="20220420150000 -0500" channel="Canal Teleunion (República Dominicana)">
+    <title lang="es">El reportero</title>
+  </programme>
+  <programme start="20220420150000 -0500" stop="20220420160000 -0500" channel="Canal Teleunion (República Dominicana)">
+    <title lang="es">Noticias Teleunión</title>
+  </programme>
+  <programme start="20220420160000 -0500" stop="20220420170000 -0500" channel="Canal Teleunion (República Dominicana)">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20220420170000 -0500" stop="20220420180000 -0500" channel="Canal Teleunion (República Dominicana)">
+    <title lang="es">Bloque musical</title>
+  </programme>
+  <programme start="20220420180000 -0500" stop="20220420190000 -0500" channel="Canal Teleunion (República Dominicana)">
+    <title lang="es">El Bastión Internacional</title>
+  </programme>
+  <programme start="20220420190000 -0500" stop="20220420200000 -0500" channel="Canal Teleunion (República Dominicana)">
+    <title lang="es">Panorama social</title>
+  </programme>
+  <programme start="20220420200000 -0500" stop="20220420203000 -0500" channel="Canal Teleunion (República Dominicana)">
+    <title lang="es">Alejandro en coche</title>
+  </programme>
+  <programme start="20220420203000 -0500" stop="20220420210000 -0500" channel="Canal Teleunion (República Dominicana)">
+    <title lang="es">Entre Amigos</title>
+  </programme>
+  <programme start="20220420210000 -0500" stop="20220420220000 -0500" channel="Canal Teleunion (República Dominicana)">
+    <title lang="es">De ahora con Jose Cerda</title>
+  </programme>
+  <programme start="20220420220000 -0500" stop="20220420223000 -0500" channel="Canal Teleunion (República Dominicana)">
+    <title lang="es">Noticias Teleunión</title>
+  </programme>
+  <programme start="20220420223000 -0500" stop="20220421010000 -0500" channel="Canal Teleunion (República Dominicana)">
+    <title lang="es">Detrás de la noticia</title>
+  </programme>
+  <programme start="20220421090000 -0500" stop="20220421103000 -0500" channel="Canal Teleunion (República Dominicana)">
+    <title lang="es">Infocomerciales</title>
+  </programme>
+  <programme start="20220421103000 -0500" stop="20220421110000 -0500" channel="Canal Teleunion (República Dominicana)">
+    <title lang="es">Bloque infantil</title>
+  </programme>
+  <programme start="20220421110000 -0500" stop="20220421120000 -0500" channel="Canal Teleunion (República Dominicana)">
+    <title lang="es">Bloque musical</title>
+  </programme>
+  <programme start="20220420003000 -0500" stop="20220420010000 -0500" channel="Canal 2 de Tele Antillas (República Dominicana)">
+    <title lang="es">Final Deportivo</title>
+  </programme>
+  <programme start="20220420010000 -0500" stop="20220420020000 -0500" channel="Canal 2 de Tele Antillas (República Dominicana)">
+    <title lang="es">Rock Story</title>
+  </programme>
+  <programme start="20220420020000 -0500" stop="20220420030000 -0500" channel="Canal 2 de Tele Antillas (República Dominicana)">
+    <title lang="es">Tiempo de amar</title>
+  </programme>
+  <programme start="20220420030000 -0500" stop="20220420040000 -0500" channel="Canal 2 de Tele Antillas (República Dominicana)">
+    <title lang="es">Suerte de vivir</title>
+  </programme>
+  <programme start="20220420040000 -0500" stop="20220420050000 -0500" channel="Canal 2 de Tele Antillas (República Dominicana)">
+    <title lang="es">La ley secreta</title>
+  </programme>
+  <programme start="20220420050000 -0500" stop="20220420060000 -0500" channel="Canal 2 de Tele Antillas (República Dominicana)">
+    <title lang="es">Almas Gemelas</title>
+  </programme>
+  <programme start="20220420060000 -0500" stop="20220420070000 -0500" channel="Canal 2 de Tele Antillas (República Dominicana)">
+    <title lang="es">Desafío Súper humanos - Cana</title>
+  </programme>
+  <programme start="20220420070000 -0500" stop="20220420080000 -0500" channel="Canal 2 de Tele Antillas (República Dominicana)">
+    <title lang="es">Uno Uno</title>
+  </programme>
+  <programme start="20220420080000 -0500" stop="20220420090000 -0500" channel="Canal 2 de Tele Antillas (República Dominicana)">
+    <title lang="es">Panorama Mundial</title>
+  </programme>
+  <programme start="20220420090000 -0500" stop="20220420100000 -0500" channel="Canal 2 de Tele Antillas (República Dominicana)">
+    <title lang="es">Hombre al agua</title>
+  </programme>
+  <programme start="20220420100000 -0500" stop="20220420110000 -0500" channel="Canal 2 de Tele Antillas (República Dominicana)">
+    <title lang="es">Festival del humor</title>
+  </programme>
+  <programme start="20220420110000 -0500" stop="20220420120000 -0500" channel="Canal 2 de Tele Antillas (República Dominicana)">
+    <title lang="es">Impostora</title>
+  </programme>
+  <programme start="20220420120000 -0500" stop="20220420130000 -0500" channel="Canal 2 de Tele Antillas (República Dominicana)">
+    <title lang="es">Andrea</title>
+  </programme>
+  <programme start="20220420130000 -0500" stop="20220420133000 -0500" channel="Canal 2 de Tele Antillas (República Dominicana)">
+    <title lang="es">Informativos Teleantillas - Emisión vespertina</title>
+  </programme>
+  <programme start="20220420133000 -0500" stop="20220420134500 -0500" channel="Canal 2 de Tele Antillas (República Dominicana)">
+    <title lang="es">Un cuarto deportivo</title>
+  </programme>
+  <programme start="20220420134500 -0500" stop="20220420135500 -0500" channel="Canal 2 de Tele Antillas (República Dominicana)">
+    <title lang="es">A dos camaras</title>
+  </programme>
+  <programme start="20220420135500 -0500" stop="20220420140000 -0500" channel="Canal 2 de Tele Antillas (República Dominicana)">
+    <title lang="es">Lotedom</title>
+  </programme>
+  <programme start="20220420140000 -0500" stop="20220420160000 -0500" channel="Canal 2 de Tele Antillas (República Dominicana)">
+    <title lang="es">Me robó mi vida</title>
+  </programme>
+  <programme start="20220420160000 -0500" stop="20220420170000 -0500" channel="Canal 2 de Tele Antillas (República Dominicana)">
+    <title lang="es">Suerte de vivir</title>
+  </programme>
+  <programme start="20220420170000 -0500" stop="20220420180000 -0500" channel="Canal 2 de Tele Antillas (República Dominicana)">
+    <title lang="es">Andrea</title>
+  </programme>
+  <programme start="20220420180000 -0500" stop="20220420190000 -0500" channel="Canal 2 de Tele Antillas (República Dominicana)">
+    <title lang="es">Desafío Súper Humanos</title>
+  </programme>
+  <programme start="20220420190000 -0500" stop="20220420200000 -0500" channel="Canal 2 de Tele Antillas (República Dominicana)">
+    <title lang="es">Rock Story</title>
+  </programme>
+  <programme start="20220420200000 -0500" stop="20220420210000 -0500" channel="Canal 2 de Tele Antillas (República Dominicana)">
+    <title lang="es">Informativos Teleantillas - Emisión estelar</title>
+  </programme>
+  <programme start="20220420210000 -0500" stop="20220420220000 -0500" channel="Canal 2 de Tele Antillas (República Dominicana)">
+    <title lang="es">Tiempo de amar</title>
+  </programme>
+  <programme start="20220420220000 -0500" stop="20220420230000 -0500" channel="Canal 2 de Tele Antillas (República Dominicana)">
+    <title lang="es">Suerte de vivir</title>
+  </programme>
+  <programme start="20220420230000 -0500" stop="20220421000000 -0500" channel="Canal 2 de Tele Antillas (República Dominicana)">
+    <title lang="es">Impostora</title>
+  </programme>
+  <programme start="20220421060000 -0500" stop="20220421070000 -0500" channel="Canal 2 de Tele Antillas (República Dominicana)">
+    <title lang="es">Desafío Súper Humanos</title>
+  </programme>
+  <programme start="20220421110000 -0500" stop="20220421120000 -0500" channel="Canal 2 de Tele Antillas (República Dominicana)">
+    <title lang="es">Impostora</title>
+  </programme>
+  <programme start="20220420003000 -0500" stop="20220420010000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Out 37 En Vivo</title>
+  </programme>
+  <programme start="20220420010000 -0500" stop="20220420020000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Deportes entre nosotros Repetición</title>
+  </programme>
+  <programme start="20220420020000 -0500" stop="20220420040000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Toluca vs. Monterrey Repetición</title>
+  </programme>
+  <programme start="20220420040000 -0500" stop="20220420050000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Entorno Deportivo Repetición</title>
+  </programme>
+  <programme start="20220420050000 -0500" stop="20220420060000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Donqueando Repetición</title>
+  </programme>
+  <programme start="20220420060000 -0500" stop="20220420063000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Fit con Beatriz</title>
+  </programme>
+  <programme start="20220420063000 -0500" stop="20220420070000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Todo deporte</title>
+  </programme>
+  <programme start="20220420070000 -0500" stop="20220420090000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Revista deportiva En Vivo</title>
+  </programme>
+  <programme start="20220420090000 -0500" stop="20220420093000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Fit con Beatriz</title>
+  </programme>
+  <programme start="20220420093000 -0500" stop="20220420100000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Todo deporte</title>
+  </programme>
+  <programme start="20220420100000 -0500" stop="20220420110000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Fiebre de golf Repetición</title>
+  </programme>
+  <programme start="20220420110000 -0500" stop="20220420130000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Revista deportiva Repetición</title>
+  </programme>
+  <programme start="20220420130000 -0500" stop="20220420140000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Entorno Deportivo</title>
+  </programme>
+  <programme start="20220420140000 -0500" stop="20220420160000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Torneo Pony League (diferido)</title>
+  </programme>
+  <programme start="20220420160000 -0500" stop="20220420163000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">R Manu Ginobili</title>
+  </programme>
+  <programme start="20220420163000 -0500" stop="20220420170000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Los guruses de Pio</title>
+  </programme>
+  <programme start="20220420170000 -0500" stop="20220420180000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">La voz del fanático En Vivo</title>
+  </programme>
+  <programme start="20220420180000 -0500" stop="20220420190000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Somos deportes</title>
+  </programme>
+  <programme start="20220420190000 -0500" stop="20220420200000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Meta deportiva</title>
+  </programme>
+  <programme start="20220420200000 -0500" stop="20220420203000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">NBA Action Repetición</title>
+  </programme>
+  <programme start="20220420203000 -0500" stop="20220420210000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">R Juan Marichal</title>
+  </programme>
+  <programme start="20220420210000 -0500" stop="20220420220000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Protagonistas</title>
+  </programme>
+  <programme start="20220420220000 -0500" stop="20220421000000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">América vs. León En Vivo</title>
+  </programme>
+  <programme start="20220421000000 -0500" stop="20220421003000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Out 37 En Vivo</title>
+  </programme>
+  <programme start="20220421003000 -0500" stop="20220421010000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Futbol al día (Mex)</title>
+  </programme>
+  <programme start="20220421010000 -0500" stop="20220421020000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">En extremo Repetición</title>
+  </programme>
+  <programme start="20220421020000 -0500" stop="20220421030000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Donqueando Repetición</title>
+  </programme>
+  <programme start="20220421030000 -0500" stop="20220421050000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Hornets vs. Heat Repetición</title>
+  </programme>
+  <programme start="20220421050000 -0500" stop="20220421060000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Deportes entre nosotros Repetición</title>
+  </programme>
+  <programme start="20220421060000 -0500" stop="20220421063000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Out 37 Repetición</title>
+  </programme>
+  <programme start="20220421063000 -0500" stop="20220421070000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Fit con Beatriz</title>
+  </programme>
+  <programme start="20220421090000 -0500" stop="20220421110000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Necaxa vs. Tigres Repetición</title>
+  </programme>
+  <programme start="20220421110000 -0500" stop="20220421130000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Revista deportiva Repetición</title>
+  </programme>
+  <programme start="20220421160000 -0500" stop="20220421163000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">R Rafael Sori</title>
+  </programme>
+  <programme start="20220421200000 -0500" stop="20220421220000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Torneo Pony League Repetición</title>
+  </programme>
+  <programme start="20220421220000 -0500" stop="20220422003000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Warriors vs. Nuggets En Vivo</title>
+  </programme>
+  <programme start="20220422220000 -0500" stop="20220423003000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Warriors vs. Nuggets En Vivo</title>
+  </programme>
+  <programme start="20220423020000 -0500" stop="20220423040000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Warriors vs. Pelicans Repetición</title>
+  </programme>
+  <programme start="20220423040000 -0500" stop="20220423050000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Donqueando Repetición</title>
+  </programme>
+  <programme start="20220423050000 -0500" stop="20220423060000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Futbol solo futbol Repetición</title>
+  </programme>
+  <programme start="20220423063000 -0500" stop="20220423070000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">RPM</title>
+  </programme>
+  <programme start="20220423093000 -0500" stop="20220423100000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">RPM</title>
+  </programme>
+  <programme start="20220423100000 -0500" stop="20220423110000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Deportes entre nosotros Repetición</title>
+  </programme>
+  <programme start="20220423110000 -0500" stop="20220423130000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">At. Pantoja vs. Moca FC Repetición</title>
+  </programme>
+  <programme start="20220423140000 -0500" stop="20220423150000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Alineación titular</title>
+  </programme>
+  <programme start="20220423150000 -0500" stop="20220423170000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Torneo Pony League (diferido)</title>
+  </programme>
+  <programme start="20220423170000 -0500" stop="20220423173000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Los guruses de Pio</title>
+  </programme>
+  <programme start="20220423173000 -0500" stop="20220423180000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">NBA Action Repetición</title>
+  </programme>
+  <programme start="20220423200000 -0500" stop="20220423203000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">R Manu Ginobili</title>
+  </programme>
+  <programme start="20220423203000 -0500" stop="20220423230000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Bucks vs. Bulls En Vivo</title>
+  </programme>
+  <programme start="20220423230000 -0500" stop="20220423233000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Out 37 En Vivo</title>
+  </programme>
+  <programme start="20220423233000 -0500" stop="20220424000000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Futbol al día (Mex)</title>
+  </programme>
+  <programme start="20220424000000 -0500" stop="20220424010000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Fiebre de golf Repetición</title>
+  </programme>
+  <programme start="20220424010000 -0500" stop="20220424030000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">FC Juárez vs. León Repetición</title>
+  </programme>
+  <programme start="20220424030000 -0500" stop="20220424050000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">América vs. Toluca Repetición</title>
+  </programme>
+  <programme start="20220424050000 -0500" stop="20220424060000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Entorno Deportivo Repetición</title>
+  </programme>
+  <programme start="20220424060000 -0500" stop="20220424073000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Impacto deportivo Repetición</title>
+  </programme>
+  <programme start="20220424073000 -0500" stop="20220424080000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">RPM</title>
+  </programme>
+  <programme start="20220424080000 -0500" stop="20220424110000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Clasico de Pequeñas Ligas En Vivo</title>
+  </programme>
+  <programme start="20220424110000 -0500" stop="20220424120000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Alineación titular Repetición</title>
+  </programme>
+  <programme start="20220424120000 -0500" stop="20220424133000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Impacto deportivo</title>
+  </programme>
+  <programme start="20220424133000 -0500" stop="20220424143000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Deportes entre nosotros</title>
+  </programme>
+  <programme start="20220424143000 -0500" stop="20220424160000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Momentos del boxeo</title>
+  </programme>
+  <programme start="20220424160000 -0500" stop="20220424163000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">NBA Action Repetición</title>
+  </programme>
+  <programme start="20220424163000 -0500" stop="20220424190000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Mavericks vs. Jazz En Vivo</title>
+  </programme>
+  <programme start="20220424190000 -0500" stop="20220424200000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Donqueando</title>
+  </programme>
+  <programme start="20220424200000 -0500" stop="20220424210000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Fiebre de golf Repetición</title>
+  </programme>
+  <programme start="20220424210000 -0500" stop="20220424223000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Momentos del boxeo Repetición</title>
+  </programme>
+  <programme start="20220424223000 -0500" stop="20220425000000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Impacto deportivo Repetición</title>
+  </programme>
+  <programme start="20220425000000 -0500" stop="20220425010000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Conversatorio Fortuna-Moises</title>
+  </programme>
+  <programme start="20220425010000 -0500" stop="20220425013000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">RPM</title>
+  </programme>
+  <programme start="20220425013000 -0500" stop="20220425030000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Momentos del boxeo Repetición</title>
+  </programme>
+  <programme start="20220425030000 -0500" stop="20220425050000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Warriors vs. Pelicans Repetición</title>
+  </programme>
+  <programme start="20220425050000 -0500" stop="20220425060000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Protagonistas Repetición</title>
+  </programme>
+  <programme start="20220425060000 -0500" stop="20220425070000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Conversatorio Fortuna-Moises</title>
+  </programme>
+  <programme start="20220425070000 -0500" stop="20220425080000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Deportes entre nosotros Repetición</title>
+  </programme>
+  <programme start="20220425080000 -0500" stop="20220425110000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Clasico de Pequeñas Ligas En Vivo</title>
+  </programme>
+  <programme start="20220425110000 -0500" stop="20220425130000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">La hora del deporte</title>
+  </programme>
+  <programme start="20220425130000 -0500" stop="20220425150000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Toluca vs. Atlas En Vivo</title>
+  </programme>
+  <programme start="20220425150000 -0500" stop="20220425160000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Protagonistas Repetición</title>
+  </programme>
+  <programme start="20220425160000 -0500" stop="20220425180000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Jarabacoa vs. At Vega Real En Vivo</title>
+  </programme>
+  <programme start="20220425180000 -0500" stop="20220425190000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Protagonistas Repetición</title>
+  </programme>
+  <programme start="20220425190000 -0500" stop="20220425200000 -0500" channel="Canal CDN-SportsMax">
+    <title lang="es">Futbol solo futbol En Vivo</title>
+  </programme>
+  <programme start="20220420010000 -0500" stop="20220420013000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Será Anunciado</title>
+  </programme>
+  <programme start="20220420013000 -0500" stop="20220420020000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Archivo Siglo 20</title>
+  </programme>
+  <programme start="20220420020000 -0500" stop="20220420030000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Arte y Ciencia</title>
+  </programme>
+  <programme start="20220420030000 -0500" stop="20220420040000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Estudio Actoral</title>
+  </programme>
+  <programme start="20220420040000 -0500" stop="20220420050000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Noches de Ayer</title>
+  </programme>
+  <programme start="20220420050000 -0500" stop="20220420053000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Imágenes</title>
+  </programme>
+  <programme start="20220420053000 -0500" stop="20220420060000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Prohibido Olvidar</title>
+  </programme>
+  <programme start="20220420060000 -0500" stop="20220420063000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">En forma</title>
+  </programme>
+  <programme start="20220420063000 -0500" stop="20220420073000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Democracy Now</title>
+  </programme>
+  <programme start="20220420073000 -0500" stop="20220420080000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Noticiero Científico y Cultural Iberoamericano</title>
+  </programme>
+  <programme start="20220420080000 -0500" stop="20220420090000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Aquí estamos</title>
+  </programme>
+  <programme start="20220420090000 -0500" stop="20220420100000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Estudio Actoral</title>
+  </programme>
+  <programme start="20220420100000 -0500" stop="20220420110000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Medios sociales</title>
+  </programme>
+  <programme start="20220420110000 -0500" stop="20220420120000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">En la punta de la lengua</title>
+  </programme>
+  <programme start="20220420120000 -0500" stop="20220420123000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Hecho en Alemania</title>
+  </programme>
+  <programme start="20220420123000 -0500" stop="20220420130000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Con sabor y saber</title>
+  </programme>
+  <programme start="20220420130000 -0500" stop="20220420140000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Noches de Ayer</title>
+  </programme>
+  <programme start="20220420140000 -0500" stop="20220420150000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Aquí estamos</title>
+  </programme>
+  <programme start="20220420150000 -0500" stop="20220420153000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Pinkalicious &amp; Peterrific</title>
+  </programme>
+  <programme start="20220420153000 -0500" stop="20220420160000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Elinor Wonders Why</title>
+  </programme>
+  <programme start="20220420160000 -0500" stop="20220420163000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">El recreo</title>
+  </programme>
+  <programme start="20220420163000 -0500" stop="20220420170000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Hecho en Alemania</title>
+  </programme>
+  <programme start="20220420170000 -0500" stop="20220420180000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20220420180000 -0500" stop="20220420183000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Prohibido Olvidar</title>
+  </programme>
+  <programme start="20220420183000 -0500" stop="20220420190000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Noticiero Científico y Cultural Iberoamericano</title>
+  </programme>
+  <programme start="20220420190000 -0500" stop="20220420193000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Será Anunciado</title>
+  </programme>
+  <programme start="20220420193000 -0500" stop="20220420200000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Travesías con Sabor</title>
+  </programme>
+  <programme start="20220420200000 -0500" stop="20220420210000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">¿Y quién es</title>
+  </programme>
+  <programme start="20220420210000 -0500" stop="20220420213000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Notiséis 360</title>
+  </programme>
+  <programme start="20220420213000 -0500" stop="20220420220000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Notiseis</title>
+  </programme>
+  <programme start="20220420220000 -0500" stop="20220420230000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">El Show de Chucho</title>
+  </programme>
+  <programme start="20220420230000 -0500" stop="20220421000000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Aquí estamos</title>
+  </programme>
+  <programme start="20220421013000 -0500" stop="20220421020000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Travesías con Sabor</title>
+  </programme>
+  <programme start="20220421020000 -0500" stop="20220421030000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">¿Y quién es</title>
+  </programme>
+  <programme start="20220421073000 -0500" stop="20220421080000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">NCC: Edición salud</title>
+  </programme>
+  <programme start="20220421110000 -0500" stop="20220421120000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">En la punta de la lengua</title>
+  </programme>
+  <programme start="20220421120000 -0500" stop="20220421123000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">¡Escápate</title>
+  </programme>
+  <programme start="20220421163000 -0500" stop="20220421170000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">¡Escápate</title>
+  </programme>
+  <programme start="20220421183000 -0500" stop="20220421190000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">NCC: Edición salud</title>
+  </programme>
+  <programme start="20220421190000 -0500" stop="20220421200000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Estudio Actoral</title>
+  </programme>
+  <programme start="20220421200000 -0500" stop="20220421210000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Vidas</title>
+  </programme>
+  <programme start="20220421210000 -0500" stop="20220421213000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Notiséis 360</title>
+  </programme>
+  <programme start="20220421213000 -0500" stop="20220421220000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Los más buscados</title>
+  </programme>
+  <programme start="20220421220000 -0500" stop="20220421223000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">¡Escápate</title>
+  </programme>
+  <programme start="20220421223000 -0500" stop="20220421230000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">NCC: Edición salud</title>
+  </programme>
+  <programme start="20220422010000 -0500" stop="20220422020000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Estudio Actoral</title>
+  </programme>
+  <programme start="20220422020000 -0500" stop="20220422030000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Vidas</title>
+  </programme>
+  <programme start="20220422030000 -0500" stop="20220422040000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Estudio Actoral</title>
+  </programme>
+  <programme start="20220422040000 -0500" stop="20220422050000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Noches de Ayer</title>
+  </programme>
+  <programme start="20220422050000 -0500" stop="20220422053000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Imágenes</title>
+  </programme>
+  <programme start="20220422053000 -0500" stop="20220422060000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Prohibido Olvidar</title>
+  </programme>
+  <programme start="20220422060000 -0500" stop="20220422063000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">En forma</title>
+  </programme>
+  <programme start="20220422063000 -0500" stop="20220422073000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Democracy Now</title>
+  </programme>
+  <programme start="20220422073000 -0500" stop="20220422080000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Noticiero Científico y Cultural Iberoamericano</title>
+  </programme>
+  <programme start="20220422080000 -0500" stop="20220422090000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Aquí estamos</title>
+  </programme>
+  <programme start="20220422090000 -0500" stop="20220422100000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Estudio Actoral</title>
+  </programme>
+  <programme start="20220422100000 -0500" stop="20220422110000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Medios sociales</title>
+  </programme>
+  <programme start="20220422110000 -0500" stop="20220422120000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">En la punta de la lengua</title>
+  </programme>
+  <programme start="20220422120000 -0500" stop="20220422123000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Fuerza latina, mujeres inspiradoras de América Latina</title>
+  </programme>
+  <programme start="20220422123000 -0500" stop="20220422130000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Con sabor y saber</title>
+  </programme>
+  <programme start="20220422130000 -0500" stop="20220422140000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Noches de Ayer</title>
+  </programme>
+  <programme start="20220422140000 -0500" stop="20220422150000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Aquí estamos</title>
+  </programme>
+  <programme start="20220422150000 -0500" stop="20220422153000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Pinkalicious &amp; Peterrific</title>
+  </programme>
+  <programme start="20220422153000 -0500" stop="20220422160000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Elinor Wonders Why</title>
+  </programme>
+  <programme start="20220422160000 -0500" stop="20220422163000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">El recreo</title>
+  </programme>
+  <programme start="20220422163000 -0500" stop="20220422170000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Fuerza latina, mujeres inspiradoras de América Latina</title>
+  </programme>
+  <programme start="20220422170000 -0500" stop="20220422180000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20220422180000 -0500" stop="20220422183000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Prohibido Olvidar</title>
+  </programme>
+  <programme start="20220422183000 -0500" stop="20220422190000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Noticiero Científico y Cultural Iberoamericano</title>
+  </programme>
+  <programme start="20220422190000 -0500" stop="20220422193000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Será Anunciado</title>
+  </programme>
+  <programme start="20220422193000 -0500" stop="20220422200000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Archivo Siglo 20</title>
+  </programme>
+  <programme start="20220422200000 -0500" stop="20220422210000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Europa en concierto</title>
+  </programme>
+  <programme start="20220422220000 -0500" stop="20220422230000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Estudio Actoral</title>
+  </programme>
+  <programme start="20220422230000 -0500" stop="20220423000000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Aquí estamos</title>
+  </programme>
+  <programme start="20220423020000 -0500" stop="20220423030000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Europa en concierto</title>
+  </programme>
+  <programme start="20220423050000 -0500" stop="20220423053000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Prohibido Olvidar</title>
+  </programme>
+  <programme start="20220423053000 -0500" stop="20220423060000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">En forma</title>
+  </programme>
+  <programme start="20220423060000 -0500" stop="20220423063000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Clifford the Big Red Dog</title>
+  </programme>
+  <programme start="20220423063000 -0500" stop="20220423070000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">WordWorld</title>
+  </programme>
+  <programme start="20220423070000 -0500" stop="20220423073000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Splash and Bubbles</title>
+  </programme>
+  <programme start="20220423073000 -0500" stop="20220423080000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Dinosaur Train</title>
+  </programme>
+  <programme start="20220423080000 -0500" stop="20220423083000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Sid the Science Kid</title>
+  </programme>
+  <programme start="20220423083000 -0500" stop="20220423100000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">En casa aprendo con Remi</title>
+  </programme>
+  <programme start="20220423100000 -0500" stop="20220423110000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Cuando Despierta el Amor</title>
+  </programme>
+  <programme start="20220423110000 -0500" stop="20220423113000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Con sabor y saber</title>
+  </programme>
+  <programme start="20220423113000 -0500" stop="20220423120000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Travesías con Sabor</title>
+  </programme>
+  <programme start="20220423120000 -0500" stop="20220423130000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Medios sociales</title>
+  </programme>
+  <programme start="20220423130000 -0500" stop="20220423150000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Dias de cine</title>
+  </programme>
+  <programme start="20220423150000 -0500" stop="20220423160000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Noches de Ayer</title>
+  </programme>
+  <programme start="20220423160000 -0500" stop="20220423170000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Documental</title>
+  </programme>
+  <programme start="20220423170000 -0500" stop="20220423173000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Prohibido Olvidar</title>
+  </programme>
+  <programme start="20220423173000 -0500" stop="20220423180000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Todos por Puerto Rico</title>
+  </programme>
+  <programme start="20220423180000 -0500" stop="20220423190000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">En la Cancha</title>
+  </programme>
+  <programme start="20220423190000 -0500" stop="20220423200000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Europa en concierto</title>
+  </programme>
+  <programme start="20220423200000 -0500" stop="20220423220000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Sábado Sinfónico</title>
+  </programme>
+  <programme start="20220423230000 -0500" stop="20220424010000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Dias de cine</title>
+  </programme>
+  <programme start="20220424230000 -0500" stop="20220425010000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Dias de cine</title>
+  </programme>
+  <programme start="20220425010000 -0500" stop="20220425030000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Sábado Sinfónico</title>
+  </programme>
+  <programme start="20220425030000 -0500" stop="20220425040000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Europa en concierto</title>
+  </programme>
+  <programme start="20220425040000 -0500" stop="20220425050000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Estudio Actoral</title>
+  </programme>
+  <programme start="20220425083000 -0500" stop="20220425090000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Daniel Tiger's Neighborhood</title>
+  </programme>
+  <programme start="20220425090000 -0500" stop="20220425100000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">En la Cancha</title>
+  </programme>
+  <programme start="20220425100000 -0500" stop="20220425110000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Cuando Despierta el Amor</title>
+  </programme>
+  <programme start="20220425110000 -0500" stop="20220425113000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Con sabor y saber</title>
+  </programme>
+  <programme start="20220425113000 -0500" stop="20220425120000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Travesías con Sabor</title>
+  </programme>
+  <programme start="20220425120000 -0500" stop="20220425130000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Medios sociales</title>
+  </programme>
+  <programme start="20220425130000 -0500" stop="20220425150000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Dias de cine</title>
+  </programme>
+  <programme start="20220425150000 -0500" stop="20220425160000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Noches de Ayer</title>
+  </programme>
+  <programme start="20220425160000 -0500" stop="20220425170000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">DocTV Latinoamérica</title>
+  </programme>
+  <programme start="20220425170000 -0500" stop="20220425180000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Vidas</title>
+  </programme>
+  <programme start="20220425180000 -0500" stop="20220425190000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">¿Y quién es</title>
+  </programme>
+  <programme start="20220425190000 -0500" stop="20220425200000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Arte y Ciencia</title>
+  </programme>
+  <programme start="20220425200000 -0500" stop="20220425210000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">El Show de Chucho</title>
+  </programme>
+  <programme start="20220425210000 -0500" stop="20220425220000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Agenda para Puerto Rico</title>
+  </programme>
+  <programme start="20220425220000 -0500" stop="20220425230000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Estudio Actoral</title>
+  </programme>
+  <programme start="20220426010000 -0500" stop="20220426020000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">¿Y quién es</title>
+  </programme>
+  <programme start="20220426020000 -0500" stop="20220426030000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Arte y Ciencia</title>
+  </programme>
+  <programme start="20220426030000 -0500" stop="20220426040000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">El Show de Chucho</title>
+  </programme>
+  <programme start="20220426040000 -0500" stop="20220426050000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Agenda para Puerto Rico</title>
+  </programme>
+  <programme start="20220426050000 -0500" stop="20220426060000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Democracy Now</title>
+  </programme>
+  <programme start="20220426060000 -0500" stop="20220426070000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Aquí estamos</title>
+  </programme>
+  <programme start="20220426070000 -0500" stop="20220426073000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">En forma</title>
+  </programme>
+  <programme start="20220426073000 -0500" stop="20220426080000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">En casa aprendo</title>
+  </programme>
+  <programme start="20220426080000 -0500" stop="20220426083000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">En casa aprendo</title>
+  </programme>
+  <programme start="20220426083000 -0500" stop="20220426090000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">En casa aprendo</title>
+  </programme>
+  <programme start="20220426090000 -0500" stop="20220426093000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">En casa aprendo</title>
+  </programme>
+  <programme start="20220426093000 -0500" stop="20220426100000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">En casa aprendo</title>
+  </programme>
+  <programme start="20220426100000 -0500" stop="20220426103000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">En casa aprendo</title>
+  </programme>
+  <programme start="20220426103000 -0500" stop="20220426110000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">En casa aprendo</title>
+  </programme>
+  <programme start="20220426110000 -0500" stop="20220426113000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">En casa aprendo</title>
+  </programme>
+  <programme start="20220426113000 -0500" stop="20220426120000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">En casa aprendo</title>
+  </programme>
+  <programme start="20220426120000 -0500" stop="20220426123000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">En casa aprendo</title>
+  </programme>
+  <programme start="20220426123000 -0500" stop="20220426130000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">En casa aprendo</title>
+  </programme>
+  <programme start="20220426130000 -0500" stop="20220426133000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">En casa aprendo</title>
+  </programme>
+  <programme start="20220426133000 -0500" stop="20220426140000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">En casa aprendo</title>
+  </programme>
+  <programme start="20220426140000 -0500" stop="20220426143000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">En casa aprendo</title>
+  </programme>
+  <programme start="20220426143000 -0500" stop="20220426150000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">En forma</title>
+  </programme>
+  <programme start="20220426150000 -0500" stop="20220426160000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">En casa aprendo con Remi</title>
+  </programme>
+  <programme start="20220426160000 -0500" stop="20220426170000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">En casa aprendo</title>
+  </programme>
+  <programme start="20220426170000 -0500" stop="20220426173000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Labsix: Nivel elemental e intermedia</title>
+  </programme>
+  <programme start="20220426173000 -0500" stop="20220426180000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Será Anunciado</title>
+  </programme>
+  <programme start="20220426180000 -0500" stop="20220426183000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">En forma</title>
+  </programme>
+  <programme start="20220426183000 -0500" stop="20220426190000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">En casa aprendo</title>
+  </programme>
+  <programme start="20220426190000 -0500" stop="20220426193000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">En casa aprendo</title>
+  </programme>
+  <programme start="20220426193000 -0500" stop="20220426200000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">En casa aprendo</title>
+  </programme>
+  <programme start="20220426200000 -0500" stop="20220426203000 -0500" channel="Canal 6 de Puerto Rico (WIPR-TV)">
+    <title lang="es">Salud y prevención</title>
+  </programme>
+  <programme start="20220420060000 -0500" stop="20220420080000 -0500" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">Primer Reporte</title>
+  </programme>
+  <programme start="20220420080000 -0500" stop="20220420090000 -0500" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">Edicion matinal</title>
+  </programme>
+  <programme start="20220420090000 -0500" stop="20220420113000 -0500" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">CN9 - Tarde noticias</title>
+  </programme>
+  <programme start="20220420113000 -0500" stop="20220420120000 -0500" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">C9N Pais</title>
+  </programme>
+  <programme start="20220420120000 -0500" stop="20220420130000 -0500" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">Platea informativa</title>
+  </programme>
+  <programme start="20220420130000 -0500" stop="20220420150000 -0500" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">C9N - Edición matinal</title>
+  </programme>
+  <programme start="20220420150000 -0500" stop="20220420170000 -0500" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">#Tarde noticias</title>
+  </programme>
+  <programme start="20220420170000 -0500" stop="20220420190000 -0500" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">C9N Central</title>
+  </programme>
+  <programme start="20220420190000 -0500" stop="20220420210000 -0500" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">24 Horas para Vivir</title>
+  </programme>
+  <programme start="20220420210000 -0500" stop="20220420220000 -0500" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">Puntos de vista</title>
+  </programme>
+  <programme start="20220420220000 -0500" stop="20220420230000 -0500" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">Segunda edición</title>
+  </programme>
+  <programme start="20220420230000 -0500" stop="20220420233000 -0500" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">Ocurrió Así</title>
+  </programme>
+  <programme start="20220420233000 -0500" stop="20220421000000 -0500" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">Voa noticias</title>
+  </programme>
+  <programme start="20220421090000 -0500" stop="20220421113000 -0500" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">CN9 - Tarde noticias</title>
+  </programme>
+  <programme start="20220421210000 -0500" stop="20220421220000 -0500" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">Mano a mano</title>
+  </programme>
+  <programme start="20220422000000 -0500" stop="20220422050000 -0500" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20220422050000 -0500" stop="20220422060000 -0500" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">Segunda edición</title>
+  </programme>
+  <programme start="20220422060000 -0500" stop="20220422080000 -0500" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">Primer Reporte</title>
+  </programme>
+  <programme start="20220422080000 -0500" stop="20220422090000 -0500" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">Edicion matinal</title>
+  </programme>
+  <programme start="20220422090000 -0500" stop="20220422113000 -0500" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">CN9 - Tarde noticias</title>
+  </programme>
+  <programme start="20220422113000 -0500" stop="20220422120000 -0500" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">C9N Pais</title>
+  </programme>
+  <programme start="20220422120000 -0500" stop="20220422130000 -0500" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">Platea informativa</title>
+  </programme>
+  <programme start="20220422130000 -0500" stop="20220422150000 -0500" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">C9N - Edición matinal</title>
+  </programme>
+  <programme start="20220422150000 -0500" stop="20220422170000 -0500" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">#Tarde noticias</title>
+  </programme>
+  <programme start="20220422170000 -0500" stop="20220422190000 -0500" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">C9N Central</title>
+  </programme>
+  <programme start="20220422190000 -0500" stop="20220422210000 -0500" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">24 Horas para Vivir</title>
+  </programme>
+  <programme start="20220422210000 -0500" stop="20220422220000 -0500" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">Puntos de vista</title>
+  </programme>
+  <programme start="20220422220000 -0500" stop="20220422230000 -0500" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">Segunda edición</title>
+  </programme>
+  <programme start="20220422230000 -0500" stop="20220422233000 -0500" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">Ocurrió Así</title>
+  </programme>
+  <programme start="20220422233000 -0500" stop="20220423000000 -0500" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">Voa noticias</title>
+  </programme>
+  <programme start="20220423060000 -0500" stop="20220423093000 -0500" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">Pulso Urbano</title>
+  </programme>
+  <programme start="20220423093000 -0500" stop="20220423100000 -0500" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">Natur líder</title>
+  </programme>
+  <programme start="20220423100000 -0500" stop="20220423103000 -0500" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">Radar social</title>
+  </programme>
+  <programme start="20220423103000 -0500" stop="20220423110000 -0500" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">ÑANDEMBAEVA</title>
+  </programme>
+  <programme start="20220423110000 -0500" stop="20220423120000 -0500" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">Puntos de vista</title>
+  </programme>
+  <programme start="20220423120000 -0500" stop="20220423123000 -0500" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">Tour motor</title>
+  </programme>
+  <programme start="20220423123000 -0500" stop="20220423130000 -0500" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">Sábados deluxe</title>
+  </programme>
+  <programme start="20220423130000 -0500" stop="20220423160000 -0500" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">C9N - Edición matinal</title>
+  </programme>
+  <programme start="20220423160000 -0500" stop="20220423170000 -0500" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">Virales</title>
+  </programme>
+  <programme start="20220423170000 -0500" stop="20220423200000 -0500" channel="Canal 9 Noticias (Paraguay)">
+    <title lang="es">Segunda edición</title>
+  </programme>
+  <programme start="20220420003000 -0500" stop="20220420010000 -0500" channel="Canal 13 de Colombia (Trece)">
+    <title lang="es">Resonantes Playlist</title>
+  </programme>
+  <programme start="20220420010000 -0500" stop="20220420100000 -0500" channel="Canal 13 de Colombia (Trece)">
+    <title lang="es">Resonantes Playlist</title>
+  </programme>
+  <programme start="20220420100000 -0500" stop="20220420103000 -0500" channel="Canal 13 de Colombia (Trece)">
+    <title lang="es">Somos region</title>
+  </programme>
+  <programme start="20220420103000 -0500" stop="20220420110000 -0500" channel="Canal 13 de Colombia (Trece)">
+    <title lang="es">Cultura.21</title>
+  </programme>
+  <programme start="20220420110000 -0500" stop="20220420113000 -0500" channel="Canal 13 de Colombia (Trece)">
+    <title lang="es">Fractal</title>
+  </programme>
+  <programme start="20220420113000 -0500" stop="20220420120000 -0500" channel="Canal 13 de Colombia (Trece)">
+    <title lang="es">Mi ciudad en bicicleta</title>
+  </programme>
+  <programme start="20220420120000 -0500" stop="20220420130000 -0500" channel="Canal 13 de Colombia (Trece)">
+    <title lang="es">Resonantes toque</title>
+  </programme>
+  <programme start="20220420130000 -0500" stop="20220420133000 -0500" channel="Canal 13 de Colombia (Trece)">
+    <title lang="es">Chef a la carta mestizaje</title>
+  </programme>
+  <programme start="20220420133000 -0500" stop="20220420141500 -0500" channel="Canal 13 de Colombia (Trece)">
+    <title lang="es">Enlace Trece</title>
+  </programme>
+  <programme start="20220420141500 -0500" stop="20220420144000 -0500" channel="Canal 13 de Colombia (Trece)">
+    <title lang="es">Alianza Regional Informativa</title>
+  </programme>
+  <programme start="20220420144000 -0500" stop="20220420150000 -0500" channel="Canal 13 de Colombia (Trece)">
+    <title lang="es">DW Noticias</title>
+  </programme>
+  <programme start="20220420150000 -0500" stop="20220420154500 -0500" channel="Canal 13 de Colombia (Trece)">
+    <title lang="es">Enlace Trece</title>
+  </programme>
+  <programme start="20220420154500 -0500" stop="20220420170000 -0500" channel="Canal 13 de Colombia (Trece)">
+    <title lang="es">Franja trece animado</title>
+  </programme>
+  <programme start="20220420170000 -0500" stop="20220420200000 -0500" channel="Canal 13 de Colombia (Trece)">
+    <title lang="es">Inbox Trece</title>
+  </programme>
+  <programme start="20220420200000 -0500" stop="20220420203000 -0500" channel="Canal 13 de Colombia (Trece)">
+    <title lang="es">Historias de esperanza</title>
+  </programme>
+  <programme start="20220420203000 -0500" stop="20220420220000 -0500" channel="Canal 13 de Colombia (Trece)">
+    <title lang="es">Resonantes presenta</title>
+  </programme>
+  <programme start="20220420220000 -0500" stop="20220420230000 -0500" channel="Canal 13 de Colombia (Trece)">
+    <title lang="es">Los burrocratas</title>
+  </programme>
+  <programme start="20220420230000 -0500" stop="20220420233000 -0500" channel="Canal 13 de Colombia (Trece)">
+    <title lang="es">Resonantes</title>
+  </programme>
+  <programme start="20220420233000 -0500" stop="20220420234000 -0500" channel="Canal 13 de Colombia (Trece)">
+    <title lang="es">Loteria del meta</title>
+  </programme>
+  <programme start="20220420234000 -0500" stop="20220421003000 -0500" channel="Canal 13 de Colombia (Trece)">
+    <title lang="es">Resonantes</title>
+  </programme>
+  <programme start="20220421103000 -0500" stop="20220421110000 -0500" channel="Canal 13 de Colombia (Trece)">
+    <title lang="es">Visión futuro</title>
+  </programme>
+  <programme start="20220421110000 -0500" stop="20220421113000 -0500" channel="Canal 13 de Colombia (Trece)">
+    <title lang="es">Fractal</title>
+  </programme>
+  <programme start="20220421200000 -0500" stop="20220421220000 -0500" channel="Canal 13 de Colombia (Trece)">
+    <title lang="es">Resonantes presenta</title>
+  </programme>
+  <programme start="20220421220000 -0500" stop="20220421230000 -0500" channel="Canal 13 de Colombia (Trece)">
+    <title lang="es">Mal de tierra</title>
+  </programme>
+  <programme start="20220421230000 -0500" stop="20220422003000 -0500" channel="Canal 13 de Colombia (Trece)">
+    <title lang="es">Resonantes</title>
+  </programme>
+  <programme start="20220422103000 -0500" stop="20220422110000 -0500" channel="Canal 13 de Colombia (Trece)">
+    <title lang="es">Enlaces</title>
+  </programme>
+  <programme start="20220423100000 -0500" stop="20220423103000 -0500" channel="Canal 13 de Colombia (Trece)">
+    <title lang="es">Treinta y 2 regionalmente nuestro</title>
+  </programme>
+  <programme start="20220423103000 -0500" stop="20220423130000 -0500" channel="Canal 13 de Colombia (Trece)">
+    <title lang="es">Franja trece animado</title>
+  </programme>
+  <programme start="20220423130000 -0500" stop="20220423133000 -0500" channel="Canal 13 de Colombia (Trece)">
+    <title lang="es">Cero X3</title>
+  </programme>
+  <programme start="20220423133000 -0500" stop="20220423141500 -0500" channel="Canal 13 de Colombia (Trece)">
+    <title lang="es">Enlace Trece</title>
+  </programme>
+  <programme start="20220423141500 -0500" stop="20220423150000 -0500" channel="Canal 13 de Colombia (Trece)">
+    <title lang="es">Mesa para trece</title>
+  </programme>
+  <programme start="20220423150000 -0500" stop="20220423160000 -0500" channel="Canal 13 de Colombia (Trece)">
+    <title lang="es">Colombia. Colom-bio</title>
+  </programme>
+  <programme start="20220423160000 -0500" stop="20220423164500 -0500" channel="Canal 13 de Colombia (Trece)">
+    <title lang="es">Europa en concierto</title>
+  </programme>
+  <programme start="20220423164500 -0500" stop="20220423180000 -0500" channel="Canal 13 de Colombia (Trece)">
+    <title lang="es">Resonantes Playlist</title>
+  </programme>
+  <programme start="20220423180000 -0500" stop="20220423183000 -0500" channel="Canal 13 de Colombia (Trece)">
+    <title lang="es">El camino de los siglos</title>
+  </programme>
+  <programme start="20220423183000 -0500" stop="20220423190000 -0500" channel="Canal 13 de Colombia (Trece)">
+    <title lang="es">Toma el control</title>
+  </programme>
+  <programme start="20220423190000 -0500" stop="20220423193000 -0500" channel="Canal 13 de Colombia (Trece)">
+    <title lang="es">Somos region</title>
+  </programme>
+  <programme start="20220423193000 -0500" stop="20220423203000 -0500" channel="Canal 13 de Colombia (Trece)">
+    <title lang="es">Los sonidos de la montaña</title>
+  </programme>
+  <programme start="20220420003500 -0500" stop="20220420012500 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20220420012500 -0500" stop="20220420022500 -0500" channel="Canal 13 de Chile">
+    <title lang="es">FBI (2018)</title>
+  </programme>
+  <programme start="20220420022500 -0500" stop="20220420032500 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20220420032500 -0500" stop="20220420060000 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20220420060000 -0500" stop="20220420063000 -0500" channel="Canal 13 de Chile">
+    <title lang="es">3x3</title>
+  </programme>
+  <programme start="20220420063000 -0500" stop="20220420080000 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20220420080000 -0500" stop="20220420130000 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Tu día</title>
+  </programme>
+  <programme start="20220420130000 -0500" stop="20220420142500 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20220420142500 -0500" stop="20220420143000 -0500" channel="Canal 13 de Chile">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20220420143000 -0500" stop="20220420160000 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Aquí somos todos</title>
+  </programme>
+  <programme start="20220420160000 -0500" stop="20220420164500 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Cerro Alegre</title>
+  </programme>
+  <programme start="20220420164500 -0500" stop="20220420173500 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Los Ricos También Lloran</title>
+  </programme>
+  <programme start="20220420173500 -0500" stop="20220420193500 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20220420193500 -0500" stop="20220420210000 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Que dice Chile</title>
+  </programme>
+  <programme start="20220420210000 -0500" stop="20220420223000 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20220420223000 -0500" stop="20220420223500 -0500" channel="Canal 13 de Chile">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20220420223500 -0500" stop="20220421003500 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Aquí se Baila</title>
+  </programme>
+  <programme start="20220421080000 -0500" stop="20220421130000 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Tu día</title>
+  </programme>
+  <programme start="20220421164500 -0500" stop="20220421173500 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Ricos También Lloran</title>
+  </programme>
+  <programme start="20220421223500 -0500" stop="20220422003500 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Lo mejor - Aquí se baila</title>
+  </programme>
+  <programme start="20220422223500 -0500" stop="20220423003500 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Lo mejor - Aquí se baila</title>
+  </programme>
+  <programme start="20220423032500 -0500" stop="20220423070000 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Fin de emisión</title>
+  </programme>
+  <programme start="20220423070000 -0500" stop="20220423080000 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20220423080000 -0500" stop="20220423130000 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Tu día</title>
+  </programme>
+  <programme start="20220423130000 -0500" stop="20220423142500 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20220423142500 -0500" stop="20220423143000 -0500" channel="Canal 13 de Chile">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20220423143000 -0500" stop="20220423160000 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Aquí somos todos</title>
+  </programme>
+  <programme start="20220423160000 -0500" stop="20220423164500 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Adrenalina</title>
+  </programme>
+  <programme start="20220423164500 -0500" stop="20220423173000 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Cerro Alegre</title>
+  </programme>
+  <programme start="20220423173000 -0500" stop="20220423193500 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20220423193500 -0500" stop="20220423210000 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Que dice Chile</title>
+  </programme>
+  <programme start="20220423210000 -0500" stop="20220423223000 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20220423223000 -0500" stop="20220423223500 -0500" channel="Canal 13 de Chile">
+    <title lang="es">El tiempo</title>
+  </programme>
+  <programme start="20220423223500 -0500" stop="20220424011000 -0500" channel="Canal 13 de Chile">
+    <title lang="es">The Siege</title>
+  </programme>
+  <programme start="20220424011000 -0500" stop="20220424021000 -0500" channel="Canal 13 de Chile">
+    <title lang="es">The Resident</title>
+  </programme>
+  <programme start="20220424021000 -0500" stop="20220424070000 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20220424070000 -0500" stop="20220424083000 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Plato Unico</title>
+  </programme>
+  <programme start="20220424083000 -0500" stop="20220424110000 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Sin Despertador</title>
+  </programme>
+  <programme start="20220424110000 -0500" stop="20220424130000 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20220424130000 -0500" stop="20220424150000 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Teletrece</title>
+  </programme>
+  <programme start="20220424150000 -0500" stop="20220424160000 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Lugares que hablan</title>
+  </programme>
+  <programme start="20220424160000 -0500" stop="20220424171500 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Sabor capital</title>
+  </programme>
+  <programme start="20220424171500 -0500" stop="20220424183000 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Recomiendo Chile</title>
+  </programme>
+  <programme start="20220424183000 -0500" stop="20220424194500 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Somos Caleta</title>
+  </programme>
+  <programme start="20220424194500 -0500" stop="20220424210000 -0500" channel="Canal 13 de Chile">
+    <title lang="es">Lugares que hablan</title>
+  </programme>
+  <programme start="20220420003000 -0500" stop="20220420013000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Royals a través del espejo</title>
+  </programme>
+  <programme start="20220420013000 -0500" stop="20220420020000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Coronas y palacios</title>
+  </programme>
+  <programme start="20220420020000 -0500" stop="20220420030000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Especiales Realeza</title>
+  </programme>
+  <programme start="20220420030000 -0500" stop="20220420040000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Las reinas del shopping</title>
+  </programme>
+  <programme start="20220420040000 -0500" stop="20220420053000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">La hora Hola</title>
+  </programme>
+  <programme start="20220420053000 -0500" stop="20220420060000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Coronas y palacios</title>
+  </programme>
+  <programme start="20220420060000 -0500" stop="20220420073000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">La hora Hola</title>
+  </programme>
+  <programme start="20220420073000 -0500" stop="20220420080000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20220420080000 -0500" stop="20220420083000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20220420083000 -0500" stop="20220420090000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Videofashion News</title>
+  </programme>
+  <programme start="20220420090000 -0500" stop="20220420093000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20220420093000 -0500" stop="20220420100000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20220420100000 -0500" stop="20220420110000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Las reinas del shopping</title>
+  </programme>
+  <programme start="20220420110000 -0500" stop="20220420123000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">La hora Hola</title>
+  </programme>
+  <programme start="20220420123000 -0500" stop="20220420133000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Royals a través del espejo</title>
+  </programme>
+  <programme start="20220420133000 -0500" stop="20220420140000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Coronas y palacios</title>
+  </programme>
+  <programme start="20220420140000 -0500" stop="20220420143000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Subastas de Lujo</title>
+  </programme>
+  <programme start="20220420143000 -0500" stop="20220420150000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Videofashion Men</title>
+  </programme>
+  <programme start="20220420150000 -0500" stop="20220420153000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">¡HOLA! TV Fashion</title>
+  </programme>
+  <programme start="20220420153000 -0500" stop="20220420160000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Happy &amp; Zen</title>
+  </programme>
+  <programme start="20220420160000 -0500" stop="20220420163000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Top de estilo</title>
+  </programme>
+  <programme start="20220420163000 -0500" stop="20220420170000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Happy &amp; Zen</title>
+  </programme>
+  <programme start="20220420170000 -0500" stop="20220420173000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Coronas y palacios</title>
+  </programme>
+  <programme start="20220420173000 -0500" stop="20220420180000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Tendencias SXXI</title>
+  </programme>
+  <programme start="20220420180000 -0500" stop="20220420183000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Stars in Style</title>
+  </programme>
+  <programme start="20220420183000 -0500" stop="20220420190000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">El álbum de las celebridades</title>
+  </programme>
+  <programme start="20220420190000 -0500" stop="20220420200000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Las reinas del shopping</title>
+  </programme>
+  <programme start="20220420200000 -0500" stop="20220420213000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">La hora Hola</title>
+  </programme>
+  <programme start="20220420213000 -0500" stop="20220420223000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Hoteles increíbles</title>
+  </programme>
+  <programme start="20220420223000 -0500" stop="20220420230000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Stars in Style</title>
+  </programme>
+  <programme start="20220420230000 -0500" stop="20220421003000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">La hora Hola</title>
+  </programme>
+  <programme start="20220421003000 -0500" stop="20220421013000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Hoteles increíbles</title>
+  </programme>
+  <programme start="20220421013000 -0500" stop="20220421020000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Stars in Style</title>
+  </programme>
+  <programme start="20220421020000 -0500" stop="20220421030000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Hoteles increíbles</title>
+  </programme>
+  <programme start="20220421053000 -0500" stop="20220421060000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Stars in Style</title>
+  </programme>
+  <programme start="20220421083000 -0500" stop="20220421090000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Video Fashion News</title>
+  </programme>
+  <programme start="20220421110000 -0500" stop="20220421123000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">La hora Hola</title>
+  </programme>
+  <programme start="20220421123000 -0500" stop="20220421133000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Hoteles increíbles</title>
+  </programme>
+  <programme start="20220421133000 -0500" stop="20220421140000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Stars in Style</title>
+  </programme>
+  <programme start="20220421143000 -0500" stop="20220421150000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Vídeo Fashion - Specials</title>
+  </programme>
+  <programme start="20220421150000 -0500" stop="20220421153000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Vidas Reales</title>
+  </programme>
+  <programme start="20220421153000 -0500" stop="20220421160000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Vidas Reales</title>
+  </programme>
+  <programme start="20220421213000 -0500" stop="20220421220000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">¡HOLA! TV Fashion</title>
+  </programme>
+  <programme start="20220421220000 -0500" stop="20220421223000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Espléndida</title>
+  </programme>
+  <programme start="20220421223000 -0500" stop="20220421230000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Top de estilo</title>
+  </programme>
+  <programme start="20220422003000 -0500" stop="20220422010000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">¡HOLA! TV Fashion</title>
+  </programme>
+  <programme start="20220422010000 -0500" stop="20220422013000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Espléndida</title>
+  </programme>
+  <programme start="20220422013000 -0500" stop="20220422020000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Top de estilo</title>
+  </programme>
+  <programme start="20220422020000 -0500" stop="20220422023000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">¡HOLA! TV Fashion</title>
+  </programme>
+  <programme start="20220422023000 -0500" stop="20220422030000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Espléndida</title>
+  </programme>
+  <programme start="20220422053000 -0500" stop="20220422060000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">¡HOLA! TV Fashion</title>
+  </programme>
+  <programme start="20220422123000 -0500" stop="20220422130000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">¡HOLA! TV Fashion</title>
+  </programme>
+  <programme start="20220422130000 -0500" stop="20220422133000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Top de estilo</title>
+  </programme>
+  <programme start="20220422133000 -0500" stop="20220422140000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Espléndida</title>
+  </programme>
+  <programme start="20220422140000 -0500" stop="20220422143000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Subastas de Lujo</title>
+  </programme>
+  <programme start="20220422143000 -0500" stop="20220422150000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Video Fashion News</title>
+  </programme>
+  <programme start="20220422150000 -0500" stop="20220422160000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Casas Señoriales</title>
+  </programme>
+  <programme start="20220422213000 -0500" stop="20220422223000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Casas de ensueño</title>
+  </programme>
+  <programme start="20220422223000 -0500" stop="20220422230000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Design Hunters</title>
+  </programme>
+  <programme start="20220423003000 -0500" stop="20220423013000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Casas de ensueño</title>
+  </programme>
+  <programme start="20220423013000 -0500" stop="20220423020000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Design Hunters</title>
+  </programme>
+  <programme start="20220423020000 -0500" stop="20220423030000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Casas de ensueño</title>
+  </programme>
+  <programme start="20220423053000 -0500" stop="20220423060000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Design Hunters</title>
+  </programme>
+  <programme start="20220423060000 -0500" stop="20220423063000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Subastas de Lujo</title>
+  </programme>
+  <programme start="20220423063000 -0500" stop="20220423070000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Subastas de Lujo</title>
+  </programme>
+  <programme start="20220423070000 -0500" stop="20220423073000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Subastas de Lujo</title>
+  </programme>
+  <programme start="20220423073000 -0500" stop="20220423080000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Coronas y palacios</title>
+  </programme>
+  <programme start="20220423100000 -0500" stop="20220423103000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20220423103000 -0500" stop="20220423123000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Lo Mejor de la Hora Hola</title>
+  </programme>
+  <programme start="20220423123000 -0500" stop="20220423133000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Íntimo y personal</title>
+  </programme>
+  <programme start="20220423133000 -0500" stop="20220423140000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">¡HOLA! TV Fashion</title>
+  </programme>
+  <programme start="20220423140000 -0500" stop="20220423143000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Top de estilo</title>
+  </programme>
+  <programme start="20220423143000 -0500" stop="20220423153000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Casas de ensueño</title>
+  </programme>
+  <programme start="20220423153000 -0500" stop="20220423163000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Hoteles increíbles</title>
+  </programme>
+  <programme start="20220423163000 -0500" stop="20220423170000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Design Hunters</title>
+  </programme>
+  <programme start="20220423170000 -0500" stop="20220423190000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Lo Mejor de la Hora Hola</title>
+  </programme>
+  <programme start="20220423190000 -0500" stop="20220423193000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Top de estilo</title>
+  </programme>
+  <programme start="20220423193000 -0500" stop="20220423200000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">¡HOLA! TV Fashion</title>
+  </programme>
+  <programme start="20220423200000 -0500" stop="20220423203000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Design Hunters</title>
+  </programme>
+  <programme start="20220423203000 -0500" stop="20220423210000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Coronas y palacios</title>
+  </programme>
+  <programme start="20220423210000 -0500" stop="20220423220000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Royals a través del espejo</title>
+  </programme>
+  <programme start="20220423220000 -0500" stop="20220423223000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Grandes crónicas de HOLA</title>
+  </programme>
+  <programme start="20220423223000 -0500" stop="20220424000000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Marisol</title>
+  </programme>
+  <programme start="20220424000000 -0500" stop="20220424003000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Top de estilo</title>
+  </programme>
+  <programme start="20220424003000 -0500" stop="20220424010000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Coronas y palacios</title>
+  </programme>
+  <programme start="20220424010000 -0500" stop="20220424013000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Stars in Style</title>
+  </programme>
+  <programme start="20220424013000 -0500" stop="20220424030000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Marisol</title>
+  </programme>
+  <programme start="20220424030000 -0500" stop="20220424033000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Grandes crónicas de HOLA</title>
+  </programme>
+  <programme start="20220424033000 -0500" stop="20220424043000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Royals a través del espejo</title>
+  </programme>
+  <programme start="20220424043000 -0500" stop="20220424050000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Top de estilo</title>
+  </programme>
+  <programme start="20220424050000 -0500" stop="20220424053000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">¡HOLA! TV Fashion</title>
+  </programme>
+  <programme start="20220424060000 -0500" stop="20220424080000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Lo Mejor de la Hora Hola</title>
+  </programme>
+  <programme start="20220424080000 -0500" stop="20220424083000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20220424083000 -0500" stop="20220424090000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Video Fashion News</title>
+  </programme>
+  <programme start="20220424090000 -0500" stop="20220424093000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">¡Nutrición orgánica integral y superalimenticia simplificada</title>
+  </programme>
+  <programme start="20220424093000 -0500" stop="20220424100000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20220424100000 -0500" stop="20220424103000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20220424103000 -0500" stop="20220424110000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">El álbum de las celebridades</title>
+  </programme>
+  <programme start="20220424110000 -0500" stop="20220424113000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">El álbum de las celebridades</title>
+  </programme>
+  <programme start="20220424113000 -0500" stop="20220424120000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">El álbum de las celebridades</title>
+  </programme>
+  <programme start="20220424120000 -0500" stop="20220424123000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">El álbum de las celebridades</title>
+  </programme>
+  <programme start="20220424123000 -0500" stop="20220424130000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Design Hunters</title>
+  </programme>
+  <programme start="20220424130000 -0500" stop="20220424133000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Espléndida</title>
+  </programme>
+  <programme start="20220424133000 -0500" stop="20220424140000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Top de estilo</title>
+  </programme>
+  <programme start="20220424140000 -0500" stop="20220424143000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">¡HOLA! TV Fashion</title>
+  </programme>
+  <programme start="20220424143000 -0500" stop="20220424150000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Stars in Style</title>
+  </programme>
+  <programme start="20220424150000 -0500" stop="20220424160000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Moda</title>
+  </programme>
+  <programme start="20220424160000 -0500" stop="20220424163000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Coronas y palacios</title>
+  </programme>
+  <programme start="20220424163000 -0500" stop="20220424180000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Marisol</title>
+  </programme>
+  <programme start="20220424180000 -0500" stop="20220424183000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Top de estilo</title>
+  </programme>
+  <programme start="20220424183000 -0500" stop="20220424190000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Stars in Style</title>
+  </programme>
+  <programme start="20220424190000 -0500" stop="20220424193000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Espléndida</title>
+  </programme>
+  <programme start="20220424193000 -0500" stop="20220424200000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Coronas y palacios</title>
+  </programme>
+  <programme start="20220424200000 -0500" stop="20220424203000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Mi boda perfecta</title>
+  </programme>
+  <programme start="20220424203000 -0500" stop="20220424210000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Mi boda perfecta</title>
+  </programme>
+  <programme start="20220424210000 -0500" stop="20220424220000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Íntimo y personal</title>
+  </programme>
+  <programme start="20220424220000 -0500" stop="20220424230000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Íntimo y personal</title>
+  </programme>
+  <programme start="20220424230000 -0500" stop="20220424233000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Mi boda perfecta</title>
+  </programme>
+  <programme start="20220424233000 -0500" stop="20220425000000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Mi boda perfecta</title>
+  </programme>
+  <programme start="20220425000000 -0500" stop="20220425010000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Íntimo y personal</title>
+  </programme>
+  <programme start="20220425010000 -0500" stop="20220425020000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Íntimo y personal</title>
+  </programme>
+  <programme start="20220425020000 -0500" stop="20220425023000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Top de estilo</title>
+  </programme>
+  <programme start="20220425023000 -0500" stop="20220425030000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Stars in Style</title>
+  </programme>
+  <programme start="20220425030000 -0500" stop="20220425033000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Espléndida</title>
+  </programme>
+  <programme start="20220425033000 -0500" stop="20220425040000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Coronas y palacios</title>
+  </programme>
+  <programme start="20220425040000 -0500" stop="20220425060000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Lo Mejor de la Hora Hola</title>
+  </programme>
+  <programme start="20220425123000 -0500" stop="20220425133000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Íntimo y personal</title>
+  </programme>
+  <programme start="20220425133000 -0500" stop="20220425140000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Mi boda perfecta</title>
+  </programme>
+  <programme start="20220425143000 -0500" stop="20220425150000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Videofashion Models</title>
+  </programme>
+  <programme start="20220425150000 -0500" stop="20220425160000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Especiales Realeza</title>
+  </programme>
+  <programme start="20220425160000 -0500" stop="20220425163000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">¡HOLA! TV Fashion</title>
+  </programme>
+  <programme start="20220425163000 -0500" stop="20220425170000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Happy &amp; Zen</title>
+  </programme>
+  <programme start="20220425170000 -0500" stop="20220425173000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Coronas y palacios</title>
+  </programme>
+  <programme start="20220425173000 -0500" stop="20220425180000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Tendencias SXXI</title>
+  </programme>
+  <programme start="20220425180000 -0500" stop="20220425183000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Stars in Style</title>
+  </programme>
+  <programme start="20220425183000 -0500" stop="20220425190000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Video Fashion News</title>
+  </programme>
+  <programme start="20220425190000 -0500" stop="20220425200000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">Las reinas del shopping</title>
+  </programme>
+  <programme start="20220425200000 -0500" stop="20220425213000 -0500" channel="Canal ¡HOLA! TV">
+    <title lang="es">La hora Hola</title>
+  </programme>
+  <programme start="20220420005000 -0500" stop="20220420010000 -0500" channel="Canal ATV ">
+    <title lang="es">El Deportivo</title>
+  </programme>
+  <programme start="20220420010000 -0500" stop="20220420020000 -0500" channel="Canal ATV ">
+    <title lang="es">Criminologia naval LA</title>
+  </programme>
+  <programme start="20220420020000 -0500" stop="20220420030000 -0500" channel="Canal ATV ">
+    <title lang="es">Mentes Criminales</title>
+  </programme>
+  <programme start="20220420030000 -0500" stop="20220420040000 -0500" channel="Canal ATV ">
+    <title lang="es">Almas Suspendidas</title>
+  </programme>
+  <programme start="20220420040000 -0500" stop="20220420050000 -0500" channel="Canal ATV ">
+    <title lang="es">Perdóname</title>
+  </programme>
+  <programme start="20220420050000 -0500" stop="20220420060000 -0500" channel="Canal ATV ">
+    <title lang="es">Elif</title>
+  </programme>
+  <programme start="20220420060000 -0500" stop="20220420070000 -0500" channel="Canal ATV ">
+    <title lang="es">Canto Andino</title>
+  </programme>
+  <programme start="20220420070000 -0500" stop="20220420110000 -0500" channel="Canal ATV ">
+    <title lang="es">ATV Noticias - Edicion Matinal</title>
+  </programme>
+  <programme start="20220420110000 -0500" stop="20220420120000 -0500" channel="Canal ATV ">
+    <title lang="es">La tercera en discordia</title>
+  </programme>
+  <programme start="20220420120000 -0500" stop="20220420130000 -0500" channel="Canal ATV ">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20220420130000 -0500" stop="20220420140000 -0500" channel="Canal ATV ">
+    <title lang="es">Mujer... Casos de la vida real</title>
+  </programme>
+  <programme start="20220420140000 -0500" stop="20220420150000 -0500" channel="Canal ATV ">
+    <title lang="es">Entre el Amor y el Odio</title>
+  </programme>
+  <programme start="20220420150000 -0500" stop="20220420163000 -0500" channel="Canal ATV ">
+    <title lang="es">Perdóname</title>
+  </programme>
+  <programme start="20220420163000 -0500" stop="20220420180000 -0500" channel="Canal ATV ">
+    <title lang="es">Elif</title>
+  </programme>
+  <programme start="20220420180000 -0500" stop="20220420190000 -0500" channel="Canal ATV ">
+    <title lang="es">Amor Prohibido</title>
+  </programme>
+  <programme start="20220420190000 -0500" stop="20220420203000 -0500" channel="Canal ATV ">
+    <title lang="es">Fugitiva</title>
+  </programme>
+  <programme start="20220420203000 -0500" stop="20220420214500 -0500" channel="Canal ATV ">
+    <title lang="es">ATV Noticias al estilo Juliana</title>
+  </programme>
+  <programme start="20220420214500 -0500" stop="20220420224500 -0500" channel="Canal ATV ">
+    <title lang="es">Andrea</title>
+  </programme>
+  <programme start="20220420224500 -0500" stop="20220421000000 -0500" channel="Canal ATV ">
+    <title lang="es">Magaly TV, la firme</title>
+  </programme>
+  <programme start="20220421110000 -0500" stop="20220421120000 -0500" channel="Canal ATV ">
+    <title lang="es">La tercera en discordia</title>
+  </programme>
+  <programme start="20220422040000 -0500" stop="20220422050000 -0500" channel="Canal ATV ">
+    <title lang="es">María la del barrio</title>
+  </programme>
+  <programme start="20220422050000 -0500" stop="20220422060000 -0500" channel="Canal ATV ">
+    <title lang="es">María la del barrio</title>
+  </programme>
+  <programme start="20220422060000 -0500" stop="20220422080000 -0500" channel="Canal ATV ">
+    <title lang="es">Canto Andino</title>
+  </programme>
+  <programme start="20220422080000 -0500" stop="20220422090000 -0500" channel="Canal ATV ">
+    <title lang="es">Record Guinnes Officialy Amazing</title>
+  </programme>
+  <programme start="20220422090000 -0500" stop="20220422100000 -0500" channel="Canal ATV ">
+    <title lang="es">Desafío Extremo</title>
+  </programme>
+  <programme start="20220422100000 -0500" stop="20220422103000 -0500" channel="Canal ATV ">
+    <title lang="es">Magazine Champions</title>
+  </programme>
+  <programme start="20220422103000 -0500" stop="20220422110000 -0500" channel="Canal ATV ">
+    <title lang="es">Escape Perfecto</title>
+  </programme>
+  <programme start="20220422110000 -0500" stop="20220422120000 -0500" channel="Canal ATV ">
+    <title lang="es">Agente Carter</title>
+  </programme>
+  <programme start="20220422120000 -0500" stop="20220422130000 -0500" channel="Canal ATV ">
+    <title lang="es">Leyendas del mañana</title>
+  </programme>
+  <programme start="20220422130000 -0500" stop="20220422140000 -0500" channel="Canal ATV ">
+    <title lang="es">The Flash</title>
+  </programme>
+  <programme start="20220422140000 -0500" stop="20220422150000 -0500" channel="Canal ATV ">
+    <title lang="es">Mujer... Casos de la vida real</title>
+  </programme>
+  <programme start="20220422150000 -0500" stop="20220422160000 -0500" channel="Canal ATV ">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20220422160000 -0500" stop="20220422170000 -0500" channel="Canal ATV ">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20220422170000 -0500" stop="20220422190000 -0500" channel="Canal ATV ">
+    <title lang="es">Los Picapiedra</title>
+  </programme>
+  <programme start="20220422190000 -0500" stop="20220422200000 -0500" channel="Canal ATV ">
+    <title lang="es">María la del barrio</title>
+  </programme>
+  <programme start="20220420010000 -0500" stop="20220420065500 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Valores ciudadanos</title>
+  </programme>
+  <programme start="20220420065500 -0500" stop="20220420070000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Himno nacional / Himno bogotá</title>
+  </programme>
+  <programme start="20220420070000 -0500" stop="20220420080000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Mesa capital</title>
+  </programme>
+  <programme start="20220420080000 -0500" stop="20220420083000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Reinventar-se</title>
+  </programme>
+  <programme start="20220420083000 -0500" stop="20220420090000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">A través de la ventana</title>
+  </programme>
+  <programme start="20220420090000 -0500" stop="20220420093000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Rostros de mi barrio</title>
+  </programme>
+  <programme start="20220420093000 -0500" stop="20220420100000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">De local</title>
+  </programme>
+  <programme start="20220420100000 -0500" stop="20220420103000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">10 años para cambiar el mundo</title>
+  </programme>
+  <programme start="20220420103000 -0500" stop="20220420110000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Parcero migrante</title>
+  </programme>
+  <programme start="20220420110000 -0500" stop="20220420113000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Volveremos</title>
+  </programme>
+  <programme start="20220420113000 -0500" stop="20220420120000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Mesa capital</title>
+  </programme>
+  <programme start="20220420120000 -0500" stop="20220420130000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Mesa capital</title>
+  </programme>
+  <programme start="20220420130000 -0500" stop="20220420150000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Noticias Capital</title>
+  </programme>
+  <programme start="20220420150000 -0500" stop="20220420151500 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Puffin Rock</title>
+  </programme>
+  <programme start="20220420151500 -0500" stop="20220420152700 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Learning Time With Timmy</title>
+  </programme>
+  <programme start="20220420152700 -0500" stop="20220420153000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">En la silla</title>
+  </programme>
+  <programme start="20220420153000 -0500" stop="20220420153200 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">¡Eureka! Aprende en casa</title>
+  </programme>
+  <programme start="20220420153200 -0500" stop="20220420155600 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Guillermina y calendario</title>
+  </programme>
+  <programme start="20220420155600 -0500" stop="20220420160000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Que tal si</title>
+  </programme>
+  <programme start="20220420160000 -0500" stop="20220420161200 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">El Mundo Animal De Max Rodriguez</title>
+  </programme>
+  <programme start="20220420161200 -0500" stop="20220420162400 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Ventanas al mundo</title>
+  </programme>
+  <programme start="20220420162400 -0500" stop="20220420162600 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">En sus marcas</title>
+  </programme>
+  <programme start="20220420162600 -0500" stop="20220420163000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Mi señal, mi huella</title>
+  </programme>
+  <programme start="20220420163000 -0500" stop="20220420163200 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">¡Eureka! Aprende en casa</title>
+  </programme>
+  <programme start="20220420163200 -0500" stop="20220420165400 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Dino Dana</title>
+  </programme>
+  <programme start="20220420165400 -0500" stop="20220420165600 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">En la silla</title>
+  </programme>
+  <programme start="20220420165600 -0500" stop="20220420170000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Que tal si</title>
+  </programme>
+  <programme start="20220420170000 -0500" stop="20220420170200 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">¡Eureka! Aprende en casa</title>
+  </programme>
+  <programme start="20220420170200 -0500" stop="20220420172400 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Ask Lara</title>
+  </programme>
+  <programme start="20220420172400 -0500" stop="20220420172600 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Que tal si</title>
+  </programme>
+  <programme start="20220420172600 -0500" stop="20220420173000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">En la silla</title>
+  </programme>
+  <programme start="20220420173000 -0500" stop="20220420173600 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Conectados</title>
+  </programme>
+  <programme start="20220420173600 -0500" stop="20220420174000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Skate Tours</title>
+  </programme>
+  <programme start="20220420174000 -0500" stop="20220420174800 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Conectados</title>
+  </programme>
+  <programme start="20220420174800 -0500" stop="20220420175200 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Historias en bici</title>
+  </programme>
+  <programme start="20220420175200 -0500" stop="20220420175600 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">En la silla</title>
+  </programme>
+  <programme start="20220420175600 -0500" stop="20220420175700 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Que tal si</title>
+  </programme>
+  <programme start="20220420175700 -0500" stop="20220420180000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Himno - ¡Eureka! aprende en casa</title>
+  </programme>
+  <programme start="20220420180000 -0500" stop="20220420190000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Mesa capital</title>
+  </programme>
+  <programme start="20220420190000 -0500" stop="20220420193000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Relatos porvenir</title>
+  </programme>
+  <programme start="20220420193000 -0500" stop="20220420194500 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Animalxs</title>
+  </programme>
+  <programme start="20220420194500 -0500" stop="20220420200000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Caja de herramientas</title>
+  </programme>
+  <programme start="20220420200000 -0500" stop="20220420210000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Avispando la capital más votos, más democracia</title>
+  </programme>
+  <programme start="20220420210000 -0500" stop="20220420220000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Mesa capital</title>
+  </programme>
+  <programme start="20220420220000 -0500" stop="20220420223000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Relatos porvenir</title>
+  </programme>
+  <programme start="20220420223000 -0500" stop="20220420224500 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Animalxs</title>
+  </programme>
+  <programme start="20220420224500 -0500" stop="20220420230000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Caja de herramientas</title>
+  </programme>
+  <programme start="20220420230000 -0500" stop="20220421000000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Avispando la capital más votos, más democracia</title>
+  </programme>
+  <programme start="20220421113000 -0500" stop="20220421120000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Mesa capital</title>
+  </programme>
+  <programme start="20220421161200 -0500" stop="20220421162400 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Niños de mi tierra</title>
+  </programme>
+  <programme start="20220421162400 -0500" stop="20220421162600 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">En la silla</title>
+  </programme>
+  <programme start="20220421162600 -0500" stop="20220421163000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Que tal si</title>
+  </programme>
+  <programme start="20220421200000 -0500" stop="20220421210000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Elemento D</title>
+  </programme>
+  <programme start="20220421230000 -0500" stop="20220422000000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Elemento D</title>
+  </programme>
+  <programme start="20220422100000 -0500" stop="20220422110000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Teatro mayor</title>
+  </programme>
+  <programme start="20220422110000 -0500" stop="20220422113000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Volveremos</title>
+  </programme>
+  <programme start="20220422113000 -0500" stop="20220422120000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Mesa capital</title>
+  </programme>
+  <programme start="20220422120000 -0500" stop="20220422130000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Mesa capital</title>
+  </programme>
+  <programme start="20220422130000 -0500" stop="20220422150000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Noticias Capital</title>
+  </programme>
+  <programme start="20220422150000 -0500" stop="20220422151500 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Puffin Rock</title>
+  </programme>
+  <programme start="20220422151500 -0500" stop="20220422152700 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Learning Time With Timmy</title>
+  </programme>
+  <programme start="20220422152700 -0500" stop="20220422153000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">En la silla</title>
+  </programme>
+  <programme start="20220422153000 -0500" stop="20220422153200 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">¡Eureka! Aprende en casa</title>
+  </programme>
+  <programme start="20220422153200 -0500" stop="20220422155600 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Guillermina y calendario</title>
+  </programme>
+  <programme start="20220422155600 -0500" stop="20220422160000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Que tal si</title>
+  </programme>
+  <programme start="20220422160000 -0500" stop="20220422161200 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">El Mundo Animal De Max Rodriguez</title>
+  </programme>
+  <programme start="20220422161200 -0500" stop="20220422162400 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">El Mundo Animal De Max Rodriguez</title>
+  </programme>
+  <programme start="20220422162400 -0500" stop="20220422162600 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">En la silla</title>
+  </programme>
+  <programme start="20220422162600 -0500" stop="20220422163000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Que tal si</title>
+  </programme>
+  <programme start="20220422163000 -0500" stop="20220422163200 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">¡Eureka! Aprende en casa</title>
+  </programme>
+  <programme start="20220422163200 -0500" stop="20220422165400 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Dino Dana</title>
+  </programme>
+  <programme start="20220422165400 -0500" stop="20220422165600 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">En la silla</title>
+  </programme>
+  <programme start="20220422165600 -0500" stop="20220422170000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Que tal si</title>
+  </programme>
+  <programme start="20220422170000 -0500" stop="20220422170200 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">¡Eureka! Aprende en casa</title>
+  </programme>
+  <programme start="20220422170200 -0500" stop="20220422172400 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Ask Lara</title>
+  </programme>
+  <programme start="20220422172400 -0500" stop="20220422172600 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Que tal si</title>
+  </programme>
+  <programme start="20220422172600 -0500" stop="20220422173000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">En la silla</title>
+  </programme>
+  <programme start="20220422173000 -0500" stop="20220422180000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Teatro mayor</title>
+  </programme>
+  <programme start="20220422180000 -0500" stop="20220422190000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Mesa capital</title>
+  </programme>
+  <programme start="20220422190000 -0500" stop="20220422193000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Relatos porvenir</title>
+  </programme>
+  <programme start="20220422193000 -0500" stop="20220422194500 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Animalxs</title>
+  </programme>
+  <programme start="20220422194500 -0500" stop="20220422200000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Caja de herramientas</title>
+  </programme>
+  <programme start="20220422200000 -0500" stop="20220422210000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Elemento D</title>
+  </programme>
+  <programme start="20220422210000 -0500" stop="20220422220000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Mesa capital</title>
+  </programme>
+  <programme start="20220422220000 -0500" stop="20220422223000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Relatos porvenir</title>
+  </programme>
+  <programme start="20220422223000 -0500" stop="20220422224500 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Animalxs</title>
+  </programme>
+  <programme start="20220422224500 -0500" stop="20220422230000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Caja de herramientas</title>
+  </programme>
+  <programme start="20220422230000 -0500" stop="20220423000000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Elemento D</title>
+  </programme>
+  <programme start="20220423070000 -0500" stop="20220423073000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220423073000 -0500" stop="20220423080000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Sobrevivientes</title>
+  </programme>
+  <programme start="20220423080000 -0500" stop="20220423083000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Audiencias Capital</title>
+  </programme>
+  <programme start="20220423083000 -0500" stop="20220423090000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220423090000 -0500" stop="20220423093000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Crónicas Capital</title>
+  </programme>
+  <programme start="20220423093000 -0500" stop="20220423100000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Espacios Comercial Externos</title>
+  </programme>
+  <programme start="20220423100000 -0500" stop="20220423103000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Espacios Comercial Externos</title>
+  </programme>
+  <programme start="20220423103000 -0500" stop="20220423110000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Actualidad Cut</title>
+  </programme>
+  <programme start="20220423110000 -0500" stop="20220423111300 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Pipo, mi amigo imaginario</title>
+  </programme>
+  <programme start="20220423111300 -0500" stop="20220423111900 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220423111900 -0500" stop="20220423112600 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">La posta</title>
+  </programme>
+  <programme start="20220423112600 -0500" stop="20220423112800 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">En la silla</title>
+  </programme>
+  <programme start="20220423112800 -0500" stop="20220423113100 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Que tal si</title>
+  </programme>
+  <programme start="20220423113100 -0500" stop="20220423114300 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">El mundo de Luna</title>
+  </programme>
+  <programme start="20220423114300 -0500" stop="20220423114500 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Disparacuentos</title>
+  </programme>
+  <programme start="20220423114500 -0500" stop="20220423115200 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">La posta</title>
+  </programme>
+  <programme start="20220423115200 -0500" stop="20220423115600 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">En la silla</title>
+  </programme>
+  <programme start="20220423115600 -0500" stop="20220423115800 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">En la silla</title>
+  </programme>
+  <programme start="20220423115800 -0500" stop="20220423120000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220423120000 -0500" stop="20220423121200 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Ideas rompecráneos</title>
+  </programme>
+  <programme start="20220423121200 -0500" stop="20220423122600 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Asquerosamente rico</title>
+  </programme>
+  <programme start="20220423122600 -0500" stop="20220423122800 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">En la silla</title>
+  </programme>
+  <programme start="20220423122800 -0500" stop="20220423122900 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Que tal si</title>
+  </programme>
+  <programme start="20220423122900 -0500" stop="20220423123000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220423123000 -0500" stop="20220423124300 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Prueba total</title>
+  </programme>
+  <programme start="20220423124300 -0500" stop="20220423125500 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Nano aventuras</title>
+  </programme>
+  <programme start="20220423125500 -0500" stop="20220423125600 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">En la silla</title>
+  </programme>
+  <programme start="20220423125600 -0500" stop="20220423125700 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">En la silla</title>
+  </programme>
+  <programme start="20220423125700 -0500" stop="20220423125800 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Que tal si</title>
+  </programme>
+  <programme start="20220423125800 -0500" stop="20220423130000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Que tal si</title>
+  </programme>
+  <programme start="20220423130000 -0500" stop="20220423130900 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Conectados - Transparencias</title>
+  </programme>
+  <programme start="20220423130900 -0500" stop="20220423132100 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220423132100 -0500" stop="20220423132300 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Que tal si</title>
+  </programme>
+  <programme start="20220423132300 -0500" stop="20220423132400 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220423132400 -0500" stop="20220423132600 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">En la silla</title>
+  </programme>
+  <programme start="20220423132600 -0500" stop="20220423133000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Que tal si</title>
+  </programme>
+  <programme start="20220423133000 -0500" stop="20220423134500 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Up Down</title>
+  </programme>
+  <programme start="20220423134500 -0500" stop="20220423135300 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Fórmulas de cambio</title>
+  </programme>
+  <programme start="20220423135300 -0500" stop="20220423135600 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">En la silla</title>
+  </programme>
+  <programme start="20220423135600 -0500" stop="20220423140000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">En la silla</title>
+  </programme>
+  <programme start="20220423140000 -0500" stop="20220423150000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220423150000 -0500" stop="20220423153000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">La Junta</title>
+  </programme>
+  <programme start="20220423153000 -0500" stop="20220423160000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Puesta en Rosa</title>
+  </programme>
+  <programme start="20220423160000 -0500" stop="20220423163000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Mesa capital</title>
+  </programme>
+  <programme start="20220423163000 -0500" stop="20220423170000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Profesiones Insolitas</title>
+  </programme>
+  <programme start="20220423170000 -0500" stop="20220423173000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220423173000 -0500" stop="20220423180000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Hoy por ti</title>
+  </programme>
+  <programme start="20220423180000 -0500" stop="20220423183000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Rostros de mi barrio</title>
+  </programme>
+  <programme start="20220423183000 -0500" stop="20220423185500 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Mesa capital</title>
+  </programme>
+  <programme start="20220423185500 -0500" stop="20220423190000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">Himno nacional / Himno bogotá</title>
+  </programme>
+  <programme start="20220423190000 -0500" stop="20220423203000 -0500" channel="Canal Capital (Colombia)">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220420003000 -0500" stop="20220420010000 -0500" channel="Canal Caracol HD (Colombia)">
+    <title lang="es">Así va la eliminatoria</title>
+  </programme>
+  <programme start="20220420010000 -0500" stop="20220420014500 -0500" channel="Canal Caracol HD (Colombia)">
+    <title lang="es">Será Anunciado</title>
+  </programme>
+  <programme start="20220420014500 -0500" stop="20220420021500 -0500" channel="Canal Caracol HD (Colombia)">
+    <title lang="es">El Diario de Diana</title>
+  </programme>
+  <programme start="20220420021500 -0500" stop="20220420051500 -0500" channel="Canal Caracol HD (Colombia)">
+    <title lang="es">También Caerás</title>
+  </programme>
+  <programme start="20220420051500 -0500" stop="20220420060000 -0500" channel="Canal Caracol HD (Colombia)">
+    <title lang="es">Nuevo rico, nuevo pobre</title>
+  </programme>
+  <programme start="20220420060000 -0500" stop="20220420061500 -0500" channel="Canal Caracol HD (Colombia)">
+    <title lang="es">La Finca de Hoy</title>
+  </programme>
+  <programme start="20220420061500 -0500" stop="20220420063000 -0500" channel="Canal Caracol HD (Colombia)">
+    <title lang="es">Día a día I</title>
+  </programme>
+  <programme start="20220420063000 -0500" stop="20220420100000 -0500" channel="Canal Caracol HD (Colombia)">
+    <title lang="es">Noticias 530 Caracol</title>
+  </programme>
+  <programme start="20220420100000 -0500" stop="20220420123000 -0500" channel="Canal Caracol HD (Colombia)">
+    <title lang="es">Día a día</title>
+  </programme>
+  <programme start="20220420123000 -0500" stop="20220420133000 -0500" channel="Canal Caracol HD (Colombia)">
+    <title lang="es">El triunfo del amor</title>
+  </programme>
+  <programme start="20220420133000 -0500" stop="20220420163000 -0500" channel="Canal Caracol HD (Colombia)">
+    <title lang="es">Noticias 1230 PM Caracol</title>
+  </programme>
+  <programme start="20220420163000 -0500" stop="20220420180000 -0500" channel="Canal Caracol HD (Colombia)">
+    <title lang="es">Kizim</title>
+  </programme>
+  <programme start="20220420180000 -0500" stop="20220420190000 -0500" channel="Canal Caracol HD (Colombia)">
+    <title lang="es">La desalmada</title>
+  </programme>
+  <programme start="20220420190000 -0500" stop="20220420200000 -0500" channel="Canal Caracol HD (Colombia)">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20220420200000 -0500" stop="20220420210000 -0500" channel="Canal Caracol HD (Colombia)">
+    <title lang="es">Noticias 1900 Caracol</title>
+  </programme>
+  <programme start="20220420210000 -0500" stop="20220420223000 -0500" channel="Canal Caracol HD (Colombia)">
+    <title lang="es">Desafío</title>
+  </programme>
+  <programme start="20220420223000 -0500" stop="20220420233000 -0500" channel="Canal Caracol HD (Colombia)">
+    <title lang="es">Arelys Henao</title>
+  </programme>
+  <programme start="20220420233000 -0500" stop="20220421000000 -0500" channel="Canal Caracol HD (Colombia)">
+    <title lang="es">Nuevo rico, nuevo pobre</title>
+  </programme>
+  <programme start="20220421003000 -0500" stop="20220421010000 -0500" channel="Canal Caracol HD (Colombia)">
+    <title lang="es">Médicos Línea de vida</title>
+  </programme>
+  <programme start="20220421100000 -0500" stop="20220421123000 -0500" channel="Canal Caracol HD (Colombia)">
+    <title lang="es">Día a día</title>
+  </programme>
+  <programme start="20220421190000 -0500" stop="20220421194500 -0500" channel="Canal Caracol HD (Colombia)">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20220421194500 -0500" stop="20220421200000 -0500" channel="Canal Caracol HD (Colombia)">
+    <title lang="es">Noticias 1858 Caracol</title>
+  </programme>
+  <programme start="20220421200000 -0500" stop="20220421203000 -0500" channel="Canal Caracol HD (Colombia)">
+    <title lang="es">Noticiero del senado</title>
+  </programme>
+  <programme start="20220421203000 -0500" stop="20220421210000 -0500" channel="Canal Caracol HD (Colombia)">
+    <title lang="es">Noticias 1900 Caracol</title>
+  </programme>
+  <programme start="20220422100000 -0500" stop="20220422120000 -0500" channel="Canal Caracol HD (Colombia)">
+    <title lang="es">Día a día</title>
+  </programme>
+  <programme start="20220422120000 -0500" stop="20220422133000 -0500" channel="Canal Caracol HD (Colombia)">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220422223000 -0500" stop="20220422233000 -0500" channel="Canal Caracol HD (Colombia)">
+    <title lang="es">Especial Arelys Henao</title>
+  </programme>
+  <programme start="20220423051500 -0500" stop="20220423060000 -0500" channel="Canal Caracol HD (Colombia)">
+    <title lang="es">También Caerás</title>
+  </programme>
+  <programme start="20220423060000 -0500" stop="20220423070000 -0500" channel="Canal Caracol HD (Colombia)">
+    <title lang="es">La Finca de Hoy</title>
+  </programme>
+  <programme start="20220423070000 -0500" stop="20220423073000 -0500" channel="Canal Caracol HD (Colombia)">
+    <title lang="es">Cuentos de los Hermanos Grimm</title>
+  </programme>
+  <programme start="20220423073000 -0500" stop="20220423080000 -0500" channel="Canal Caracol HD (Colombia)">
+    <title lang="es">Animated Stories Bible</title>
+  </programme>
+  <programme start="20220423080000 -0500" stop="20220423083000 -0500" channel="Canal Caracol HD (Colombia)">
+    <title lang="es">Doble Vía</title>
+  </programme>
+  <programme start="20220423083000 -0500" stop="20220423113000 -0500" channel="Canal Caracol HD (Colombia)">
+    <title lang="es">Animated Stories Bible</title>
+  </programme>
+  <programme start="20220423113000 -0500" stop="20220423114500 -0500" channel="Canal Caracol HD (Colombia)">
+    <title lang="es">Pura diversión</title>
+  </programme>
+  <programme start="20220423114500 -0500" stop="20220423133000 -0500" channel="Canal Caracol HD (Colombia)">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20220423133000 -0500" stop="20220423160000 -0500" channel="Canal Caracol HD (Colombia)">
+    <title lang="es">Noticias 1230 PM Caracol</title>
+  </programme>
+  <programme start="20220423160000 -0500" stop="20220423190000 -0500" channel="Canal Caracol HD (Colombia)">
+    <title lang="es">La red</title>
+  </programme>
+  <programme start="20220423190000 -0500" stop="20220423200000 -0500" channel="Canal Caracol HD (Colombia)">
+    <title lang="es">Se dice de mi</title>
+  </programme>
+  <programme start="20220420010000 -0500" stop="20220420013000 -0500" channel="Canal City TV">
+    <title lang="es">Programación Pagada</title>
+  </programme>
+  <programme start="20220420013000 -0500" stop="20220420040000 -0500" channel="Canal City TV">
+    <title lang="es">Arriba Bogotá</title>
+  </programme>
+  <programme start="20220420040000 -0500" stop="20220420050000 -0500" channel="Canal City TV">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20220420050000 -0500" stop="20220420053000 -0500" channel="Canal City TV">
+    <title lang="es">Programación Pagada</title>
+  </programme>
+  <programme start="20220420053000 -0500" stop="20220420063000 -0500" channel="Canal City TV">
+    <title lang="es">CityNoticias de las 8 pm</title>
+  </programme>
+  <programme start="20220420063000 -0500" stop="20220420103000 -0500" channel="Canal City TV">
+    <title lang="es">Arriba Bogotá</title>
+  </programme>
+  <programme start="20220420103000 -0500" stop="20220420113000 -0500" channel="Canal City TV">
+    <title lang="es">Primer Impacto</title>
+  </programme>
+  <programme start="20220420113000 -0500" stop="20220420123000 -0500" channel="Canal City TV">
+    <title lang="es">¿Quién tiene la razón</title>
+  </programme>
+  <programme start="20220420123000 -0500" stop="20220420140000 -0500" channel="Canal City TV">
+    <title lang="es">Citynoticias</title>
+  </programme>
+  <programme start="20220420140000 -0500" stop="20220420153000 -0500" channel="Canal City TV">
+    <title lang="es">Citynoticias</title>
+  </programme>
+  <programme start="20220420153000 -0500" stop="20220420163000 -0500" channel="Canal City TV">
+    <title lang="es">Primer Impacto</title>
+  </programme>
+  <programme start="20220420163000 -0500" stop="20220420180000 -0500" channel="Canal City TV">
+    <title lang="es">Zorro</title>
+  </programme>
+  <programme start="20220420180000 -0500" stop="20220420190000 -0500" channel="Canal City TV">
+    <title lang="es">¿Quién tiene la razón</title>
+  </programme>
+  <programme start="20220420190000 -0500" stop="20220420210000 -0500" channel="Canal City TV">
+    <title lang="es">Teresa</title>
+  </programme>
+  <programme start="20220420210000 -0500" stop="20220420223000 -0500" channel="Canal City TV">
+    <title lang="es">CityNoticias de las 8 pm</title>
+  </programme>
+  <programme start="20220420223000 -0500" stop="20220420233000 -0500" channel="Canal City TV">
+    <title lang="es">C.S.I</title>
+  </programme>
+  <programme start="20220420233000 -0500" stop="20220421010000 -0500" channel="Canal City TV">
+    <title lang="es">CityNoticias de las 8 pm</title>
+  </programme>
+  <programme start="20220421113000 -0500" stop="20220421123000 -0500" channel="Canal City TV">
+    <title lang="es">¿Quién tiene la razón</title>
+  </programme>
+  <programme start="20220421223000 -0500" stop="20220421230000 -0500" channel="Canal City TV">
+    <title lang="es">Hashtag</title>
+  </programme>
+  <programme start="20220421230000 -0500" stop="20220422000000 -0500" channel="Canal City TV">
+    <title lang="es">C.S.I</title>
+  </programme>
+  <programme start="20220422000000 -0500" stop="20220422010000 -0500" channel="Canal City TV">
+    <title lang="es">CityNoticias de las 8 pm</title>
+  </programme>
+  <programme start="20220422010000 -0500" stop="20220422013000 -0500" channel="Canal City TV">
+    <title lang="es">Especial - El rollo de Fili</title>
+  </programme>
+  <programme start="20220422013000 -0500" stop="20220422043000 -0500" channel="Canal City TV">
+    <title lang="es">Arriba Bogotá</title>
+  </programme>
+  <programme start="20220422043000 -0500" stop="20220422050000 -0500" channel="Canal City TV">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20220422053000 -0500" stop="20220422070000 -0500" channel="Canal City TV">
+    <title lang="es">CityNoticias de las 8 pm</title>
+  </programme>
+  <programme start="20220422070000 -0500" stop="20220422083000 -0500" channel="Canal City TV">
+    <title lang="es">Arriba, Bogotá - Reporte semanal</title>
+  </programme>
+  <programme start="20220422083000 -0500" stop="20220422130000 -0500" channel="Canal City TV">
+    <title lang="es">Bravíssimo</title>
+  </programme>
+  <programme start="20220422130000 -0500" stop="20220422140000 -0500" channel="Canal City TV">
+    <title lang="es">Citynoticias</title>
+  </programme>
+  <programme start="20220422140000 -0500" stop="20220422150000 -0500" channel="Canal City TV">
+    <title lang="es">Citynoticias</title>
+  </programme>
+  <programme start="20220422150000 -0500" stop="20220422160000 -0500" channel="Canal City TV">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20220422160000 -0500" stop="20220422170000 -0500" channel="Canal City TV">
+    <title lang="es">Baby looney</title>
+  </programme>
+  <programme start="20220422170000 -0500" stop="20220422180000 -0500" channel="Canal City TV">
+    <title lang="es">Looney Tunes Show</title>
+  </programme>
+  <programme start="20220422180000 -0500" stop="20220422190000 -0500" channel="Canal City TV">
+    <title lang="es">Merlí</title>
+  </programme>
+  <programme start="20220422190000 -0500" stop="20220422200000 -0500" channel="Canal City TV">
+    <title lang="es">De fiesta con Danny Marín</title>
+  </programme>
+</tv>
