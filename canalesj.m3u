@@ -69,6 +69,9 @@ https://live.teledom.info:4000/live/senalestvlive.m3u8
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telefuturo-canal-23-en-vivo-online.jpg" ,TELEFUTURO 23
 https://ss9.domint.net:3054/tf_str/telefuturo/chunklist_w2121423103.m3u8
 
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telefuturo-canal-23-en-vivo-online.jpg" ,TELEFUTURO 24
+http://190.122.96.186:8888/http/001
+
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/cana-vision-canal-88-bavaro.png"  ,CANA VISION
 https://cdn2.streamgato.us/canatvdigital/canatvdigital/chunklist_w32549708.m3u8
 
