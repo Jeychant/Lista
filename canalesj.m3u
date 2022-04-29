@@ -548,3 +548,7 @@ https://live.mitele.es/hls/live/2005333/bemad/master.m3u8?hdnts=st=1650480000~ex
 
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/divinity_circular_500_-1_d687.png" ,Canal Divinity
 https://live.mitele.es/hls/live/2005335/divinity/master.m3u8?hdnts=st=1650481190~exp=1650481280~acl=/*~hmac=692767db1fd8812dea62762b27c6bb716cf72bfc42a04a55c14723ea343a5812
+
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_ve-plus-tv_m.png" ,Ve plus Venezuela
+http://190.122.96.187:8888/http/006
