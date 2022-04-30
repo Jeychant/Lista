@@ -563,3 +563,6 @@ http://190.122.96.187:8888/http/006
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/hn_tv-azteca-honduras_m.png" ,Azteca Honduras 
 http://190.122.96.187:8888/http/002
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Hispan_Tv_logo.svg/1200px-Hispan_Tv_logo.svg.png" ,Hispan tv Latinoamerica
+https://live.presstv.ir/live/smil:live.smil/chunklist_w1581967523_b344100_slen.m3u8
