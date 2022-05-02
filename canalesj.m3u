@@ -180,8 +180,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.myface.org/wp-content/uploads/2016/08/1000px-Bloomberg_logo.svg_.png" ,Bloomberg TV Latin America
 https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://html.canalrcn.com/CanalRCN/react/home-v2/img/ntn24-logo.png" ,NTN24 Colombia
-https://www.dailymotion.com/cdn/live/video/x7w4okl.m3u8?sec=AupXJkZPPumYSsNYvqXSl5DgCydxaD0HLvrhy0u1xLlfvr2btgzI7yrF3MBaANF3DPzJBeWo6S3U_hrDKMclKA&dmTs=708918&dmV1st=39177B6AD8D2AD32C731C3F10F61670E
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" ,America 24 Latinoamerica
+https://edge6-hr.cvattv.com.ar/live/c7eds/America24/SA_SAGEMCOM/America24.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1331719340228538372/bL0dogdb_400x400.jpg" ,IP
 https://octubre-live.cdn.vustreams.com/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
@@ -200,6 +200,9 @@ https://edge4-hr.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvnov.com/images/span/24h.jpg" ,Canal 24 Horas (TVE)
 https://rtvelivestreamv3.akamaized.net/rtvesec/24h_bkp_2750.m3u8
+
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/vtv.png" ,VTV Uruguay
+https://edge6-hr.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_SAGEMCOM/VTV_Plus_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg9kusYu-mEJpzIZXMGqfvGuf7cZNQBgoAt8q8qSo0XqnMRFo2KDlCWLuD3LNgXS2n4oAxQWhL3fPiL6iw2EHw-BflGl3JWSHwPGiq5NI_9QJC_t51AHaaPrm9lFOfuxKjWMJP1U-X4uC26eV77oQKty1Y0OOxX61GylFOAgN4DxeaLZe22z9mXEgZm" ,TNT Sports Argentina
 https://edge4-hr.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
@@ -462,8 +465,8 @@ https://mdstrm.com/live-stream-playlist/61e1e088d04d7744686afc42.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/787311506668924929/oP9Ajb2l_400x400.jpg" ,15TV
 https://hls.gvstream.live/telesistemas/15tv.stream/.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1344843564535132160/xT96d8Zv_400x400.jpg" ,El Trece
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1344843564535132160/xT96d8Zv_400x400.jpg" ,El Trece Argentina
+https://edge6-hr.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2L4ODxgf_sU/hqdefault.jpg" ,DIEZMDP
 https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
@@ -538,7 +541,7 @@ https://edge4-hr.cvattv.com.ar/live/c7eds/Hola_TV/SA_SAGEMCOM/Hola_TV.m3u8
 https://5ee7c2b857b7f.streamlock.net/latino/latino/.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvnov.com/images/span/La1_en_directo.jpg" ,Canal La 1 
-https://rtvelivestreamv3.akamaized.net/rtvesec/la1_bkp_1850.m3u8
+https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_dvr_720.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvnov.com/images/span/La2_en_directo.jpg" ,Canal La 2
 https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main_720.m3u8
