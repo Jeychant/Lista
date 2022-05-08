@@ -234,6 +234,9 @@ https://edge4-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-uNJcLj_R08s/Yf_LGMRS9gI/AAAAAAAAAXY/_V9xKblQkWMkuCniuSVVEu067qmHq9pzwCNcBGAsYHQ/h1280/ver-fox-sports-3-en-vivo.jpg" ,Fox Sports 3 Latin America
 https://edge4-hr.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" ,MLB Network
+https://h5.ustvgo.la/MLB/myStream/chunks.m3u8?nimblesessionid=102993887&wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjIgMTo1ODo1OCBQTSZoYXNoX3ZhbHVlPVFtOUNwZXQ2UnN6MFEycnROa01mU0E9PSZ2YWxpZG1pbnV0ZXM9MjQw
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/c3/a3/6ec3a3727705163c9ea59099c7062695.png" ,ALLSPORTS
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
