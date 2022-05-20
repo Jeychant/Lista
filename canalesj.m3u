@@ -171,6 +171,9 @@ http://190.122.96.188:8888/http/009
 #EXTINF:-1 tvg-logo="https://domintapi.com/images/station/domint872img09-29-20191569780654.jpeg"  ,Zol TV 
 https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-vdb78vhdNn0/YPbYGA6dKsI/AAAAAAAAP8E/vvcaU7V36eAHQcWBdwC3W0xnFabifez3gCLcBGAsYHQ/s16000/Ame%2B47%2Ben%2Bvivo.png"  ,Ame47
+https://ss9.domint.net:3040/ame_str/amecanal47/chunklist_w1220930584.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png" ,RT Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
@@ -238,7 +241,7 @@ https://edge2-hr.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.
 https://edge2-hr.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" ,MLB Network
-https://h5.ustvgo.la/MLB/myStream/chunks.m3u8?nimblesessionid=102993887&wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjIgMTo1ODo1OCBQTSZoYXNoX3ZhbHVlPVFtOUNwZXQ2UnN6MFEycnROa01mU0E9PSZ2YWxpZG1pbnV0ZXM9MjQw
+https://hg-t1.sootice.com/plyvivo/104u3u30za8odi3oxo4a/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/c3/a3/6ec3a3727705163c9ea59099c7062695.png" ,ALLSPORTS
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
@@ -290,6 +293,9 @@ https://edge2-hr.cvattv.com.ar/live/c3eds/Gourmet/SA_SAGEMCOM/Gourmet.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjDU2-NQ_ygyPrpD025WEqRBXaeaoomAOY0xdNvWJ_j-RP3tV5_5rlTvXrd1SrawikXi77-O-4t4cbgLhGzr7yOmb7wn7FTmxCJpzZLePTQR0aWRVAuKzSFnvecrf6f6gSEn_c3eBmvP_yhsuS1fagbMTtYTBi7Tr-dHO0-nQVk92nZRC-bxiCRxwwL" ,Food Network Latinoamérica
 https://edge2-hr.cvattv.com.ar/live/c6eds/Food_Network/SA_SAGEMCOM/Food_Network.m3u8
+
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/volver.png" ,Volver
+https://edge2-hr.cvattv.com.ar/live/c6eds/Volver/SA_SAGEMCOM/Volver.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" ,Cinecanal Este
 https://edge2-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
