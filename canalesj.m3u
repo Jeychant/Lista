@@ -168,6 +168,9 @@ http://51.81.106.147:8084/hls/mayimbe.m3u8
 #EXTINF:-1 tvg-logo="http://www.hilandofinotv.com/wp-content/uploads/2020/07/cropped-Imagen1..png"  ,Hilando Fino TV Republica Dominicana
 http://190.122.96.188:8888/http/009
 
+#EXTINF:-1 tvg-logo="https://domintapi.com/images/station/domint872img09-29-20191569780654.jpeg"  ,Zol TV 
+https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png" ,RT Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
