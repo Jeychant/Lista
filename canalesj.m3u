@@ -361,10 +361,10 @@ https://edge2-hr.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/ComedyCentral/SA_SAGEMCOM/ComedyCentral.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/800px-A%26E_Network_logo.svg.png" ,A&E Latinoamérica
-https://edge1-sl.cvattv.com.ar/live/c7eds/AEHD/SA_SAGEMCOM/AEHD.m3u8
+https://edge2-hr.cvattv.com.ar/live/c7eds/AEHD/SA_SAGEMCOM/AEHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" ,TCM Argentina
-https://cdn.prepro.cvattv.com.ar/live/vod/TCM/SA_Live_WebVTT_FTA/TCM.m3u8
+https://edge2-hr.cvattv.com.ar/live/c6eds/TCM/SA_SAGEMCOM/TCM.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TNT.svg/1200px-TNT.svg.png" ,TNT Argentina
 https://edge-live13-hr.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
