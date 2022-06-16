@@ -205,7 +205,7 @@ https://edge4-hr.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.
 https://edge2-hr.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvnov.com/images/span/24h.jpg" ,Canal 24 Horas (TVE)
-https://rtvelivestreamv3.akamaized.net/rtvesec/24h_bkp_2750.m3u8
+https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/vtv.png" ,VTV Uruguay
 https://edge6-hr.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_SAGEMCOM/VTV_Plus_HD.m3u8
@@ -556,7 +556,7 @@ https://5ee7c2b857b7f.streamlock.net/latino/latino/.m3u8
 https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_dvr_720.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvnov.com/images/span/La2_en_directo.jpg" ,Canal La 2
-https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main_720.m3u8
+https://rtvelivestreamv3.akamaized.net/la2/la2_main_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/2.bp.blogspot.com/-3STBOVu5GZQ/T1thRHmD8pI/AAAAAAAAA4k/5wtjxCGdu_A/s1600/Desi-Telecinco_logo.png" ,Canal Telecinco
 http://94.127.187.118:8080/hls/t5.m3u8
@@ -581,3 +581,6 @@ http://190.122.96.187:8888/http/002
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Hispan_Tv_logo.svg/1200px-Hispan_Tv_logo.svg.png" ,Hispan tv Latinoamerica
 https://live.presstv.ir/live/smil:live.smil/chunklist_w1581967523_b344100_slen.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bon_Dia_TV_2021.jpg/800px-Bon_Dia_TV_2021.jpg" ,Bondia TV 
+https://directes-tv-int.ccma.cat/live-content/bondia-hls/master.m3u8
