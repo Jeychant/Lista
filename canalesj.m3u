@@ -256,7 +256,7 @@ https://edge3.prepro.cvattv.com.ar/live/vod/DiscoveryHD/SA_Live_WebVTT_FTA/Disco
 https://edge3.prepro.cvattv.com.ar/live/vod/DiscoveryHomeHealthHD/SA_Live_WebVTT_FTA/DiscoveryHomeHealthHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" ,Discovery Science Latinoamérica
-https://edge3.prepro.cvattv.com.ar/live/vod/Discovery_Science/SA_Live_WebVTT_FTA/Discovery_Science.m3u8
+https://edge3.prepro.cvattv.com.ar/live/vod/DiscoveryScience/SA_Live_WebVTT_FTA/DiscoveryScience.m3u8
 
 #EXTINF:-1 tvg-logo="https://dcom-prod.imgix.net/files/2020-12/tlc_thumb.png" ,TLC Argentina
 https://edge3.prepro.cvattv.com.ar/live/vod/TLC/SA_Live_WebVTT_FTA/TLC.m3u8
@@ -265,10 +265,10 @@ https://edge3.prepro.cvattv.com.ar/live/vod/TLC/SA_Live_WebVTT_FTA/TLC.m3u8
 https://edge3.prepro.cvattv.com.ar/live/vod/DiscoveryTurbo/SA_Live_WebVTT_FTA/DiscoveryTurbo.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/2560px-2015_Discovery_theater_HD_logo.svg.png" ,Discovery Theater
-https://edge3.prepro.cvattv.com.ar/live/vod/Theater_HD/SA_Live_WebVTT_FTA/Theater_HD.m3u8
+https://edge3.prepro.cvattv.com.ar/live/vod/TheaterHD/SA_Live_WebVTT_FTA/TheaterHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" ,Discovery HD World Latinoamérica
-https://edge3.prepro.cvattv.com.ar/live/vod/Discovery_World_HD/SA_Live_WebVTT_FTA/Discovery_World_HD.m3u8
+https://edge3.prepro.cvattv.com.ar/live/vod/DiscoveryWorldHD/SA_Live_WebVTT_FTA/DiscoveryWorldHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1067px-2018_Animal_Planet_logo.svg.png" ,Animal Planet Latinoamérica
 https://edge3.prepro.cvattv.com.ar/live/vod/AnimalPlanet/SA_Live_WebVTT_FTA/AnimalPlanet.m3u8
@@ -280,7 +280,7 @@ https://edge3.prepro.cvattv.com.ar/live/vod/ID/SA_Live_WebVTT_FTA/ID.m3u8
 https://edge3.prepro.cvattv.com.ar/live/vod/HistoryHD/SA_Live_WebVTT_FTA/HistoryHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" ,History 2 Latinoamérica
-https://edge3.prepro.cvattv.com.ar/live/vod/History_2/SA_Live_WebVTT_FTA/History_2.m3u8
+https://edge3.prepro.cvattv.com.ar/live/vod/History2/SA_Live_WebVTT_FTA/History2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.natgeofe.com/n/e76f5368-6797-4794-b7f6-8d757c79ea5c/ng-logo-2fl.png" ,National Geographic Centro
 https://edge3.prepro.cvattv.com.ar/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3u8
@@ -292,7 +292,7 @@ https://edge3.prepro.cvattv.com.ar/live/vod/Lifetime/SA_Live_WebVTT_FTA/Lifetime
 https://edge3.prepro.cvattv.com.ar/live/vod/Gourmet/SA_Live_WebVTT_FTA/Gourmet.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjDU2-NQ_ygyPrpD025WEqRBXaeaoomAOY0xdNvWJ_j-RP3tV5_5rlTvXrd1SrawikXi77-O-4t4cbgLhGzr7yOmb7wn7FTmxCJpzZLePTQR0aWRVAuKzSFnvecrf6f6gSEn_c3eBmvP_yhsuS1fagbMTtYTBi7Tr-dHO0-nQVk92nZRC-bxiCRxwwL" ,Food Network Latinoamérica
-https://edge3.prepro.cvattv.com.ar/live/vod/Food_Network/SA_Live_WebVTT_FTA/Food_Network.m3u8
+https://edge3.prepro.cvattv.com.ar/live/vod/FoodNetwork/SA_Live_WebVTT_FTA/FoodNetwork.m3u8
 
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/volver.png" ,Volver
 https://edge3.prepro.cvattv.com.ar/live/vod/Volver/SA_Live_WebVTT_FTA/Volver.m3u8
@@ -301,10 +301,10 @@ https://edge3.prepro.cvattv.com.ar/live/vod/Volver/SA_Live_WebVTT_FTA/Volver.m3u
 https://edge3.prepro.cvattv.com.ar/live/vod/CinecanalHD/SA_Live_WebVTT_FTA/CinecanalHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-L4urlPJenM4/YUDqsI3xRzI/AAAAAAAAAPo/WxABCNWwctY6HWYhRClIYigkRaMuqu0LwCLcBGAsYHQ/h120/Universal_TV.png" ,Universal TV América Latina
-https://edge3.prepro.cvattv.com.ar/live/vod/Universal_Channel_HD/SA_Live_WebVTT_FTA/Universal_Channel_HD.m3u8
+https://edge3.prepro.cvattv.com.ar/live/vod/UniversalChannelHD/SA_Live_WebVTT_FTA/UniversalChannelHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" ,Studio Universal Argentina
-https://edge3.prepro.cvattv.com.ar/live/vod/Studio_Universal/SA_Live_WebVTT_FTA/Studio_Universal.m3u8
+https://edge3.prepro.cvattv.com.ar/live/vod/StudioUniversal/SA_Live_WebVTT_FTA/StudioUniversal.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-cK4WNqOob_w/YUDpdrZzvEI/AAAAAAAAAPQ/DY9_xUdMjn0yP7ZbOfweOMYBReirkQeUACLcBGAsYHQ/h120/AMC.png" ,AMC Latin America
 https://edge3.prepro.cvattv.com.ar/live/vod/AMC/SA_Live_WebVTT_FTA/AMC.m3u8
@@ -328,19 +328,19 @@ https://edge3.prepro.cvattv.com.ar/live/vod/HBO_2/SA_Live_WebVTT_FTA/HBO_2.m3u8
 https://edge3.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-biPn5RxfU_4/YaWbnPMJkJI/AAAAAAAAAT8/0wAMWQUwV4YFIFBTL8KOAPhD7hhCJMjbACLcBGAsYHQ/w480/ver-hbo-mundi-hd-en-vivo-television-libre.png" ,HBO Mundi Latinoamérica
-https://edge3.prepro.cvattv.com.ar/live/vod/HBO_Mundi/SA_Live_WebVTT_FTA/HBO_Mundi.m3u8
+https://edge3.prepro.cvattv.com.ar/live/vod/HBOMundi/SA_Live_WebVTT_FTA/HBOMundi.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gvubVvYOgjk/YaWWkxGYDsI/AAAAAAAAATs/Cf26StPGO7AhtSl3dszCOqPjRkbOHZgJgCLcBGAsYHQ/h1280/ver-hbo-plus--hd-en-vivo-television-libre.png" ,HBO Plus Panamericano
-https://edge3.prepro.cvattv.com.ar/live/vod/HBO_Plus/SA_Live_WebVTT_FTA/HBO_Plus.m3u8
+https://edge3.prepro.cvattv.com.ar/live/vod/HBOPlus/SA_Live_WebVTT_FTA/HBOPlus.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-009OHodFDPg/YaWewZ_J19I/AAAAAAAAAUE/mKtrsaqOsiM1qwF1B2TYNxsA5-PeJgQmACLcBGAsYHQ/h1280/ver-hbo-signature-hd-en-vivo-television-libre.png" ,HBO Signature Latinoamérica
-https://edge3.prepro.cvattv.com.ar/live/vod/HBO_Signature/SA_Live_WebVTT_FTA/HBO_Signature.m3u8
+https://edge3.prepro.cvattv.com.ar/live/vod/HBOSignature/SA_Live_WebVTT_FTA/HBOSignature.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-VQjPcdlwvEk/YaWh_g61TLI/AAAAAAAAAUU/HZbtfm8uxGwb4NAN95MqtVLg3H2WZnW9QCLcBGAsYHQ/h1280/ver-hbo-xtreme-hd-en-vivo-television-libre.png" ,HBO Xtreme Latinoamérica
-https://edge3.prepro.cvattv.com.ar/live/vod/HBO_Extreme/SA_Live_WebVTT_FTA/HBO_Extreme.m3u8
+https://edge3.prepro.cvattv.com.ar/live/vod/HBOExtreme/SA_Live_WebVTT_FTA/HBOExtreme.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-cOG2wg6K0ek/YaWYxcaJ6OI/AAAAAAAAAT0/32z4us23azA49tFh3B-z3EtrZ5042oQBwCLcBGAsYHQ/h1280/ver-hbo-family-hd-en-vivo-television-libre.png" ,HBO Family Latinoamérica
-https://edge3.prepro.cvattv.com.ar/live/vod/HBO_Family/SA_Live_WebVTT_FTA/HBO_Family.m3u8
+https://edge3.prepro.cvattv.com.ar/live/vod/HBOFamily/SA_Live_WebVTT_FTA/HBOFamily.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEi_lEwVNLUP41SkYZ7iALWXO71yB7aNdQnI_EsWsY6GvkiqPQ-Ix7_EbvktCXijoQyJOJKgrza89BPI2dbcb7dls8tHsni06Zik3IIYOyiuZbARanEFD5vjONfx-H9Du348CduwG0Je_O-Z9La0I_SeiiWPihzNEcv4vUAogcOn8N58jGTXnF8fDMva" ,Star Channel Latin America
 https://edge3.prepro.cvattv.com.ar/live/vod/FOXHD/SA_Live_WebVTT_FTA/FOXHD.m3u8
@@ -370,7 +370,7 @@ https://edge3.prepro.cvattv.com.ar/live/vod/AEHD/SA_Live_WebVTT_FTA/AEHD.m3u8
 https://edge3.prepro.cvattv.com.ar/live/vod/TCM/SA_Live_WebVTT_FTA/TCM.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TNT.svg/1200px-TNT.svg.png" ,TNT Argentina
-https://edge3.prepro.cvattv.com.ar/live/vod/TNT_HD_Arg/SA_Live_WebVTT_FTA/TNT_HD_Arg.m3u8
+https://edge3.prepro.cvattv.com.ar/live/vod/TNTHDArg/SA_Live_WebVTT_FTA/TNTHDArg.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/640px-TBS_logo_2016.svg.png" ,TBS América Latina
 https://edge3.prepro.cvattv.com.ar/live/vod/TBS/SA_Live_WebVTT_FTA/TBS.m3u8
