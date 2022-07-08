@@ -590,3 +590,6 @@ https://live.presstv.ir/live/smil:live.smil/chunklist_w1581967523_b344100_slen.m
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bon_Dia_TV_2021.jpg/800px-Bon_Dia_TV_2021.jpg" ,Bondia TV 
 https://directes-tv-int.ccma.cat/live-content/bondia-hls/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/49c5d99bbb4f5e05cc3ebd7384fe6add.webp" ,Mundo+Mas Colombia
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/chunklist_w375588299.m3u8
