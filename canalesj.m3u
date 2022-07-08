@@ -246,6 +246,9 @@ https://edge3.prepro.cvattv.com.ar/live/vod/FoxSports3HD/SA_Live_WebVTT_FTA/FoxS
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/c3/a3/6ec3a3727705163c9ea59099c7062695.png" ,ALLSPORTS
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-s/473dc750652d9ae1930de51f914033d7.webp" ,MLB Network
+http://live.tv247.club/tv247/mlb.m3u8
+
 #EXTINF:-1 tvg-logo="https://motoamerica.com/wp-content/uploads/2020/03/mavtvLogo.jpg" ,MAVTV
 https://mavtv-mavtvglobal-1-gb.samsung.wurl.tv/playlist.m3u8
 
