@@ -211,127 +211,124 @@ https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr.m3u8
 https://edge3.prepro.cvattv.com.ar/live/vod/VTV_Plus_HD/SA_Live_WebVTT_FTA/VTV_Plus_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.directv.com/dtvassets/dtv/teamsite/images/logos/channels/dark/large/165.png" ,TUDN
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/3_.m3u8?token=WGx-_TMuEyw6ow1amZXOWw&expires=1657517250&ip=148.0.140.211
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/3_.m3u8?token=2J6sJ7xg8eqFVwndnojDUA&expires=1657572043&ip=148.0.147.108
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/2560px-Gol_Per%C3%BA_2019.svg.png" ,GOL PERU
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/6_.m3u8?token=39J6GdPPGZgT4UBRY61D5w&expires=1657517381&ip=148.0.140.211
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/6_.m3u8?token=NjMHX3EM2TEVh4JkQJo2cg&expires=1657572064&ip=148.0.147.108
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/2560px-GolTV_logo.svg.png" ,GOL TV
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/7_.m3u8?token=CxdEzaXj1QcGcE5FDT7OIQ&expires=1657517471&ip=148.0.140.211
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/7_.m3u8?token=jK1IemlvnH5A92j4qRmwKA&expires=1657572076&ip=148.0.147.108
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" ,WIN SPORTS
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/8_.m3u8?token=_LUbXoFeJX6UqBJNSx3s5w&expires=1657517535&ip=148.0.140.211
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/8_.m3u8?token=CDOM6RkmGjqaVMPpGTGunA&expires=1657572086&ip=148.0.147.108
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg9kusYu-mEJpzIZXMGqfvGuf7cZNQBgoAt8q8qSo0XqnMRFo2KDlCWLuD3LNgXS2n4oAxQWhL3fPiL6iw2EHw-BflGl3JWSHwPGiq5NI_9QJC_t51AHaaPrm9lFOfuxKjWMJP1U-X4uC26eV77oQKty1Y0OOxX61GylFOAgN4DxeaLZe22z9mXEgZm" ,TNT Sports Argentina
 https://edge3.prepro.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_Live_WebVTT_FTA/TNT_Sports_HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-90LMQCmhDqo/YT5KvolVhyI/AAAAAAAAAMw/XeQETtspZTM8h_nFKLr1v3bSgpwr2hJ_wCLcBGAsYHQ/h120/tycsports.png" ,TyC Sports
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/11_.m3u8?token=SicoPYZyCIL_UpbAmt3z0g&expires=1657517651&ip=148.0.140.211
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-FYVcpfemo4c/YUGnQ9HvSsI/AAAAAAAAAQQ/MMr9AFOuPaQHThJkarFEJQ9OOhdaaMS5wCLcBGAsYHQ/h120/ESPN.png" ,ESPN América Latina
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/17_.m3u8?token=qwZTsb2-0oluzigfi3Xn9g&expires=1657517811&ip=148.0.140.211
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1bXOE3IaH0o/YUGnydIbP2I/AAAAAAAAAQY/yc0MjnBnjHUF2qqnIUnCalxVFBYsmIU7QCLcBGAsYHQ/h120/ESPN_2.png" ,ESPN 2 América Latina
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/18_.m3u8?token=2kjBpT2Qy5JFyMoU-guYKA&expires=1657517833&ip=148.0.140.211
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Be2ElF9gW0Q/YUGoGu1TDCI/AAAAAAAAAQg/Fb8rsIPZRJA1fLoypsKw9DCZOi9HhQ3awCLcBGAsYHQ/h120/ESPN_3.png" ,ESPN 3 América Latina
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/19_.m3u8?token=7Ondjky_qcXrccpvpPrMXg&expires=1657517848&ip=148.0.140.211
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-pLVNSNUCGEQ/YUH3mErF5PI/AAAAAAAAARQ/cX-Rhn3gV-EbhGgeZ1NVWsCv6QEZ3W5qACLcBGAsYHQ/h120/espnextra.png" ,ESPN Extra América Latina
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/16_.m3u8?token=Q3bWtuCoWKy94ofOxiP9BQ&expires=1657517773&ip=148.0.140.211
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-5GVI6jDtTwg/YaW15LD6VJI/AAAAAAAAAUk/UjYya0ti1Lg2wF3ucaU_29wjHipI2e-fQCLcBGAsYHQ/h1280/ver-fox-sports-premium-hd-en-vivo-television-libre.png" ,Fox Sports Premium
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/10_.m3u8?token=fiEPiyUa336-10fHJQs4Jg&expires=1657517618&ip=148.0.140.211
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/10_.m3u8?token=ooFLBdAVb7efYe6oTKxyGA&expires=1657572113&ip=148.0.147.108
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-90LMQCmhDqo/YT5KvolVhyI/AAAAAAAAAMw/XeQETtspZTM8h_nFKLr1v3bSgpwr2hJ_wCLcBGAsYHQ/h120/tycsports.png" ,TyC Sports
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/11_.m3u8?token=nfd80_4nAVsh_vqzkfjCww&expires=1657572133&ip=148.0.147.108
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-hHI4-9I3JuE/YT5ManmHKkI/AAAAAAAAANI/yIsahDthZkkpCzHIYuMn4nC7D6QXk9AbgCLcBGAsYHQ/h120/Fox_Sports.png" ,Fox Sports Argentina
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/12_.m3u8?token=NhiF67bNuaeEWOewdZpBtA&expires=1657517669&ip=148.0.140.211
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/12_.m3u8?token=tEynU66dVVBUJSq4FQKatA&expires=1657572173&ip=148.0.147.108
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-qFsYZaIjozo/YT5Mwq2o6FI/AAAAAAAAANQ/rQxMUo7-REozgCIiOzVakG8Ia2C5bCb-wCLcBGAsYHQ/h120/Fox_Sports_2.png" ,Fox Sports 2 Argentina
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/13_.m3u8?token=NzI0ekpCBQF2inAMNU29og&expires=1657517687&ip=148.0.140.211
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/13_.m3u8?token=ZIvqaZULZ8ZtbeBTFqc2QQ&expires=1657572186&ip=148.0.147.108
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" ,Fox Sports 3 Latin America
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/14_.m3u8?token=i0rvABWgs0G-wajqfLY4oA&expires=1657517705&ip=148.0.140.211
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/14_.m3u8?token=NxXGyF_rph_cz4HFeo47aA&expires=1657572200&ip=148.0.147.108
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-pLVNSNUCGEQ/YUH3mErF5PI/AAAAAAAAARQ/cX-Rhn3gV-EbhGgeZ1NVWsCv6QEZ3W5qACLcBGAsYHQ/h120/espnextra.png" ,ESPN Extra América Latina
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/16_.m3u8?token=wTt26XCakpFojQAv8N9wDw&expires=1657572218&ip=148.0.147.108
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-FYVcpfemo4c/YUGnQ9HvSsI/AAAAAAAAAQQ/MMr9AFOuPaQHThJkarFEJQ9OOhdaaMS5wCLcBGAsYHQ/h120/ESPN.png" ,ESPN América Latina
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/17_.m3u8?token=BTBVbYep72dYoIV23faMiQ&expires=1657572240&ip=148.0.147.108
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1bXOE3IaH0o/YUGnydIbP2I/AAAAAAAAAQY/yc0MjnBnjHUF2qqnIUnCalxVFBYsmIU7QCLcBGAsYHQ/h120/ESPN_2.png" ,ESPN 2 América Latina
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/18_.m3u8?token=gaavGOazBoBFtiVv3Ap7_w&expires=1657572251&ip=148.0.147.108
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-Be2ElF9gW0Q/YUGoGu1TDCI/AAAAAAAAAQg/Fb8rsIPZRJA1fLoypsKw9DCZOi9HhQ3awCLcBGAsYHQ/h120/ESPN_3.png" ,ESPN 3 América Latina
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/19_.m3u8?token=X8qANQxvPiWfJSXrPPKXgQ&expires=1657572261&ip=148.0.147.108
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1200px-Movistar_Deportes.svg.png" ,MOVISTAR DEPORTES
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/194_.m3u8?token=RjAGcVGltddPpb-Bci76lA&expires=1657517943&ip=148.0.140.211
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/194_.m3u8?token=RDRK5raK1GmDSrL0WEr97g&expires=1657572278&ip=148.0.147.108
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/c3/a3/6ec3a3727705163c9ea59099c7062695.png" ,ALLSPORTS
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-s/473dc750652d9ae1930de51f914033d7.webp" ,MLB Network
-http://live.tv247.club/tv247/mlb.m3u8
-
 #EXTINF:-1 tvg-logo="https://motoamerica.com/wp-content/uploads/2020/03/mavtvLogo.jpg" ,MAVTV
 https://mavtv-mavtvglobal-1-gb.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png" ,Space Sur
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/39_.m3u8?token=kh6yxM3gGHCO96WR_jn7tg&expires=1657518059&ip=148.0.140.211
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png" ,Space
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/39_.m3u8?token=nP41NwJ4K30PSVEj7R4lRA&expires=1657572298&ip=148.0.147.108
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" ,Warner Channel Atlántico Sur
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/40_.m3u8?token=eq5B9sGzDnI11KJHuyg-Tg&expires=1657518096&ip=148.0.140.211
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" ,Warner Channel
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/40_.m3u8?token=--s7NFULM7oU9RWrf_ARvg&expires=1657572310&ip=148.0.147.108
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TNT.svg/1200px-TNT.svg.png" ,TNT 
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/41_.m3u8?token=-kHL78AwMhfseELzeNhPjg&expires=1657569367&ip=148.0.147.108
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/41_.m3u8?token=XpOgCXNm5XKCYaiTSJ-OwQ&expires=1657572329&ip=148.0.147.108
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" ,TNT Series Argentina
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/76_.m3u8?token=S5oMcU-MlQqMDv3PXndj-g&expires=1657518151&ip=148.0.140.211
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" ,TNT Series 
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/76_.m3u8?token=_ZIF23qxm-eW_NUeFyCstw&expires=1657572340&ip=148.0.147.108
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-NDwbXJHYJMc/YT5RpJxdtpI/AAAAAAAAAOY/D1VEo88C3jwfky5Oiwww9TZX3ehLWpSfQCLcBGAsYHQ/h120/Cinemax.png" ,Cinemax Latinoamérica
 https://edge3.prepro.cvattv.com.ar/live/live/Cinemax/SA_Live_WebVTT_FTA/Cinemax.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" ,Cinecanal Este
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/44_.m3u8?token=ZT3Er01ajCEqBY32DFdK0g&expires=1657518237&ip=148.0.140.211
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" ,Cinecanal 
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/44_.m3u8?token=cKddG_nfXVuroXqiU-PEpg&expires=1657572357&ip=148.0.147.108
 
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/syfy.png" ,Syfy
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/58_.m3u8?token=t_Zm3ntRs5VDFyxLLYAF1g&expires=1657518272&ip=148.0.140.211
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/58_.m3u8?token=mzKAVfgRLSMquHL1Nasp4g&expires=1657572371&ip=148.0.147.108
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png" ,Star Channel Latin America
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/42_.m3u8?token=7ZcPlouox69xCNzweycK-w&expires=1657518308&ip=148.0.140.211
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png" ,Star Channel
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/42_.m3u8?token=3cGP95i9kkngMLfFQHtqCQ&expires=1657572382&ip=148.0.147.108
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Star_Series_2020.svg/640px-Star_Series_2020.svg.png" ,STAR SERIES
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/38_.m3u8?token=FJuyVJ4dnmYWoXM0YmwDXg&expires=1657518373&ip=148.0.140.211
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/38_.m3u8?token=MQXji_9CrwqPvi3GjcHURw&expires=1657572403&ip=148.0.147.108
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/1200px-Star_Fun_2020.svg.png" ,STAR FUN
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/69_.m3u8?token=l8Lo2h7bGQ1BLs4ytS0eoQ&expires=1657518479&ip=148.0.140.211
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/69_.m3u8?token=dBIdmvGDnM_Z_PiHNHX4-w&expires=1657572433&ip=148.0.147.108
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Star_Comedy_2020.svg/640px-Star_Comedy_2020.svg.png" ,STAR COMEDY
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/133_.m3u8?token=1OjUroAK7CybHVXIOoNVfw&expires=1657518551&ip=148.0.140.211
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/133_.m3u8?token=bEsdDP1ZVe23a7VrZXRi-A&expires=1657572450&ip=148.0.147.108
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" ,FX Andina
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/70_.m3u8?token=72Y8rESD6l0KOp0LOk0qDQ&expires=1657518613&ip=148.0.140.211
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" ,FX 
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/70_.m3u8?token=MtUjxndNJ_yb7nOSIa8lvA&expires=1657572465&ip=148.0.147.108
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/1200px-Canal_Golden_logo.svg.png" ,GOLDEN
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/202_.m3u8?token=7uxKoLDkOuGJTDJvTqSPDQ&expires=1657518657&ip=148.0.140.211
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/202_.m3u8?token=fn7Q5AgWMDgtOjcyEE7ZGA&expires=1657572474&ip=148.0.147.108
 
 #EXTINF:-1 tvg-logo="https://live.staticflickr.com/4683/39199446922_c6b6256d0a_o.png" ,GOLDEN PLUS
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/73_.m3u8?token=4qxkqxR1nIvOFIwsHrC2mA&expires=1657518706&ip=148.0.140.211
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/73_.m3u8?token=qcN9ZbmMoKqpQwYPXDylFg&expires=1657572482&ip=148.0.147.108
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" ,GOLDEN EDGE
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/74_.m3u8?token=xoBP9jwYv8npTgFwvjhJLg&expires=1657518820&ip=148.0.140.211
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/74_.m3u8?token=zQgLJKQ9Mc_cly8vr9axXg&expires=1657572492&ip=148.0.147.108
 
 #EXTINF:-1 tvg-logo="https://www.skydominicana.com/Code/templates/images/channels-to/SKY-golden.png" ,GOLDEN PREMIER
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/75_.m3u8?token=Ss0bwZXW6163jMWzgxhjiA&expires=1657518888&ip=148.0.140.211
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/75_.m3u8?token=Gq-W6EAi9w442smijEtK2w&expires=1657572529&ip=148.0.147.108
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png" ,MULTIPREMIER
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/81_.m3u8?token=f_PUcAor_FNJpd5eo4YQPw&expires=1657518970&ip=148.0.140.211
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/81_.m3u8?token=Ah93-hFOnKfxSBU8loeIVA&expires=1657572538&ip=148.0.147.108
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" ,AXN Latinoamérica
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/78_.m3u8?token=vFo_bKTLVRbTfjg9FDfZlw&expires=1657519016&ip=148.0.140.211
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" ,AXN 
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/78_.m3u8?token=K034OA1jlZDQPfC0T69zKw&expires=1657572548&ip=148.0.147.108
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-L4urlPJenM4/YUDqsI3xRzI/AAAAAAAAAPo/WxABCNWwctY6HWYhRClIYigkRaMuqu0LwCLcBGAsYHQ/h120/Universal_TV.png" ,Universal TV América Latina
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/79_.m3u8?token=FNMEUl5g4o-2mAlu-pQ3aQ&expires=1657519052&ip=148.0.140.211
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-L4urlPJenM4/YUDqsI3xRzI/AAAAAAAAAPo/WxABCNWwctY6HWYhRClIYigkRaMuqu0LwCLcBGAsYHQ/h120/Universal_TV.png" ,Universal TV 
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/79_.m3u8?token=coP9PB2Jw482PYkleoGFZQ&expires=1657572572&ip=148.0.147.108
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" ,Studio Universal Argentina
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/80_.m3u8?token=S1FBcvx1KwsWH6QSqH3cgg&expires=1657519068&ip=148.0.140.211
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" ,Studio Universal
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/80_.m3u8?token=5y4LhX6Tf1B0Tn-PhcKyHg&expires=1657572581&ip=148.0.147.108
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-cK4WNqOob_w/YUDpdrZzvEI/AAAAAAAAAPQ/DY9_xUdMjn0yP7ZbOfweOMYBReirkQeUACLcBGAsYHQ/h120/AMC.png" ,AMC Latin America
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/82_.m3u8?token=iQoKuHV_hi00AsQ8XUx7MQ&expires=1657519087&ip=148.0.140.211
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-cK4WNqOob_w/YUDpdrZzvEI/AAAAAAAAAPQ/DY9_xUdMjn0yP7ZbOfweOMYBReirkQeUACLcBGAsYHQ/h120/AMC.png" ,AMC 
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/82_.m3u8?token=D1F3E5BgsP5uxu10ZZRFpQ&expires=1657572593&ip=148.0.147.108
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/2560px-DPel%C3%ADcula_2021.svg.png" ,DPELICULA 
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/85_.m3u8?token=u5TR8ZQimsticfvd6Zvw6Q&expires=1657519102&ip=148.0.140.211
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/85_.m3u8?token=-UXbRAyMlu8SR2gz8WXxqQ&expires=1657572611&ip=148.0.147.108
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" ,TCM Argentina
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/152_.m3u8?token=jiKqc1Sp1cwTxpSneL7t2A&expires=1657519166&ip=148.0.140.211
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" ,TCM 
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/152_.m3u8?token=G5UYRYtdBSueN_MJrkQzkA&expires=1657572621&ip=148.0.147.108
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-fdvJf2MjlgQ/YT5Q_HnjLrI/AAAAAAAAAOI/Wp9FNV3R06cBaDSCDcUD1sTJZwNT0rqgwCLcBGAsYHQ/h120/I.Sat.png" ,I-Sat
 https://edge3.prepro.cvattv.com.ar/live/vod/ISAT/SA_Live_WebVTT_FTA/ISAT.m3u8
@@ -340,7 +337,7 @@ https://edge3.prepro.cvattv.com.ar/live/vod/ISAT/SA_Live_WebVTT_FTA/ISAT.m3u8
 https://edge3.prepro.cvattv.com.ar/live/vod/Paramount/SA_Live_WebVTT_FTA/Paramount.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/800px-A%26E_Network_logo.svg.png" ,A&E Latinoamérica
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/99_.m3u8?token=Bic9CHIk9GnQTwh_ra4W2A&expires=1657519664&ip=148.0.140.211
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/99_.m3u8?token=kWdWq8Q2w5rno6J7FhQoEw&expires=1657572644&ip=148.0.147.108
 
 #EXTINF:-1 tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/08/Comedy-Central-logo.png" ,Comedy Central Latinoamérica Sur
 https://edge3.prepro.cvattv.com.ar/live/vod/ComedyCentral/SA_Live_WebVTT_FTA/ComedyCentral.m3u8
@@ -355,7 +352,7 @@ https://edge3.prepro.cvattv.com.ar/live/vod/TruTV/SA_Live_WebVTT_FTA/TruTV.m3u8
 https://edge3.prepro.cvattv.com.ar/live/vod/SonyHD/SA_Live_WebVTT_FTA/SonyHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2012/04/e_logo-724x1024.jpg" ,E! Latinoamérica
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/103_.m3u8?token=mfQsgkzX5MLAuYfBpyrSOQ&expires=1657519532&ip=148.0.140.211
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/103_.m3u8?token=Aq-waSPd6urldd6ojNScIA&expires=1657572721&ip=148.0.147.108
 
 #EXTINF:-1 tvg-logo="https://miracomosehace.com/wp-content/uploads/2020/03/logo-hbo.jpg" ,HBO Latinoamérica
 https://edge3.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
@@ -396,41 +393,41 @@ https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" ,Cine.ar
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" ,History Latinoamérica
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/49_.m3u8?token=PPq3OVX0yAtT4_JzIuQNUw&expires=1657519369&ip=148.0.140.211
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" ,History 
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/49_.m3u8?token=5jbJNPIw6eRPPe_G-eqVlA&expires=1657572666&ip=148.0.147.108
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" ,History 2 Latinoamérica
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/50_.m3u8?token=O9YBv4_qjP4zWyJNn-nC-w&expires=1657519390&ip=148.0.140.211
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" ,History 2 
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/50_.m3u8?token=CExKvpRU5H2ibzUTU8mBUw&expires=1657572682&ip=148.0.147.108
 
 #EXTINF:-1 tvg-logo="https://i.natgeofe.com/n/e76f5368-6797-4794-b7f6-8d757c79ea5c/ng-logo-2fl.png" ,National Geographic Centro
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/92_.m3u8?token=hFEsqLSLDXJowSvE730ROA&expires=1657519418&ip=148.0.140.211
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" ,NAT GEO WILD
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/93_.m3u8?token=FxRXt3VAWWJoe6A4H2SARw&expires=1657519440&ip=148.0.140.211
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/93_.m3u8?token=i8TY9JWkoHzzNM5aXZtx2Q&expires=1657572692&ip=148.0.147.108
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1067px-2018_Animal_Planet_logo.svg.png" ,Animal Planet Latinoamérica
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/94_.m3u8?token=fkXFyK0uwI6-3MvTwJMoFQ&expires=1657519509&ip=148.0.140.211
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1067px-2018_Animal_Planet_logo.svg.png" ,Animal Planet 
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/94_.m3u8?token=fbfOvXpe2brOZ7loeXOBSg&expires=1657572706&ip=148.0.147.108
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" ,El Gourmet Sur
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/106_.m3u8?token=xPYS8beonBuWT20Wm88PRA&expires=1657519551&ip=148.0.140.211
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/106_.m3u8?token=gcRr6xGZxgd6cAEVHK4DcQ&expires=1657572737&ip=148.0.147.108
 
-#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/3/35/Discovery_Channel.JPG/1200px-Discovery_Channel.JPG" ,Discovery Channel Latinoamérica
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/95_.m3u8?token=DqLCzd45pwAYH6tEg_oEoQ&expires=1657519573&ip=148.0.140.211
+#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/3/35/Discovery_Channel.JPG/1200px-Discovery_Channel.JPG" ,Discovery Channel 
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/95_.m3u8?token=gMi6LnCtur0rCQMdldZu6g&expires=1657572749&ip=148.0.147.108
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" ,Discovery Turbo América Latina
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/96_.m3u8?token=zsIaCSVXCX_zLholhgmGbw&expires=1657519593&ip=148.0.140.211
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" ,Discovery Turbo 
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/96_.m3u8?token=mOFvhcV__H2QZ08EmM9ypg&expires=1657572761&ip=148.0.147.108
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/816962948522508288/u9_NGzrW_400x400.jpg" ,Discovery Home & Health Latinoamérica
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/97_.m3u8?token=yoqQMGbCNDy_esMoqCBfZg&expires=1657519610&ip=148.0.140.211
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/816962948522508288/u9_NGzrW_400x400.jpg" ,Discovery Home & Health 
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/97_.m3u8?token=qlj7KVPvjElSDt59h8Espw&expires=1657572775&ip=148.0.147.108
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-AfuVdq0OWu4/Yfxi0A3wy0I/AAAAAAAAAXA/6z3Wj3CxHHoLnKzpD0e2LcqlAHGK_SxzQCNcBGAsYHQ/h1280/ver-discovery-id-en-vivo.png" ,Investigation Discovery Sur
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/98_.m3u8?token=8TCol2Hm-76JBwrXk6Na1g&expires=1657519631&ip=148.0.140.211
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-AfuVdq0OWu4/Yfxi0A3wy0I/AAAAAAAAAXA/6z3Wj3CxHHoLnKzpD0e2LcqlAHGK_SxzQCNcBGAsYHQ/h1280/ver-discovery-id-en-vivo.png" ,Investigation Discovery
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/98_.m3u8?token=iJ9HZtlvAih2_Jn6_bIUGA&expires=1657572786&ip=148.0.147.108
 
 #EXTINF:-1 tvg-logo="https://dcom-prod.imgix.net/files/2020-12/tlc_thumb.png" ,DISCOVERY TLC
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/100_.m3u8?token=UQIW1HwRQ6fcn5e18pG6tw&expires=1657519683&ip=148.0.140.211
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/100_.m3u8?token=rCuKpTG_qHrch8C43a4u7w&expires=1657572807&ip=148.0.147.108
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/2560px-2015_Discovery_theater_HD_logo.svg.png" ,Discovery Theater
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/101_.m3u8?token=aYTjM2PMAz5MiQtvjOwmwA&expires=1657519719&ip=148.0.140.211
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/101_.m3u8?token=TzS_Lxwp3NwRM5Xg0fH6OA&expires=1657572819&ip=148.0.147.108
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" ,Discovery Science Latinoamérica
 https://edge3.prepro.cvattv.com.ar/live/vod/DiscoveryScience/SA_Live_WebVTT_FTA/DiscoveryScience.m3u8
@@ -444,48 +441,98 @@ https://edge3.prepro.cvattv.com.ar/live/vod/Lifetime/SA_Live_WebVTT_FTA/Lifetime
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjDU2-NQ_ygyPrpD025WEqRBXaeaoomAOY0xdNvWJ_j-RP3tV5_5rlTvXrd1SrawikXi77-O-4t4cbgLhGzr7yOmb7wn7FTmxCJpzZLePTQR0aWRVAuKzSFnvecrf6f6gSEn_c3eBmvP_yhsuS1fagbMTtYTBi7Tr-dHO0-nQVk92nZRC-bxiCRxwwL" ,Food Network Latinoamérica
 https://edge3.prepro.cvattv.com.ar/live/vod/FoodNetwork/SA_Live_WebVTT_FTA/FoodNetwork.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-x7HV6qdJM5A/YXLiX_vAciI/AAAAAAAAASM/hEi9CcwkDxoFb-fsLIR04CslwcAoyt8MwCLcBGAsYHQ/h120/ver-disney-channel.png" ,Disney Channel Sur
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/107_.m3u8?token=jkw-p4UvpcxoVwTJi6KsTg&expires=1657519841&ip=148.0.140.211
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-x7HV6qdJM5A/YXLiX_vAciI/AAAAAAAAASM/hEi9CcwkDxoFb-fsLIR04CslwcAoyt8MwCLcBGAsYHQ/h120/ver-disney-channel.png" ,Disney Channel 
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/107_.m3u8?token=cf-Msg6C0XOnoqyZPAWEJg&expires=1657572869&ip=148.0.147.108
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-jbyXCmO1tD4/YXIvRy8qnpI/AAAAAAAAAR4/Mru1u3gvJ1w4Z574forFRxSDMnFZ6ajhgCLcBGAsYHQ/h120/ver-disney-junior.png" ,Canal Disney Junior
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/109_.m3u8?token=W6QTDnREU2F8vRcRha4boQ&expires=1657519850&ip=148.0.140.211
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-fAD0ogKTE0g/YXIvsp-SuLI/AAAAAAAAASE/0REtoDv6Zv0njbxhJPoffkCIOc6lqf_4gCLcBGAsYHQ/h120/ver-nickelodeon-en-vivo.png" ,Nickelodeon Sur
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/110_.m3u8?token=RyHnjiXSh7ourJQjOyo1xg&expires=1657519906&ip=148.0.140.211
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-fAD0ogKTE0g/YXIvsp-SuLI/AAAAAAAAASE/0REtoDv6Zv0njbxhJPoffkCIOc6lqf_4gCLcBGAsYHQ/h120/ver-nickelodeon-en-vivo.png" ,Nickelodeon 
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/110_.m3u8?token=FgaudkOAlr6-I2CB-w9OfQ&expires=1657572886&ip=148.0.147.108
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ZVx8_exFxYQ/YT4_FY_WBAI/AAAAAAAAAK4/wq2VagLcw4kREJMXl58558VA2LzijbrRQCLcBGAsYHQ/h120/Nick_Jr.png" ,Nick Jr Latin America
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/112_.m3u8?token=QywY16Vvj8-6uKEcTdYCoA&expires=1657519933&ip=148.0.140.211
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ZVx8_exFxYQ/YT4_FY_WBAI/AAAAAAAAAK4/wq2VagLcw4kREJMXl58558VA2LzijbrRQCLcBGAsYHQ/h120/Nick_Jr.png" ,Nick Jr 
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/112_.m3u8?token=de1JWdE7g7XYl8zYauYW9g&expires=1657572902&ip=148.0.147.108
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-yo0y8VMr8jA/YXIvD8SpXkI/AAAAAAAAAR0/rMwi77Tj7lYPeudTHQ8jGSFMwSFJ28zjACLcBGAsYHQ/h120/ver-cartoon-network.png" ,Cartoon Network Argentina
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/114_.m3u8?token=1m78Is3r31i3d_rMS0prgw&expires=1657519954&ip=148.0.140.211
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-yo0y8VMr8jA/YXIvD8SpXkI/AAAAAAAAAR0/rMwi77Tj7lYPeudTHQ8jGSFMwSFJ28zjACLcBGAsYHQ/h120/ver-cartoon-network.png" ,Cartoon Network 
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/114_.m3u8?token=OmngRrdb1YCb7uMPmz4L1Q&expires=1657572916&ip=148.0.147.108
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-eqMrg8h2rPw/YXLjZ5ewIWI/AAAAAAAAASU/BIBid1FrgQAZGU4Bz7H7Pc6M6WWfGm5OgCLcBGAsYHQ/h120/ver-boomerang-en-vivo.png" ,Boomerang Latin America
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/115_.m3u8?token=Cbi7-ZchWDdTo1Qnt2Krmw&expires=1657519978&ip=148.0.140.211
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-eqMrg8h2rPw/YXLjZ5ewIWI/AAAAAAAAASU/BIBid1FrgQAZGU4Bz7H7Pc6M6WWfGm5OgCLcBGAsYHQ/h120/ver-boomerang-en-vivo.png" ,Boomerang 
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/115_.m3u8?token=FVqOGFFQzU9nKN_WQh0meA&expires=1657572926&ip=148.0.147.108
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ArZ2H9gDjgQ/YT4-ZYGfWtI/AAAAAAAAAKw/el9PT_iCX7QRN9SAvK08gUfxS5DjkTsEACLcBGAsYHQ/s320/Tooncast.png" ,Tooncast
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/116_.m3u8?token=MZdd8d8_EAo3oGv1Q6KJbg&expires=1657520013&ip=148.0.140.211
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/116_.m3u8?token=QvXqHsdHwKgl-dgUb36_Dw&expires=1657572937&ip=148.0.147.108
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3qEDaRM02L4/YT48fWBTHeI/AAAAAAAAAKg/rXQ-f423gtIFwjryayxVxRETuTqVVB6GwCLcBGAsYHQ/s100/Discovery_Kids.png" ,Discovery Kids América Latina
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/117_.m3u8?token=LNBdake4Fn8uPt4ofTJZ9A&expires=1657520030&ip=148.0.140.211
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3qEDaRM02L4/YT48fWBTHeI/AAAAAAAAAKg/rXQ-f423gtIFwjryayxVxRETuTqVVB6GwCLcBGAsYHQ/s100/Discovery_Kids.png" ,Discovery Kids 
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/117_.m3u8?token=M1aEpaNfYamEaHXViyk_hA&expires=1657572947&ip=148.0.147.108
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Boing_Logo.svg/2560px-Boing_Logo.svg.png" ,BOING 
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/119_.m3u8?token=AHBjvpN0i39gKTKaGgQSOw&expires=1657520051&ip=148.0.140.211
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/119_.m3u8?token=-mt0AdfODs8gCudjuYAgzA&expires=1657572957&ip=148.0.147.108
 
 #EXTINF:-1 tvg-logo="https://3dl0u21nnqk62nshp111jz32-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/NV_Web_Logo_3D_20180904_900.png" ,NUESTRAVISION
 https://siloh-ns1.plutotv.net/lilo/production/Nuestravision/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" ,AZTECA 7
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/1_.m3u8?token=7IOm4oEQHlypI14_w3JJPg&expires=1657520139&ip=148.0.140.211
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/1_.m3u8?token=tBhxy4Yzl0WBZ8Lzqfgsgw&expires=1657572968&ip=148.0.147.108
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/1200px-Canal_5_Mexico_logo_2014.svg.png" ,CANAL 5 MX
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/2_.m3u8?token=3tx444j60UbR3oHOPwS0qg&expires=1657520182&ip=148.0.140.211
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/2_.m3u8?token=_NUCYMFiEcb51bnWMIx5Rg&expires=1657572984&ip=148.0.147.108
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo-latina-2014.png" ,LATINA
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/4_.m3u8?token=L-gf2SDgg16k9YyZGBP6rQ&expires=1657520228&ip=148.0.140.211
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/4_.m3u8?token=SbY_3o7Fm4iPYbzTULHo7g&expires=1657572994&ip=148.0.147.108
 
-#EXTINF:-1 tvg-logo="https://3dl0u21nnqk62nshp111jz32-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/NV_Web_Logo_3D_20180904_900.png" ,NUESTRAVISION
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Canal_N_2006-2017_%28con_l%C3%ADnea%29.png" ,CANAL N
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/197_.m3u8?token=bfj3qEnj2lDwvv-fZhOgQQ&expires=1657570995&ip=148.0.147.108
 
-#EXTINF:-1 tvg-logo="https://3dl0u21nnqk62nshp111jz32-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/NV_Web_Logo_3D_20180904_900.png" ,NUESTRAVISION
+#EXTINF:-1 tvg-logo="http://peru.mom-gmr.org/uploads/tx_lfrogmom/media/2015-205_import.png" ,WILLAX
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/153_.m3u8?token=4HTey3TZtxQUqFZk6W9gTQ&expires=1657571046&ip=148.0.147.108
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" ,TELEFE
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/45_.m3u8?token=NHapChPQ9iD46DBJR3IzTQ&expires=1657571083&ip=148.0.147.108
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-s3XRxOw23TM/Xumdt_7RE_I/AAAAAAAAJyo/xT6GKrJEuzwT9esOYabeapv6rZwOOXMkwCLcBGAsYHQ/s1600/el-trece.png" ,El Trece Argentina
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/46_.m3u8?token=_inZt375vPUvL284IMFbJg&expires=1657571139&ip=148.0.147.108
+
+#EXTINF:-1 tvg-logo="https://notinovelas.com/wp-content/uploads/2019/04/telemundo-logo.png" ,TELEMUNDO
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/48_.m3u8?token=9ePpAEQZtK3vMFekjrqoBw&expires=1657571209&ip=148.0.147.108
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png ,Pasiones Latinoamérica
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/51_.m3u8?token=vNuNdWfP_GddJx6p3lGgKA&expires=1657571288&ip=148.0.147.108
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Azteca_Uno.png" ,AZTECA UNO 
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/52_.m3u8?token=e9ZLKImLDPGbzLFSDaCNFg&expires=1657571363&ip=148.0.147.108
+
+#EXTINF:-1 tvg-logo="https://masmediatv.es/images/2020/canales-azcorazon.png" ,AZ CORAZON
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/198_.m3u8?token=YafdwCzs7G0SD0rT2yYuZA&expires=1657571406&ip=148.0.147.108
+
+#EXTINF:-1 tvg-logo="https://mplay.es/images/spsimpleportfolio/canal-azmundo/canales-azmundo_600x400.png" ,AZ MUNDO
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/53_.m3u8?token=qv4VCiYiRkkWtI8Xw5DHBQ&expires=1657571491&ip=148.0.147.108
+
+#EXTINF:-1 tvg-logo="https://live.staticflickr.com/1704/25634859013_42315466b0_o.png" ,AZ CINEMA
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/54_.m3u8?token=vXZUtsQyUaqvqOjWmvgRsg&expires=1657571563&ip=148.0.147.108
+
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/galavision_c.png" ,GALAVISION
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/55_.m3u8?token=joqWFYpFx20e3tA_ZJecnQ&expires=1657571609&ip=148.0.147.108
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tlnovelas_2011_logo.svg/1200px-Tlnovelas_2011_logo.svg.png" ,TLNOVELAS
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/56_.m3u8?token=F3oZvxF1aBFo8mJZ9v76_w&expires=1657571663&ip=148.0.147.108
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" ,LAS ESTRELLAS
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/57_.m3u8?token=o282QOKeywZaKW1ReweaMQ&expires=1657571705&ip=148.0.147.108
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/1200px-Caracol_TV_HD_logo.svg.png" ,CARACOL
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/59_.m3u8?token=GVz-1W6EbU-7Pah0x7z_JA&expires=1657571753&ip=148.0.147.108
+
+#EXTINF:-1 tvg-logo="https://imagenes.canalrcn.com/ImgCanal/imagenes/rcn-tevision-3.png" ,RCN
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/193_.m3u8?token=gJEOjN6vYchq4hs3kDv__A&expires=1657571824&ip=148.0.147.108
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" ,UNIVISION
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/62_.m3u8?token=FTzb5OrBt9whFozUcDYOew&expires=1657571871&ip=148.0.147.108
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/200px-Unicable_logo.svg.png" ,UNICABLE
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/63_.m3u8?token=GfKnEFevGeY2FI9QFBNCHg&expires=1657571958&ip=148.0.147.108
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" ,UNIMAS
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/64_.m3u8?token=Y3qhRmgBMgGvpxecycbs1Q&expires=1657572001&ip=148.0.147.108
 
 #EXTINF:-1 tvg-logo="https://3dl0u21nnqk62nshp111jz32-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/NV_Web_Logo_3D_20180904_900.png" ,NUESTRAVISION
 
@@ -542,8 +589,7 @@ https://mdstrm.com/live-stream-playlist/61e1e088d04d7744686afc42.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/787311506668924929/oP9Ajb2l_400x400.jpg" ,15TV
 https://hls.gvstream.live/telesistemas/15tv.stream/.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1344843564535132160/xT96d8Zv_400x400.jpg" ,El Trece Argentina
-https://edge6-hr.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2L4ODxgf_sU/hqdefault.jpg" ,DIEZMDP
 https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
@@ -605,8 +651,7 @@ https://brightstar-latino.secure.footprint.net/egress/bhandler/brightstar/bright
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/LOGO_COSMO.png" ,Canal Cosmopolitan (España)
 http://154.62.74.12:1935/live/smil:cosmoHD/.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhKQGDwKzD3c5JZSM2o8QCOB-xb6p1gN_3WHDqxv_o-zwujoFZTWL5FlW7SeuJBP9vhO6ISvmWLNxmtK6PqHRjY_c83eejP9dBu5uCkUIGswTJvll6mGH2xnaZSomw1c6Lx8Ln5I4qOBD45SobNIGoT4EVzmGHEBvgda4GZlA7g0FW57gfe-mFpDRGX" ,Pasiones Latinoamérica
-https://edge4-hr.cvattv.com.ar/live/c7eds/Pasiones/SA_SAGEMCOM/Pasiones.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgHN_1EUpmXnvt4YiWOXj3uDp1nLw2JOfjq47Bi8a5667Ln5rvP1C5hfq9lTukCRHrFwinKVmaV0oQ38WQrTJHqU89tzcm0CpkmfaPkh1-_fdMTfv3pe0GUpBvSyeOxooEFNa7r9vz6nVnlb4aBbtro2EqpvNmBuzwHSEYD4x5VLZtNBjOwsmtgAbU4" ,Las Estrellas Latinoamérica
 https://edge4-hr.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_SAGEMCOM/Canal_de_las_estrellas.m3u8
