@@ -262,28 +262,28 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 https://mavtv-mavtvglobal-1-gb.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png" ,Space
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/39_.m3u8?token=V59MUIhrf0hkJ4UwQkT_bA&expires=1657598086&ip=148.0.147.108
+https://edge1.prepro.cvattv.com.ar/live/vod/SpaceHD/SA_Live_WebVTT_FTA/SpaceHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" ,Warner Channel
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/40_.m3u8?token=--s7NFULM7oU9RWrf_ARvg&expires=1657572310&ip=148.0.147.108
+https://edge1.prepro.cvattv.com.ar/live/vod/WarnerHD/SA_Live_WebVTT_FTA/WarnerHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TNT.svg/1200px-TNT.svg.png" ,TNT 
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/41_.m3u8?token=Ad2XOkrzIdDqUQU0yXC9ag&expires=1657598105&ip=148.0.147.108
+https://edge1.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" ,TNT Series 
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/76_.m3u8?token=99Y5ItmMExUEIZdmcWZ3sQ&expires=1657598117&ip=148.0.147.108
+https://edge1.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTSeries.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-NDwbXJHYJMc/YT5RpJxdtpI/AAAAAAAAAOY/D1VEo88C3jwfky5Oiwww9TZX3ehLWpSfQCLcBGAsYHQ/h120/Cinemax.png" ,Cinemax Latinoamérica
-https://edge3.prepro.cvattv.com.ar/live/live/Cinemax/SA_Live_WebVTT_FTA/Cinemax.m3u8
+https://edge1.prepro.cvattv.com.ar/live/live/Cinemax/SA_Live_WebVTT_FTA/Cinemax.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" ,Cinecanal 
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/44_.m3u8?token=1NeYT7tI3Btz8IjkEPW9Ag&expires=1657598129&ip=148.0.147.108
+https://edge1.prepro.cvattv.com.ar/live/vod/CinecanalHD/SA_Live_WebVTT_FTA/CinecanalHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/syfy.png" ,Syfy
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/58_.m3u8?token=IqpieOxHS3DCsqgsZJsCpA&expires=1657598141&ip=148.0.147.108
+https://edge1.prepro.cvattv.com.ar/live/vod/SyFy/SA_Live_WebVTT_FTA/SyFy.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png" ,Star Channel
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/42_.m3u8?token=-Ryr1kMgC62-EoJz-jiMUg&expires=1657598153&ip=148.0.147.108
+https://edge-live12-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc_2A/FOXHD-mp4a_145200_eng=20003-scale=48000-init.mp4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Star_Series_2020.svg/640px-Star_Series_2020.svg.png" ,STAR SERIES
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/38_.m3u8?token=7iFOc3rSaVZ5u3NwlCvVlQ&expires=1657598171&ip=148.0.147.108
@@ -295,7 +295,7 @@ https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/69_.m3u8?token=2GOz_f6qis0Ue
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/133_.m3u8?token=bEsdDP1ZVe23a7VrZXRi-A&expires=1657572450&ip=148.0.147.108
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" ,FX 
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/70_.m3u8?token=ZqFzirY7y_L2EnwSFwsbsQ&expires=1657598209&ip=148.0.147.108
+https://edge1.prepro.cvattv.com.ar/live/vod/FXHD/SA_Live_WebVTT_FTA/FXHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/1200px-Canal_Golden_logo.svg.png" ,GOLDEN
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/202_.m3u8?token=WyFKEuR4NDXe4xMpr-ZbzQ&expires=1657598221&ip=148.0.147.108
@@ -316,37 +316,37 @@ https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/81_.m3u8?token=IyvNgYyMnnfFh
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/78_.m3u8?token=943BlZMC9e_hUhZCgTYP2A&expires=1657598278&ip=148.0.147.108
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-L4urlPJenM4/YUDqsI3xRzI/AAAAAAAAAPo/WxABCNWwctY6HWYhRClIYigkRaMuqu0LwCLcBGAsYHQ/h120/Universal_TV.png" ,Universal TV 
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/79_.m3u8?token=xfsQx1tnsrCJXIwPRTXrTA&expires=1657598288&ip=148.0.147.108
+https://edge1.prepro.cvattv.com.ar/live/vod/AMCHD/SA_Live_WebVTT_FTA/Universal_Channel_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" ,Studio Universal
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/80_.m3u8?token=it1ZsfW5-49DPQMD5FsE6Q&expires=1657598300&ip=148.0.147.108
+https://edge1.prepro.cvattv.com.ar/live/vod/AMCHD/SA_Live_WebVTT_FTA/Studio_Universal.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-cK4WNqOob_w/YUDpdrZzvEI/AAAAAAAAAPQ/DY9_xUdMjn0yP7ZbOfweOMYBReirkQeUACLcBGAsYHQ/h120/AMC.png" ,AMC 
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/82_.m3u8?token=pKTgtxin5SBIpb7GWGt8UA&expires=1657598312&ip=148.0.147.108
+https://edge1.prepro.cvattv.com.ar/live/vod/AMCHD/SA_Live_WebVTT_FTA/AMCHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/2560px-DPel%C3%ADcula_2021.svg.png" ,DPELICULA 
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/85_.m3u8?token=Ucwku_vHsdzrcWMo22_yJg&expires=1657598325&ip=148.0.147.108
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" ,TCM 
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/152_.m3u8?token=qd_w9uvAcBpE0oZK8LdQyw&expires=1657598335&ip=148.0.147.108
+https://edge1.prepro.cvattv.com.ar/live/vod/TCM/SA_Live_WebVTT_FTA/TCM.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-fdvJf2MjlgQ/YT5Q_HnjLrI/AAAAAAAAAOI/Wp9FNV3R06cBaDSCDcUD1sTJZwNT0rqgwCLcBGAsYHQ/h120/I.Sat.png" ,I-Sat
 https://edge3.prepro.cvattv.com.ar/live/vod/ISAT/SA_Live_WebVTT_FTA/ISAT.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" ,Paramount Network Latin America
-https://edge3.prepro.cvattv.com.ar/live/vod/Paramount/SA_Live_WebVTT_FTA/Paramount.m3u8
+https://edge1.prepro.cvattv.com.ar/live/vod/Paramount/SA_Live_WebVTT_FTA/Paramount.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/800px-A%26E_Network_logo.svg.png" ,A&E Latinoamérica
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/99_.m3u8?token=kWdWq8Q2w5rno6J7FhQoEw&expires=1657572644&ip=148.0.147.108
 
 #EXTINF:-1 tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/08/Comedy-Central-logo.png" ,Comedy Central Latinoamérica Sur
-https://edge3.prepro.cvattv.com.ar/live/vod/ComedyCentral/SA_Live_WebVTT_FTA/ComedyCentral.m3u8
+https://edge1.prepro.cvattv.com.ar/live/vod/ComedyCentral/SA_Live_WebVTT_FTA/ComedyCentral.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/640px-TBS_logo_2016.svg.png" ,TBS América Latina
-https://edge3.prepro.cvattv.com.ar/live/vod/TBS/SA_Live_WebVTT_FTA/TBS.m3u8
+https://edge1.prepro.cvattv.com.ar/live/vod/TBS/SA_Live_WebVTT_FTA/TBS.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" ,Tru TV América Latina
-https://edge3.prepro.cvattv.com.ar/live/vod/TruTV/SA_Live_WebVTT_FTA/TruTV.m3u8
+https://edge1.prepro.cvattv.com.ar/live/vod/TruTV/SA_Live_WebVTT_FTA/TruTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" ,Sony Channel Andes
 https://edge3.prepro.cvattv.com.ar/live/vod/SonyHD/SA_Live_WebVTT_FTA/SonyHD.m3u8
@@ -355,28 +355,28 @@ https://edge3.prepro.cvattv.com.ar/live/vod/SonyHD/SA_Live_WebVTT_FTA/SonyHD.m3u
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/103_.m3u8?token=Aq-waSPd6urldd6ojNScIA&expires=1657572721&ip=148.0.147.108
 
 #EXTINF:-1 tvg-logo="https://miracomosehace.com/wp-content/uploads/2020/03/logo-hbo.jpg" ,HBO Latinoamérica
-https://edge3.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
+https://edge1.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" ,HBO 2 Latinoamérica
-https://edge3.prepro.cvattv.com.ar/live/vod/HBO_2/SA_Live_WebVTT_FTA/HBO_2.m3u8
+https://edge1.prepro.cvattv.com.ar/live/vod/HBO_2/SA_Live_WebVTT_FTA/HBO_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-C2hpucnYYqA/YaWgOyW_ejI/AAAAAAAAAUM/XCtYnkouQwoetEzVooVzawqyyd5aF-SUQCLcBGAsYHQ/w480/ver-hbo-pop-hd-en-vivo-television-libre.png" ,HBO Pop Latinoamérica
 https://edge3.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-biPn5RxfU_4/YaWbnPMJkJI/AAAAAAAAAT8/0wAMWQUwV4YFIFBTL8KOAPhD7hhCJMjbACLcBGAsYHQ/w480/ver-hbo-mundi-hd-en-vivo-television-libre.png" ,HBO Mundi Latinoamérica
-https://edge3.prepro.cvattv.com.ar/live/vod/HBOMundi/SA_Live_WebVTT_FTA/HBOMundi.m3u8
+https://edge1.prepro.cvattv.com.ar/live/vod/HBOMundi/SA_Live_WebVTT_FTA/HBOMundi.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gvubVvYOgjk/YaWWkxGYDsI/AAAAAAAAATs/Cf26StPGO7AhtSl3dszCOqPjRkbOHZgJgCLcBGAsYHQ/h1280/ver-hbo-plus--hd-en-vivo-television-libre.png" ,HBO Plus Panamericano
-https://edge3.prepro.cvattv.com.ar/live/live/HBO_Plus/SA_Live_WebVTT_FTA/HBO_Plus.m3u8
+https://edge1.prepro.cvattv.com.ar/live/live/HBO_Plus/SA_Live_WebVTT_FTA/HBO_Plus.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-009OHodFDPg/YaWewZ_J19I/AAAAAAAAAUE/mKtrsaqOsiM1qwF1B2TYNxsA5-PeJgQmACLcBGAsYHQ/h1280/ver-hbo-signature-hd-en-vivo-television-libre.png" ,HBO Signature Latinoamérica
-https://edge3.prepro.cvattv.com.ar/live/live/HBO_Signature/SA_Live_WebVTT_FTA/HBO_Signature.m3u8
+https://edge1.prepro.cvattv.com.ar/live/live/HBO_Signature/SA_Live_WebVTT_FTA/HBO_Signature.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-VQjPcdlwvEk/YaWh_g61TLI/AAAAAAAAAUU/HZbtfm8uxGwb4NAN95MqtVLg3H2WZnW9QCLcBGAsYHQ/h1280/ver-hbo-xtreme-hd-en-vivo-television-libre.png" ,HBO Xtreme Latinoamérica
-https://edge3.prepro.cvattv.com.ar/live/vod/HBO_Extreme/SA_Live_WebVTT_FTA/HBO_Extreme.m3u8
+https://edge1.prepro.cvattv.com.ar/live/vod/HBO_Extreme/SA_Live_WebVTT_FTA/HBO_Extreme.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-cOG2wg6K0ek/YaWYxcaJ6OI/AAAAAAAAAT0/32z4us23azA49tFh3B-z3EtrZ5042oQBwCLcBGAsYHQ/h1280/ver-hbo-family-hd-en-vivo-television-libre.png" ,HBO Family Latinoamérica
-https://edge3.prepro.cvattv.com.ar/live/vod/HBOFamily/SA_Live_WebVTT_FTA/HBOFamily.m3u8
+https://edge1.prepro.cvattv.com.ar/live/vod/HBOFamily/SA_Live_WebVTT_FTA/HBOFamily.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/1200px-Energy.svg.png" ,Canal Energy
 http://154.62.74.28:1935/live/energy-Stream/chunklist_w1028201034.m3u8
@@ -412,25 +412,25 @@ https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/94_.m3u8?token=7yzZe4kDxz3ch
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/106_.m3u8?token=w337ZzwGi2RH51udiXv0tQ&expires=1657598437&ip=148.0.147.108
 
 #EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/3/35/Discovery_Channel.JPG/1200px-Discovery_Channel.JPG" ,Discovery Channel 
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/95_.m3u8?token=cRKfgtOgGwiMPmnizjjt7g&expires=1657598426&ip=148.0.147.108
+https://edge3.prepro.cvattv.com.ar/live/vod/DiscoveryHD/SA_Live_WebVTT_FTA/DiscoveryHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" ,Discovery Turbo 
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/96_.m3u8?token=62EkGmMnwOo0jZHdo9j0GA&expires=1657598448&ip=148.0.147.108
+https://edge1.prepro.cvattv.com.ar/live/vod/TLC/SA_Live_WebVTT_FTA/DiscoveryTurbo.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/816962948522508288/u9_NGzrW_400x400.jpg" ,Discovery Home & Health 
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/97_.m3u8?token=xlBb2vZYeZu2pulP36bspg&expires=1657598459&ip=148.0.147.108
+https://edge1.prepro.cvattv.com.ar/live/vod/DiscoveryHomeHealthHD/SA_Live_WebVTT_FTA/DiscoveryHomeHealthHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-AfuVdq0OWu4/Yfxi0A3wy0I/AAAAAAAAAXA/6z3Wj3CxHHoLnKzpD0e2LcqlAHGK_SxzQCNcBGAsYHQ/h1280/ver-discovery-id-en-vivo.png" ,Investigation Discovery
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/98_.m3u8?token=iJ9HZtlvAih2_Jn6_bIUGA&expires=1657572786&ip=148.0.147.108
+https://edge1.prepro.cvattv.com.ar/live/vod/TLC/SA_Live_WebVTT_FTA/ID.m3u8
 
 #EXTINF:-1 tvg-logo="https://dcom-prod.imgix.net/files/2020-12/tlc_thumb.png" ,DISCOVERY TLC
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/100_.m3u8?token=WkMhADL6iKdGrGDbfjQMVw&expires=1657598479&ip=148.0.147.108
+https://edge1.prepro.cvattv.com.ar/live/vod/TLC/SA_Live_WebVTT_FTA/TLC.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/2560px-2015_Discovery_theater_HD_logo.svg.png" ,Discovery Theater
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/101_.m3u8?token=TzS_Lxwp3NwRM5Xg0fH6OA&expires=1657572819&ip=148.0.147.108
+https://edge1.prepro.cvattv.com.ar/live/vod/TLC/SA_Live_WebVTT_FTA/Theater_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" ,Discovery Science Latinoamérica
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/101_.m3u8?token=7vh-DPztB9YK7wyvSpQPIw&expires=1657598492&ip=148.0.147.108
+https://edge1.prepro.cvattv.com.ar/live/vod/Discovery_Science/SA_Live_WebVTT_FTA/Discovery_Science.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" ,Discovery HD World Latinoamérica
 https://edge3.prepro.cvattv.com.ar/live/vod/DiscoveryWorldHD/SA_Live_WebVTT_FTA/DiscoveryWorldHD.m3u8
