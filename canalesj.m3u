@@ -211,19 +211,19 @@ https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr.m3u8
 https://edge3.prepro.cvattv.com.ar/live/vod/VTV_Plus_HD/SA_Live_WebVTT_FTA/VTV_Plus_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.directv.com/dtvassets/dtv/teamsite/images/logos/channels/dark/large/165.png" ,TUDN
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/3_.m3u8?token=2J6sJ7xg8eqFVwndnojDUA&expires=1657572043&ip=148.0.147.108
+https://ed3.zorrohd2.nl/live/flowitcaj0o.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/2560px-Gol_Per%C3%BA_2019.svg.png" ,GOL PERU
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/6_.m3u8?token=NjMHX3EM2TEVh4JkQJo2cg&expires=1657572064&ip=148.0.147.108
+https://ed3.zorrohd2.nl/live/ST1fdf0f877e6e90d.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/2560px-GolTV_logo.svg.png" ,GOL TV
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/7_.m3u8?token=jK1IemlvnH5A92j4qRmwKA&expires=1657572076&ip=148.0.147.108
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.sv2560px-GolTV_logo.svg.png" ,GOL TV
+https://ed3.zorrohd2.nl/live/ST412c08bf3969afd.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" ,WIN SPORTS
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/8_.m3u8?token=CDOM6RkmGjqaVMPpGTGunA&expires=1657572086&ip=148.0.147.108
+https://ed7.zorrohd2.nl/live/ST96261e37cddcc9c.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg9kusYu-mEJpzIZXMGqfvGuf7cZNQBgoAt8q8qSo0XqnMRFo2KDlCWLuD3LNgXS2n4oAxQWhL3fPiL6iw2EHw-BflGl3JWSHwPGiq5NI_9QJC_t51AHaaPrm9lFOfuxKjWMJP1U-X4uC26eV77oQKty1Y0OOxX61GylFOAgN4DxeaLZe22z9mXEgZm" ,TNT Sports Argentina
-https://edge3.prepro.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_Live_WebVTT_FTA/TNT_Sports_HD.m3u8
+https://ed3.zorrohd2.nl/live/flowitc8pxd.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-5GVI6jDtTwg/YaW15LD6VJI/AAAAAAAAAUk/UjYya0ti1Lg2wF3ucaU_29wjHipI2e-fQCLcBGAsYHQ/h1280/ver-fox-sports-premium-hd-en-vivo-television-libre.png" ,Fox Sports Premium
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/10_.m3u8?token=ooFLBdAVb7efYe6oTKxyGA&expires=1657572113&ip=148.0.147.108
