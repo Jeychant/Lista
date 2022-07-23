@@ -268,7 +268,7 @@ https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/SPACE/SA_HLS/SPACE.m3u8
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TNT.svg/1200px-TNT.svg.png" ,TNT 
-https://edge1.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
+https://cvi.cdn.rcs.net.ar/mnp/tnt_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" ,TNT Series 
 https://edge1.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTSeries.m3u8
