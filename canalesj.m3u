@@ -287,7 +287,7 @@ https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channe
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" ,FX 
-https://cvi.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
+https://wisp.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/1200px-Canal_Golden_logo.svg.png" ,GOLDEN
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/202_.m3u8?token=WyFKEuR4NDXe4xMpr-ZbzQ&expires=1657598221&ip=148.0.147.108
@@ -315,22 +315,22 @@ https://cvi.cdn.rcs.net.ar/mnp/tcm_hls/playlist.m3u8
 https://edge3.prepro.cvattv.com.ar/live/vod/ISAT/SA_Live_WebVTT_FTA/ISAT.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" ,Paramount Network Latin America
-https://cvi.cdn.rcs.net.ar/mnp/paramount_hls/playlist.m3u8
+https://wisp.cdn.rcs.net.ar/mnp/paramount_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/800px-A%26E_Network_logo.svg.png" ,A&E Latinoamérica
-https://cvi.cdn.rcs.net.ar/mnp/ae_hls/playlist.m3u8
+https://wisp.cdn.rcs.net.ar/mnp/ae_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/08/Comedy-Central-logo.png" ,Comedy Central Latinoamérica Sur
 https://cvi.cdn.rcs.net.ar/mnp/comedy_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/640px-TBS_logo_2016.svg.png" ,TBS América Latina
-https://cvi.cdn.rcs.net.ar/mnp/tbs_hls/playlist.m3u8
+https://wisp.cdn.rcs.net.ar/mnp/tbs_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" ,Tru TV América Latina
-https://cvi.cdn.rcs.net.ar/mnp/trutv_hls/playlist.m3u8
+https://wisp.cdn.rcs.net.ar/mnp/trutv_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" ,Sony Channel Andes
-https://cvi.cdn.rcs.net.ar/mnp/sony_hls/playlist.m3u8
+https://wisp.cdn.rcs.net.ar/mnp/sony_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2012/04/e_logo-724x1024.jpg" ,E! Latinoamérica
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/103_.m3u8?token=Aq-waSPd6urldd6ojNScIA&expires=1657572721&ip=148.0.147.108
