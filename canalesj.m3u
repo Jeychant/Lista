@@ -262,81 +262,81 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 https://mavtv-mavtvglobal-1-gb.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png" ,Space
-https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/Space/SA_HLS/Space.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" ,Warner Channel
-https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/warner_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TNT.svg/1200px-TNT.svg.png" ,TNT 
-https://cvi.cdn.rcs.net.ar/mnp/tnt_hls/playlist.m3u8
+https://coteflan.cdn.rcs.net.ar/mnp/tnt_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" ,TNT Series 
-https://cvi.cdn.rcs.net.ar/mnp/tntseries_hls/playlist.m3u8
+https://coteflan.cdn.rcs.net.ar/mnp/tntseries_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-NDwbXJHYJMc/YT5RpJxdtpI/AAAAAAAAAOY/D1VEo88C3jwfky5Oiwww9TZX3ehLWpSfQCLcBGAsYHQ/h120/Cinemax.png" ,Cinemax Latinoamérica
-https://cvi.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
+https://coteflan.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" ,Cinecanal 
-https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Cinecanal/SA_HLS/Cinecanal.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/cinecanal_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/syfy.png" ,Syfy
-https://cvi.cdn.rcs.net.ar/mnp/syfy_hls/playlist.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/syfy_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png" ,Star Channel
-https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8
+https://coteflan.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" ,FX 
-https://wisp.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/1200px-Canal_Golden_logo.svg.png" ,GOLDEN
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/202_.m3u8?token=WyFKEuR4NDXe4xMpr-ZbzQ&expires=1657598221&ip=148.0.147.108
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" ,AXN 
-https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/AXN/SA_HLS/AXN.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-L4urlPJenM4/YUDqsI3xRzI/AAAAAAAAAPo/WxABCNWwctY6HWYhRClIYigkRaMuqu0LwCLcBGAsYHQ/h120/Universal_TV.png" ,Universal TV 
-https://cvi.cdn.rcs.net.ar/mnp/universal_hls/playlist.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/universal_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" ,Studio Universal
-https://ubnet.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal.m3u8
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-cK4WNqOob_w/YUDpdrZzvEI/AAAAAAAAAPQ/DY9_xUdMjn0yP7ZbOfweOMYBReirkQeUACLcBGAsYHQ/h120/AMC.png" ,AMC 
-https://cvi.cdn.rcs.net.ar/mnp/amc_hls/playlist.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/amc_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/2560px-DPel%C3%ADcula_2021.svg.png" ,DPELICULA 
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/85_.m3u8?token=Ucwku_vHsdzrcWMo22_yJg&expires=1657598325&ip=148.0.147.108
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" ,TCM 
-https://cvi.cdn.rcs.net.ar/mnp/tcm_hls/playlist.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/tcm_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-fdvJf2MjlgQ/YT5Q_HnjLrI/AAAAAAAAAOI/Wp9FNV3R06cBaDSCDcUD1sTJZwNT0rqgwCLcBGAsYHQ/h120/I.Sat.png" ,I-Sat
 https://edge3.prepro.cvattv.com.ar/live/vod/ISAT/SA_Live_WebVTT_FTA/ISAT.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" ,Paramount Network Latin America
-https://wisp.cdn.rcs.net.ar/mnp/paramount_hls/playlist.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/paramount_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/800px-A%26E_Network_logo.svg.png" ,A&E Latinoamérica
-https://wisp.cdn.rcs.net.ar/mnp/ae_hls/playlist.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/ae_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/08/Comedy-Central-logo.png" ,Comedy Central Latinoamérica Sur
-https://cvi.cdn.rcs.net.ar/mnp/comedy_hls/playlist.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/comedy_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/640px-TBS_logo_2016.svg.png" ,TBS América Latina
-https://wisp.cdn.rcs.net.ar/mnp/tbs_hls/playlist.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/tbs_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" ,Tru TV América Latina
-https://wisp.cdn.rcs.net.ar/mnp/trutv_hls/playlist.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/trutv_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" ,Sony Channel Andes
-https://wisp.cdn.rcs.net.ar/mnp/sony_hls/playlist.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/sony_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2012/04/e_logo-724x1024.jpg" ,E! Latinoamérica
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/103_.m3u8?token=Aq-waSPd6urldd6ojNScIA&expires=1657572721&ip=148.0.147.108
 
 #EXTINF:-1 tvg-logo="https://miracomosehace.com/wp-content/uploads/2020/03/logo-hbo.jpg" ,HBO Latinoamérica
-https://cvi.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
+https://is-santoto.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" ,HBO 2 Latinoamérica
 https://cvi.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
@@ -372,13 +372,13 @@ https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
 https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" ,Cine.ar
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/cinear_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" ,History 
-https://cvi.cdn.rcs.net.ar/mnp/history_hls/playlist.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/history_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" ,History 2 
-https://cvi.cdn.rcs.net.ar/mnp/h2_hls/playlist.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/h2_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.natgeofe.com/n/e76f5368-6797-4794-b7f6-8d757c79ea5c/ng-logo-2fl.png" ,National Geographic Centro
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/92_.m3u8?token=DhQV625HZ5Xpl5YY3mpmhw&expires=1657598382&ip=148.0.147.108
@@ -387,37 +387,37 @@ https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/92_.m3u8?token=DhQV625HZ5Xpl
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/93_.m3u8?token=1lOAdizCWy4h9158vb4PGA&expires=1657598394&ip=148.0.147.108
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1067px-2018_Animal_Planet_logo.svg.png" ,Animal Planet 
-https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet.m3u8
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" ,El Gourmet 
-https://cvi.cdn.rcs.net.ar/mnp/gourmet_hls/playlist.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/gourmet_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/3/35/Discovery_Channel.JPG/1200px-Discovery_Channel.JPG" ,Discovery Channel 
-https://cvi.cdn.rcs.net.ar/mnp/discovery_hls/playlist.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/discovery_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" ,Discovery Turbo 
-https://cvi.cdn.rcs.net.ar/mnp/dsc_turbo_hls/playlist.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/dsc_turbo_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/816962948522508288/u9_NGzrW_400x400.jpg" ,Discovery Home & Health 
-https://edge1.prepro.cvattv.com.ar/live/vod/DiscoveryHomeHealthHD/SA_Live_WebVTT_FTA/DiscoveryHomeHealthHD.m3u8
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Home_Health/SA_HLS/Home_Health.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-AfuVdq0OWu4/Yfxi0A3wy0I/AAAAAAAAAXA/6z3Wj3CxHHoLnKzpD0e2LcqlAHGK_SxzQCNcBGAsYHQ/h1280/ver-discovery-id-en-vivo.png" ,Investigation Discovery
-https://edge1.prepro.cvattv.com.ar/live/vod/TLC/SA_Live_WebVTT_FTA/ID.m3u8
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discovery_ID.m3u8
 
 #EXTINF:-1 tvg-logo="https://dcom-prod.imgix.net/files/2020-12/tlc_thumb.png" ,DISCOVERY TLC
-https://cvi.cdn.rcs.net.ar/mnp/dsc_tlc_hls/playlist.m3u8
+https://coop-montehermoso.cdn.rcs.net.ar/mnp/dsc_tlc_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/2560px-2015_Discovery_theater_HD_logo.svg.png" ,Discovery Theater
 https://edge1.prepro.cvattv.com.ar/live/vod/TLC/SA_Live_WebVTT_FTA/Theater_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" ,Discovery Science Latinoamérica
-https://cvi.cdn.rcs.net.ar/mnp/dsc_sci_hls/playlist.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/dsc_sci_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" ,Discovery HD World Latinoamérica
 https://edge3.prepro.cvattv.com.ar/live/vod/DiscoveryWorldHD/SA_Live_WebVTT_FTA/DiscoveryWorldHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhWU7qTkDs3xwDNs8Ma9dfG1R4PEnjNr4tQkQT2VnRCmLimj4dC5VfGeAg__wPr8pzRHzWBfuuqNionC5CJz5ro8ymVHmo1-9LSEEEW1EgC6WEXlvN6Hsxuyso7RjM_4UbPYcSxhS92j6jFMlw-RzUwpTDKfoMxjxvSlfupuoUjMHtcvSF6BHncy1xl" ,Lifetime Latinoamérica
-https://cvi.cdn.rcs.net.ar/mnp/lifetime_hls/playlist.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/lifetime_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjDU2-NQ_ygyPrpD025WEqRBXaeaoomAOY0xdNvWJ_j-RP3tV5_5rlTvXrd1SrawikXi77-O-4t4cbgLhGzr7yOmb7wn7FTmxCJpzZLePTQR0aWRVAuKzSFnvecrf6f6gSEn_c3eBmvP_yhsuS1fagbMTtYTBi7Tr-dHO0-nQVk92nZRC-bxiCRxwwL" ,Food Network Latinoamérica
 https://edge3.prepro.cvattv.com.ar/live/vod/FoodNetwork/SA_Live_WebVTT_FTA/FoodNetwork.m3u8
