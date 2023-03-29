@@ -1,5 +1,8 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-logo="https://cordcutting.com/wp-content/uploads/2018/07/unimas-logo.png" ,Unimas
+https://ddy2.onlinewebtv.lol/ddy2/premium133/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://allvectorlogo.com/img/2016/07/sitv-logo.png" ,Sitv (República Dominicana)
 http://51.81.93.29:8084/hls/sitv2.m3u8
 
