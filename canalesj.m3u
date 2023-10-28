@@ -148,7 +148,7 @@ https://cdn2.streamgato.us/clarovision/clarovision/chunklist_w80283626.m3u8
 https://rctvhd.net:8081/teleradioamerica/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/12/luna-tv-canal-53-en-vivo.jpg"  ,LUNA TV (República Dominicana)
-https://ss2.domint.net:3228/luna_str/lunatv/chunklist_w446040124.m3u8
+https://streaming.ath.cx:1936/lunatv/lunatv/chunklist_w365991264.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/07/super-tv-55-en-vivo.jpg"  ,SUPER TV 55 (República Dominicana)
 https://ss2.domint.net:3236/stv_str/supertv55/chunklist_w905335610.m3u8
