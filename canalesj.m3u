@@ -1,180 +1,179 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="https://cordcutting.com/wp-content/uploads/2018/07/unimas-logo.png" ,Unimas
-https://sky.hlsjs.ru/sky/premium131/tracks-v1a1/mono.m3u8
+DOMINICANOS 😁
 
-#EXTINF:-1 tvg-logo="https://allvectorlogo.com/img/2016/07/sitv-logo.png" ,Sitv (República Dominicana)
+#EXTINF:-1 tvg-logo="https://allvectorlogo.com/img/2016/07/sitv-logo.png" group-title="DOMINICANOS",Sitv
 http://51.81.93.29:8084/hls/sitv2.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/05/teleantillas-en-vivo-canal-2-online.jpg" ,Canal 2 de Tele Antillas (República Dominicana)
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/05/teleantillas-en-vivo-canal-2-online.jpg" group-title="DOMINICANOS",Canal 2 de Tele Antillas
 http://51.81.106.157:8084/hls/tantillas.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/tv_plata_canal_3.jpg"  ,TV PLATA 3 (República Dominicana)
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/tv_plata_canal_3.jpg"  group-title="DOMINICANOS",TV PLATA 3
 https://ss9.domint.net:3032/tvp_str/tvp2111/chunklist_w1894196728.m3u8
 
 #EXTINF:-1  tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/Canal-4-rd-en-vivo-y-directo.png" group-title="DOMINICANOS",Canal 4
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png" ,Canal 5 de Telemicro (República Dominicana)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png" group-title="DOMINICANOS",Telemicro
 http://51.81.93.239:8084/hls/tmicro.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/rumba-985-en-vivo.jpg" ,RUMBA 98.5 (República Dominicana)
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/rumba-985-en-vivo.jpg" group-title="DOMINICANOS",RUMBA 98.5
 https://ss5.domint.net:3038/rum_str/rumba985fm/chunklist_w2101210168.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/antena-canal-7-en-vivo-online.jpg" ,Canal 7 de Antena Latina (República Dominicana)
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/antena-canal-7-en-vivo-online.jpg" group-title="DOMINICANOS",Antena Latina
 http://51.81.106.157:8084/hls/alatina.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/telemax.png" ,Telemax RD (República Dominicana)
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/telemax.png" group-title="DOMINICANOS",Telemax RD
 https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/color-vision-canal-9-en-vivo-online.png" ,Canal 9 de Color Visión (República Dominicana)
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/color-vision-canal-9-en-vivo-online.png" group-title="DOMINICANOS",Color Visión
 http://51.81.106.157:8084/hls/colorABR.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.telesur.com.do/images/telesur_canal_10_logo2.png",TELESUR CANAL 10 (República Dominicana)
+#EXTINF:-1 tvg-logo="http://www.telesur.com.do/images/telesur_canal_10_logo2.png" group-title="DOMINICANOS",TELESUR CANAL 10
 https://ss3.domint.net:3124/tls_str/telesur/chunklist_w798170752.m3u8
 G
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telesistema-canal-11-en-vivo-online.png" ,Canal Telesistema 11 (República Dominicana)
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telesistema-canal-11-en-vivo-online.png" group-title="DOMINICANOS",Telesistema 11
 http://51.81.93.239:8084/hls/tsistemas.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/bonao-tv-en-vivo-online-canal-12.jpg"  ,BONAO TV (República Dominicana)
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/bonao-tv-en-vivo-online-canal-12.jpg"  group-title="DOMINICANOS",BONAO TV
 https://ss5.domint.net:3026/btv_str/bonao/chunklist_w1023022608.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telecentro-canal-13-en-vivo.png"  ,Canal Telecentro (13 de República Dominicana)
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telecentro-canal-13-en-vivo.png"  group-title="DOMINICANOS",Telecentro
 http://51.81.93.239:8084/hls/telecentro.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/bajo-techo-tv-en-vivo.jpg"  ,BAJO TECHO TV (República Dominicana)
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/bajo-techo-tv-en-vivo.jpg"  group-title="DOMINICANOS",BAJO TECHO TV
 https://cdn4.hostlagarto.com:8081/static/bajotechotv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/digital-15-en-vivo-online.jpg"  ,Canal 15 (Digital Quince Telemicro) (República Dominicana)
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/digital-15-en-vivo-online.jpg"  group-title="DOMINICANOS",Digital Quince 15
 http://51.81.93.239:8084/hls/d15.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/08/tvo-romana-en-vivo-online.jpg"  ,TVO ROMANA (República Dominicana)
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/08/tvo-romana-en-vivo-online.jpg"  group-title="DOMINICANOS",TVO ROMANA
 https://rctvhd.net:8081/tvoromanalive/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/teleunion_canal_16_santiago.jpg"  ,Canal Teleunion (República Dominicana)
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/teleunion_canal_16_santiago.jpg"  group-title="DOMINICANOS",Canal Teleunion
 http://server3.prostudionetwork.com:1945/teleunion/TU/chunklist_w777712053.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/telenord.jpg" ,TELENORD (República Dominicana)
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/telenord.jpg" group-title="DOMINICANOS",TELENORD
 http://newyorkstream.ddns.net:5854/telenord8/telenord8/chunklist_w509216998.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/cinevision-canal-19-en-vivo-online.jpg"  ,CINEVISION (República Dominicana)
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/cinevision-canal-19-en-vivo-online.jpg"  group-title="DOMINICANOS",CINEVISION
 https://live.teledom.info:3713/live/cinevisionlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/comunion-tv.png"  ,COMUNION TV (República Dominicana)
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/comunion-tv.png"  group-title="DOMINICANOS",COMUNION TV 
 http://50.30.37.36:1935/live/stream/chunklist_w199173519.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Antena_21_2017.png/revision/latest?cb=20171109210821"  ,ANTENA 21 (República Dominicana)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Antena_21_2017.png/revision/latest?cb=20171109210821"  group-title="DOMINICANOS",ANTENA 21
 http://51.81.93.239:8084/hls/a21.m3u8
 
-#EXTINF:-1 tvg-logo="https://senalestv.com/wp-content/themes/senalestv/wp/inc/images/logos/logo-senalestv.png" ,SEÑALES TV (República Dominicana)
+#EXTINF:-1 tvg-logo="https://senalestv.com/wp-content/themes/senalestv/wp/inc/images/logos/logo-senalestv.png" group-title="DOMINICANOS",SEÑALES TV
 https://live.teledom.info:4000/live/senalestvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telefuturo-canal-23-en-vivo-online.jpg" ,TELEFUTURO 23 (República Dominicana)
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telefuturo-canal-23-en-vivo-online.jpg" group-title="DOMINICANOS",TELEFUTURO 23 
 https://ss9.domint.net:3054/tf_str/telefuturo/chunklist_w2121423103.m3u8
 
-#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/teleimpacto52.png" ,Teleimpacto (República Dominicana)
+#EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/teleimpacto52.png" group-title="DOMINICANOS",Teleimpacto 
 http://190.122.96.188:8888/http/013
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/cana-vision-canal-88-bavaro.png"  ,CANA VISION (República Dominicana)
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/cana-vision-canal-88-bavaro.png"  group-title="DOMINICANOS",CANA VISION 
 https://cdn2.streamgato.us/canatvdigital/canatvdigital/chunklist_w32549708.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/canal-25-en-vivo-santiago-online.jpg"  ,CANAL 25 (República Dominicana)
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/canal-25-en-vivo-santiago-online.jpg"  group-title="DOMINICANOS",CANAL 25 
 https://ss3.domint.net:3150/c25_str/canal25/chunklist_w962955768.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/mun2-tv.jpg"  ,MUN2 TV (República Dominicana)
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/mun2-tv.jpg"  group-title="DOMINICANOS",MUN2 TV 
 https://servers.amelbasoluciones.co:19360/mun2tv/mun2tv.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/rnn-canal-27-en-vivo.jpg"  ,RNN CANAL 27 (República Dominicana)
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/rnn-canal-27-en-vivo.jpg"  group-title="DOMINICANOS",RNN CANAL 27 
 https://ss2.domint.net:3202/rnn_str/canal27/chunklist_w424115432.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/opcion-tv.jpg"  ,OPCION TV (República Dominicana)
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/opcion-tv.jpg"  group-title="DOMINICANOS",OPCION TV 
 https://5790d294af2dc.streamlock.net/8066/8066/chunklist_w612515886.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/teleuniverso-canal-29-online-en-vivo.jpg",Canal 29 de TeleUniverso (República Dominicana)
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/teleuniverso-canal-29-online-en-vivo.jpg" group-title="DOMINICANOS",Canal 29 de TeleUniverso
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/cdnsports.png",Canal CDN-SportsMax (República Dominicana)
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/cdnsports.png" group-title="DOMINICANOS",Canal CDN-SportsMax
 http://51.81.93.239:8084/hls/cdnsm.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/ctn-tv-en-vivo.jpg"  ,CNT TV (República Dominicana)
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/ctn-tv-en-vivo.jpg"  group-title="DOMINICANOS",CNT TV
 https://59ef525c24caa.streamlock.net/ctn/ctn/chunklist_w1839109183.m3u8
 
-#EXTINF:-1 tvg-logo="https://telever.com.do/wp-content/uploads/2021/04/cropped-logotelever.png" ,TELEVER (República Dominicana)
+#EXTINF:-1 tvg-logo="https://telever.com.do/wp-content/uploads/2021/04/cropped-logotelever.png" group-title="DOMINICANOS",TELEVER 
 https://megastreamm.com:3484/live/televerlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://emisoradominicana.net/television/wp-content/uploads/2015/06/farovision.jpg"  ,FARO VISION (República Dominicana)
+#EXTINF:-1 tvg-logo="https://emisoradominicana.net/television/wp-content/uploads/2015/06/farovision.jpg"  group-title="DOMINICANOS",FARO VISION 
 https://5790d294af2dc.streamlock.net/8128/8128/chunklist_w247416732.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/delta-tv-canal-50.png"  ,DELTA TV (República Dominicana)
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/delta-tv-canal-50.png"  group-title="DOMINICANOS",DELTA TV 
 https://cm.hostlagarto.com:4445/deltatv/deltatv50.myStream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/precidential.png" ,PRESIDENTIAL (República Dominicana)
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/precidential.png" group-title="DOMINICANOS",PRESIDENTIAL 
 https://5790d294af2dc.streamlock.net/8042/8042/chunklist_w736112464.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/vozz-media-network.png" ,VOZZ MEDIA (República Dominicana)
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/vozz-media-network.png" group-title="DOMINICANOS",VOZZ MEDIA 
 https://ss5.domint.net:3032/vozz_str/vozzmedia/chunklist_w1896640088.m3u8
 
-#EXTINF:-1 tvg-logo="https://m.cdn.com.do/wp-content/uploads/2019/04/ae9fa439-9aa23ad9-logo-nuevo-cdn.png" ,Canal 37 de CDN (República Dominicana)
+#EXTINF:-1 tvg-logo="https://m.cdn.com.do/wp-content/uploads/2019/04/ae9fa439-9aa23ad9-logo-nuevo-cdn.png" group-title="DOMINICANOS",Canal 37 de CDN 
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/chunklist_b4628000.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/crom-tv-el-canal-del-siglo.png" ,CROM TV (República Dominicana)
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/crom-tv-el-canal-del-siglo.png" group-title="DOMINICANOS",CROM TV 
 https://cdn4.hostlagarto.com:8081/static/cromtv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://dominicancinema.com/wp-content/uploads/2016/02/coral39-.jpg" ,Coral 39 (República Dominicana)
+#EXTINF:-1 tvg-logo="https://dominicancinema.com/wp-content/uploads/2016/02/coral39-.jpg" group-title="DOMINICANOS",Coral 39 
 http://190.122.96.188:8888/http/005
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/carivision-canal-26.png" ,CARIVISION (República Dominicana)
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/carivision-canal-26.png" group-title="DOMINICANOS",CARIVISION 
 https://ss5.domint.net:3174/car_str/carivision/chunklist_w551659045.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/ready-tv-canal-6.png" ,READY TV (República Dominicana)
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/ready-tv-canal-6.png" group-title="DOMINICANOS",READY TV 
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/chunklist_w301678104.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/megavision_canal_43_santiago.jpg"  ,MEGAVISION (República Dominicana)
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/megavision_canal_43_santiago.jpg"  group-title="DOMINICANOS",MEGAVISION 
 http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w171857719.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/vegavision-canal-18.jpg" ,VEGAVISION (República Dominicana)
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/vegavision-canal-18.jpg" group-title="DOMINICANOS",VEGAVISION 
 https://cdn4.hostlagarto.com:8081/static/canal18hd/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/telebendicion.jpg"  ,TELEBENDICION (República Dominicana)
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/telebendicion.jpg"  group-title="DOMINICANOS",TELEBENDICION 
 https://ss5.domint.net:3180/tbt_str/telebendicion/chunklist_w643301376.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/tele-oriental-digital.jpg" ,TELEORIENTAL (República Dominicana)
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/tele-oriental-digital.jpg" group-title="DOMINICANOS",TELEORIENTAL
 https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8?DVR
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/clarovision-tv.jpg" ,CLAROVISION (República Dominicana)
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/clarovision-tv.jpg" group-title="DOMINICANOS",CLAROVISION 
 https://cdn2.streamgato.us/clarovision/clarovision/chunklist_w80283626.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/teleradio-america-canal-45-en-vivo.jpg" ,TELERADIO AMERICA (República Dominicana)
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/teleradio-america-canal-45-en-vivo.jpg" group-title="DOMINICANOS",TELERADIO AMERICA 
 https://rctvhd.net:8081/teleradioamerica/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/12/luna-tv-canal-53-en-vivo.jpg"  ,LUNA TV (República Dominicana)
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/12/luna-tv-canal-53-en-vivo.jpg"  group-title="DOMINICANOS",LUNA TV 
 https://streaming.ath.cx:1936/lunatv/lunatv/chunklist_w365991264.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/07/super-tv-55-en-vivo.jpg"  ,SUPER TV 55 (República Dominicana)
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/07/super-tv-55-en-vivo.jpg"  group-title="DOMINICANOS",SUPER TV 55 
 https://ss2.domint.net:3236/stv_str/supertv55/chunklist_w905335610.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telecontacto-canal-57-en-vivo.jpg" ,TELECONTACTO (República Dominicana)
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telecontacto-canal-57-en-vivo.jpg" group-title="DOMINICANOS",TELECONTACTO 
 https://vdo1.streamgato.us:3578/live/telecontactohdlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/policia-tv.jpg"  ,POLICIA TV (República Dominicana)
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/policia-tv.jpg"  group-title="DOMINICANOS",POLICIA TV 
 https://cdn2.streamgato.us/policiard/policiard/chunklist_w1489470896.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/alegrando-tv.jpg"  ,ALEGRANDO TV (República Dominicana)
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/alegrando-tv.jpg"  group-title="DOMINICANOS",ALEGRANDO TV 
 https://cdn2.streamgato.us/alegrandotv/alegrandotv/chunklist_w948369323.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-mHM64wTlYZM/YBvad8R2qKI/AAAAAAAAD20/9S_K3wWV5IIA-u4KYFrVEKsMEKv8yl5zACLcBGAsYHQ/s300/microvision-en-vivo-canal-10-online.png"  ,MICROVISION (República Dominicana)
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-mHM64wTlYZM/YBvad8R2qKI/AAAAAAAAD20/9S_K3wWV5IIA-u4KYFrVEKsMEKv8yl5zACLcBGAsYHQ/s300/microvision-en-vivo-canal-10-online.png"  group-title="DOMINICANOS",MICROVISION 
 https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w495146805.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1167313632/MayimbeTV_400x400.jpg"  ,Mayimbe TV Republica Dominicana
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1167313632/MayimbeTV_400x400.jpg"  group-title="DOMINICANOS",Mayimbe TV
 http://51.81.106.147:8084/hls/mayimbe.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.hilandofinotv.com/wp-content/uploads/2020/07/cropped-Imagen1..png"  ,Hilando Fino TV Republica Dominicana
+#EXTINF:-1 tvg-logo="http://www.hilandofinotv.com/wp-content/uploads/2020/07/cropped-Imagen1..png"  group-title="DOMINICANOS",Hilando Fino TV 
 http://190.122.96.188:8888/http/009
 
-#EXTINF:-1 tvg-logo="https://domintapi.com/images/station/domint872img09-29-20191569780654.jpeg"  ,Zol TV 
+#EXTINF:-1 tvg-logo="https://domintapi.com/images/station/domint872img09-29-20191569780654.jpeg"  group-title="DOMINICANOS",Zol TV 
 https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-vdb78vhdNn0/YPbYGA6dKsI/AAAAAAAAP8E/vvcaU7V36eAHQcWBdwC3W0xnFabifez3gCLcBGAsYHQ/s16000/Ame%2B47%2Ben%2Bvivo.png"  ,Ame47
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-vdb78vhdNn0/YPbYGA6dKsI/AAAAAAAAP8E/vvcaU7V36eAHQcWBdwC3W0xnFabifez3gCLcBGAsYHQ/s16000/Ame%2B47%2Ben%2Bvivo.png"  group-title="DOMINICANOS",Ame47
 https://ss9.domint.net:3040/ame_str/amecanal47/chunklist_w1220930584.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png" ,RT Español
