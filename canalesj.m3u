@@ -335,8 +335,8 @@ https://edge3.prepro.cvattv.com.ar/live/vod/ISAT/SA_Live_WebVTT_FTA/ISAT.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" ,Paramount Network Latin America
 https://delivery.cdn.rcs.net.ar/mnp/paramount_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/800px-A%26E_Network_logo.svg.png" ,A&E Latinoamérica
-https://delivery.cdn.rcs.net.ar/mnp/ae_hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/800px-A%26E_Network_logo.svg.png" group-title="CINE",A&E 
+http://209.126.106.30:8081/live/bfceea423125435d9d165cdfef587fa0/ad681fb248cc49089dfdac21f2089ee7/55.m3u8
 
 #EXTINF:-1 tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/08/Comedy-Central-logo.png" ,Comedy Central Latinoamérica Sur
 https://delivery.cdn.rcs.net.ar/mnp/comedy_hls/playlist.m3u8
