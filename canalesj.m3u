@@ -277,7 +277,7 @@ CINE
 
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-cK4WNqOob_w/YUDpdrZzvEI/AAAAAAAAAPQ/DY9_xUdMjn0yP7ZbOfweOMYBReirkQeUACLcBGAsYHQ/h120/AMC.png" group-title="CINE",MAVTV,AMC 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-cK4WNqOob_w/YUDpdrZzvEI/AAAAAAAAAPQ/DY9_xUdMjn0yP7ZbOfweOMYBReirkQeUACLcBGAsYHQ/h120/AMC.png" group-title="CINE",AMC 
 http://209.126.119.148:20102/live/2f3c87385e534fca9e0de7820b2fe9fa/6e005adcdbc3455eac0a6ca7a685b011/423.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png" group-title="CINE",Space
