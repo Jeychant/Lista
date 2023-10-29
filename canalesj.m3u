@@ -280,53 +280,53 @@ CINE
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-cK4WNqOob_w/YUDpdrZzvEI/AAAAAAAAAPQ/DY9_xUdMjn0yP7ZbOfweOMYBReirkQeUACLcBGAsYHQ/h120/AMC.png" group-title="CINE",MAVTV,AMC 
 http://209.126.119.148:20102/live/2f3c87385e534fca9e0de7820b2fe9fa/6e005adcdbc3455eac0a6ca7a685b011/423.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png" ,Space
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png" group-title="CINE",Space
 https://delivery.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" ,Warner Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="CINE",Warner Channel
 https://delivery.cdn.rcs.net.ar/mnp/warner_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TNT.svg/1200px-TNT.svg.png" ,TNT 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TNT.svg/1200px-TNT.svg.png" group-title="CINE",TNT 
 https://coteflan.cdn.rcs.net.ar/mnp/tnt_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" ,TNT Series 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CINE",TNT Series 
 https://coteflan.cdn.rcs.net.ar/mnp/tntseries_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-NDwbXJHYJMc/YT5RpJxdtpI/AAAAAAAAAOY/D1VEo88C3jwfky5Oiwww9TZX3ehLWpSfQCLcBGAsYHQ/h120/Cinemax.png" ,Cinemax Latinoamérica
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-NDwbXJHYJMc/YT5RpJxdtpI/AAAAAAAAAOY/D1VEo88C3jwfky5Oiwww9TZX3ehLWpSfQCLcBGAsYHQ/h120/Cinemax.png" group-title="CINE",Cinemax Latinoamérica
 http://158.69.116.209:20102/live/cbaaedf0c18e4482925c4032b4960086/f0a3c72eb2044fa59d5abbf086cf880f/6.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" ,Cinecanal 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="CINE",Cinecanal 
 https://delivery.cdn.rcs.net.ar/mnp/cinecanal_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/syfy.png" ,Syfy
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/syfy.png" group-title="CINE",Syfy
 https://delivery.cdn.rcs.net.ar/mnp/syfy_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png" ,Star Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png" group-title="CINE",Star Channel
 http://158.69.116.209:20102/live/18e73bf5784948419be017da8723a6cb/7057b6234bf046ee88782b8f5f191d8f/39.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" ,FX 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="CINE",FX 
 https://delivery.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/1200px-Canal_Golden_logo.svg.png" ,GOLDEN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/1200px-Canal_Golden_logo.svg.png" group-title="CINE",GOLDEN
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/202_.m3u8?token=WyFKEuR4NDXe4xMpr-ZbzQ&expires=1657598221&ip=148.0.147.108
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" ,AXN 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="CINE",AXN 
 https://delivery.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-L4urlPJenM4/YUDqsI3xRzI/AAAAAAAAAPo/WxABCNWwctY6HWYhRClIYigkRaMuqu0LwCLcBGAsYHQ/h120/Universal_TV.png" ,Universal TV 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-L4urlPJenM4/YUDqsI3xRzI/AAAAAAAAAPo/WxABCNWwctY6HWYhRClIYigkRaMuqu0LwCLcBGAsYHQ/h120/Universal_TV.png" group-title="CINE",Universal TV 
 https://delivery.cdn.rcs.net.ar/mnp/universal_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" ,Studio Universal
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" group-title="CINE",Studio Universal
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/2560px-DPel%C3%ADcula_2021.svg.png" ,DPELICULA 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/2560px-DPel%C3%ADcula_2021.svg.png" group-title="CINE",DPELICULA 
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/85_.m3u8?token=Ucwku_vHsdzrcWMo22_yJg&expires=1657598325&ip=148.0.147.108
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" ,TCM 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="CINE",TCM 
 https://delivery.cdn.rcs.net.ar/mnp/tcm_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-fdvJf2MjlgQ/YT5Q_HnjLrI/AAAAAAAAAOI/Wp9FNV3R06cBaDSCDcUD1sTJZwNT0rqgwCLcBGAsYHQ/h120/I.Sat.png" ,I-Sat
