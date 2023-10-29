@@ -286,7 +286,7 @@ https://delivery.cdn.rcs.net.ar/mnp/cinecanal_hls/playlist.m3u8
 https://delivery.cdn.rcs.net.ar/mnp/syfy_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png" ,Star Channel
-https://coteflan.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8
+http://158.69.116.209:20102/live/18e73bf5784948419be017da8723a6cb/7057b6234bf046ee88782b8f5f191d8f/39.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" ,FX 
