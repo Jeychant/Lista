@@ -12,7 +12,7 @@ http://51.81.106.157:8084/hls/tantillas.m3u8
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/tv_plata_canal_3.jpg"  ,TV PLATA 3 (República Dominicana)
 https://ss9.domint.net:3032/tvp_str/tvp2111/chunklist_w1894196728.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/Canal-4-rd-en-vivo-y-directo.png" ,Canal 4 (República Dominicana)
+#EXTINF:-1  tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/Canal-4-rd-en-vivo-y-directo.png" group-title="DOMINICANOS",Canal 4
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png" ,Canal 5 de Telemicro (República Dominicana)
@@ -351,16 +351,16 @@ https://is-santoto.cdn.rcs.net.ar/mnp/hbopop_hls/playlist.m3u8
 https://is-santoto.cdn.rcs.net.ar/mnp/hbomund_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-gvubVvYOgjk/YaWWkxGYDsI/AAAAAAAAATs/Cf26StPGO7AhtSl3dszCOqPjRkbOHZgJgCLcBGAsYHQ/h1280/ver-hbo-plus--hd-en-vivo-television-libre.png" ,HBO Plus Panamericano
-https://is-santoto.cdn.rcs.net.ar/mnp/hboplus_hls/playlist.m3u8
+http://158.69.116.209:20102/live/6be4e73864b2407ea6763a2cc1497446/398bcfc1553c412aaa2d6b8acb74131d/9.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-009OHodFDPg/YaWewZ_J19I/AAAAAAAAAUE/mKtrsaqOsiM1qwF1B2TYNxsA5-PeJgQmACLcBGAsYHQ/h1280/ver-hbo-signature-hd-en-vivo-television-libre.png" ,HBO Signature Latinoamérica
-https://is-santoto.cdn.rcs.net.ar/mnp/hbosig_hls/playlist.m3u8
+http://158.69.116.209:20102/live/86e9449b740a4d8ab1df645a423497b0/3a1d48e4da7943a3adbca6385571eefa/11.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-VQjPcdlwvEk/YaWh_g61TLI/AAAAAAAAAUU/HZbtfm8uxGwb4NAN95MqtVLg3H2WZnW9QCLcBGAsYHQ/h1280/ver-hbo-xtreme-hd-en-vivo-television-libre.png" ,HBO Xtreme Latinoamérica
 https://cvi.cdn.rcs.net.ar/mnp/hboxtr_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-cOG2wg6K0ek/YaWYxcaJ6OI/AAAAAAAAAT0/32z4us23azA49tFh3B-z3EtrZ5042oQBwCLcBGAsYHQ/h1280/ver-hbo-family-hd-en-vivo-television-libre.png" ,HBO Family Latinoamérica
-https://is-santoto.cdn.rcs.net.ar/mnp/hbofam_hls/playlist.m3u8
+http://158.69.116.209:20102/live/be95b0e87b2e408e8ad1123984e91eea/145f52b5b3fd4bfcb7a0edf292b93d8b/8.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/1200px-Energy.svg.png" ,Canal Energy
 http://tvnov.com/es/watch/span/m3u/jiiii/energe.php?video=8095b6c5f70f18d529333cbdf2f1dbe3.m3u8
