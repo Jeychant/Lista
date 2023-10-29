@@ -277,7 +277,7 @@ https://coteflan.cdn.rcs.net.ar/mnp/tnt_hls/playlist.m3u8
 https://coteflan.cdn.rcs.net.ar/mnp/tntseries_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-NDwbXJHYJMc/YT5RpJxdtpI/AAAAAAAAAOY/D1VEo88C3jwfky5Oiwww9TZX3ehLWpSfQCLcBGAsYHQ/h120/Cinemax.png" ,Cinemax Latinoamérica
-https://coteflan.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
+http://158.69.116.209:20102/live/cbaaedf0c18e4482925c4032b4960086/f0a3c72eb2044fa59d5abbf086cf880f/6.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" ,Cinecanal 
 https://delivery.cdn.rcs.net.ar/mnp/cinecanal_hls/playlist.m3u8
