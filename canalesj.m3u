@@ -306,7 +306,7 @@ http://158.69.116.209:20102/live/18e73bf5784948419be017da8723a6cb/7057b6234bf046
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="CINE",FX 
-https://delivery.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
+http://209.126.106.30:8081/live/184df0d4df9445a9ae94ebd6012181ea/df04e3d4ff14464c88a1386d04b0fba1/60.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/1200px-Canal_Golden_logo.svg.png" group-title="CINE",GOLDEN
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/202_.m3u8?token=WyFKEuR4NDXe4xMpr-ZbzQ&expires=1657598221&ip=148.0.147.108
