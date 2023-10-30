@@ -402,12 +402,11 @@ CULTURA
 http://209.126.106.30:8081/live/2321a92758024b5e8308d2a47c8dc8e6/afedfd06d8ed46d7bbdb52d86427ae4f/52.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="CULTURA",History 2 
-http://209.126.106.30:8081/live/7c3e3b4de88943368055bf48e053ac60/36805ead49e2457ab36218c4a4dafc57/51.m3u8
+http://209.126.106.30:8081/live/934527cedbfb4a29b2cd20e661d65e35/6628c80534d54246b8f229224e161fe7/51.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.natgeofe.com/n/e76f5368-6797-4794-b7f6-8d757c79ea5c/ng-logo-2fl.png" group-title="CULTURA",National Geographic
-http://209.126.106.30:8081/live/539d6e5e809c46eba776383eba7bc4d1/9115420678f04aac8c967436086d1a96/53.m3u8
+http://209.126.106.30:8081/live/760e512927364262b3e52d8cc4f6b533/82bdae01db4840bb8f1d2a0b455b3e6e/53.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1067px-2018_Animal_Planet_logo.svg.png" group-title="CULTURA",Animal Planet 
 http://209.126.106.30:8081/live/11499d34a59d4abe890f33b9566c06df/008b64c1d8044cbca1fa5fcf8d857bc7/43.m3u8
@@ -416,33 +415,24 @@ http://209.126.106.30:8081/live/11499d34a59d4abe890f33b9566c06df/008b64c1d8044cb
 https://delivery.cdn.rcs.net.ar/mnp/gourmet_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ecured.cu/images/thumb/3/35/Discovery_Channel.JPG/1200px-Discovery_Channel.JPG" group-title="CULTURA",Discovery Channel 
-http://209.126.106.30:8081/live/5c24ecaf270d451692d815cc1ef5ae61/071a589533a94f13bb07cd3913a3ddc6/46.m3u8
+http://209.126.106.30:8081/live/3e3c11f1094e45f98175341c76b7f6aa/5494b6afd2ae493ea3bcc0860b71412c/46.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="CULTURA",Discovery Turbo 
-http://209.126.106.30:8081/live/932513e15d444118907ebf545ea02421/8d67ea7c63b4420fbc6011ada36d93f1/48.m3u8
+http://209.126.106.30:8081/live/1617a98bc6d54615a54ee1dd61798e55/bd4197eff3e4429baca99525dbe31725/48.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/816962948522508288/u9_NGzrW_400x400.jpg" group-title="CULTURA",Discovery Home & Health 
-http://209.126.106.30:8081/live/eed1c0e47a924b069864aad14544fb12/ae09aeae61ff4569b821fea563d6afac/47.m3u8
+http://209.126.106.30:8081/live/cdceb97c7b4144e582b4c180a422722e/f75948acae3e41dbbfbf848e3e99e37c/47.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-AfuVdq0OWu4/Yfxi0A3wy0I/AAAAAAAAAXA/6z3Wj3CxHHoLnKzpD0e2LcqlAHGK_SxzQCNcBGAsYHQ/h1280/ver-discovery-id-en-vivo.png" group-title="CULTURA",Investigation Discovery
-http://209.126.106.30:8081/live/9ead5d48127e45818f3aea3cb30507c9/1e917b94acf54d399502d12748342dcb/49.m3u8
+http://209.126.106.30:8081/live/d33ff1e9866041259c1daeecfffeaa34/1a60142a306b4787abd6b89e3fd705ec/49.m3u8
 
 #EXTINF:-1 tvg-logo="https://dcom-prod.imgix.net/files/2020-12/tlc_thumb.png" group-title="CULTURA",DISCOVERY TLC
-http://209.126.106.30:8081/live/d487490756824e4ab46b6f348002b312/4c65d27b2f56431c9884192de919c7a2/50.m3u8
+http://209.126.106.30:8081/live/2d1dd1ad4685495a9508b0f9b69a3962/495aad59e17e45f0bd053c770c2ee5df/50.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/2560px-2015_Discovery_theater_HD_logo.svg.png" group-title="CULTURA",Discovery Theater
-https://edge1.prepro.cvattv.com.ar/live/vod/TLC/SA_Live_WebVTT_FTA/Theater_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" group-title="CULTURA",Discovery Science Latinoamérica
-http://209.126.106.30:8081/live/456bac83ba3a45e185a9c42b072d01fa/3e476f7406c7421a88d2357a9d15a08e/44.m3u8
+http://209.126.106.30:8081/live/49dc8106903e46e6be234ce9ef6f38df/3ce3d082ecb445f9ae02556dcf0d1d2d/44.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="CULTURA",Discovery HD World Latinoamérica
-https://edge3.prepro.cvattv.com.ar/live/vod/DiscoveryWorldHD/SA_Live_WebVTT_FTA/DiscoveryWorldHD.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhWU7qTkDs3xwDNs8Ma9dfG1R4PEnjNr4tQkQT2VnRCmLimj4dC5VfGeAg__wPr8pzRHzWBfuuqNionC5CJz5ro8ymVHmo1-9LSEEEW1EgC6WEXlvN6Hsxuyso7RjM_4UbPYcSxhS92j6jFMlw-RzUwpTDKfoMxjxvSlfupuoUjMHtcvSF6BHncy1xl" group-title="CULTURA",Lifetime Latinoamérica
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjDU2-NQ_ygyPrpD025WEqRBXaeaoomAOY0xdNvWJ_j-RP3tV5_5rlTvXrd1SrawikXi77-O-4t4cbgLhGzr7yOmb7wn7FTmxCJpzZLePTQR0aWRVAuKzSFnvecrf6f6gSEn_c3eBmvP_yhsuS1fagbMTtYTBi7Tr-dHO0-nQVk92nZRC-bxiCRxwwL" group-title="CULTURA",Food Network Latinoamérica
-https://edge3.prepro.cvattv.com.ar/live/vod/FoodNetwork/SA_Live_WebVTT_FTA/FoodNetwork.m3u8
 
 
 
