@@ -400,6 +400,9 @@ CULTURA
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" group-title="CULTURA",History 
 http://209.126.106.30:8081/live/2321a92758024b5e8308d2a47c8dc8e6/afedfd06d8ed46d7bbdb52d86427ae4f/52.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="CULTURA",History 2 
 http://209.126.106.30:8081/live/7c3e3b4de88943368055bf48e053ac60/36805ead49e2457ab36218c4a4dafc57/51.m3u8
 
