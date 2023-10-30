@@ -48,7 +48,7 @@ https://cdn4.hostlagarto.com:8081/static/bajotechotv/chunks.m3u8
 http://51.81.93.29:8084/hls/d15.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/08/tvo-romana-en-vivo-online.jpg"  group-title="DOMINICANOS",TVO ROMANA
-https://rctvhd.net:8081/tvoromanalive/tracks-v1a1/mono.m3u8
+https://cdn.mycloudstream.io/hls/live/broadcast/aa5i1jfn/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/teleunion_canal_16_santiago.jpg"  group-title="DOMINICANOS",Canal Teleunion
 http://server3.prostudionetwork.com:1945/teleunion/TU/chunklist_w777712053.m3u8
@@ -442,25 +442,25 @@ INFANTIL
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-x7HV6qdJM5A/YXLiX_vAciI/AAAAAAAAASM/hEi9CcwkDxoFb-fsLIR04CslwcAoyt8MwCLcBGAsYHQ/h120/ver-disney-channel.png" group-title="INFANTIL",Disney Channel 
-http://209.126.106.30:8081/live/ce81d75c159149fea53fe65fe44f1e00/1ed1f40b6b814353924eb6e53d7419da/36.m3u8
+http://tv.teleclub.xyz/envivo/Infantil/DISNEY_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-jbyXCmO1tD4/YXIvRy8qnpI/AAAAAAAAAR4/Mru1u3gvJ1w4Z574forFRxSDMnFZ6ajhgCLcBGAsYHQ/h120/ver-disney-junior.png" group-title="INFANTIL",Canal Disney Junior
-http://209.126.106.30:8081/live/62b6969afec84e359ce5e2bc80a33bc3/3657c5cf0d48455d9221f4fe5e43413c/37.m3u8
+http://tv.teleclub.xyz/envivo/Infantil/DISNEY_JUNIOR/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-fAD0ogKTE0g/YXIvsp-SuLI/AAAAAAAAASE/0REtoDv6Zv0njbxhJPoffkCIOc6lqf_4gCLcBGAsYHQ/h120/ver-nickelodeon-en-vivo.png" group-title="INFANTIL",Nickelodeon 
-http://209.126.106.30:8081/live/72ff2086ba804a4db2fab74df5acaa72/d4a508389da540a3bac2817a8d6ea947/39.m3u8
+http://tv.teleclub.xyz/envivo/Infantil/NICK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-yo0y8VMr8jA/YXIvD8SpXkI/AAAAAAAAAR0/rMwi77Tj7lYPeudTHQ8jGSFMwSFJ28zjACLcBGAsYHQ/h120/ver-cartoon-network.png" group-title="INFANTIL",Cartoon Network 
-http://209.126.106.30:8081/live/089fd6388c524f868a77ce759690fd3e/7724595fb1244bd3bf42a9d29224a685/34.m3u8
+http://tv.teleclub.xyz/envivo/Infantil/CARTOON_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-eqMrg8h2rPw/YXLjZ5ewIWI/AAAAAAAAASU/BIBid1FrgQAZGU4Bz7H7Pc6M6WWfGm5OgCLcBGAsYHQ/h120/ver-boomerang-en-vivo.png" group-title="INFANTIL",Boomerang 
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/115_.m3u8?token=FVqOGFFQzU9nKN_WQh0meA&expires=1657572926&ip=148.0.147.108
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ArZ2H9gDjgQ/YT4-ZYGfWtI/AAAAAAAAAKw/el9PT_iCX7QRN9SAvK08gUfxS5DjkTsEACLcBGAsYHQ/s320/Tooncast.png" group-title="INFANTIL",Tooncast
-http://209.126.106.30:8081/live/c8473813ab6c45ee840d02e52f550af5/29c8e337af0849b6958f21d59a587319/40.m3u8
+http://tv.teleclub.xyz/envivo/Infantil/TOONCAST/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3qEDaRM02L4/YT48fWBTHeI/AAAAAAAAAKg/rXQ-f423gtIFwjryayxVxRETuTqVVB6GwCLcBGAsYHQ/s100/Discovery_Kids.png" group-title="INFANTIL",Discovery Kids 
-http://209.126.106.30:8081/live/d8de6934cc1f4feab6e802dcea1cde7b/f82ff66d3662444883313edac4d03b10/35.m3u8
+http://tv.teleclub.xyz/envivo/Infantil/DISCOVERY_KIDS/index.m3u8
 
 
 
