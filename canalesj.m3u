@@ -224,6 +224,8 @@ INFANTILES
 #EXTINF:-1 tvg-logo="https://www.directv.com/dtvassets/dtv/teamsite/images/logos/channels/dark/large/165.png" group-title="NOTICIAS",TUDN
 http://tv.teleclub.xyz/envivo/Infantil/CARTOON_NETWORK/index.m3u8 
 
+LOGO
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="Infantil", Disney Channel http://tv.teleclub.xyz/envivo/Infantil/DISNEY_CHANNEL/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="Infantil", Disney Jr http://tv.teleclub.xyz/envivo/Infantil/DISNEY_JUNIOR/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I18tgBc.png" group-title="Infantil", Discovery Kids http://tv.teleclub.xyz/envivo/Infantil/DISCOVERY_KIDS/index.m3u8 
