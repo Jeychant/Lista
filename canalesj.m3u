@@ -177,47 +177,6 @@ https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
 https://ss9.domint.net:3040/ame_str/amecanal47/chunklist_w1220930584.m3u8
 
 
-NOTICIAS 😂
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png" group-title="NOTICIAS",RT Español
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/512px-CNN_International_logo.svg.png" group-title="NOTICIAS",CNN International Latin America
-https://edge3.prepro.cvattv.com.ar/live/vod/CNN_en_Espanol/SA_Live_WebVTT_FTA/CNN_en_Espanol.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png" group-title="NOTICIAS",Canal DW (Latinoamérica)
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.myface.org/wp-content/uploads/2016/08/1000px-Bloomberg_logo.svg_.png" group-title="NOTICIAS",Bloomberg TV Latin America
-https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title="NOTICIAS",America 24 Latinoamerica
-https://edge3.prepro.cvattv.com.ar/live/c7eds/America24/SA_Live_WebVTT_FTA/America24.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1331719340228538372/bL0dogdb_400x400.jpg" group-title="NOTICIAS",IP
-https://octubre-live.cdn.vustreams.com/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" group-title="NOTICIAS",Canal Milenio TV
-https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="NOTICIAS",CGTN ES
-https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png" group-title="NOTICIAS",TN
-https://edge3.prepro.cvattv.com.ar/live/vod/TodoNoticias/SA_Live_WebVTT_FTA/TodoNoticias.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_c5n_m.png" group-title="NOTICIAS",C5N
-https://edge3.prepro.cvattv.com.ar/live/vod/C5N/SA_Live_WebVTT_FTA/C5N.m3u8
-
-#EXTINF:-1 tvg-logo="http://tvnov.com/images/span/24h.jpg" group-title="NOTICIAS",Canal 24 Horas (TVE)
-https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr.m3u8
-
-#EXTINF:-1 tvg-logo="https://telefullenvivo.com/logos/vtv.png" group-title="NOTICIAS",VTV Uruguay
-https://edge3.prepro.cvattv.com.ar/live/vod/VTV_Plus_HD/SA_Live_WebVTT_FTA/VTV_Plus_HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.directv.com/dtvassets/dtv/teamsite/images/logos/channels/dark/large/165.png" group-title="NOTICIAS",TUDN
-https://ed3.zorrohd2.nl/live/flowitcaj0o.m3u8
 
 INFANTILES
 
