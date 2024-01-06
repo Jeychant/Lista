@@ -53,8 +53,8 @@ http://server3.prostudionetwork.com:1945/teleunion/TU/chunklist_w777712053.m3u8
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/telenord.jpg",TELENORD
 http://newyorkstream.ddns.net:5854/telenord8/telenord8/chunklist_w509216998.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/cinevision-canal-19-en-vivo-online.jpg",CINEVISION
-https://live.teledom.info:3713/live/cinevisionlive.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.deultimominuto.net/wp-content/uploads/2021/06/logo-retina.png",De Último Minuto
+https://deultimominuto01.streamprolive.com/hls/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/comunion-tv.png",COMUNION TV 
 http://50.30.37.36:1935/live/stream/chunklist_w199173519.m3u8
