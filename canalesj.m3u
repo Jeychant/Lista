@@ -42,9 +42,6 @@ https://vdo1.streamgato.us:3677/live/telemileniolive.m3u8
 http://51.81.93.239:8084/hls/telecentro.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/digital-15-en-vivo-online.jpg",Digital Quince 15
-
-
-
 http://51.81.93.29:8084/hls/d15.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/08/tvo-romana-en-vivo-online.jpg",TVO ROMANA
