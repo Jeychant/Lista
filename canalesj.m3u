@@ -271,8 +271,11 @@ http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_CRIME/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G0qhNqu.png",Universal Comedy 
 http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_COMEDY/index.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Wmb5sIF.png",SYFY 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wmb5sIF.png",Syfy 
 http://tv.teleclub.xyz/envivo/Entretenimiento/SYFY/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Energy_2012.png",Energy
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:19_HD.smil/manifest.m3u8
 
 CULTURA 😊❤😂😂😂
 
