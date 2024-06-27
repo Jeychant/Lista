@@ -390,13 +390,13 @@ http://tv.teleclub.xyz/envivo/Mundo/CANAL_E/index.m3u8
 http://tv.teleclub.xyz/envivo/Mundo/CARACOLTV/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ys31Rhw.png",Telemundo 
-https://webhdrunns.mizhls.ru/lb/premium131/index.m3u8 
+http://tv.teleclub.xyz/envivo/Mundo/TELEMUNDO/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vpXleBr.png",Azteca7 
 http://tv.teleclub.xyz/envivo/Mundo/AZTECA7/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sCMrEpW.png",Univision 
-https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
+http://tv.teleclub.xyz/envivo/Mundo/UNIVISION/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0A0KkZ2.png",Antena 3 
 http://tv.teleclub.xyz/envivo/Mundo/ANTENA3/index.m3u8 
@@ -409,10 +409,6 @@ http://tv.teleclub.xyz/envivo/Mundo/DW_Spanish/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1043px-Channel_1_%28Colombia%29_-_2017_logo.svg.png",Canal Uno 
 http://tv.teleclub.xyz/envivo/Mundo/CANAL_UNO/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/1630927.png",Unimas
-https://webhdrunns.mizhls.ru/lb/premium133/index.m3u8
-
 
 DEPORTES 😊❤😂😂😂
 
