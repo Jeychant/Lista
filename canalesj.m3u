@@ -24,7 +24,7 @@ https://ss5.domint.net:3038/rum_str/rumba985fm/chunklist_w2101210168.m3u8
 http://51.81.106.157:8084/hls/alatina.m3u8
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/telemax.png",Telemax RD
-https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
+https://vdo2.streamgato.us:3673/live/telemaxlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/color-vision-canal-9-en-vivo-online.png",Color Visión
 http://51.81.93.29:8084/hls/colorv.m3u8
@@ -175,6 +175,21 @@ https://ss9.domint.net:3040/ame_str/amecanal47/chunklist_w1220930584.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AmcOAIY.png",Cine 5TV
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist_w917646013.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iKLGBbA.png",Canal Catorce
+https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kqq7tD9.png",WAPA 1
+https://live.field59.com/wapa/wapa1/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5WNBFmp.png",WAPA 2
+https://live.field59.com/wapa/wapa2/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wE31GIP.jpg",Paraiso TV
+https://stream.eleden.com/livewtpm/ngrp:livewtpm_all/chunklist_w1314110395_b1596000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TL6xy4y.png",Punto2
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
 CINE 😊❤😂😂😂
 
