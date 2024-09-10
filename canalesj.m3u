@@ -191,6 +191,46 @@ https://stream.eleden.com/livewtpm/ngrp:livewtpm_all/chunklist_w1314110395_b1596
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TL6xy4y.png",Punto2
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FqFxog1.png",Garage TV Latin America
+https://stream1.sersat.com/hls/garagetv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FUrrDrb.png",Cine Romantico
+https://stream.ads.ottera.tv/cl/240908creu9dg5vj9tensb0u30/1280x720_2300000_0_f.m3u8?i=475_656
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png",Cine Sony
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRxgBtI.png",Azteca 1
+https://8.tutl24.xyz/live/ST34edc85c6d7ebb1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png",Azteca 7
+https://7.tutl24.xyz/live/ST8e2dc0c92e017fc.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png",Canal 5
+https://8.tutl24.xyz/live/ST0f01a5ddb6d6e42.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png",Unimas
+https://xyzdddd.mizhls.ru/lb/premium133/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png",Unicable
+https://8.tutl24.xyz/live/ST66eaaebed431889.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 CINE 😊❤😂😂😂
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hHd3J9h.png",Star Channel 
@@ -292,8 +332,7 @@ http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_COMEDY/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wmb5sIF.png",Syfy 
 http://tv.teleclub.xyz/envivo/Entretenimiento/SYFY/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FUrrDrb.png",Cine Romantico
-https://stream.ads.ottera.tv/cl/240908creu9dg5vj9tensb0u30/1280x720_2300000_0_f.m3u8?i=475_656
+
 
 CULTURA 😊❤😂😂😂
 
