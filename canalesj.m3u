@@ -2,8 +2,8 @@
 
 DOMINICANOS 😁
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/03/ahora-TV-en-directo-Online.png?w=1392&ssl=1",Ahora TV
-https://tv.livestreaminggroup.info:3513/live/canal35live.m3u
+#EXTINF:-1 tvg-logo="https://www.constanzatv.com/images/contanzatv_web.png",ConstanzaTV
+https://ss9.domint.net:3026/ctv8_str/contanzatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/05/teleantillas-en-vivo-canal-2-online.jpg",Canal 2 de Tele Antillas
 https://glb.bozztv.com/glb/ssh101/0010/index.m3u8
