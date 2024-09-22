@@ -179,13 +179,70 @@ https://ss9.domint.net:3040/ame_str/amecanal47/chunklist_w1220930584.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iKLGBbA.png",Canal Catorce
 https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2986-640x360-FFFFFF.jpg",Cibaeña TV
+https://streamunoapp.com:3958/live/cibaenatvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/aion-tv.png",AION TV
+https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2967-294x165-FFFFFF.jpg",Alcarrizos TV
+https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2852-800x450-FFFFFF.jpg",Alegre TV
+https://vsrv2.az-streamingserver.com:3149/live/alegretvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9h9EpKlfszkP1lIFRoTC5ozEbB9tSQLaonQ&s",Bajo Techo TV
+https://rdn.essastream.com:3042/live/bajotechotvlive.m3u
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/GcKokmJKZEXhqDCiaxastjSn1cxFQyGLkQh6E94ZCkYRuvG9RYKICjfaIttFUmGmwN2_durm1A=s900-c-k-c0x00ffffff-no-rj",Bebeto TV
+https://ss5.domint.net:3170/cotv_str/colometv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/bella-vision-canal-8.png",Bellavisión
+https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.bocachica.tv/wp-content/uploads/2021/06/cropped-LOGO-PRUEBA.png",Boca Chica TV
+https://vdo1.streamgato.us:3977/live/lavozsincensuratvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/bonaotv.png?fit=500%2C300&ssl=1",Bonao TV
+https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://farras.live/wp-content/uploads/2023/10/IMG-20230923-WA0030-1024x793.jpg",Bonches Latinos TV
+https://tv.boncheslatinos.com:3754/live/latinostvnylive.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3248-640x360-FFFFFF.jpg",Boreal
+https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/896707532546297856/Z7Hs72uY_400x400.jpg",Cana TV Digital 
+https://streams.hostuis.com:19360/vcfarbxjam/vcfarbxjam.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1708867679988183040/Ij538urP_400x400.jpg",Canal 6 
+https://5790d294af2dc.streamlock.net/canal6/canal6/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzkaFNEtnrsAOT-jHjk5X7uSpJZOdkc_sXvQ&s",Canalda TV
+https://canalda.rgradio.net:3084/live/canaldalive.m3u8
+
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/cananga-tv.jpeg",Cananga TV
+https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.caribbeanadvantage.com/templates/rt_zenith/custom/images/home/above/CA-logo.png",Caribbean Advantage TV
+https://video2.getstreamhosting.com:19360/8216/8216.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.isu.pub/document-structure/221101203100-4c4b6f7045576d2644adfc686e2889be/v1/fa501fcbc15ff939faa49f255573dc8c.jpeg",Cáscara TV
+https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/4d/2f/5d/4d2f5d7c-5025-964e-61ee-92f009d66e3f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png",Codigo TV
+https://vdo2.streamgato.us:3313/live/codigotvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1263717778558783488/dcnQbl7Q_400x400.jpg",Dimelo TV
+https://fl1002.bozztv.com/ssh101/dimelotvrd/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AmcOAIY.png",Cine 5TV
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist_w917646013.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kqq7tD9.png",WAPA 1
 https://live.field59.com/wapa/wapa1/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5WNBFmp.png",WAPA 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5WNBFmp.png",WAPA Deportes
 https://live.field59.com/wapa/wapa2/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wE31GIP.jpg",Paraiso TV
@@ -197,17 +254,17 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FqFxog1.png",Garage TV Latin America
 https://stream1.sersat.com/hls/garagetv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FUrrDrb.png",Cine Romantico
-https://stream.ads.ottera.tv/cl/240908creu9dg5vj9tensb0u30/1280x720_2300000_0_f.m3u8?i=475_656
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/2ee8ed69266a33986437dd4fea6fc49cd2ebf61ac54c1a230ee6ce65eacba267.png",Hiperconectados TV
+https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png",Cine Sony
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRxgBtI.png",Azteca 1
-https://8.tutl24.xyz/live/ST34edc85c6d7ebb1.m3u8
+https://ch1-tva.duin.dev/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png",Azteca 7
-https://7.tutl24.xyz/live/ST8e2dc0c92e017fc.m3u8
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png",Canal 5
 https://8.tutl24.xyz/live/ST0f01a5ddb6d6e42.m3u8
