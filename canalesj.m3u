@@ -53,11 +53,6 @@ http://server3.prostudionetwork.com:1945/teleunion/TU/chunklist_w777712053.m3u8
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/telenord.jpg",TELENORD
 https://rdn.essastream.com:3676/live/telenord10live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/24923803_640x640",Nuevo diario tv
-https://glb.bozztv.com/glb/ssh101/0048/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/ctn.png",CTN 
-https://59ef525c24caa.streamlock.net/ctn/ctn/chunklist_w1565704326.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Antena_21_2017.png/revision/latest?cb=20171109210821",ANTENA 21
 https://ssh101.bozztv.com/ssh101/rctvhd104/chunks.m3u8
