@@ -2,8 +2,8 @@
 
 # DOMINICANOS 😁
 
-#EXTINF:-1 tvg-logo="https://www.constanzatv.com/images/contanzatv_web.png",ConstanzaTV
-https://ss9.domint.net:3026/ctv8_str/contanzatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.constanzatv.com/images/contanzatv_web.png",SiTV
+http://51.81.106.147:5080/LiveApp/streams/sitv.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/05/teleantillas-en-vivo-canal-2-online.jpg",Canal 2 de Tele Antillas
 http://135.148.169.193:5080/LiveApp/streams/tantillas.m3u8
