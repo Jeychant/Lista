@@ -15,7 +15,7 @@ https://ss9.domint.net:3032/tvp_str/tvp2111/playlist.m3u8
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png",Telemicro
-https://glb.bozztv.com/glb/ssh101/0005/index.m3u8
+http://51.81.106.147:5080/LiveApp/streams/tmicro.m3u8 
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/rumba-985-en-vivo.jpg",RUMBA 98.5
 https://ss5.domint.net:3038/rum_str/rumba985fm/chunklist_w2101210168.m3u8
