@@ -27,7 +27,7 @@ https://ssh101.bozztv.com/ssh101/rctvhd21/chunks.m3u8
 https://vdo2.streamgato.us:3673/live/telemaxlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/color-vision-canal-9-en-vivo-online.png",Color Visión
-https://live-b.cf.dmcdn.net/sec2(tCYnIdizT1zfxPZ_p37JN17LFTez-qRecqS1R8SMi0wevQpPBdl3Ayp0iVfMHrr1jppatibF37dX0BgeOIikjGZNzJMMWRs7gOnSUbSpidJ-T-dg2VE0yZhKbYJejdUX)/dm/3/x7gy059/d/live-480.m3u8
+http://51.81.106.147:5080/LiveApp/streams/cvision.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.telesur.com.do/images/telesur_canal_10_logo2.png",TELESUR CANAL 10
 https://ss3.domint.net:3124/tls_str/telesur/chunklist_w606450217.m3u8
