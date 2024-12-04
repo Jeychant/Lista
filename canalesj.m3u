@@ -55,7 +55,7 @@ https://rdn.essastream.com:3676/live/telenord10live.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Antena_21_2017.png/revision/latest?cb=20171109210821",ANTENA 21
-https://ssh101.bozztv.com/ssh101/rctvhd104/chunks.m3u8
+51.81.106.147:5080/LiveApp/streams/antena21.m3u8
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/altanto-tv.jpg",Altanto TV
 https://streaming.altantotv.domiplay.net/hls/0/stream.m3u8
@@ -109,7 +109,7 @@ https://ss5.domint.net:3034/astv_str/asmartv/playlist.m3u8
 https://ss5.domint.net:3032/vozz_str/vozzmedia/chunklist_w1896640088.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.cdn.com.do/wp-content/uploads/2019/04/ae9fa439-9aa23ad9-logo-nuevo-cdn.png",Canal 37 de CDN 
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/chunklist_b4628000.m3u8
+51.81.106.147:5080/LiveApp/streams/cdnoticia.m3u8
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/crom-tv-el-canal-del-siglo.png",CROM TV 
 https://cnn.essastream.com:3333/live/cromtvlive.m3u8
