@@ -115,7 +115,7 @@ https://ss5.domint.net:3032/vozz_str/vozzmedia/chunklist_w1896640088.m3u8
 https://cnn.essastream.com:3333/live/cromtvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://dominicancinema.com/wp-content/uploads/2016/02/coral39-.jpg",Coral 39 
-https://glb.bozztv.com/glb/ssh101/0039/index.m3u8
+51.81.106.147:5080/LiveApp/streams/coral39.m3u8 
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/carivision-canal-26.png",CARIVISION 
 https://ss5.domint.net:3174/car_str/carivision/chunklist_w551659045.m3u8
