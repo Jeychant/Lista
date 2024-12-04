@@ -88,7 +88,7 @@ https://5790d294af2dc.streamlock.net/8066/8066/chunklist_w612515886.m3u8
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/cdnsports.png",Canal CDN-SportsMax
-https://fl1002.bozztv.com/ssh101/cdndeportes/index.m3u8
+51.81.106.147:5080/LiveApp/streams/cdnsport.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/ClaroTV_logo.png/revision/latest?cb=20210422202232&path-prefix=es",Clarotv Dominicana
 https://streamunoapp.com:3960/live/claroteledomlive.m3u8
