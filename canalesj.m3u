@@ -42,7 +42,7 @@ https://vdo1.streamgato.us:3677/live/telemileniolive.m3u8
 http://51.81.106.147:5080/LiveApp/streams/tcentro.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/digital-15-en-vivo-online.jpg",Digital Quince 15
-135.148.169.193:5080/LiveApp/streams/digital152.m3u8
+http://135.148.169.193:5080/LiveApp/streams/digital152.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/08/tvo-romana-en-vivo-online.jpg",TVO ROMANA
 https://cdn.mycloudstream.io/hls/live/broadcast/aa5i1jfn/mono.m3u8
@@ -55,7 +55,7 @@ https://rdn.essastream.com:3676/live/telenord10live.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Antena_21_2017.png/revision/latest?cb=20171109210821",ANTENA 21
-51.81.106.147:5080/LiveApp/streams/antena21.m3u8
+http://51.81.106.147:5080/LiveApp/streams/antena21.m3u8
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/altanto-tv.jpg",Altanto TV
 https://streaming.altantotv.domiplay.net/hls/0/stream.m3u8
@@ -88,7 +88,7 @@ https://5790d294af2dc.streamlock.net/8066/8066/chunklist_w612515886.m3u8
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/cdnsports.png",Canal CDN-SportsMax
-51.81.106.147:5080/LiveApp/streams/cdnsport.m3u8
+http://51.81.106.147:5080/LiveApp/streams/cdnsport.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/ClaroTV_logo.png/revision/latest?cb=20210422202232&path-prefix=es",Clarotv Dominicana
 https://streamunoapp.com:3960/live/claroteledomlive.m3u8
@@ -109,13 +109,13 @@ https://ss5.domint.net:3034/astv_str/asmartv/playlist.m3u8
 https://ss5.domint.net:3032/vozz_str/vozzmedia/chunklist_w1896640088.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.cdn.com.do/wp-content/uploads/2019/04/ae9fa439-9aa23ad9-logo-nuevo-cdn.png",Canal 37 de CDN 
-51.81.106.147:5080/LiveApp/streams/cdnoticia.m3u8
+http://51.81.106.147:5080/LiveApp/streams/cdnoticia.m3u8
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/crom-tv-el-canal-del-siglo.png",CROM TV 
 https://cnn.essastream.com:3333/live/cromtvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://dominicancinema.com/wp-content/uploads/2016/02/coral39-.jpg",Coral 39 
-51.81.106.147:5080/LiveApp/streams/coral39.m3u8 
+http://51.81.106.147:5080/LiveApp/streams/coral39.m3u8 
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/carivision-canal-26.png",CARIVISION 
 https://ss5.domint.net:3174/car_str/carivision/chunklist_w551659045.m3u8
