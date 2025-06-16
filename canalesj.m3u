@@ -2,8 +2,8 @@
 
 # DOMINICANOS 😁
 
-#EXTINF:-1 tvg-logo="https://allvectorlogo.com/img/2016/07/sitv-logo.png",SiTV
-http://51.81.106.147:5080/LiveApp/streams/sitv.m3u8
+#EXTINF:-1 tvg-logo="https://allvectorlogo.com/img/2016/07/sitv-logo.png",CHINOLA TV
+https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/05/teleantillas-en-vivo-canal-2-online.jpg",Tele Antillas
 http://135.148.169.193:5080/LiveApp/streams/tantillas.m3u8
@@ -108,7 +108,7 @@ https://ss5.domint.net:3032/vozz_str/vozzmedia/chunklist_w1896640088.m3u8
 http://51.81.106.147:5080/LiveApp/streams/cdnoticia.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/cdnsports.png",CDN-SportsMax
-http://51.81.106.147:5080/LiveApp/streams/cdnsport.m3u8
+https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/bc949011-1dd8-4d10-596c-f6910d4a9cf7.m3u8
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/crom-tv-el-canal-del-siglo.png",Crom TV 
 https://cnn.essastream.com:3333/live/cromtvlive.m3u8
@@ -192,7 +192,7 @@ https://vsrv2.az-streamingserver.com:3149/live/alegretvlive.m3u8
 https://rdn.essastream.com:3042/live/bajotechotvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/GcKokmJKZEXhqDCiaxastjSn1cxFQyGLkQh6E94ZCkYRuvG9RYKICjfaIttFUmGmwN2_durm1A=s900-c-k-c0x00ffffff-no-rj",Bebeto TV
-https://ss5.domint.net:3170/cotv_str/colometv/playlist.m3u8
+https://television.essastream.com:3502/live/bebetotelevisionlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/bella-vision-canal-8.png",Bellavisión
 https://rdn.essastream.com:3110/live/bellavision8hdlive.m3u8
@@ -210,7 +210,7 @@ https://tv.boncheslatinos.com:3754/live/latinostvnylive.m3u8
 https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/896707532546297856/Z7Hs72uY_400x400.jpg",Cana TV Digital 
-https://streams.hostuis.com:19360/vcfarbxjam/vcfarbxjam.m3u8
+https://stream.hostuis.com:19360/canatvdigital/canatvdigital.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1708867679988183040/Ij538urP_400x400.jpg",Canal 6 
 https://5790d294af2dc.streamlock.net/canal6/canal6/playlist.m3u8
@@ -233,9 +233,66 @@ https://vdo2.streamgato.us:3313/live/codigotvlive.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1263717778558783488/dcnQbl7Q_400x400.jpg",Dimelo TV
 https://fl1002.bozztv.com/ssh101/dimelotvrd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AhoraTV.do" tvg-logo="https://i.imgur.com/dyJyuXc.png",Ahora TV (720p)
+#EXTINF:-1 tvg-id="AhoraTV.do" tvg-logo="https://i.imgur.com/dyJyuXc.png",Ahora TV
 https://tv.livestreaminggroup.info:3513/live/canal35live.m3u8
 
+#EXTINF:-1 tvg-id="AhoraTV.do" tvg-logo="https://i.imgur.com/dyJyuXc.png",CANAL 56
+https://vdopanel.jlahozconsulting.com/p/3124/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="AhoraTV.do" tvg-logo="https://i.imgur.com/dyJyuXc.png",CANAL SOL
+https://5790d294af2dc.streamlock.net/sol65/sol65/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AhoraTV.do" tvg-logo="https://i.imgur.com/dyJyuXc.png",CIELO TV
+https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AhoraTV.do" tvg-logo="https://i.imgur.com/dyJyuXc.png",CINEVISION
+https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/index.m3u8
+
+#EXTINF:-1 tvg-id="AhoraTV.do" tvg-logo="https://i.imgur.com/dyJyuXc.png",COCO TV
+https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
+
+#EXTINF:-1 tvg-id="AhoraTV.do" tvg-logo="https://i.imgur.com/dyJyuXc.png",COTUI TV
+https://cloudflare.streamgato.us:3490/live/cotuitvlive.m3u8
+
+#EXTINF:-1 tvg-id="AhoraTV.do" tvg-logo="https://i.imgur.com/dyJyuXc.png",GALAXIA TV
+https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8
+
+#EXTINF:-1 tvg-id="AhoraTV.do" tvg-logo="https://i.imgur.com/dyJyuXc.png",HAINA VISION
+https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8
+
+#EXTINF:-1 tvg-id="AhoraTV.do" tvg-logo="https://i.imgur.com/dyJyuXc.png",IDEAL TV
+https://cloud5.idealtv.net/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="AhoraTV.do" tvg-logo="https://i.imgur.com/dyJyuXc.png",IMAGEN UNIVERSAL
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+
+#EXTINF:-1 tvg-id="AhoraTV.do" tvg-logo="https://i.imgur.com/dyJyuXc.png",PULA TV
+https://vdo2.streamgato.us:3239/live/pulatvlive.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# EXTRAS
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kqq7tD9.png",Tiva TvPR
 https://fl496518-exthls-p1.flovp.com/fl496518/live/live.m3u8
