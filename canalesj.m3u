@@ -98,41 +98,41 @@ https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/delta-tv-canal-50.png",Delta TV 
 https://rdn.essastream.com:3949/live/deltatv50live.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/asmar-television.png",Asmar TV
-https://ss5.domint.net:3034/astv_str/asmartv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/asmar-television.png",Adoram TV
+https://live20.bozztv.com/giatv/giatv-adoram/adoram/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/vozz-media-network.png",Vozz Media 
-https://ss5.domint.net:3032/vozz_str/vozzmedia/chunklist_w1896640088.m3u8
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/vozz-media-network.png",VisionNDV
+https://cloudflare.streamgato.us:3820/live/visionndvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.cdn.com.do/wp-content/uploads/2019/04/ae9fa439-9aa23ad9-logo-nuevo-cdn.png",CDN 37 
-http://51.81.106.147:5080/LiveApp/streams/cdnoticia.m3u8
+https://live.eu-north-1b.cf.dmcdn.net/sec2(yRaPUlSm9cUq7IqrLkWgdTPcDvrljWvbFISSwoD2JrEczaSYqBXq3ZOG4ZJMV8QAZB6DmH9VbJrUrUx5vky89vRVbDZvS_72OP0JIBwLTRKN68znu7rOs4yL1OMsq9HF200SKikHg5u-_1AnUBdJSA)/dm/3/x9lincs/s/live-720.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/cdnsports.png",CDN-SportsMax
-https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/bc949011-1dd8-4d10-596c-f6910d4a9cf7.m3u8
+https://live.eu-north-1b.cf.dmcdn.net/sec2(edZUPGWYt38Ib7L3yc7BYAFqa0AoZsZ855KJxxH3HQGq1WfoeKNRZUy0N9hGvU-wASW4_tRvXGkv2SHqCBmeZd6zTaWtA5pmo52uauST183gALwPSvTMpdFGZeBldwsAVD6yEkUt7ViDhNudWnb0mA)/dm/3/x9lntl6/s/live-720.m3u8
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/crom-tv-el-canal-del-siglo.png",Crom TV 
 https://cnn.essastream.com:3333/live/cromtvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://dominicancinema.com/wp-content/uploads/2016/02/coral39-.jpg",Coral 39 
-http://51.81.106.147:5080/LiveApp/streams/coral39.m3u8 
+#EXTINF:-1 tvg-logo="https://dominicancinema.com/wp-content/uploads/2016/02/coral39-.jpg",DanTV 
+https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/carivision-canal-26.png",Carivision
-https://ss5.domint.net:3174/car_str/carivision/chunklist_w551659045.m3u8
+https://ss2.tvrdomi.com:1936/carivision/carivision/chunklist_w749371506.m3u8
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/ready-tv-canal-6.png",Ready Tv
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/chunklist_w301678104.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/megavision_canal_43_santiago.jpg",Megavision
-http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/megavision_canal_43_santiago.jpg",RDN
+https://vdo2.streamgato.us:3278/live/rdntvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QBofyoAz8yEfILiD7P4MctORBfXeLzauTsq_pTYDXGmJKenpC5w-HSuYeymKeXVa-2k",Mega Tv
-https://vdo1.streamgato.us:3711/live/megatvlive.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QBofyoAz8yEfILiD7P4MctORBfXeLzauTsq_pTYDXGmJKenpC5w-HSuYeymKeXVa-2k",Telemetro TV
+https://streamunoapp.com:3366/live/telemetrolive.m3u8
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/vegavision-canal-18.jpg",Vegavision
 https://rdn.essastream.com:3400/live/canal18hdlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/telebendicion.jpg",Telebendicion
-https://ss5.domint.net:3180/tbt_str/telebendicion/chunklist_w643301376.m3u8
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/telebendicion.jpg",Telealtura
+https://live20.bozztv.com/akamaissh101/ssh101/codificador7/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/tele-oriental-digital.jpg",Teleoriental
 https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8?DVR
