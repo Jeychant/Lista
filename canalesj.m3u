@@ -47,44 +47,44 @@ https://soportedvb.click:3400/live/montecristitvlive.m3u8
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/08/tvo-romana-en-vivo-online.jpg",Tvo Romana
 https://cdn.mycloudstream.io/hls/live/broadcast/aa5i1jfn/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/teleunion_canal_16_santiago.jpg",Canal Teleunion
-http://server3.prostudionetwork.com:1945/teleunion/TU/chunklist_w777712053.m3u8
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/teleunion_canal_16_santiago.jpg",Oepm TV
+https://vdo2.streamgato.us:3144/live/mund2tvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/telenord.jpg",Telenord
 https://rdn.essastream.com:3676/live/telenord10live.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Antena_21_2017.png/revision/latest?cb=20171109210821",Antena21
-http://51.81.106.147:5080/LiveApp/streams/antena21.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Antena_21_2017.png/revision/latest?cb=20171109210821",Pronems TV
+https://vdo1.streamgato.us:3418/live/pronemstvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/altanto-tv.jpg",Altanto TV
 https://streaming.altantotv.domiplay.net/hls/0/stream.m3u8
 
-#EXTINF:-1 tvg-id="ANIMESTATION.ar" tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg",Animestacion
-https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
+#EXTINF:-1 tvg-id="ANIMESTATION.ar" tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg",SiembraTV
+https://streamunoapp.com:3809/live/siembratvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telefuturo-canal-23-en-vivo-online.jpg",Telefuturo 23 
-https://ss9.domint.net:3054/tf_str/telefuturo/chunklist_w2121423103.m3u8
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telefuturo-canal-23-en-vivo-online.jpg",Telecibao
+https://vdo2.streamgato.us:3713/live/telecibaotvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/2014/10/teleimpacto52.png",Teleimpacto 
 https://vpss2003.streamprolive.com/hls/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/xtrata-tv.jpg",Xtra Tv
-https://cnn.essastream.com:3387/live/xtratvlive.m3u8
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/xtrata-tv.jpg",Xtremo TV
+https://ss2.tvrdomi.com:1936/xtremochannel/xtremochannel/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/canal-25-en-vivo-santiago-online.jpg",Canal 25 
-https://ss3.domint.net:3150/c25_str/canal25/chunklist_w962955768.m3u8
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/canal-25-en-vivo-santiago-online.jpg",Cotubanama 
+https://host.streamingnation.live/p/3588/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/mun2-tv.jpg",Mun2 Tv
-https://play.amelbasoluciones.co:19360/mun2tvlive/passthru.m3u8
+https://vdo2.streamgato.us:3144/live/mund2tvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/rnn-canal-27-en-vivo.jpg",Rnn Canal 27
-https://ss2.domint.net:3202/rnn_str/canal27/chunklist_w424115432.m3u8
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/rnn-canal-27-en-vivo.jpg",Rnn
+https://2-fss-2.streamhoster.com/pl_120/206532-5753030-1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/opcion-tv.jpg",Opcion TV
 https://5790d294af2dc.streamlock.net/8066/8066/chunklist_w612515886.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/teleuniverso-canal-29-online-en-vivo.jpg",TeleUniverso 29
-https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
+https://videoserver.tmcreativos.com:19360/kptjeckkaa/kptjeckkaa.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/ClaroTV_logo.png/revision/latest?cb=20210422202232&path-prefix=es",Claro tv Dominicana
 https://streamunoapp.com:3960/live/claroteledomlive.m3u8
