@@ -39,8 +39,7 @@ https://live2.eu-north-1b.cf.dmcdn.net/sec2(ib6IfBcLTrjfBlUO_GvQWY3qIqUB6NvWr288
 https://s.emisoras.tv:8081/dtv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telecentro-canal-13-en-vivo.png",Telecentro
-https:live4.telemicro.com.do/live/telecentrocast_1080p/chunks.m3u8
-
+https://live4.telemicro.com.do/live/telecentrocast_1080p/chunks.m3u8?nimblesessionid=4544707
 
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/digital-15-en-vivo-online.jpg",Digital Quince 15
 http://135.148.169.193:5080/LiveApp/streams/digital152.m3u8
