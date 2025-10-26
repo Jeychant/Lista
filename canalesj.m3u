@@ -5,35 +5,35 @@
 #EXTINF:-1 tvg-logo="https://allvectorlogo.com/img/2016/07/sitv-logo.png",CHINOLA TV
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/05/teleantillas-en-vivo-canal-2-online.jpg",Tele Antillas
-http://135.148.169.193:5080/LiveApp/streams/tantillas.m3u8
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/05/teleantillas-en-vivo-canal-2-online.jpg",Makaomux
+https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/tv_plata_canal_3.jpg",Tv Plata
-https://ss9.domint.net:3032/tvp_str/tvp2111/playlist.m3u8
+https://ss2.tvrdomi.com:1936/tvplata/tvplata/chunklist_w1605125008.m3u8
 
 #EXTINF:-1  tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/Canal-4-rd-en-vivo-y-directo.png",Canal 4
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png",Telemicro
-http://51.81.106.147:5080/LiveApp/streams/tmicro.m3u8 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Telemicro_1997.png",Canal sur
+https://streamtvs.tvcanalsur.com.do/hls/stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/rumba-985-en-vivo.jpg",Rumba
-https://ss5.domint.net:3038/rum_str/rumba985fm/chunklist_w2101210168.m3u8
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(2FkeKPGwW7wTFjHMu15MCS8EcZmM8jTP9zeBzvzWZdYjEdOvhVsmLryoXaBx1Jq4oVvyyz7qtk3JmbOOSlt16yz4WrpvOaEH5rUf1DuS0lBCy-pEvqh5qLFH5cg5WheG)/cloud/3/x9imshq/s/live-720.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/antena-canal-7-en-vivo-online.jpg",Antena Latina
-http://51.81.106.147:5080/LiveApp/streams/alatina.m3u8
+#EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/antena-canal-7-en-vivo-online.jpg",Hora TV
+https://cloud5.livescast.com:19360/lahoratv/lahoratv.m3u8
 
 #EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/telemax.png",Telemax
 https://vdo2.streamgato.us:3673/live/telemaxlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/color-vision-canal-9-en-vivo-online.png",Color Visión
-http://51.81.106.147:5080/LiveApp/streams/cvision.m3u8
+https://live.eu-north-1b.cf.dmcdn.net/sec2(pnzTPDbMcMiPHlA79zxVd_Dual-EeOJDKcRz3LwsPiJOZj7ybtycOuOMA-TiK3Af8uFUNCiqw-tuJfMy9EEGP_NFPNqhNCQh5hsdNIfxi2RydvpWLdvcCmeyjWdpCL4D)/dm/3/x7gy059/d/live-720.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.telesur.com.do/images/telesur_canal_10_logo2.png",Telesur 10
-https://ss3.domint.net:3124/tls_str/telesur/chunklist_w606450217.m3u8
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/audio/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvonline.com.do/wp-content/uploads/2021/06/telesistema-canal-11-en-vivo-online.png",Telesistema 11
-http://51.81.106.147:5080/LiveApp/streams/tsistemas.m3u8
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(ib6IfBcLTrjfBlUO_GvQWY3qIqUB6NvWr288vYoelsZcRDMxgKfIgAhn9ZzM6SiPHq8fTnIU69P2ybIacbvZEn-E_6U6hPLN0_teg3Tyad2v_7NYMGLUl7rxUErWv6nY)/cloud/3/x80ac48/d/live-720.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.parlamentario.com/wp-content/uploads/2024/01/logo-DTV.webp",Dtv
 https://s.emisoras.tv:8081/dtv/index.m3u8
