@@ -200,8 +200,8 @@ https://vdo2.streamgato.us:3154/live/bocachicatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/bonaotv.png?fit=500%2C300&ssl=1",Ecos 57
 https://2-fss-1.streamhoster.com/pl_122/206532-5753032-1/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://farras.live/wp-content/uploads/2023/10/IMG-20230923-WA0030-1024x793.jpg",Bonches Latinos TV
-https://5790d294af2dc.streamlock.net/latinostv/latinostv/chunklist_w833523678.m3u8
+#EXTINF:-1 tvg-logo="https://farras.live/wp-content/uploads/2023/10/IMG-20230923-WA0030-1024x793.jpg",Canela tv
+https://cnn.hostlagarto.com/canelatv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3248-640x360-FFFFFF.jpg",Boreal
 https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
@@ -248,8 +248,8 @@ https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
 #EXTINF:-1 tvg-id="AhoraTV.do" tvg-logo="https://i.imgur.com/dyJyuXc.png",Contanza TV
 https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/chunks.m3u8
 
-#EXTINF:-1 tvg-id="AhoraTV.do" tvg-logo="https://i.imgur.com/dyJyuXc.png",GALAXIA TV
-https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8
+#EXTINF:-1 tvg-id="AhoraTV.do" tvg-logo="https://i.imgur.com/dyJyuXc.png",Get TV
+https://cnn.livestreaminggroup.info:3050/live/gettvlive.m3u8
 
 #EXTINF:-1 tvg-id="AhoraTV.do" tvg-logo="https://i.imgur.com/dyJyuXc.png",HAINA VISION
 https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8
@@ -259,6 +259,29 @@ https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
 
 #EXTINF:-1 tvg-id="AhoraTV.do" tvg-logo="https://i.imgur.com/dyJyuXc.png",PULA TV
 https://vdo2.streamgato.us:3239/live/pulatvlive.m3u8
+
+#EXTINF:-1 tvg-id="AhoraTV.do" tvg-logo="https://i.imgur.com/dyJyuXc.png",Larivision
+https://live.larimartv.net/livelan/stream.m3u8
+
+#EXTINF:-1 tvg-id="AhoraTV.do" tvg-logo="https://i.imgur.com/dyJyuXc.png",Mi Turno
+https://video.udwn.net:19360/miturnotv/miturnotv.m3u8
+
+#EXTINF:-1 tvg-id="AhoraTV.do" tvg-logo="https://i.imgur.com/dyJyuXc.png",Nueva vision 
+https://live20.bozztv.com/akamaissh101/ssh101/nuevavisionhd/chunks.m3u8
+
+#EXTINF:-1 tvg-id="AhoraTV.do" tvg-logo="https://i.imgur.com/dyJyuXc.png",Orbit tv 
+https://vdo2.streamgato.us:3670/live/orbittvlive.m3u8
+
+#EXTINF:-1 tvg-id="AhoraTV.do" tvg-logo="https://i.imgur.com/dyJyuXc.png",Parmal tv
+https://streamunoapp.com:3255/live/palmartvlive.m3u8
+
+
+
+
+
+
+
+
 
 
 
