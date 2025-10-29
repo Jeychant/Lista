@@ -89,8 +89,8 @@ https://videoserver.tmcreativos.com:19360/kptjeckkaa/kptjeckkaa.m3u8
 #EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Claro tv Dominicana
 https://streamunoapp.com:3960/live/claroteledomlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Tv Hispanic 
-https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8
+#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Reina Tv 
+https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/chunklist_w730154686.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Agenda 56
 https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
@@ -286,32 +286,93 @@ https://streamunoapp.com:3255/live/palmartvlive.m3u8
 
 
 
-# EXTRAS
+# PUERTO RICO
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kqq7tD9.png",Tiva TvPR
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323292.png",Tiva TvPR
 https://fl496518-exthls-p1.flovp.com/fl496518/live/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5WNBFmp.png",Mas TvPR
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323292.png",Mas TvPR
 https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wE31GIP.jpg",EBN Television
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323292.png",EBN Television
 https://627bb251f23c7.streamlock.net:444/EBNTELEVISION/EBNTELEVISION/chunklist_w361027184.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TL6xy4y.png",Punto2
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323292.png",Punto2
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FqFxog1.png",Garage TV Latin America
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323292.png",Garage TV Latin America
 https://stream1.sersat.com/hls/garagetv.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/2ee8ed69266a33986437dd4fea6fc49cd2ebf61ac54c1a230ee6ce65eacba267.png",Prensa Latina
-https://eu1.servers10.com:8081/8192/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/2ee8ed69266a33986437dd4fea6fc49cd2ebf61ac54c1a230ee6ce65eacba267.png",Teleonce
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323292.png",Teleonce
 https://bk7l2zwglx53-hls-live.5centscdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/TeleOnce/EnVivo4/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/2ee8ed69266a33986437dd4fea6fc49cd2ebf61ac54c1a230ee6ce65eacba267.png",Boricuatv
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323292.png",Boricuatv
 https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/chunklist_b2998000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FqFxog1.png",Vision Television
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323292.png",America tv
+https://live.gideo.video/americateve2/HD1080/HD1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323292.png",Candelita TV
+https://6110f70ea8d0e.streamlock.net/1689/1689/chunklist_w290659550.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323292.png",NotiUno tv
+https://59a564764e2b6.streamlock.net/notiunotv/notiunotv/chunklist_w102268103.m3u8
+
+
+# CUBA
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197508.png",Prensa Latina
+https://eu1.servers10.com:8081/8192/tracks-v1a1/mono.m3u8
+
+
+# MEXICO
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1014/36/png-transparent-flag-of-mexico-flag-of-the-united-states-mexico-flag-logo-united-states-thumbnail.png",Vision Television
 https://cloudvideo.servers10.com:8081/8016/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1014/36/png-transparent-flag-of-mexico-flag-of-the-united-states-mexico-flag-logo-united-states-thumbnail.png",8NTV
+https://60417ddeaf0d9.streamlock.net/ntv/videontv/chunklist_w255779348.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1014/36/png-transparent-flag-of-mexico-flag-of-the-united-states-mexico-flag-logo-united-states-thumbnail.png",15TV
+https://cdn.fastocloud.com/leonel.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1014/36/png-transparent-flag-of-mexico-flag-of-the-united-states-mexico-flag-logo-united-states-thumbnail.png",AlcanceTV
+https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/chunklist_w1883492093.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1014/36/png-transparent-flag-of-mexico-flag-of-the-united-states-mexico-flag-logo-united-states-thumbnail.png",Azteca Internacional
+https://azt-mun.otteravision.com/azt/mun/mun_360p.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1014/36/png-transparent-flag-of-mexico-flag-of-the-united-states-mexico-flag-logo-united-states-thumbnail.png",Canal 14
+https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1014/36/png-transparent-flag-of-mexico-flag-of-the-united-states-mexico-flag-logo-united-states-thumbnail.png",ITV Deportes
+https://thm-it-roku.otteravision.com/thm/it/it_360p.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1014/36/png-transparent-flag-of-mexico-flag-of-the-united-states-mexico-flag-logo-united-states-thumbnail.png",Mexiquense TV
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/chunklist_w733860587.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1014/36/png-transparent-flag-of-mexico-flag-of-the-united-states-mexico-flag-logo-united-states-thumbnail.png",Super Channel 12
+https://servilive.com:3263/live/channel12live.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1014/36/png-transparent-flag-of-mexico-flag-of-the-united-states-mexico-flag-logo-united-states-thumbnail.png",Tele Yucatan
+https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
+
+
+# España
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",Tele Yucatan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
