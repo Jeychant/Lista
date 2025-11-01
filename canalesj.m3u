@@ -61,8 +61,8 @@ https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Canal sur
 https://streamtvs.tvcanalsur.com.do/hls/stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Alcarrizo TV
-https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/chunklist_w1546116716.m3u8
+#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Atabal TV
+https://vdopanel.jlahozconsulting.com:3648/live/atabaltvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Hora TV
 https://cloud5.livescast.com:19360/lahoratv/lahoratv.m3u8
@@ -139,8 +139,8 @@ https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/chunklist_w730154686
 #EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Agenda 56
 https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Delta TV 
-https://rdn.essastream.com:3949/live/deltatv50live.m3u8
+#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Pueblo Tv
+https://vdopanel.jlahozconsulting.com:3869/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Adoram TV
 https://live20.bozztv.com/giatv/giatv-adoram/adoram/chunks.m3u8
@@ -319,6 +319,8 @@ https://vdo2.streamgato.us:3670/live/orbittvlive.m3u8
 #EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Parmal tv
 https://streamunoapp.com:3255/live/palmartvlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Romana tv
+https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
 
 
 
@@ -489,6 +491,139 @@ https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",Rakuten Top
 https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
+
+
+#Argentina
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/051/966/115/non_2x/argentina-country-round-flag-free-png.png",Cable imagen
+https://stream.arcast.com.ar/casse/casse/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/051/966/115/non_2x/argentina-country-round-flag-free-png.png",La Pampa
+https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/chunklist_w1357904705_b1442248.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/051/966/115/non_2x/argentina-country-round-flag-free-png.png",Las heras
+https://stream.arcast.com.ar/canal3/canal3/chunklist_w1503745461.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/051/966/115/non_2x/argentina-country-round-flag-free-png.png",Canal 4
+https://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w290346363.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/051/966/115/non_2x/argentina-country-round-flag-free-png.png",Canal 5
+https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8?hls_ctx=60528260
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/051/966/115/non_2x/argentina-country-round-flag-free-png.png",Canal 6
+https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/051/966/115/non_2x/argentina-country-round-flag-free-png.png",Canal 7
+https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/051/966/115/non_2x/argentina-country-round-flag-free-png.png",Canal 9
+https://stream.arcast.live/ahora/ahora/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/051/966/115/non_2x/argentina-country-round-flag-free-png.png",Canal 10
+https://stream.arcast.net:4443/canal10/ngrp:canal10_all/chunklist_w718803988_b1769472.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/051/966/115/non_2x/argentina-country-round-flag-free-png.png",Canal 13
+https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/051/966/115/non_2x/argentina-country-round-flag-free-png.png",Canal 21
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/chunks.m3u8?nimblesessionid=61829981
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/051/966/115/non_2x/argentina-country-round-flag-free-png.png",Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/051/966/115/non_2x/argentina-country-round-flag-free-png.png",Canal 34
+https://streamyes.alsolnet.com/canal34hd/live/chunklist_w608447635.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/051/966/115/non_2x/argentina-country-round-flag-free-png.png",Canal 79
+https://streamconex.com:19360/puan/puan.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/051/966/115/non_2x/argentina-country-round-flag-free-png.png",Canal E
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream0/chunks.m3u8?nimblesessionid=7571363288
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/051/966/115/non_2x/argentina-country-round-flag-free-png.png",Orbe 21
+https://stream.arcast.net:4443/canal21/ngrp:canal21_all/chunklist_w1103363172_b2211840.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/051/966/115/non_2x/argentina-country-round-flag-free-png.png",Net tv
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8?nimblesessionid=7571376795
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/051/966/115/non_2x/argentina-country-round-flag-free-png.png",Telemax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/051/966/115/non_2x/argentina-country-round-flag-free-png.png",TN
+https://dai.google.com/linear/hls/pa/event/5OEEtA9FR-yrvhNE5K8PQQ/stream/c086055a-58d6-4916-a19c-484b8cb1995c:SCL2/variant/0252c34b3a9e5a76611cedcce23a64df/bandwidth/7070800.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/051/966/115/non_2x/argentina-country-round-flag-free-png.png",Unife tv
+https://5dcabf026b188.streamlock.net/StreamUnife/livestream/chunklist_w1164940007.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/051/966/115/non_2x/argentina-country-round-flag-free-png.png",Uniteve
+https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/051/966/115/non_2x/argentina-country-round-flag-free-png.png",Xtrema vision
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8?hls_ctx=88v51pf1
+
+
+
+#colombia
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/453/non_2x/circle-flag-of-colombia-free-png.png",Bum
+https://movil.ejeserver.com/live/visiondorada.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/453/non_2x/circle-flag-of-colombia-free-png.png",Canal 2
+https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8?hls_ctx=dy053480
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/453/non_2x/circle-flag-of-colombia-free-png.png",Canal 14
+https://eu1.servers10.com:8081/8056/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/453/non_2x/circle-flag-of-colombia-free-png.png",Canal 55
+https://canal.mediaserver.com.co/live/telemorisco.m3u8?hls_ctx=62ct2593
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/453/non_2x/circle-flag-of-colombia-free-png.png",Bum
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/453/non_2x/circle-flag-of-colombia-free-png.png",Bum
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/453/non_2x/circle-flag-of-colombia-free-png.png",Bum
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/453/non_2x/circle-flag-of-colombia-free-png.png",Bum
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/453/non_2x/circle-flag-of-colombia-free-png.png",Bum
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/453/non_2x/circle-flag-of-colombia-free-png.png",Bum
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/453/non_2x/circle-flag-of-colombia-free-png.png",Bum
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/453/non_2x/circle-flag-of-colombia-free-png.png",Bum
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/453/non_2x/circle-flag-of-colombia-free-png.png",Bum
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
