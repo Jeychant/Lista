@@ -24,27 +24,24 @@ http://190.122.104.210:5080/LiveApp/streams/cdnsport.m3u8
 #EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Color Vision
 http://190.122.104.210:5080/LiveApp/streams/cvision1.m3u8
 
-#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Telemicro
+#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Telesistema
 http://190.122.104.210:5080/LiveApp/streams/YpEgxoW1AywHuG6b366663247164879.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Telecentro
+http://190.122.104.210:5080/LiveApp/streams/tcentro.m3u8
 
+#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Digital15
+http://190.122.104.210:5080/LiveApp/streams/Di15.m3u8
 
+#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Antena 21
+http://190.122.104.210:5080/LiveApp/streams/antena21.m3u8
 
+#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Telefuturo
+http://190.122.104.210:5080/LiveApp/streams/tfuturo.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Coral 39
+http://190.122.104.210:5080/LiveApp/streams/coral391.m3u8
 
 
 
