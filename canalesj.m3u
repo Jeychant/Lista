@@ -577,15 +577,48 @@ https://eu1.servers10.com:8081/8056/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/453/non_2x/circle-flag-of-colombia-free-png.png",Canal 55
 https://canal.mediaserver.com.co/live/telemorisco.m3u8?hls_ctx=62ct2593
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/453/non_2x/circle-flag-of-colombia-free-png.png",Bum
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/453/non_2x/circle-flag-of-colombia-free-png.png",Bum
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/453/non_2x/circle-flag-of-colombia-free-png.png",Bum
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/453/non_2x/circle-flag-of-colombia-free-png.png",Bum
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/453/non_2x/circle-flag-of-colombia-free-png.png",Bum
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/453/non_2x/circle-flag-of-colombia-free-png.png",Bum
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/453/non_2x/circle-flag-of-colombia-free-png.png",Bum
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/453/non_2x/circle-flag-of-colombia-free-png.png",Bum
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/453/non_2x/circle-flag-of-colombia-free-png.png",Bum
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/453/non_2x/circle-flag-of-colombia-free-png.png",Canal mas
+https://movil.ejeserver.com/live/teledoradahd.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/453/non_2x/circle-flag-of-colombia-free-png.png",Telefamilia
+https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?hls_ctx=40lx0w9n
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/453/non_2x/circle-flag-of-colombia-free-png.png",CMB
+https://catv.cmbcolombia.tv/bethesda/bethesda/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/453/non_2x/circle-flag-of-colombia-free-png.png",Eduvision
+https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8?hls_ctx=8nh63103
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/453/non_2x/circle-flag-of-colombia-free-png.png",Telepacifico
+https://live-edge-par-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-telepacifico/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/453/non_2x/circle-flag-of-colombia-free-png.png",Tu Universo TV
+https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/chunklist_w869429103.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/453/non_2x/circle-flag-of-colombia-free-png.png",TV Peñol
+https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8?hls_ctx=8w7871u7
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/453/non_2x/circle-flag-of-colombia-free-png.png",TV San Jorge
+https://asucap.com/livestream/asucap_envivo.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/011/571/453/non_2x/circle-flag-of-colombia-free-png.png",Zoom
+https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
