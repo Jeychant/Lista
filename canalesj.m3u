@@ -18,35 +18,38 @@ https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Telemicro
 http://190.122.104.210:5080/LiveApp/streams/telemicrolocal5.m3u8
 
+#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",CDN Sportmax
+http://190.122.104.210:5080/LiveApp/streams/cdnsport.m3u8
+
 #EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Antena Latina
 http://190.122.104.210:5080/LiveApp/streams/alatina.m3u8
 
-#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",CDN Sportmax
-http://190.122.104.210:5080/LiveApp/streams/cdnsport.m3u8
+#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Telemax
+https://mlb.essastream.com:8081/telemax/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Color Vision
 http://190.122.104.210:5080/LiveApp/streams/cvision1.m3u8
 
+#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Telesur 10
+https://castv10.plugstreaming.com:19360/telesur/telesur.m3u8
+
 #EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Telesistema
 http://190.122.104.210:5080/LiveApp/streams/YpEgxoW1AywHuG6b366663247164879.m3u8
+
+#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Canal sur
+https://streamtvs.tvcanalsur.com.do/hls/stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Telecentro
 http://190.122.104.210:5080/LiveApp/streams/tcentro.m3u8
 
+#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Hora TV
+https://cloud5.livescast.com:19360/lahoratv/lahoratv.m3u8
+
 #EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Digital15
 http://190.122.104.210:5080/LiveApp/streams/Di15.m3u8
 
-#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Antena 21
-http://190.122.104.210:5080/LiveApp/streams/antena21.m3u8
-
-#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Telefuturo
-http://190.122.104.210:5080/LiveApp/streams/tfuturo.m3u8
-
-#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Coral 39
-http://190.122.104.210:5080/LiveApp/streams/coral391.m3u8
-
-#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",CHINOLA TV
-https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
+#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Alcarrizo tv
+https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/chunklist_w847469121.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Makaomux
 https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8
@@ -54,31 +57,23 @@ https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Tv Plata
 https://ss2.tvrdomi.com:1936/tvplata/tvplata/chunklist_w1605125008.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Canal sur
-https://streamtvs.tvcanalsur.com.do/hls/stream/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Alcarrizo tv
-https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/chunklist_w847469121.m3u8
-
-#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Hora TV
-https://cloud5.livescast.com:19360/lahoratv/lahoratv.m3u8
+#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",CHINOLA TV
+https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",CanaTV
 https://mlb.essastream.com:8081/bebetotelevision/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Telemax
-https://mlb.essastream.com:8081/telemax/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Rocatv
-https://streamunoapp.com:3331/live/rocavisiontvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Telesur 10
-https://castv10.plugstreaming.com:19360/telesur/telesur.m3u8
+#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Antena 21
+http://190.122.104.210:5080/LiveApp/streams/antena21.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Vegatv
 https://cloud6.livescast.com:3797/live/vegatevelive.m3u8
+
+#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Telefuturo
+http://190.122.104.210:5080/LiveApp/streams/tfuturo.m3u8
+
+#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Rocatv
+https://streamunoapp.com:3331/live/rocavisiontvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Dtv
 https://s.emisoras.tv:8081/dtv/index.m3u8
@@ -91,6 +86,9 @@ https://soportedvb.click:3400/live/montecristitvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Tvo Romana
 https://cdn.mycloudstream.io/hls/live/broadcast/aa5i1jfn/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",TeleUniverso 29
+https://videoserver.tmcreativos.com:19360/kptjeckkaa/kptjeckkaa.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Tigueritotv
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/chunklist_w1146824090.m3u8
@@ -119,6 +117,9 @@ https://ss2.tvrdomi.com:1936/xtremochannel/xtremochannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Cotubanama 
 https://host.streamingnation.live/p/3588/hybrid/play.m3u8
 
+#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Coral 39
+http://190.122.104.210:5080/LiveApp/streams/coral391.m3u8
+
 #EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Mun2 Tv
 https://vdo2.streamgato.us:3144/live/mund2tvlive.m3u8
 
@@ -127,9 +128,6 @@ https://2-fss-2.streamhoster.com/pl_120/206532-5753030-1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Opcion TV
 https://5790d294af2dc.streamlock.net/8066/8066/chunklist_w612515886.m3u8
-
-#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",TeleUniverso 29
-https://videoserver.tmcreativos.com:19360/kptjeckkaa/kptjeckkaa.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Claro tv Dominicana
 https://streamunoapp.com:3960/live/claroteledomlive.m3u8
