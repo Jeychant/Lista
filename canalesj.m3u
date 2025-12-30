@@ -74,7 +74,7 @@ https://vdo2.streamgato.us:3673/live/telemaxlive.m3u8
 https://streamunoapp.com:3331/live/rocavisiontvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Telesur 10
-https://mblesmain01.telesur.ultrabase.net/mbliveMain/audio/chunklist.m3u8
+https://castv10.plugstreaming.com:19360/telesur/telesur.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Vegatv
 https://cloud6.livescast.com:3797/live/vegatevelive.m3u8
