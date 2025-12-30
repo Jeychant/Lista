@@ -61,8 +61,8 @@ https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Canal sur
 https://streamtvs.tvcanalsur.com.do/hls/stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Atabal TV
-https://vdopanel.jlahozconsulting.com:3648/live/atabaltvlive.m3u8
+#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Alcarrizo tv
+https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/chunklist_w847469121.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Hora TV
 https://cloud5.livescast.com:19360/lahoratv/lahoratv.m3u8
