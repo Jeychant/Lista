@@ -43,7 +43,8 @@ https://streamtvs.tvcanalsur.com.do/hls/stream/index.m3u8
 http://190.122.104.210:5080/LiveApp/streams/tcentro.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Vtv32
-https://deportes.ksdjugfsddeports.com:9092/MTg1LjI3LjE0NS40Mg==/24_.m3u8?token=hpuTj4_RbKlPxKsVGkBNYg&expires=1773306279
+https://stream.castr.com/68ae41b8990a3c28956d9a41/live_c6405f401c6811f1bd7c1b498b2eeefd/tracks-a1/index.fmp4.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Digital15
 http://190.122.104.210:5080/LiveApp/streams/Di15.m3u8
