@@ -46,15 +46,7 @@ http://190.122.104.210:5080/LiveApp/streams/tcentro.m3u8
 https://dbt-gcore-video-cdn.b-cdn.net/mpegts/986244_4049034/master_mpegts.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Vt2323
-https://stream.castr.com/68ae41b8990a3c28956d9a41/live_c6405f401c6811f1bd7c1b498b2eeefd/tracks-a1/index.fmp4.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Digital15
-http://190.122.104.210:5080/LiveApp/streams/Di15.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",312313
 http://190.122.104.210:5080/LiveApp/streams/Di15.m3u8
 
 
