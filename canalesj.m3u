@@ -135,7 +135,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-208343/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Rnn
 http://190.122.104.210:5080/LiveApp/streams/rnn27.m3u8
 
-#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Edu+
+#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Romana tv
 http://190.122.104.210:5080/frombroadcaster/streams/9BFNpc9d5Kbo2nuV1813075885552670.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Ladescarga
@@ -144,8 +144,8 @@ https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8
 #EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Reina Tv 
 https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/chunklist_w730154686.m3u8
 
-#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Area 809
-https://vdo.voxhdnet.com:3159/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Teleunion
+http://190.122.104.210:5080/LiveApp/streams/f8ZpXEwiop8bUyZ11207976628157535.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Pueblo Tv
 https://vdopanel.jlahozconsulting.com:3869/hybrid/play.m3u8
