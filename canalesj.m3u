@@ -42,12 +42,11 @@ https://streamtvs.tvcanalsur.com.do/hls/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Telecentro
 http://190.122.104.210:5080/LiveApp/streams/tcentro.m3u8
 
-#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",AguilaTV
-https://fox.hostlagarto.com:8081/aguilatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Telemedios
+http://190.122.104.210:5080/LiveApp/streams/telemedios.m3u8
 
 #EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Digital15
 http://190.122.104.210:5080/LiveApp/streams/Di15.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",Alcarrizo tv
 https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/chunklist_w847469121.m3u8
