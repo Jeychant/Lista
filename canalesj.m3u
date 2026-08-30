@@ -467,84 +467,161 @@ https://5790d294af2dc.streamlock.net/zincnombretv/live/chunklist_w1101487558.m3u
 
 
 
-
-
-
-
-
-
-
-
-
 # PUERTO RICO
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323292.png",Tiva TvPR
-https://fl496518-exthls-p1.flovp.com/fl496518/live/live.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323292.png",AMERICA TEVE
+https://live.gideo.video/americateve2/SD360/SD360.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323292.png",Mas TvPR
-https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323292.png",BUENA TV
+https://59825a54e4454.streamlock.net:8443/papo351/papo351/chunklist_w2044906097.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323292.png",EBN Television
-https://627bb251f23c7.streamlock.net:444/EBNTELEVISION/EBNTELEVISION/chunklist_w361027184.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323292.png",CANDELITA TV
+https://6110f70ea8d0e.streamlock.net/1689/1689/chunklist_w741154860.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323292.png",Punto2
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323292.png",CDM INTERNACIONAL
+https://627bb251f23c7.streamlock.net:444/CDMInternacional/CDMInternacional/chunklist_w418391250.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323292.png",FAMILIA VISION HD
+https://584097344c1f0.streamlock.net/29/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323292.png",FARO DE SANTIDAD TV
+https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323292.png",NUEVA VIDA FM
+https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323292.png",PURA PALABRA
+https://59825a54e4454.streamlock.net:8443/william233/william233/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323292.png",RADIO ISLA TV
+https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323292.png",TELENORTE
+https://627bb251f23c7.streamlock.net:444/TopRadioTV/TopRadioTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323292.png",TELEONCE
+https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323292.png",THE RETRO CHANNEL
+https://583ed2f226ac2.streamlock.net/theretrochannel/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323292.png",WDWL 58.1
+https://67acccf130420.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323292.png",WECN
+https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323292.png",WELU 8,Q
+https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323292.png",WIPR TV
+https://streamwipr.pr/hls/stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323292.png",WKAQ TV
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323292.png",WKAQ TV 2
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323292.png",Garage TV Latin America
-https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323292.png",WRUA DT1 TIVA TV
+https://link.frontlayer.com/services/hls2/fl496518/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323292.png",Teleonce
-https://bk7l2zwglx53-hls-live.5centscdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/TeleOnce/EnVivo4/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323292.png",WWXY DT1 BORICUA TV
+https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323292.png",Boricuatv
-https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/chunklist_b2998000.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323292.png",WWXY DT3 MARANATHA RADIO
+https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323292.png",America tv
-https://live.gideo.video/americateve2/HD1080/HD1080.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323292.png",WXWZ-LD
+https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323292.png",Candelita TV
-https://6110f70ea8d0e.streamlock.net/1689/1689/chunklist_w290659550.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323292.png",NotiUno tv
-https://59a564764e2b6.streamlock.net/notiunotv/notiunotv/chunklist_w102268103.m3u8
-
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/323/323292.png",X LEVEL MEDIA
+https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
 
 # CUBA
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/197/197508.png",Prensa Latina
-https://eu1.servers10.com:8081/8192/tracks-v1a1/mono.m3u8
+https://eu1.servers10.com:8081/8192/index.m3u8
 
 
 # MEXICO
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1014/36/png-transparent-flag-of-mexico-flag-of-the-united-states-mexico-flag-logo-united-states-thumbnail.png",Vision Television
-https://cloudvideo.servers10.com:8081/8016/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1014/36/png-transparent-flag-of-mexico-flag-of-the-united-states-mexico-flag-logo-united-states-thumbnail.png",15TV
+https://servilive.com:3380/live/v3n6thy7glive.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1014/36/png-transparent-flag-of-mexico-flag-of-the-united-states-mexico-flag-logo-united-states-thumbnail.png",8NTV
-https://60417ddeaf0d9.streamlock.net/ntv/videontv/chunklist_w255779348.m3u8
+https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1014/36/png-transparent-flag-of-mexico-flag-of-the-united-states-mexico-flag-logo-united-states-thumbnail.png",15TV
-https://cdn.fastocloud.com/leonel.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1014/36/png-transparent-flag-of-mexico-flag-of-the-united-states-mexico-flag-logo-united-states-thumbnail.png",ACUSTIK TV
+https://s5.mexside.net:1936/clientetv/clientetv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1014/36/png-transparent-flag-of-mexico-flag-of-the-united-states-mexico-flag-logo-united-states-thumbnail.png",AlcanceTV
-https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/chunklist_w1883492093.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1014/36/png-transparent-flag-of-mexico-flag-of-the-united-states-mexico-flag-logo-united-states-thumbnail.png",ADN 40
+https://us-b4-p-e-ml19.cdn.mdstrm.com/live-stream-gdai/60b578b060947317de7b57ac/linear/hls/pa/event/ajJQI39aQd69Omr0hRZw9Q/stream/1eb3a506-898a-41e3-b7f7-908fdc7c1f89:DLS/master.m3u8?aid=5fea0f3673148d5d52cf6a76&adInsertionGoogleStreamId=1eb3a506-898a-41e3-b7f7-908fdc7c1f89%3ADLS&pid=XfSVYw7Zntj0oR4R0z7XRflL1g7LQxo6&sid=MXmh4LZN6s4TC1t0TWu6WVOPDLDNcmfA&uid=c3ywFuzyk2XQ9pYlXhl5i4Mhzf9g3Vn7&es=us-b4-p-e-ml19.cdn.mdstrm.com&ote=1788190546857&ot=tWvPHUo50fkt-I8WXCN56g&proto=https&pz=us&access_token=LsOU8BI61iKbxozkMKuZnUFO6vA1NqwhxitAtN9CsyU1NFd5gPQPlOMHjTAUI4eaybLiK3nW3vD
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1014/36/png-transparent-flag-of-mexico-flag-of-the-united-states-mexico-flag-logo-united-states-thumbnail.png",Azteca Internacional
-https://azt-mun.otteravision.com/azt/mun/mun_360p.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1014/36/png-transparent-flag-of-mexico-flag-of-the-united-states-mexico-flag-logo-united-states-thumbnail.png",ALCANCE TV
+https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1014/36/png-transparent-flag-of-mexico-flag-of-the-united-states-mexico-flag-logo-united-states-thumbnail.png",Canal 14
-https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1014/36/png-transparent-flag-of-mexico-flag-of-the-united-states-mexico-flag-logo-united-states-thumbnail.png",AMX NOTICIAS
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1014/36/png-transparent-flag-of-mexico-flag-of-the-united-states-mexico-flag-logo-united-states-thumbnail.png",ITV Deportes
-https://thm-it-roku.otteravision.com/thm/it/it_360p.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1014/36/png-transparent-flag-of-mexico-flag-of-the-united-states-mexico-flag-logo-united-states-thumbnail.png",ANTENA TV
+https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1014/36/png-transparent-flag-of-mexico-flag-of-the-united-states-mexico-flag-logo-united-states-thumbnail.png",Mexiquense TV
-https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/chunklist_w733860587.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1014/36/png-transparent-flag-of-mexico-flag-of-the-united-states-mexico-flag-logo-united-states-thumbnail.png",AZTECA INTERNACIONAL
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1014/36/png-transparent-flag-of-mexico-flag-of-the-united-states-mexico-flag-logo-united-states-thumbnail.png",Super Channel 12
-https://servilive.com:3263/live/channel12live.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1014/36/png-transparent-flag-of-mexico-flag-of-the-united-states-mexico-flag-logo-united-states-thumbnail.png",B15 FRESNILLO
+https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1014/36/png-transparent-flag-of-mexico-flag-of-the-united-states-mexico-flag-logo-united-states-thumbnail.png",B15 ZACATECAS
+https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1014/36/png-transparent-flag-of-mexico-flag-of-the-united-states-mexico-flag-logo-united-states-thumbnail.png",CANAL 10 DURANGO
+https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1014/36/png-transparent-flag-of-mexico-flag-of-the-united-states-mexico-flag-logo-united-states-thumbnail.png",CANAL 22 NACIONAL
+https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/chunklist_w1603975785_b3428000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1014/36/png-transparent-flag-of-mexico-flag-of-the-united-states-mexico-flag-logo-united-states-thumbnail.png",CANAL 26
+https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/chunklist_w1107527887_b1428000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1014/36/png-transparent-flag-of-mexico-flag-of-the-united-states-mexico-flag-logo-united-states-thumbnail.png",CANAL 33 TIJUANA
+https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/chunklist_w2086245123.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1014/36/png-transparent-flag-of-mexico-flag-of-the-united-states-mexico-flag-logo-united-states-thumbnail.png",CANAL 44
+https://5e50264bd6766.streamlock.net/canal442/videocanal442/chunklist_w1096459702.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1014/36/png-transparent-flag-of-mexico-flag-of-the-united-states-mexico-flag-logo-united-states-thumbnail.png",CANAL 5 TV COZUMEL
+https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1014/36/png-transparent-flag-of-mexico-flag-of-the-united-states-mexico-flag-logo-united-states-thumbnail.png",CANAL PARLAMENTO
+https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/chunklist_w592522380_b1428000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1014/36/png-transparent-flag-of-mexico-flag-of-the-united-states-mexico-flag-logo-united-states-thumbnail.png",Tele Yucatan
-https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
+https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1014/36/png-transparent-flag-of-mexico-flag-of-the-united-states-mexico-flag-logo-united-states-thumbnail.png",Tele Yucatan
+https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1014/36/png-transparent-flag-of-mexico-flag-of-the-united-states-mexico-flag-logo-united-states-thumbnail.png",Tele Yucatan
+https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1014/36/png-transparent-flag-of-mexico-flag-of-the-united-states-mexico-flag-logo-united-states-thumbnail.png",Tele Yucatan
+https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1014/36/png-transparent-flag-of-mexico-flag-of-the-united-states-mexico-flag-logo-united-states-thumbnail.png",Tele Yucatan
+https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1014/36/png-transparent-flag-of-mexico-flag-of-the-united-states-mexico-flag-logo-united-states-thumbnail.png",Tele Yucatan
+https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1014/36/png-transparent-flag-of-mexico-flag-of-the-united-states-mexico-flag-logo-united-states-thumbnail.png",Tele Yucatan
+https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1014/36/png-transparent-flag-of-mexico-flag-of-the-united-states-mexico-flag-logo-united-states-thumbnail.png",Tele Yucatan
+https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1014/36/png-transparent-flag-of-mexico-flag-of-the-united-states-mexico-flag-logo-united-states-thumbnail.png",Tele Yucatan
+https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8
 
 
 # España
