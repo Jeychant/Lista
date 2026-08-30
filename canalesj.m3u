@@ -774,62 +774,206 @@ https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
 
 # España
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",24 horas
-https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",28 KANALA
+https://streaming.28kanala.eus/hls/z.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",BCN Gospel
-https://live1.ovalcast.com:3641/live/bcngospeltvlive.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",3CAT CAMERES
+https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",Canal 4
-https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",3CATINFO
+https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",Canal 45
-https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/fragments/live-1500/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",ACTIVA TV
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",Canal coin
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",ALCARRIA TV
+https://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",ARABI TV
+https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",BBC DRAMA 
+https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",BEYBLADE 
+https://amg01796-amg01796c8-rakuten-es-5333.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladees-rakutenes/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",BON DIA TV
+https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",CADENA ELITE
+https://cloudvideo.servers10.com:8081/8004/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",CANAL 1
+https://directo.tuwebtv.es/canal1.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",CANAL 10
+https://ventdelnord.tv:8080/escala/directe.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",CANAL 3
+https://avantstreaming.es/hls/canal3.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",CANAL 33
+https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",CANAL 45
+https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",CANAL 7
+https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",CANAL COIN TV
 https://canalcoin.garjim.es/hls/directo.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",Extremadura TV
-https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/canalextremadura/live_med/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",CANAL DIOCESANO
+https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",Clan
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",DONANA
+https://secure5.todostreaming.es/live/division-alm.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",CANAL MALAGA
+https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",CANAL PARLAMENTO
+https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/bitrate_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",CANAL SAN ROQUE
+https://cdnlivevlc.codev8.net/aytosanroquelive/smil:channel1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",CANAL SIERRA DE CADIZ
+https://s.emisoras.tv:8081/sierradecadiz/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",CANAL SUR ANDALUCIA
+https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",CANAL SUR NOTICIAS
+https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",CANAL TARONJA 1
+https://ingest1-video.streaming-pro.com/canaltaronja/central/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",CANAL TORONJA 2
+https://ingest1-video.streaming-pro.com/canaltaronja/osona/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",CANAL TERRASSA
+https://ingest2-video.streaming-pro.com/canalterrassa/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",CINE FRIKI
+https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",CINE WESTERN
+https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",CIUDADES DEL OCIO
+https://cloudvideo.servers10.com:8081/8024/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",CLAN
+https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",CLAN INTERNACIONAL
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",Crimenes Reales
-https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/360p/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",COSTA NOROESTE TV
+https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",Distrito Tv
-https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/fragments/live-2000/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",CRIMENES REALES
+https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",33
-https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/bitrate_7.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",DIEZ TV LAS VILLAS
+https://streaming.cloud.innovasur.es/mmj2/37420548.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",Estutele
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",DISTRITO TV
+https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",EL TORO TV
+https://edge-nodo-001.streaming.hitcloser.net/eltorotv-streaming-web/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",EMPORDA TV
+https://video3.lhdserver.es/empordatv2/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",ESPORT
+https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",ESTEPONA TELEVISION
+https://cloudvideo.servers10.com:8081/8022/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",ESTUTELE
 https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",ETB basque
-https://multimedia.eitb.eus/live-content/eitbbasque-hls/bitrate_2.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/480/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",Hola Play
-https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/fd3cb6e3-cb31-4caa-adc1-4e73a532e42d/2.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",FRANCE 24
+https://a-cdn.klowdtv.com/live2/france24sp_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",Idea en 5 minutos
-https://soul-5mincraftspa-rakuten.amagi.tv/playlist_ea5a09d7_5d7d4fa8.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",FUERTEVENTURA TV
+https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",Logos tv
-https://streamer1.streamhost.org/salive/logosH/master.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",GOIENA EUS
+https://zuzenean.goienamedia.eus/goiena-telebista.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",Logos Kids
-https://streamer1.streamhost.org/salive/logoskidsH/chunklist_w1784822789.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",HAMAIKA TELEBISTA
+https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",Logos salud
-https://streamer1.streamhost.org/salive/logossaludH/chunklist_w1802366418.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",HISTORIA
+https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",Mytime
-https://appletree-mytimespain-rakuten.amagi.tv/360p/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",INTERALMERIA TV
+https://interalmeria.tv/directo/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",Onda 15
-https://cloudvideo.servers10.com:8081/8034/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",LA 8
+https://newscript.gestec-video.com/hls/8TVEVENTOS.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",LANCELOT TV
+https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",M95 TELEVISION
+https://limited2.todostreaming.es/live/m95-livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",MIJAS 3
+https://streaming004.gestec-video.com/hls/MIJAS.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",MOLAHITS TV
+https://ventdelnord.tv:8080/mola/directe.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",MR.BEAN 
+https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",MYTIME MOVIE
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",NATURE TIME
+https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",NEGOCIOS TV
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",ONDA 15 TV
+https://cloudvideo.servers10.com:8081/8034/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",ONDA ALGECIRAS
+https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",ONDA CADIZ
+https://ondacadiztv.es:30443/octv/24h/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",ONDA VALENCIA
+https://cloudvideo.servers10.com:8081/8116/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",POP WORLD TV
+https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",PUNT 3
+https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",RADIO CARNAVAL TV
+https://eu1.servers10.com:8081/8116/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",RADIO TELEVISION MARBELLA
+https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",REAL MADRID TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/fondo-bandera-espanola_23-2147814323.jpg",Rakuten 
 https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
