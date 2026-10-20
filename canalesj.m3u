@@ -381,6 +381,10 @@ https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8
 #EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",TELEMEDIOS CANAL 8
 https://hls.tvabierta.net/hls/008.m3u8
 
+#EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",TELENORD 12
+https://cdnfox.hostlagarto.com/telenord12/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://flagdownload.com/wp-content/uploads/Flag_of_Dominican_Republic_Flat_Round_Corner-2048x2048.png",TELEMETRO TV
 https://streamunoapp.com:3366/live/telemetrolive.m3u8
 
